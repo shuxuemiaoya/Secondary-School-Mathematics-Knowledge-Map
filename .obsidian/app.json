@@ -1,7 +1,12 @@
 {
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "deleteUnlinkedAttachments": "always"
+  "deleteUnlinkedAttachments": "always",
+  "attachmentFolderPath": "./images",
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "showInlineTitle": false
 }
