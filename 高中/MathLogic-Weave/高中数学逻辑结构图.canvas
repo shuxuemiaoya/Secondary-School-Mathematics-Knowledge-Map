@@ -2035,7 +2035,7 @@
 		{
 			"id": "75985cd27e69f714",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/不动点法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/不动点法.md",
 			"x": 818,
 			"y": 21451,
 			"width": 849,
@@ -2449,7 +2449,7 @@
 		{
 			"id": "61ff5866ff9916e2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/等比例子.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/等比例子.md",
 			"x": -233,
 			"y": 18836,
 			"width": 250,
@@ -2667,7 +2667,7 @@
 		{
 			"id": "4251aa64dca4bf1c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/等差例子.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/等差例子.md",
 			"x": -233,
 			"y": 18200,
 			"width": 250,
@@ -2821,7 +2821,7 @@
 		{
 			"id": "54d5993ed7ecb362",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/一些其他方法-等差数列.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/一些其他方法-等差数列.md",
 			"x": 1761,
 			"y": 17998,
 			"width": 250,
@@ -3439,7 +3439,7 @@
 		{
 			"id": "d587dca76d04ec63",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/相邻（不相邻）排列综合问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/相邻（不相邻）排列综合问题.md",
 			"x": -11723,
 			"y": 19272,
 			"width": 250,
@@ -3448,7 +3448,7 @@
 		{
 			"id": "df9c08a313a25c4e",
 			"type": "file",
-			"file": "高中数学知识点/空间点、直线、平面之间的位置关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/空间点、直线、平面之间的位置关系.md",
 			"x": -8345,
 			"y": 12669,
 			"width": 250,
@@ -3512,7 +3512,7 @@
 		{
 			"id": "8dd8f3fa22a2e2fe",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/赋值法解决系数和问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/赋值法解决系数和问题.md",
 			"x": -11873,
 			"y": 19942,
 			"width": 250,
@@ -3548,7 +3548,7 @@
 		{
 			"id": "d15f23aa0396a450",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/不相邻排列问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/不相邻排列问题.md",
 			"x": -12021,
 			"y": 19264,
 			"width": 250,
@@ -3557,7 +3557,7 @@
 		{
 			"id": "4017e0f404e937a9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列的综合应用.md",
 			"x": -12009,
 			"y": 19464,
 			"width": 250,
@@ -3566,7 +3566,7 @@
 		{
 			"id": "b00d141eb4684267",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/分组、分配问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/分组、分配问题.md",
 			"x": -12042,
 			"y": 19685,
 			"width": 250,
@@ -3575,7 +3575,7 @@
 		{
 			"id": "e314f501d32f9c15",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/元素（位置）有限制条件的排列问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/元素（位置）有限制条件的排列问题.md",
 			"x": -12609,
 			"y": 19300,
 			"width": 250,
@@ -3584,7 +3584,7 @@
 		{
 			"id": "e9b293e9263b92e0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/有关整除或求余问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/有关整除或求余问题.md",
 			"x": -12617,
 			"y": 20064,
 			"width": 250,
@@ -3593,7 +3593,7 @@
 		{
 			"id": "74b8713aed4195c8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列、组合的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列、组合的综合应用.md",
 			"x": -12598,
 			"y": 19685,
 			"width": 250,
@@ -3602,7 +3602,7 @@
 		{
 			"id": "d061175b3b3cefaa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/系数最大（小）项问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/系数最大（小）项问题.md",
 			"x": -12149,
 			"y": 19947,
 			"width": 250,
@@ -3657,7 +3657,7 @@
 		{
 			"id": "16e8c6afa1dbf47b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/相邻问题的排列问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/相邻问题的排列问题.md",
 			"x": -12308,
 			"y": 19274,
 			"width": 250,
@@ -3666,7 +3666,7 @@
 		{
 			"id": "c1986f786340bae9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/数字排列问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/数字排列问题.md",
 			"x": -12293,
 			"y": 19504,
 			"width": 250,
@@ -3675,7 +3675,7 @@
 		{
 			"id": "6a41838232353663",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/二项式系数最大项问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/二项式系数最大项问题.md",
 			"x": -12452,
 			"y": 19937,
 			"width": 250,
@@ -3684,7 +3684,7 @@
 		{
 			"id": "53db179a73f280fd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/与几何图形有关的组合问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/与几何图形有关的组合问题.md",
 			"x": -12315,
 			"y": 19699,
 			"width": 250,
@@ -3693,7 +3693,7 @@
 		{
 			"id": "a37df55290786481",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用二项式定理近似计算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用二项式定理近似计算.md",
 			"x": -12306,
 			"y": 20054,
 			"width": 250,
@@ -3794,7 +3794,7 @@
 		{
 			"id": "dea201c540df908d",
 			"type": "file",
-			"file": "初中数学知识点/中线定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/中线定理.md",
 			"x": 782,
 			"y": 12251,
 			"width": 250,
@@ -3882,7 +3882,7 @@
 		{
 			"id": "71293ee18a9f840c",
 			"type": "file",
-			"file": "高中数学知识点/直线的一般式方程.md",
+			"file": "高中/课堂同步/教辅/随堂练习习题/选修一/直线的一般式方程.md",
 			"x": -1963,
 			"y": 11395,
 			"width": 250,
@@ -3891,7 +3891,7 @@
 		{
 			"id": "856ac820b4205dd4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/Untitled 3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/Untitled 3.md",
 			"x": -7192,
 			"y": 11220,
 			"width": 400,
@@ -3963,7 +3963,7 @@
 		{
 			"id": "35004fa33086e08a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/空间中平面与平面的位置关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/空间中平面与平面的位置关系.md",
 			"x": -7192,
 			"y": 11040,
 			"width": 400,
@@ -3972,7 +3972,7 @@
 		{
 			"id": "cb21ad11a051f985",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/空间点、直线、平面之间的位置关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/空间点、直线、平面之间的位置关系.md",
 			"x": -7660,
 			"y": 10820,
 			"width": 329,
@@ -3981,7 +3981,7 @@
 		{
 			"id": "92e18aa370421403",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/全排列问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/全排列问题.md",
 			"x": -12979,
 			"y": 19325,
 			"width": 250,
@@ -3990,7 +3990,7 @@
 		{
 			"id": "a57de8a67846eee8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两种计数原理的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两种计数原理的综合应用.md",
 			"x": -13401,
 			"y": 18874,
 			"width": 250,
@@ -3999,7 +3999,7 @@
 		{
 			"id": "5244b1cae908a495",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两个计数原理的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两个计数原理的综合应用.md",
 			"x": -13401,
 			"y": 19087,
 			"width": 250,
@@ -4008,7 +4008,7 @@
 		{
 			"id": "843ab813b45aa2c3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列数的计算、化简与证明.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列数的计算、化简与证明.md",
 			"x": -13276,
 			"y": 19307,
 			"width": 250,
@@ -4017,7 +4017,7 @@
 		{
 			"id": "bd07109afc4b572a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/组合数方程与不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/组合数方程与不等式.md",
 			"x": -13481,
 			"y": 19631,
 			"width": 250,
@@ -4026,7 +4026,7 @@
 		{
 			"id": "5577aa111feb56fc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/组合数的性质及其应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/组合数的性质及其应用.md",
 			"x": -13211,
 			"y": 19635,
 			"width": 250,
@@ -4044,7 +4044,7 @@
 		{
 			"id": "dbeded7b7b04f7ec",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/空间中直线与平面的位置关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/空间中直线与平面的位置关系.md",
 			"x": -7192,
 			"y": 10850,
 			"width": 400,
@@ -4053,7 +4053,7 @@
 		{
 			"id": "af3eae909f8d97ed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用分类加法计数原理解题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用分类加法计数原理解题.md",
 			"x": -14148,
 			"y": 19003,
 			"width": 250,
@@ -4062,7 +4062,7 @@
 		{
 			"id": "e679fadb3c08a5f4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用分步乘法计数原理解题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用分步乘法计数原理解题.md",
 			"x": -13830,
 			"y": 19004,
 			"width": 250,
@@ -4071,7 +4071,7 @@
 		{
 			"id": "e19605d6c5a8d2df",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/组合数的计算、化简与证明.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/组合数的计算、化简与证明.md",
 			"x": -13785,
 			"y": 19640,
 			"width": 211,
@@ -4080,7 +4080,7 @@
 		{
 			"id": "cecafe58ccd862d7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/二项展开式的逆用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/二项展开式的逆用.md",
 			"x": -13629,
 			"y": 19951,
 			"width": 250,
@@ -4089,7 +4089,7 @@
 		{
 			"id": "4f089edd751b260d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/几个二项式的和或积的展开式中的特定项或特定系数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/几个二项式的和或积的展开式中的特定项或特定系数问题.md",
 			"x": -12757,
 			"y": 19937,
 			"width": 250,
@@ -4098,7 +4098,7 @@
 		{
 			"id": "c390601c5f19f025",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三项展开式中的特定项或特定系数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三项展开式中的特定项或特定系数问题.md",
 			"x": -13043,
 			"y": 19948,
 			"width": 250,
@@ -4107,7 +4107,7 @@
 		{
 			"id": "17c7d3a1d2a896c0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/有限制条件的组合问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/有限制条件的组合问题.md",
 			"x": -12917,
 			"y": 19647,
 			"width": 250,
@@ -4116,7 +4116,7 @@
 		{
 			"id": "d13795b0dbada3e6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/二项展开式中的特定项或特定系数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/二项展开式中的特定项或特定系数问题.md",
 			"x": -13355,
 			"y": 19948,
 			"width": 250,
@@ -4134,7 +4134,7 @@
 		{
 			"id": "581c6a9034f22c79",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列的定义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列的定义.md",
 			"x": -14193,
 			"y": 19330,
 			"width": 208,
@@ -4143,7 +4143,7 @@
 		{
 			"id": "67839dd834078e56",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/组合的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/组合的概念.md",
 			"x": -14193,
 			"y": 19623,
 			"width": 208,
@@ -4152,7 +4152,7 @@
 		{
 			"id": "69af7deb7e3ddf87",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求展开式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求展开式.md",
 			"x": -14193,
 			"y": 19891,
 			"width": 176,
@@ -4170,7 +4170,7 @@
 		{
 			"id": "ff26e7137bbb8e0f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列的列举问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列的列举问题.md",
 			"x": -13705,
 			"y": 19346,
 			"width": 261,
@@ -4188,7 +4188,7 @@
 		{
 			"id": "10ff96e266536a6e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/空间中直线与直线的位置关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/空间中直线与直线的位置关系.md",
 			"x": -7192,
 			"y": 10660,
 			"width": 396,
@@ -4251,7 +4251,7 @@
 		{
 			"id": "c50d0b1303143d54",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/基本事实3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/基本事实3.md",
 			"x": -7200,
 			"y": 10474,
 			"width": 250,
@@ -4269,7 +4269,7 @@
 		{
 			"id": "2a59bd01a48d53ca",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/祖暅原理与柱体、锥体的体积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/祖暅原理与柱体、锥体的体积.md",
 			"x": -5800,
 			"y": 9847,
 			"width": 456,
@@ -4323,7 +4323,7 @@
 		{
 			"id": "b944e0a181125445",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/基本事实2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/基本事实2.md",
 			"x": -7200,
 			"y": 10354,
 			"width": 250,
@@ -4332,7 +4332,7 @@
 		{
 			"id": "65dd3b846fc6cee0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/基本事实1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/基本事实1.md",
 			"x": -7200,
 			"y": 10196,
 			"width": 250,
@@ -4341,7 +4341,7 @@
 		{
 			"id": "b6318a38645ce821",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面.md",
 			"x": -7596,
 			"y": 10324,
 			"width": 250,
@@ -4377,7 +4377,7 @@
 		{
 			"id": "e0aa9c3a5a8439a5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.3.md",
 			"x": -5800,
 			"y": 9563,
 			"width": 281,
@@ -4395,7 +4395,7 @@
 		{
 			"id": "0915e372d46ad9c3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/球.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/球.md",
 			"x": -6930,
 			"y": 8981,
 			"width": 111,
@@ -4404,7 +4404,7 @@
 		{
 			"id": "969eea8d85f3e341",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱台.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱台.md",
 			"x": -7360,
 			"y": 9684,
 			"width": 111,
@@ -4413,7 +4413,7 @@
 		{
 			"id": "212fff9e8555e5bc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆台.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆台.md",
 			"x": -7070,
 			"y": 8981,
 			"width": 111,
@@ -4422,7 +4422,7 @@
 		{
 			"id": "5c80fb44c1480e9a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱台.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱台.md",
 			"x": -7070,
 			"y": 8821,
 			"width": 111,
@@ -4440,7 +4440,7 @@
 		{
 			"id": "567809ad047e92c6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.2.md",
 			"x": -5800,
 			"y": 9001,
 			"width": 280,
@@ -4449,7 +4449,7 @@
 		{
 			"id": "b9d7b98bd1bff2ac",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱柱、棱锥、棱台的体积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱柱、棱锥、棱台的体积.md",
 			"x": -6620,
 			"y": 8742,
 			"width": 250,
@@ -4467,7 +4467,7 @@
 		{
 			"id": "1abb69f33b4f2e6c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/立体几何习题8.1.md",
 			"x": -5800,
 			"y": 8721,
 			"width": 300,
@@ -4485,7 +4485,7 @@
 		{
 			"id": "f78db9af3920c999",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/趣味知识/画法几何与蒙日.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/趣味知识/画法几何与蒙日.md",
 			"x": -5800,
 			"y": 9287,
 			"width": 281,
@@ -4494,7 +4494,7 @@
 		{
 			"id": "bfdaff72b2977b84",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/球的表面积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/球的表面积.md",
 			"x": -6620,
 			"y": 9036,
 			"width": 250,
@@ -4503,7 +4503,7 @@
 		{
 			"id": "6c0831e1246cdb96",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/球的体积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/球的体积.md",
 			"x": -6620,
 			"y": 9149,
 			"width": 250,
@@ -4512,7 +4512,7 @@
 		{
 			"id": "8f781127490911f4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆柱、圆锥、圆台的表面积和体积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆柱、圆锥、圆台的表面积和体积.md",
 			"x": -6620,
 			"y": 8889,
 			"width": 298,
@@ -4521,7 +4521,7 @@
 		{
 			"id": "d56cbfe08c8fd509",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱柱、棱锥、棱台的表面积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱柱、棱锥、棱台的表面积.md",
 			"x": -6620,
 			"y": 8600,
 			"width": 250,
@@ -4530,7 +4530,7 @@
 		{
 			"id": "bd566ff1572e7e98",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱柱.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱柱.md",
 			"x": -7360,
 			"y": 9387,
 			"width": 111,
@@ -4539,7 +4539,7 @@
 		{
 			"id": "a7d8f3d994c4cea9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆柱.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆柱.md",
 			"x": -7210,
 			"y": 9387,
 			"width": 111,
@@ -4548,7 +4548,7 @@
 		{
 			"id": "ad41c315fe48a679",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱锥.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱锥.md",
 			"x": -7360,
 			"y": 9533,
 			"width": 111,
@@ -4557,7 +4557,7 @@
 		{
 			"id": "c4062bf4d99cfed0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆锥.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆锥.md",
 			"x": -7210,
 			"y": 9533,
 			"width": 111,
@@ -4566,7 +4566,7 @@
 		{
 			"id": "852f95ac46d67101",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆台.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆台.md",
 			"x": -7210,
 			"y": 9684,
 			"width": 111,
@@ -4584,7 +4584,7 @@
 		{
 			"id": "7b4176dd30d50261",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆柱.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆柱.md",
 			"x": -7360,
 			"y": 8981,
 			"width": 111,
@@ -4593,7 +4593,7 @@
 		{
 			"id": "9b05b00ed3d46ed9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/立体图形的直观图.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/立体图形的直观图.md",
 			"x": -7880,
 			"y": 10001,
 			"width": 300,
@@ -4602,7 +4602,7 @@
 		{
 			"id": "a5004b6a75b01f98",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/圆锥.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/圆锥.md",
 			"x": -7210,
 			"y": 8981,
 			"width": 111,
@@ -4611,7 +4611,7 @@
 		{
 			"id": "ecdd91b5f1785113",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱锥.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱锥.md",
 			"x": -7210,
 			"y": 8821,
 			"width": 111,
@@ -4620,7 +4620,7 @@
 		{
 			"id": "884b21e2bc29276b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/棱柱.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/棱柱.md",
 			"x": -7360,
 			"y": 8821,
 			"width": 111,
@@ -4692,7 +4692,7 @@
 		{
 			"id": "84aed1ef209c49d8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/斜二测画法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/斜二测画法.md",
 			"x": -7374,
 			"y": 10001,
 			"width": 200,
@@ -4701,7 +4701,7 @@
 		{
 			"id": "dce54e098af3e2e4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/简单组合体.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/简单组合体.md",
 			"x": -7374,
 			"y": 9861,
 			"width": 250,
@@ -4710,7 +4710,7 @@
 		{
 			"id": "f004dfdaff68f1a8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/基本立体图形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/基本立体图形.md",
 			"x": -7850,
 			"y": 9327,
 			"width": 240,
@@ -4719,7 +4719,7 @@
 		{
 			"id": "8475aed35780cab1",
 			"type": "file",
-			"file": "高中数学知识点/投影向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/投影向量.md",
 			"x": -1676,
 			"y": 10221,
 			"width": 250,
@@ -4955,7 +4955,7 @@
 		{
 			"id": "40db43b35d1a14a3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/命名，多个字.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/命名，多个字.md",
 			"x": -21179,
 			"y": 19803,
 			"width": 250,
@@ -4964,7 +4964,7 @@
 		{
 			"id": "ac08ac533c341d09",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/命名，1个字.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/命名，1个字.md",
 			"x": -21579,
 			"y": 19803,
 			"width": 250,
@@ -5279,7 +5279,7 @@
 		{
 			"id": "fbdf98b3f3ecbcc6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/样本点和样本空间.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/样本点和样本空间.md",
 			"x": -22128,
 			"y": 16960,
 			"width": 284,
@@ -5288,7 +5288,7 @@
 		{
 			"id": "557802edc18899bb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机事件.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机事件.md",
 			"x": -21689,
 			"y": 16960,
 			"width": 250,
@@ -5297,7 +5297,7 @@
 		{
 			"id": "2bf03e0ea03aa47f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机试验.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机试验.md",
 			"x": -22456,
 			"y": 16965,
 			"width": 168,
@@ -5315,7 +5315,7 @@
 		{
 			"id": "cd1cf2f42861e0cc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/事件的相互独立性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/事件的相互独立性.md",
 			"x": -20249,
 			"y": 16691,
 			"width": 213,
@@ -5324,7 +5324,7 @@
 		{
 			"id": "fcc927bbe3bd604c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/概率的计算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/概率的计算.md",
 			"x": -19684,
 			"y": 17066,
 			"width": 220,
@@ -5333,7 +5333,7 @@
 		{
 			"id": "862a3bc02dad3792",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题10.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题10.2.md",
 			"x": -18784,
 			"y": 17116,
 			"width": 250,
@@ -5342,7 +5342,7 @@
 		{
 			"id": "3e8464998e16c101",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题10.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题10.1.md",
 			"x": -18784,
 			"y": 17220,
 			"width": 250,
@@ -5351,7 +5351,7 @@
 		{
 			"id": "638774e2574ccc96",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题 10.3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题 10.3.md",
 			"x": -18784,
 			"y": 17304,
 			"width": 250,
@@ -5360,7 +5360,7 @@
 		{
 			"id": "60c81620e4b08ec6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/频率的稳定性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/频率的稳定性.md",
 			"x": -20702,
 			"y": 17271,
 			"width": 238,
@@ -5369,7 +5369,7 @@
 		{
 			"id": "74c7f4e631ccd659",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机模拟.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机模拟.md",
 			"x": -20249,
 			"y": 17271,
 			"width": 182,
@@ -5378,7 +5378,7 @@
 		{
 			"id": "02d4031226135b3f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/概率的基本性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/概率的基本性质.md",
 			"x": -20124,
 			"y": 17066,
 			"width": 280,
@@ -5387,7 +5387,7 @@
 		{
 			"id": "32b54bb452f2cfcb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/大数定律.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/大数定律.md",
 			"x": -20986,
 			"y": 17580,
 			"width": 165,
@@ -5396,7 +5396,7 @@
 		{
 			"id": "40529ad7a88ba4d0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/ABC两两独立 P(ABC)=P(A)P(B)P(C) 不成立.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/ABC两两独立 P(ABC)=P(A)P(B)P(C) 不成立.md",
 			"x": -19574,
 			"y": 16684,
 			"width": 481,
@@ -5405,7 +5405,7 @@
 		{
 			"id": "3319e6d214f0c2ac",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/回顾与思考10.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/回顾与思考10.md",
 			"x": -18796,
 			"y": 16684,
 			"width": 250,
@@ -5414,7 +5414,7 @@
 		{
 			"id": "9483198f7e41dae1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题10.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题10.md",
 			"x": -18796,
 			"y": 16820,
 			"width": 250,
@@ -5423,7 +5423,7 @@
 		{
 			"id": "eded085980521139",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/独立性的性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/独立性的性质.md",
 			"x": -19934,
 			"y": 16700,
 			"width": 250,
@@ -5432,7 +5432,7 @@
 		{
 			"id": "21b039210c664cd0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/古典概型.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/古典概型.md",
 			"x": -20702,
 			"y": 17066,
 			"width": 178,
@@ -5459,7 +5459,7 @@
 		{
 			"id": "8059d8fb52406327",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/多个事件的和事件以及积事件.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/多个事件的和事件以及积事件.md",
 			"x": -20701,
 			"y": 16821,
 			"width": 246,
@@ -5468,7 +5468,7 @@
 		{
 			"id": "b3df32e91ec670f3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/事件的概率.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/事件的概率.md",
 			"x": -21189,
 			"y": 17126,
 			"width": 203,
@@ -5522,7 +5522,7 @@
 		{
 			"id": "ac03e001b0f6c04b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/孟德尔遗传规律.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/孟德尔遗传规律.md",
 			"x": -18784,
 			"y": 16940,
 			"width": 280,
@@ -5531,7 +5531,7 @@
 		{
 			"id": "0b76f996179f26a6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/事件的关系和运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/事件的关系和运算.md",
 			"x": -21263,
 			"y": 16470,
 			"width": 305,
@@ -5540,7 +5540,7 @@
 		{
 			"id": "4c9f2eefa2b99a5c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/样本均值与总体均值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/样本均值与总体均值.md",
 			"x": -19866,
 			"y": 13277,
 			"width": 198,
@@ -5549,7 +5549,7 @@
 		{
 			"id": "934cfd2b58e4740d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样优缺点.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样优缺点.md",
 			"x": -19866,
 			"y": 13485,
 			"width": 198,
@@ -5567,7 +5567,7 @@
 		{
 			"id": "c83a95656011bb7d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样.md",
 			"x": -20316,
 			"y": 13138,
 			"width": 228,
@@ -5621,7 +5621,7 @@
 		{
 			"id": "7cfd9a30694a9b10",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题9.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题9.2.md",
 			"x": -20135,
 			"y": 14689,
 			"width": 250,
@@ -5630,7 +5630,7 @@
 		{
 			"id": "823b8f513047b8d1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/大数据.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/大数据.md",
 			"x": -20135,
 			"y": 14877,
 			"width": 250,
@@ -5639,7 +5639,7 @@
 		{
 			"id": "c9d8e44f73c76e2f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样.md",
 			"x": -20296,
 			"y": 13899,
 			"width": 250,
@@ -5648,7 +5648,7 @@
 		{
 			"id": "6b52eca802b4f5fd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/如何得到敏感性问题的诚实反应.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/如何得到敏感性问题的诚实反应.md",
 			"x": -20296,
 			"y": 14074,
 			"width": 286,
@@ -5657,7 +5657,7 @@
 		{
 			"id": "f491c1d47e56e40c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/统计案例 公司员工的肥胖情况调查分析.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/统计案例 公司员工的肥胖情况调查分析.md",
 			"x": -20135,
 			"y": 15065,
 			"width": 250,
@@ -5666,7 +5666,7 @@
 		{
 			"id": "f201299f02c4212f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/第九章回顾与思考.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/第九章回顾与思考.md",
 			"x": -20135,
 			"y": 15253,
 			"width": 299,
@@ -5675,7 +5675,7 @@
 		{
 			"id": "f1c6fb58a69e5e83",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题9.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题9.md",
 			"x": -20135,
 			"y": 15442,
 			"width": 250,
@@ -5684,7 +5684,7 @@
 		{
 			"id": "e3bc53a641fed6b3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/频率分布直方图.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/频率分布直方图.md",
 			"x": -21213,
 			"y": 14523,
 			"width": 305,
@@ -5693,7 +5693,7 @@
 		{
 			"id": "eee76602e7b4e7ad",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/用样本估计总体.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/用样本估计总体.md",
 			"x": -21692,
 			"y": 14380,
 			"width": 269,
@@ -5748,7 +5748,7 @@
 		{
 			"id": "facd79f81a917e6f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/获取数据的途径.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/获取数据的途径.md",
 			"x": -21521,
 			"y": 14111,
 			"width": 177,
@@ -5775,7 +5775,7 @@
 		{
 			"id": "3f8cb0a95ce620c0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/总体离散程度的估计.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/总体离散程度的估计.md",
 			"x": -21718,
 			"y": 15736,
 			"width": 325,
@@ -5802,7 +5802,7 @@
 		{
 			"id": "cbb47e876f4f2f0a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平均数和中位数在频率分布直方图的形态.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平均数和中位数在频率分布直方图的形态.md",
 			"x": -20750,
 			"y": 15221,
 			"width": 240,
@@ -5811,7 +5811,7 @@
 		{
 			"id": "782548421a42910d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/二战时德国坦克总量的估计问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/二战时德国坦克总量的估计问题.md",
 			"x": -20745,
 			"y": 15489,
 			"width": 230,
@@ -5829,7 +5829,7 @@
 		{
 			"id": "6f063a190287e870",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/方差（平均距离）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/方差（平均距离）.md",
 			"x": -21213,
 			"y": 15736,
 			"width": 272,
@@ -5838,7 +5838,7 @@
 		{
 			"id": "f2b9c16ba7d0e960",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题9.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题9.1.md",
 			"x": -18925,
 			"y": 13247,
 			"width": 179,
@@ -5847,7 +5847,7 @@
 		{
 			"id": "e59168d3a12b73d1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样样本总体平均数和样本平均数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样样本总体平均数和样本平均数.md",
 			"x": -19868,
 			"y": 13858,
 			"width": 317,
@@ -5856,7 +5856,7 @@
 		{
 			"id": "9dfea0243d15a3ad",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/样本的特殊处理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/样本的特殊处理.md",
 			"x": -19479,
 			"y": 13365,
 			"width": 188,
@@ -5874,7 +5874,7 @@
 		{
 			"id": "61058f0bfd7f4a9e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/总体百分位数的估计.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/总体百分位数的估计.md",
 			"x": -21721,
 			"y": 15124,
 			"width": 331,
@@ -5883,7 +5883,7 @@
 		{
 			"id": "d1332edd48343c73",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/总体集中趋势的估计.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/总体集中趋势的估计.md",
 			"x": -21718,
 			"y": 15380,
 			"width": 325,
@@ -5892,7 +5892,7 @@
 		{
 			"id": "4df728f17b16c58a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/第p百分位数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/第p百分位数.md",
 			"x": -21213,
 			"y": 15124,
 			"width": 224,
@@ -5919,7 +5919,7 @@
 		{
 			"id": "3b51fd8fbd8ab4e3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/统计软件的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/统计软件的应用.md",
 			"x": -18925,
 			"y": 13826,
 			"width": 269,
@@ -5928,7 +5928,7 @@
 		{
 			"id": "2eb43300d66f4e45",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样优缺点.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/分层随机抽样优缺点.md",
 			"x": -19388,
 			"y": 13876,
 			"width": 208,
@@ -5937,7 +5937,7 @@
 		{
 			"id": "bca6891c34b7e81b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/总体取值规律的估计.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/总体取值规律的估计.md",
 			"x": -21713,
 			"y": 14696,
 			"width": 314,
@@ -5946,7 +5946,7 @@
 		{
 			"id": "9bf3b12ce61c8e57",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/在频率分布直方图中估计平均数、中位数和众数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/在频率分布直方图中估计平均数、中位数和众数.md",
 			"x": -20780,
 			"y": 14677,
 			"width": 300,
@@ -5973,7 +5973,7 @@
 		{
 			"id": "5cbdb67b3eea96d5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/选择抽样调查的原因.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/选择抽样调查的原因.md",
 			"x": -21304,
 			"y": 13955,
 			"width": 210,
@@ -6009,7 +6009,7 @@
 		{
 			"id": "9b8effa12ee28f99",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/样本均值具有随机性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/样本均值具有随机性.md",
 			"x": -19334,
 			"y": 26780,
 			"width": 250,
@@ -6054,7 +6054,7 @@
 		{
 			"id": "7fc244525cec8020",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/样本平均数的随机性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/样本平均数的随机性.md",
 			"x": -19479,
 			"y": 13193,
 			"width": 208,
@@ -6063,7 +6063,7 @@
 		{
 			"id": "8d404064b038b6e0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样的方法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/简单随机抽样的方法.md",
 			"x": -19876,
 			"y": 12870,
 			"width": 311,
@@ -6072,7 +6072,7 @@
 		{
 			"id": "8fbd34dfad837399",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/二项分布的性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/二项分布的性质.md",
 			"x": -18565,
 			"y": 26750,
 			"width": 261,
@@ -6081,7 +6081,7 @@
 		{
 			"id": "302b8baf0630218b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/回顾与思考7.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/回顾与思考7.md",
 			"x": -18125,
 			"y": 27053,
 			"width": 250,
@@ -6090,7 +6090,7 @@
 		{
 			"id": "fed7c5c591dde8a2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机变量平移或伸缩后方差运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机变量平移或伸缩后方差运算.md",
 			"x": -19334,
 			"y": 27080,
 			"width": 250,
@@ -6099,7 +6099,7 @@
 		{
 			"id": "9c9d9ccc7cc6936f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题 7.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题 7.md",
 			"x": -18125,
 			"y": 27168,
 			"width": 250,
@@ -6108,7 +6108,7 @@
 		{
 			"id": "aebcbe32ebd358f2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题7.5.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题7.5.md",
 			"x": -18125,
 			"y": 26756,
 			"width": 250,
@@ -6117,7 +6117,7 @@
 		{
 			"id": "38edbe793bf0f499",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/趣味知识/GeoGebra概率分布图及概率计算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/趣味知识/GeoGebra概率分布图及概率计算.md",
 			"x": -18125,
 			"y": 26872,
 			"width": 250,
@@ -6126,7 +6126,7 @@
 		{
 			"id": "b8d01bba16fd28a7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/分布列.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/分布列.md",
 			"x": -19417,
 			"y": 26584,
 			"width": 250,
@@ -6135,7 +6135,7 @@
 		{
 			"id": "41e7668e1729dc44",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量的方差.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量的方差.md",
 			"x": -19880,
 			"y": 27064,
 			"width": 250,
@@ -6144,7 +6144,7 @@
 		{
 			"id": "c5925bf05b1af799",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量的均值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量的均值.md",
 			"x": -19880,
 			"y": 26860,
 			"width": 250,
@@ -6153,7 +6153,7 @@
 		{
 			"id": "e02781b470712ce4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/全概率公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/全概率公式.md",
 			"x": -19537,
 			"y": 26395,
 			"width": 203,
@@ -6162,7 +6162,7 @@
 		{
 			"id": "c602e608caaeb426",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/离散型随机变量.md",
 			"x": -19867,
 			"y": 26584,
 			"width": 276,
@@ -6171,7 +6171,7 @@
 		{
 			"id": "69ec15f4bb364af4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/条件概率.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/条件概率.md",
 			"x": -19901,
 			"y": 26395,
 			"width": 203,
@@ -6180,7 +6180,7 @@
 		{
 			"id": "e1929a33f024f189",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/两点分布.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/两点分布.md",
 			"x": -18954,
 			"y": 26584,
 			"width": 250,
@@ -6189,7 +6189,7 @@
 		{
 			"id": "a79853a94407345c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/二项分布.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/二项分布.md",
 			"x": -18954,
 			"y": 26750,
 			"width": 250,
@@ -6198,7 +6198,7 @@
 		{
 			"id": "b001305a8ba41a1d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/超几何分布.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/超几何分布.md",
 			"x": -18954,
 			"y": 27004,
 			"width": 250,
@@ -6207,7 +6207,7 @@
 		{
 			"id": "78f670c0dbb3a4fa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正态分布.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正态分布.md",
 			"x": -18954,
 			"y": 27131,
 			"width": 250,
@@ -6216,7 +6216,7 @@
 		{
 			"id": "5c08004eceda20c8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机变量平移或伸缩后均值运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机变量平移或伸缩后均值运算.md",
 			"x": -19334,
 			"y": 26920,
 			"width": 242,
@@ -6225,7 +6225,7 @@
 		{
 			"id": "a2e755446b5b87d4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/随机变量的数字特征.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/随机变量的数字特征.md",
 			"x": -19901,
 			"y": 26780,
 			"width": 344,
@@ -6243,7 +6243,7 @@
 		{
 			"id": "387776f6bf0ae915",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题7.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题7.2.md",
 			"x": -18125,
 			"y": 26408,
 			"width": 250,
@@ -6252,7 +6252,7 @@
 		{
 			"id": "6ad2ba87051c1126",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题7.3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题7.3.md",
 			"x": -18125,
 			"y": 26524,
 			"width": 250,
@@ -6261,7 +6261,7 @@
 		{
 			"id": "3646c80b37fbe349",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题7.4.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题7.4.md",
 			"x": -18125,
 			"y": 26640,
 			"width": 250,
@@ -6270,7 +6270,7 @@
 		{
 			"id": "77e9b48978ba6f77",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/贝叶斯公式与人工智能.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/贝叶斯公式与人工智能.md",
 			"x": -18997,
 			"y": 26326,
 			"width": 215,
@@ -6279,7 +6279,7 @@
 		{
 			"id": "2c9e7b3da5c353d6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题7.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题7.1.md",
 			"x": -18125,
 			"y": 26292,
 			"width": 250,
@@ -6315,7 +6315,7 @@
 		{
 			"id": "5e4a2faffbce93e6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/分布列及其性质的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/分布列及其性质的应用.md",
 			"x": -16621,
 			"y": 26951,
 			"width": 250,
@@ -6324,7 +6324,7 @@
 		{
 			"id": "7401770037b0f9dd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由随机变量分布列求概率.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由随机变量分布列求概率.md",
 			"x": -16362,
 			"y": 27126,
 			"width": 250,
@@ -6333,7 +6333,7 @@
 		{
 			"id": "8aac19e6934725c6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求离散型随机变量的分布列.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求离散型随机变量的分布列.md",
 			"x": -16283,
 			"y": 26957,
 			"width": 250,
@@ -6342,7 +6342,7 @@
 		{
 			"id": "716b32438a8c4222",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两个相关随机变量的分布列.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两个相关随机变量的分布列.md",
 			"x": -16010,
 			"y": 27178,
 			"width": 250,
@@ -6360,7 +6360,7 @@
 		{
 			"id": "74c4754a90ab0ac3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/乘法公式的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/乘法公式的应用.md",
 			"x": -17324,
 			"y": 26485,
 			"width": 250,
@@ -6405,7 +6405,7 @@
 		{
 			"id": "9fb1d11e5057fc1b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/题型03全概率公式和贝叶斯公式的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/题型03全概率公式和贝叶斯公式的综合应用.md",
 			"x": -17213,
 			"y": 26881,
 			"width": 250,
@@ -6414,7 +6414,7 @@
 		{
 			"id": "b5ec63fde96ca4e3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/条件概率的性质及应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/条件概率的性质及应用.md",
 			"x": -16972,
 			"y": 26495,
 			"width": 250,
@@ -6423,7 +6423,7 @@
 		{
 			"id": "8e2cff6f3cad3070",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/贝叶斯公式的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/贝叶斯公式的应用.md",
 			"x": -16876,
 			"y": 26739,
 			"width": 250,
@@ -6432,7 +6432,7 @@
 		{
 			"id": "4000eb8cac78ff0d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/全概率公式的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/全概率公式的应用.md",
 			"x": -16804,
 			"y": 26613,
 			"width": 250,
@@ -6486,7 +6486,7 @@
 		{
 			"id": "216a24a94a510ad4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/条件概率的求法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/条件概率的求法.md",
 			"x": -17276,
 			"y": 26271,
 			"width": 250,
@@ -6765,7 +6765,7 @@
 		{
 			"id": "c52a24449a18e7f6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/投信.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/投信.md",
 			"x": -21579,
 			"y": 20649,
 			"width": 180,
@@ -6792,7 +6792,7 @@
 		{
 			"id": "b0d7284f7832e86b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/串联电路.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/串联电路.md",
 			"x": -21179,
 			"y": 19969,
 			"width": 250,
@@ -6810,7 +6810,7 @@
 		{
 			"id": "2f6c93fcd552b8e1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/排列组合常见11种方法汇总.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/排列组合常见11种方法汇总.md",
 			"x": -16547,
 			"y": 20836,
 			"width": 242,
@@ -6837,7 +6837,7 @@
 		{
 			"id": "62795e11facf9958",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/并联电路.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/并联电路.md",
 			"x": -21564,
 			"y": 19969,
 			"width": 250,
@@ -6864,7 +6864,7 @@
 		{
 			"id": "ac90cafa819c5c85",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/全排列.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/全排列.md",
 			"x": -21179,
 			"y": 20190,
 			"width": 250,
@@ -6891,7 +6891,7 @@
 		{
 			"id": "27e063dda0397cc0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/i 的 $n$ 次方根.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/i 的 $n$ 次方根.md",
 			"x": -574,
 			"y": 7477,
 			"width": 250,
@@ -6900,7 +6900,7 @@
 		{
 			"id": "a851c456b7a98718",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数乘法的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数乘法的几何意义.md",
 			"x": -1146,
 			"y": 7312,
 			"width": 322,
@@ -6909,7 +6909,7 @@
 		{
 			"id": "7b57c4d062c10647",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数除法的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数除法的几何意义.md",
 			"x": -1146,
 			"y": 7425,
 			"width": 322,
@@ -6918,7 +6918,7 @@
 		{
 			"id": "54397d8bdaae45cf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数 复习参考题 7.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数 复习参考题 7.md",
 			"x": -574,
 			"y": 7282,
 			"width": 250,
@@ -6927,7 +6927,7 @@
 		{
 			"id": "47469ff7f66a37f2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/用平面向量表示复数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/用平面向量表示复数.md",
 			"x": -2146,
 			"y": 6928,
 			"width": 341,
@@ -6936,7 +6936,7 @@
 		{
 			"id": "4b5d3ae11b94eff3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的模.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的模.md",
 			"x": -1562,
 			"y": 6786,
 			"width": 165,
@@ -6945,7 +6945,7 @@
 		{
 			"id": "9dde8a7562e8a25f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/代数基本定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/代数基本定理.md",
 			"x": -574,
 			"y": 6703,
 			"width": 250,
@@ -6954,7 +6954,7 @@
 		{
 			"id": "aca2f6b14765bc87",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数加法的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数加法的几何意义.md",
 			"x": -1146,
 			"y": 6719,
 			"width": 315,
@@ -6963,7 +6963,7 @@
 		{
 			"id": "61cf058a635c07b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数习题7.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数习题7.2.md",
 			"x": -574,
 			"y": 6510,
 			"width": 250,
@@ -7179,7 +7179,7 @@
 		{
 			"id": "0b19cf0445375dd2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/导数的表达形式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/导数的表达形式.md",
 			"x": -10983,
 			"y": 1671,
 			"width": 250,
@@ -7262,7 +7262,7 @@
 		{
 			"id": "feba17eb18c467db",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/含参问题讨论单调性(导函数有效部分是二次型且不可因式分解).md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/含参问题讨论单调性(导函数有效部分是二次型且不可因式分解).md",
 			"x": -8223,
 			"y": 3593,
 			"width": 331,
@@ -7272,7 +7272,7 @@
 		{
 			"id": "ce81b0e95e6082d3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/讨论含参数的函数的最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/讨论含参数的函数的最值.md",
 			"x": -8131,
 			"y": 4450,
 			"width": 239,
@@ -7282,7 +7282,7 @@
 		{
 			"id": "9d7b2547b8a66658",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/根据函数的最值求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/根据函数的最值求参数.md",
 			"x": -7767,
 			"y": 4450,
 			"width": 215,
@@ -7292,7 +7292,7 @@
 		{
 			"id": "b4bd4f1cce90cba8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求函数的最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求函数的最值.md",
 			"x": -7916,
 			"y": 4206,
 			"width": 149,
@@ -7312,7 +7312,7 @@
 		{
 			"id": "9809055fc3e9e832",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/5拓展一：利用导数研究不等式恒成立问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/5拓展一：利用导数研究不等式恒成立问题.md",
 			"x": -7832,
 			"y": 3010,
 			"width": 280,
@@ -7322,7 +7322,7 @@
 		{
 			"id": "0207d0a0187b4368",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/5拓展二：利用导数研究不等式能成立（有解）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/5拓展二：利用导数研究不等式能成立（有解）问题.md",
 			"x": -7832,
 			"y": 3310,
 			"width": 300,
@@ -7332,7 +7332,7 @@
 		{
 			"id": "172fa1085a7ecaf4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/5拓展四：构造函数法解决不等式问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/5拓展四：构造函数法解决不等式问题.md",
 			"x": -8272,
 			"y": 2987,
 			"width": 250,
@@ -7342,7 +7342,7 @@
 		{
 			"id": "cc709e5a4f4f6549",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/构造函数比较大小.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/构造函数比较大小.md",
 			"x": -8272,
 			"y": 3310,
 			"width": 200,
@@ -7352,7 +7352,7 @@
 		{
 			"id": "b9cb6b7baddc89a2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度2：构造新函数解不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度2：构造新函数解不等式.md",
 			"x": -8692,
 			"y": 3203,
 			"width": 254,
@@ -7362,7 +7362,7 @@
 		{
 			"id": "829bb698e0807d58",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度1：直接利用函数单调奇偶性解不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度1：直接利用函数单调奇偶性解不等式.md",
 			"x": -8688,
 			"y": 2950,
 			"width": 296,
@@ -7372,7 +7372,7 @@
 		{
 			"id": "690904b4ba234703",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求切线斜率.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求切线斜率.md",
 			"x": -10280,
 			"y": 3270,
 			"width": 298,
@@ -7382,7 +7382,7 @@
 		{
 			"id": "47f5acbebb441e51",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/导数公式与运算法则的简单应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/导数公式与运算法则的简单应用.md",
 			"x": -10280,
 			"y": 2726,
 			"width": 236,
@@ -7392,7 +7392,7 @@
 		{
 			"id": "79f4a9196e347e31",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/讨论含参函数的单调性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/讨论含参函数的单调性.md",
 			"x": -8703,
 			"y": 3681,
 			"width": 211,
@@ -7402,7 +7402,7 @@
 		{
 			"id": "a9d139c395004847",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知单调性求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知单调性求参数.md",
 			"x": -8707,
 			"y": 3457,
 			"width": 195,
@@ -7412,7 +7412,7 @@
 		{
 			"id": "0ab00d4fafeb58ad",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/讨论含参数的函数的极值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/讨论含参数的函数的极值.md",
 			"x": -8880,
 			"y": 4450,
 			"width": 248,
@@ -7422,7 +7422,7 @@
 		{
 			"id": "020ba8583f28b2d6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/导函数与原函数的性质关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/导函数与原函数的性质关系.md",
 			"x": -8703,
 			"y": 3865,
 			"width": 231,
@@ -7432,7 +7432,7 @@
 		{
 			"id": "33bc5f859591b5d9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/根据函数的极值（点）求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/根据函数的极值（点）求参数.md",
 			"x": -8527,
 			"y": 4450,
 			"width": 275,
@@ -7442,7 +7442,7 @@
 		{
 			"id": "bb0a25c3ed6a30dd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求已知函数的极值（点）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求已知函数的极值（点）.md",
 			"x": -8703,
 			"y": 4206,
 			"width": 231,
@@ -7452,7 +7452,7 @@
 		{
 			"id": "09e39fb2736f44bd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/原函数与导函数图像的关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/原函数与导函数图像的关系.md",
 			"x": -9202,
 			"y": 3878,
 			"width": 261,
@@ -7462,7 +7462,7 @@
 		{
 			"id": "046c5f7751296d96",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用相切关系求最小距离.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用相切关系求最小距离.md",
 			"x": -9202,
 			"y": 3093,
 			"width": 255,
@@ -7472,7 +7472,7 @@
 		{
 			"id": "8a848993385305a8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求函数的单调区间.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求函数的单调区间.md",
 			"x": -9202,
 			"y": 3457,
 			"width": 261,
@@ -7482,7 +7482,7 @@
 		{
 			"id": "6ca2a2b35b22706c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/函数图象与极值（点）的关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/函数图象与极值（点）的关系.md",
 			"x": -9196,
 			"y": 4228,
 			"width": 255,
@@ -7492,7 +7492,7 @@
 		{
 			"id": "ddfc5f8762baed4e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：切线放缩问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：切线放缩问题.md",
 			"x": -9894,
 			"y": 3966,
 			"width": 208,
@@ -7502,7 +7502,7 @@
 		{
 			"id": "e7a7cabc565d5fb1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题： 利用导函数构造原函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题： 利用导函数构造原函数.md",
 			"x": -10222,
 			"y": 3966,
 			"width": 234,
@@ -7512,7 +7512,7 @@
 		{
 			"id": "fcff134a53b9e003",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：指对数化简求导技巧.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：指对数化简求导技巧.md",
 			"x": -9912,
 			"y": 4494,
 			"width": 250,
@@ -7522,7 +7522,7 @@
 		{
 			"id": "36d65fe151bdf2d4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：导数的同构问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：导数的同构问题.md",
 			"x": -9891,
 			"y": 4142,
 			"width": 208,
@@ -7532,7 +7532,7 @@
 		{
 			"id": "376360c43a91a685",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：极值点偏移问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：极值点偏移问题.md",
 			"x": -9894,
 			"y": 4310,
 			"width": 214,
@@ -7542,7 +7542,7 @@
 		{
 			"id": "f5774972b6732c9b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求切线方程.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求切线方程.md",
 			"x": -9768,
 			"y": 3270,
 			"width": 307,
@@ -7552,7 +7552,7 @@
 		{
 			"id": "d49548cacbd5a1fc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/解析式中含导数的导数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/解析式中含导数的导数问题.md",
 			"x": -9572,
 			"y": 2736,
 			"width": 274,
@@ -7562,7 +7562,7 @@
 		{
 			"id": "ecb5b11f64ec2ab1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用导数公式与运算法则求复合函数的导数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用导数公式与运算法则求复合函数的导数.md",
 			"x": -9972,
 			"y": 2704,
 			"width": 240,
@@ -7572,7 +7572,7 @@
 		{
 			"id": "ad44be12ee68379e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：导数中的隐零点问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：导数中的隐零点问题.md",
 			"x": -10230,
 			"y": 4234,
 			"width": 250,
@@ -7582,7 +7582,7 @@
 		{
 			"id": "6c0eb7a2830c15d8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：必要性探路与端点效应.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：必要性探路与端点效应.md",
 			"x": -10230,
 			"y": 4449,
 			"width": 250,
@@ -7592,7 +7592,7 @@
 		{
 			"id": "1a73b747a1bd0dcf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/根据切线方程求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/根据切线方程求参数.md",
 			"x": -10203,
 			"y": 3479,
 			"width": 250,
@@ -7602,7 +7602,7 @@
 		{
 			"id": "08087c4099272746",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/公切线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/公切线问题.md",
 			"x": -10203,
 			"y": 3657,
 			"width": 250,
@@ -7612,7 +7612,7 @@
 		{
 			"id": "20de6dfe89fa804e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/切线方程的存在性问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/切线方程的存在性问题.md",
 			"x": -9848,
 			"y": 3479,
 			"width": 250,
@@ -7622,7 +7622,7 @@
 		{
 			"id": "09f35f111a09f5df",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/切线的条数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/切线的条数问题.md",
 			"x": -9848,
 			"y": 3650,
 			"width": 250,
@@ -7632,7 +7632,7 @@
 		{
 			"id": "79771005fc01a222",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求物体运动的瞬时速度.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求物体运动的瞬时速度.md",
 			"x": -11120,
 			"y": 2790,
 			"width": 208,
@@ -7642,7 +7642,7 @@
 		{
 			"id": "ade5371abeacfc0c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求物体运动的平均速度.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求物体运动的平均速度.md",
 			"x": -11512,
 			"y": 2793,
 			"width": 212,
@@ -7652,7 +7652,7 @@
 		{
 			"id": "948455c5ee694e3b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/任意位置向量的坐标.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/任意位置向量的坐标.md",
 			"x": -1502,
 			"y": 5120,
 			"width": 353,
@@ -7688,7 +7688,7 @@
 		{
 			"id": "51e47092b3f11b21",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/曲线在某点处的切线斜率或倾斜角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/曲线在某点处的切线斜率或倾斜角.md",
 			"x": -11120,
 			"y": 3120,
 			"width": 208,
@@ -7698,7 +7698,7 @@
 		{
 			"id": "7ed61d103539144d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/5拓展三：利用导数研究函数的零点（方程的根）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/5拓展三：利用导数研究函数的零点（方程的根）.md",
 			"x": -10838,
 			"y": 4233,
 			"width": 296,
@@ -7708,7 +7708,7 @@
 		{
 			"id": "2bd051b936c1d991",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/导数定义的理解与应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/导数定义的理解与应用.md",
 			"x": -10752,
 			"y": 2990,
 			"width": 206,
@@ -7718,7 +7718,7 @@
 		{
 			"id": "cd9bca757da4539f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量加、减运算的坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量加、减运算的坐标表示.md",
 			"x": -1489,
 			"y": 4860,
 			"width": 469,
@@ -7736,7 +7736,7 @@
 		{
 			"id": "8bb2c61db4a63cdb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量的正交分解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量的正交分解.md",
 			"x": -2409,
 			"y": 4987,
 			"width": 250,
@@ -7745,7 +7745,7 @@
 		{
 			"id": "ef18180fa97fa071",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量数乘运算的坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量数乘运算的坐标表示.md",
 			"x": -1489,
 			"y": 4626,
 			"width": 398,
@@ -7819,7 +7819,7 @@
 		{
 			"id": "a06dbeeed4de3594",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量基本定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量基本定理.md",
 			"x": -2694,
 			"y": 4410,
 			"width": 297,
@@ -7828,7 +7828,7 @@
 		{
 			"id": "2bf148a716815ddc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三点共线.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三点共线.md",
 			"x": -2012,
 			"y": 4507,
 			"width": 192,
@@ -7847,7 +7847,7 @@
 		{
 			"id": "48617b937b060dfc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量数量积的坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量数量积的坐标表示.md",
 			"x": -1510,
 			"y": 5500,
 			"width": 417,
@@ -8012,7 +8012,7 @@
 		{
 			"id": "cd4227ef79b15875",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：极化恒等式与等和线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：极化恒等式与等和线问题.md",
 			"x": 6858,
 			"y": 5526,
 			"width": 210,
@@ -8021,7 +8021,7 @@
 		{
 			"id": "7b3f56d9db411b25",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知模求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知模求参数.md",
 			"x": 4128,
 			"y": 5410,
 			"width": 155,
@@ -8030,7 +8030,7 @@
 		{
 			"id": "4e4431e20d102ae4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知模求数量积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知模求数量积.md",
 			"x": 3913,
 			"y": 5414,
 			"width": 175,
@@ -8048,7 +8048,7 @@
 		{
 			"id": "ba7283adcf2b4fd1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由向量的坐标求模.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由向量的坐标求模.md",
 			"x": 4888,
 			"y": 5207,
 			"width": 200,
@@ -8057,7 +8057,7 @@
 		{
 			"id": "09de71d8dfed25e4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量模的最值(范围)问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量模的最值(范围)问题.md",
 			"x": 5228,
 			"y": 5216,
 			"width": 240,
@@ -8095,7 +8095,7 @@
 		{
 			"id": "bf6d7f4b2b074787",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/加减法几何意义的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/加减法几何意义的应用.md",
 			"x": 3222,
 			"y": 3441,
 			"width": 201,
@@ -8105,7 +8105,7 @@
 		{
 			"id": "0fc70dae5d6057d6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量求线段长度.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量求线段长度.md",
 			"x": 6969,
 			"y": 4854,
 			"width": 250,
@@ -8114,7 +8114,7 @@
 		{
 			"id": "13b1b2a754a4db8d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量垂直的坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量垂直的坐标表示.md",
 			"x": 5198,
 			"y": 5502,
 			"width": 210,
@@ -8123,7 +8123,7 @@
 		{
 			"id": "2bb635deeea8b241",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/运用平面向量基本定理解决证明问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/运用平面向量基本定理解决证明问题.md",
 			"x": 4941,
 			"y": 4145,
 			"width": 309,
@@ -8132,7 +8132,7 @@
 		{
 			"id": "3cb916ff54b2cb6d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量基本定理的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量基本定理的综合应用.md",
 			"x": 4941,
 			"y": 3879,
 			"width": 207,
@@ -8141,7 +8141,7 @@
 		{
 			"id": "3a434e5e660ef444",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量共线的判定.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量共线的判定.md",
 			"x": 5818,
 			"y": 4157,
 			"width": 210,
@@ -8150,7 +8150,7 @@
 		{
 			"id": "0a104b7e2053ec71",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量的坐标运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量的坐标运算.md",
 			"x": 5088,
 			"y": 4733,
 			"width": 210,
@@ -8159,7 +8159,7 @@
 		{
 			"id": "747cca8e0ae5eaee",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由坐标解决线段平行和长度问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由坐标解决线段平行和长度问题.md",
 			"x": 6273,
 			"y": 4152,
 			"width": 255,
@@ -8168,7 +8168,7 @@
 		{
 			"id": "1eafad75baa1baca",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由向量共线求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由向量共线求参数.md",
 			"x": 6458,
 			"y": 3948,
 			"width": 190,
@@ -8177,7 +8177,7 @@
 		{
 			"id": "5dc85a0370001da3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量解决平面几何中的平行（共线）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量解决平面几何中的平行（共线）问题.md",
 			"x": 6728,
 			"y": 4140,
 			"width": 270,
@@ -8186,7 +8186,7 @@
 		{
 			"id": "f49210d7043c0b45",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量共线的判定.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量共线的判定.md",
 			"x": 3417,
 			"y": 3604,
 			"width": 174,
@@ -8195,7 +8195,7 @@
 		{
 			"id": "c60d669d71e89e25",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/零向量与单位向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/零向量与单位向量.md",
 			"x": 3045,
 			"y": 3036,
 			"width": 174,
@@ -8204,7 +8204,7 @@
 		{
 			"id": "4d8fc6fbba5f3a1d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/相等向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/相等向量.md",
 			"x": 3045,
 			"y": 2940,
 			"width": 174,
@@ -8213,7 +8213,7 @@
 		{
 			"id": "6e396216c0f5e0d4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/共线向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/共线向量.md",
 			"x": 3048,
 			"y": 3160,
 			"width": 174,
@@ -8222,7 +8222,7 @@
 		{
 			"id": "62809e6e9811ecb8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知夹角求参数取值范围.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知夹角求参数取值范围.md",
 			"x": 3215,
 			"y": 5432,
 			"width": 250,
@@ -8231,7 +8231,7 @@
 		{
 			"id": "b2ec46b898c0371b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量共线定理求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量共线定理求参数.md",
 			"x": 4124,
 			"y": 3827,
 			"width": 224,
@@ -8240,7 +8240,7 @@
 		{
 			"id": "f90b5d93e4e92493",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三点共线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三点共线问题.md",
 			"x": 4121,
 			"y": 4045,
 			"width": 230,
@@ -8249,7 +8249,7 @@
 		{
 			"id": "b12aa71c92ea362c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/基底的概念及辨析.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/基底的概念及辨析.md",
 			"x": 3724,
 			"y": 3970,
 			"width": 184,
@@ -8258,7 +8258,7 @@
 		{
 			"id": "c139ede9080f5e8f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三定共线的推论.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三定共线的推论.md",
 			"x": 4523,
 			"y": 4045,
 			"width": 262,
@@ -8267,7 +8267,7 @@
 		{
 			"id": "82bd57abc935134b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的几何表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的几何表示.md",
 			"x": 2727,
 			"y": 3130,
 			"width": 170,
@@ -8276,7 +8276,7 @@
 		{
 			"id": "ceb5d87d2ec85524",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量加减法的运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量加减法的运算.md",
 			"x": 2849,
 			"y": 3446,
 			"width": 188,
@@ -8285,7 +8285,7 @@
 		{
 			"id": "d0bd944ff56cfb31",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/数乘向量的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/数乘向量的概念.md",
 			"x": 2818,
 			"y": 3622,
 			"width": 270,
@@ -8294,7 +8294,7 @@
 		{
 			"id": "9c8d223a182c5e40",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量的混合运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量的混合运算.md",
 			"x": 3068,
 			"y": 3829,
 			"width": 200,
@@ -8303,7 +8303,7 @@
 		{
 			"id": "ed12ac70f1f3a328",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量加减法运算的实际应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量加减法运算的实际应用.md",
 			"x": 2655,
 			"y": 3829,
 			"width": 233,
@@ -8312,7 +8312,7 @@
 		{
 			"id": "70bb8eafc5eabd12",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量垂直关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量垂直关系.md",
 			"x": 3215,
 			"y": 5100,
 			"width": 250,
@@ -8321,7 +8321,7 @@
 		{
 			"id": "9b55968fb72d89a9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/投影向量的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/投影向量的概念.md",
 			"x": 3256,
 			"y": 4898,
 			"width": 168,
@@ -8330,7 +8330,7 @@
 		{
 			"id": "a4bff8647d855a42",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知向量表示未知向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知向量表示未知向量.md",
 			"x": 2673,
 			"y": 4241,
 			"width": 195,
@@ -8340,7 +8340,7 @@
 		{
 			"id": "eb1f3304b7bb64b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的有关概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量的有关概念.md",
 			"x": 2328,
 			"y": 3021,
 			"width": 180,
@@ -8349,7 +8349,7 @@
 		{
 			"id": "1bb6d905c960b234",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积有关的定义及辨析.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积有关的定义及辨析.md",
 			"x": 2219,
 			"y": 4877,
 			"width": 216,
@@ -8358,7 +8358,7 @@
 		{
 			"id": "e38824f5e356ee63",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用平面向量数量积求最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用平面向量数量积求最值.md",
 			"x": 2776,
 			"y": 5439,
 			"width": 228,
@@ -8367,7 +8367,7 @@
 		{
 			"id": "b1055e9c457f5918",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用定义法求向量数量积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用定义法求向量数量积.md",
 			"x": 2226,
 			"y": 5182,
 			"width": 202,
@@ -8376,7 +8376,7 @@
 		{
 			"id": "12d23c88767a4b91",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量夹角问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量夹角问题.md",
 			"x": 2776,
 			"y": 5234,
 			"width": 250,
@@ -8385,7 +8385,7 @@
 		{
 			"id": "998a58083a5940a8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的模的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量的模的概念.md",
 			"x": 2727,
 			"y": 2890,
 			"width": 182,
@@ -8394,7 +8394,7 @@
 		{
 			"id": "9c44710cf0c36a34",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积的几何意义.md",
 			"x": 2776,
 			"y": 4893,
 			"width": 228,
@@ -8403,7 +8403,7 @@
 		{
 			"id": "480bec1b0849aab6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量加减法的几何表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量加减法的几何表示.md",
 			"x": 2296,
 			"y": 3447,
 			"width": 245,
@@ -8412,7 +8412,7 @@
 		{
 			"id": "8ebfa8de0d2d8de7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量加减法运算化简表达式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量加减法运算化简表达式.md",
 			"x": 2210,
 			"y": 3789,
 			"width": 278,
@@ -8421,7 +8421,7 @@
 		{
 			"id": "b3d792beac14bbd4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知向量表示未知向量（不带数乘）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知向量表示未知向量（不带数乘）.md",
 			"x": 2065,
 			"y": 4231,
 			"width": 370,
@@ -8430,7 +8430,7 @@
 		{
 			"id": "21677207280e2bf2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量投影（投影向量）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量投影（投影向量）.md",
 			"x": 6365,
 			"y": 6281,
 			"width": 250,
@@ -8439,7 +8439,7 @@
 		{
 			"id": "155526baffac1898",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量中的新文化，新定义题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量中的新文化，新定义题.md",
 			"x": 6746,
 			"y": 6279,
 			"width": 299,
@@ -8448,7 +8448,7 @@
 		{
 			"id": "4f470a7d69505a99",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量解决垂直问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量解决垂直问题.md",
 			"x": 5725,
 			"y": 5502,
 			"width": 203,
@@ -8457,7 +8457,7 @@
 		{
 			"id": "c152a73fbfdde21d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由向量坐标线性运算解决最值和范围问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由向量坐标线性运算解决最值和范围问题.md",
 			"x": 5798,
 			"y": 5019,
 			"width": 250,
@@ -8466,7 +8466,7 @@
 		{
 			"id": "9bbc605e1c6f1572",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量坐标运算解决几何问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量坐标运算解决几何问题.md",
 			"x": 6488,
 			"y": 5019,
 			"width": 220,
@@ -8475,7 +8475,7 @@
 		{
 			"id": "ab9a9be6f337627c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/线段的定比分点.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/线段的定比分点.md",
 			"x": 6208,
 			"y": 4430,
 			"width": 180,
@@ -8485,7 +8485,7 @@
 		{
 			"id": "0815f0d7c5408a1a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由坐标解决三点共线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由坐标解决三点共线问题.md",
 			"x": 5798,
 			"y": 4430,
 			"width": 230,
@@ -8494,7 +8494,7 @@
 		{
 			"id": "e81cc57c06719e65",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量的正交分解及坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量的正交分解及坐标表示.md",
 			"x": 4738,
 			"y": 4717,
 			"width": 210,
@@ -8503,7 +8503,7 @@
 		{
 			"id": "df6b59128ab25899",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的模的几何计算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量的模的几何计算.md",
 			"x": 3469,
 			"y": 3102,
 			"width": 195,
@@ -8512,7 +8512,7 @@
 		{
 			"id": "0b78cfdcddcb13de",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的三角不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量的三角不等式.md",
 			"x": 3778,
 			"y": 3131,
 			"width": 310,
@@ -8521,7 +8521,7 @@
 		{
 			"id": "21a25aa1891042de",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量共线证明线线平行.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量共线证明线线平行.md",
 			"x": 3849,
 			"y": 3421,
 			"width": 239,
@@ -8530,7 +8530,7 @@
 		{
 			"id": "db17fbd699b8e512",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知向量共线（平行）求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知向量共线（平行）求参数.md",
 			"x": 4248,
 			"y": 3411,
 			"width": 275,
@@ -8539,7 +8539,7 @@
 		{
 			"id": "c719886ec787b8fa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知数量积求模.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知数量积求模.md",
 			"x": 3688,
 			"y": 5410,
 			"width": 183,
@@ -8548,7 +8548,7 @@
 		{
 			"id": "d37613f306c76284",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用平面向量基本定理求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用平面向量基本定理求参数.md",
 			"x": 4228,
 			"y": 4240,
 			"width": 260,
@@ -8557,7 +8557,7 @@
 		{
 			"id": "f85a94fc7462d214",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用基底表示向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用基底表示向量.md",
 			"x": 3724,
 			"y": 4241,
 			"width": 184,
@@ -8566,7 +8566,7 @@
 		{
 			"id": "07af6670684f428f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由向量线性运算结果求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由向量线性运算结果求参数.md",
 			"x": 5798,
 			"y": 4720,
 			"width": 230,
@@ -8575,7 +8575,7 @@
 		{
 			"id": "da213c72f3a4112d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正弦定理之忽视三角形中大边对大角而致错.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正弦定理之忽视三角形中大边对大角而致错.md",
 			"x": 8434,
 			"y": 4475,
 			"width": 265,
@@ -8584,7 +8584,7 @@
 		{
 			"id": "066d961c8c3f8deb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两边及一边的对角解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两边及一边的对角解三角形.md",
 			"x": 8268,
 			"y": 4222,
 			"width": 287,
@@ -8593,7 +8593,7 @@
 		{
 			"id": "efa0a339e5ef517a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两角及一边解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两角及一边解三角形.md",
 			"x": 8268,
 			"y": 4071,
 			"width": 250,
@@ -8620,7 +8620,7 @@
 		{
 			"id": "c20fb582947ae636",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求角平分线长（定值）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求角平分线长（定值）问题.md",
 			"x": 8285,
 			"y": 5111,
 			"width": 408,
@@ -8629,7 +8629,7 @@
 		{
 			"id": "a183e007435740b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两边及一角解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两边及一角解三角形.md",
 			"x": 8268,
 			"y": 3928,
 			"width": 250,
@@ -8638,7 +8638,7 @@
 		{
 			"id": "cc6b88694ea8f3bd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/大角对大边.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/大角对大边.md",
 			"x": 7980,
 			"y": 4046,
 			"width": 212,
@@ -8648,7 +8648,7 @@
 		{
 			"id": "b1588df361a22f96",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正弦定理的理解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正弦定理的理解.md",
 			"x": 7833,
 			"y": 4162,
 			"width": 253,
@@ -8657,7 +8657,7 @@
 		{
 			"id": "826b1140789943e4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正弦定理的应用之边角互化.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正弦定理的应用之边角互化.md",
 			"x": 7836,
 			"y": 4381,
 			"width": 250,
@@ -8666,7 +8666,7 @@
 		{
 			"id": "81a363a4c0f52a56",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/射影定理问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/射影定理问题.md",
 			"x": 8289,
 			"y": 5650,
 			"width": 250,
@@ -8675,7 +8675,7 @@
 		{
 			"id": "b22e5df32e01318f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角形中线长（定值）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角形中线长（定值）.md",
 			"x": 8285,
 			"y": 4852,
 			"width": 346,
@@ -8684,7 +8684,7 @@
 		{
 			"id": "86f41c3c2b8f28a3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知中线长，求其它元素.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知中线长，求其它元素.md",
 			"x": 8287,
 			"y": 4909,
 			"width": 381,
@@ -8693,7 +8693,7 @@
 		{
 			"id": "ee55a3987132dbbf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求角或三角函数值的范围.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求角或三角函数值的范围.md",
 			"x": 8811,
 			"y": 4341,
 			"width": 250,
@@ -8702,7 +8702,7 @@
 		{
 			"id": "cd44d586c7ad4b67",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求线段长问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求线段长问题.md",
 			"x": 8811,
 			"y": 4237,
 			"width": 250,
@@ -8711,7 +8711,7 @@
 		{
 			"id": "67e1b657b8de8fea",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/余弦定理解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/余弦定理解三角形.md",
 			"x": 8268,
 			"y": 3566,
 			"width": 193,
@@ -8720,7 +8720,7 @@
 		{
 			"id": "c5f60e1f55f269b4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量数量积的最值（范围）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量数量积的最值（范围）问题.md",
 			"x": 5706,
 			"y": 5811,
 			"width": 222,
@@ -8729,7 +8729,7 @@
 		{
 			"id": "42d13dc3cf2cf0e1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：求向量的取值范围方法总结.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：求向量的取值范围方法总结.md",
 			"x": 6202,
 			"y": 5688,
 			"width": 237,
@@ -8739,7 +8739,7 @@
 		{
 			"id": "82a6ef87564d6378",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积（最值，范围）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积（最值，范围）问题.md",
 			"x": 6798,
 			"y": 5993,
 			"width": 341,
@@ -8748,7 +8748,7 @@
 		{
 			"id": "a51028615adcebc4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/投影的坐标运算与表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/投影的坐标运算与表示.md",
 			"x": 4738,
 			"y": 6166,
 			"width": 250,
@@ -8757,7 +8757,7 @@
 		{
 			"id": "9320c62ebd8477db",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量数量积的坐标表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量数量积的坐标表示.md",
 			"x": 4738,
 			"y": 5818,
 			"width": 250,
@@ -8766,7 +8766,7 @@
 		{
 			"id": "6b95bbfcb772e3ed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量的夹角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量的夹角.md",
 			"x": 5248,
 			"y": 6203,
 			"width": 200,
@@ -8775,7 +8775,7 @@
 		{
 			"id": "3416c49fd61bcfe8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用向量的数量积求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用向量的数量积求参数.md",
 			"x": 5223,
 			"y": 5833,
 			"width": 225,
@@ -8784,7 +8784,7 @@
 		{
 			"id": "bb89abc16ecc2fc4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知三边解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知三边解三角形.md",
 			"x": 8268,
 			"y": 3818,
 			"width": 286,
@@ -8793,7 +8793,7 @@
 		{
 			"id": "9d5a603daf8af83f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/余弦定理的理解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/余弦定理的理解.md",
 			"x": 7833,
 			"y": 3868,
 			"width": 253,
@@ -8802,7 +8802,7 @@
 		{
 			"id": "8c2331d10c1383e8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：三角形中的角分线中线高线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：三角形中的角分线中线高线问题.md",
 			"x": 7803,
 			"y": 4781,
 			"width": 317,
@@ -8811,7 +8811,7 @@
 		{
 			"id": "32b140f6ca7171fa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量夹角最值（范围问题）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量夹角最值（范围问题）.md",
 			"x": 5702,
 			"y": 6187,
 			"width": 250,
@@ -8820,7 +8820,7 @@
 		{
 			"id": "c837270c21547876",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量共线定理及其推论.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量共线定理及其推论.md",
 			"x": 6365,
 			"y": 6001,
 			"width": 250,
@@ -8829,7 +8829,7 @@
 		{
 			"id": "436dfef53017b89e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量的模（最值，范围）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量的模（最值，范围）问题.md",
 			"x": 6365,
 			"y": 6137,
 			"width": 309,
@@ -8838,7 +8838,7 @@
 		{
 			"id": "976dbe34e4c4a6cf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量夹角（最值，范围）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量夹角（最值，范围）问题.md",
 			"x": 6794,
 			"y": 6137,
 			"width": 316,
@@ -8847,7 +8847,7 @@
 		{
 			"id": "147ad8d3c19ab001",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/等和线.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/等和线.md",
 			"x": 7828,
 			"y": 5792,
 			"width": 250,
@@ -8856,7 +8856,7 @@
 		{
 			"id": "7097cde163ff2f30",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/极化恒等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/极化恒等式.md",
 			"x": 7828,
 			"y": 5652,
 			"width": 250,
@@ -8865,7 +8865,7 @@
 		{
 			"id": "e98de5af46da84fc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/中线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/中线问题.md",
 			"x": 7828,
 			"y": 4943,
 			"width": 250,
@@ -8874,7 +8874,7 @@
 		{
 			"id": "79a2634d0fc46c05",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角平分线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角平分线问题.md",
 			"x": 7828,
 			"y": 5193,
 			"width": 250,
@@ -8883,7 +8883,7 @@
 		{
 			"id": "d932f0a8db2f2136",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/高线问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/高线问题.md",
 			"x": 7828,
 			"y": 5443,
 			"width": 250,
@@ -8892,7 +8892,7 @@
 		{
 			"id": "98d1bc931632e4bb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求角平分线长（最值，范围）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求角平分线长（最值，范围）问题.md",
 			"x": 8285,
 			"y": 5374,
 			"width": 508,
@@ -8901,7 +8901,7 @@
 		{
 			"id": "e1130b61e0d87272",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/奔驰定理的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/奔驰定理的应用.md",
 			"x": 9008,
 			"y": 5652,
 			"width": 250,
@@ -8910,7 +8910,7 @@
 		{
 			"id": "69fc6853d4c1be78",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角形中中线长（最值，范围）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角形中中线长（最值，范围）.md",
 			"x": 8285,
 			"y": 5003,
 			"width": 463,
@@ -8919,7 +8919,7 @@
 		{
 			"id": "350f9ba7459da46e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角形解的个数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角形解的个数问题.md",
 			"x": 8811,
 			"y": 3656,
 			"width": 250,
@@ -8928,7 +8928,7 @@
 		{
 			"id": "d1a153bab51ab2d2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知角平分线，求其它元素.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知角平分线，求其它元素.md",
 			"x": 8285,
 			"y": 5251,
 			"width": 408,
@@ -8937,7 +8937,7 @@
 		{
 			"id": "2359ad6e98110309",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/重心问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/重心问题.md",
 			"x": 9008,
 			"y": 5434,
 			"width": 250,
@@ -8946,7 +8946,7 @@
 		{
 			"id": "c8105d45fa9c5491",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/外心问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/外心问题.md",
 			"x": 9008,
 			"y": 5136,
 			"width": 250,
@@ -8955,7 +8955,7 @@
 		{
 			"id": "b6608e4f08139d5c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/垂心问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/垂心问题.md",
 			"x": 9008,
 			"y": 5285,
 			"width": 250,
@@ -8964,7 +8964,7 @@
 		{
 			"id": "b5bbfba22c4c5b8d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/内心问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/内心问题.md",
 			"x": 9008,
 			"y": 4987,
 			"width": 250,
@@ -8973,7 +8973,7 @@
 		{
 			"id": "657fc609315ede28",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：奔驰定理与三角形的面积问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：奔驰定理与三角形的面积问题.md",
 			"x": 9008,
 			"y": 5758,
 			"width": 341,
@@ -8982,7 +8982,7 @@
 		{
 			"id": "be1f0ab85c8e0b71",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/向量在物理中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/向量在物理中的应用.md",
 			"x": 9682,
 			"y": 4111,
 			"width": 250,
@@ -8991,7 +8991,7 @@
 		{
 			"id": "7ff46d5bc1e0bcc8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/测量距离问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/测量距离问题.md",
 			"x": 9682,
 			"y": 3858,
 			"width": 250,
@@ -9000,7 +9000,7 @@
 		{
 			"id": "d1dfb120aecec2dd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角形的实际应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角形的实际应用.md",
 			"x": 9682,
 			"y": 3758,
 			"width": 308,
@@ -9009,7 +9009,7 @@
 		{
 			"id": "a645e0022fd2ecda",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求线段的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求线段的范围与最值.md",
 			"x": 9218,
 			"y": 4287,
 			"width": 340,
@@ -9018,7 +9018,7 @@
 		{
 			"id": "478eb597c1e11359",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求线段的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求线段的范围与最值.md",
 			"x": 9218,
 			"y": 4187,
 			"width": 250,
@@ -9027,7 +9027,7 @@
 		{
 			"id": "4d0954589abf7169",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/判断三角形四心的位置.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/判断三角形四心的位置.md",
 			"x": 9465,
 			"y": 5080,
 			"width": 250,
@@ -9036,7 +9036,7 @@
 		{
 			"id": "5d29cabcac3ae4c8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求周长的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求周长的范围与最值.md",
 			"x": 9218,
 			"y": 4086,
 			"width": 340,
@@ -9045,7 +9045,7 @@
 		{
 			"id": "afa94020a1fb3c62",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求周长的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求周长的范围与最值.md",
 			"x": 9218,
 			"y": 3983,
 			"width": 250,
@@ -9054,7 +9054,7 @@
 		{
 			"id": "3756fc294bdda1ed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/欧拉线的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/欧拉线的应用.md",
 			"x": 9618,
 			"y": 5835,
 			"width": 230,
@@ -9063,7 +9063,7 @@
 		{
 			"id": "e0a0613c15357d6c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：三角形四心的向量表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：三角形四心的向量表示.md",
 			"x": 8983,
 			"y": 4836,
 			"width": 301,
@@ -9081,7 +9081,7 @@
 		{
 			"id": "05f6422b11aa4e5f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/根据三角形四心处理向量问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/根据三角形四心处理向量问题.md",
 			"x": 9465,
 			"y": 5265,
 			"width": 305,
@@ -9090,7 +9090,7 @@
 		{
 			"id": "831e1a36c12de6fe",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/有关三角形四心定理的证明与推论.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/有关三角形四心定理的证明与推论.md",
 			"x": 9457,
 			"y": 5616,
 			"width": 250,
@@ -9099,7 +9099,7 @@
 		{
 			"id": "e5f031232fbd8a7a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题： 多三角形组合问题专练.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题： 多三角形组合问题专练.md",
 			"x": 9648,
 			"y": 5464,
 			"width": 308,
@@ -9108,7 +9108,7 @@
 		{
 			"id": "ced5be2a8cd6cc76",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正弦定理的应用之判断三角形的形状.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正弦定理的应用之判断三角形的形状.md",
 			"x": 8811,
 			"y": 3529,
 			"width": 313,
@@ -9117,7 +9117,7 @@
 		{
 			"id": "95f1044998635aaf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/专题：三角形中的范围与最值问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/专题：三角形中的范围与最值问题.md",
 			"x": 9208,
 			"y": 3660,
 			"width": 332,
@@ -9126,7 +9126,7 @@
 		{
 			"id": "0dda4b44f2c9a266",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/测量高度问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/测量高度问题.md",
 			"x": 9682,
 			"y": 3962,
 			"width": 250,
@@ -9135,7 +9135,7 @@
 		{
 			"id": "1965009799511c97",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求面积的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法2转化为三角函数法 求面积的范围与最值.md",
 			"x": 9216,
 			"y": 3883,
 			"width": 340,
@@ -9144,7 +9144,7 @@
 		{
 			"id": "196b72274798cad0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求面积的范围与最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/法1基本不等式法 求面积的范围与最值.md",
 			"x": 9218,
 			"y": 3783,
 			"width": 250,
@@ -9153,7 +9153,7 @@
 		{
 			"id": "37bf2c54f193c4d9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求周长问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求周长问题.md",
 			"x": 8811,
 			"y": 4036,
 			"width": 232,
@@ -9162,7 +9162,7 @@
 		{
 			"id": "f4cb9052c645b309",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角形的面积问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角形的面积问题.md",
 			"x": 8811,
 			"y": 3833,
 			"width": 295,
@@ -9171,7 +9171,7 @@
 		{
 			"id": "20cbd49c5cf10840",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数的图象变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数的图象变换.md",
 			"x": 3880,
 			"y": 1581,
 			"width": 250,
@@ -9180,7 +9180,7 @@
 		{
 			"id": "aed177f17bd450db",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数与其他函数复合.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数与其他函数复合.md",
 			"x": 2566,
 			"y": 1422,
 			"width": 204,
@@ -9189,7 +9189,7 @@
 		{
 			"id": "7e29969174ceea4e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用图象根据方程的解或函数零点求参数或零点代数和.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用图象根据方程的解或函数零点求参数或零点代数和.md",
 			"x": 3057,
 			"y": 922,
 			"width": 352,
@@ -9198,7 +9198,7 @@
 		{
 			"id": "4c9de99d0c289816",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用正弦图象解三角不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用正弦图象解三角不等式.md",
 			"x": 2770,
 			"y": 645,
 			"width": 250,
@@ -9216,7 +9216,7 @@
 		{
 			"id": "7013370c39a88870",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用图象求方程的解或函数零点的个数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用图象求方程的解或函数零点的个数问题.md",
 			"x": 3077,
 			"y": 624,
 			"width": 312,
@@ -9225,7 +9225,7 @@
 		{
 			"id": "4083364a439cb2c7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/测量角度问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/测量角度问题.md",
 			"x": 9999,
 			"y": 3858,
 			"width": 250,
@@ -9234,7 +9234,7 @@
 		{
 			"id": "bdf9c1c95a981d5a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/综合应用题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/综合应用题.md",
 			"x": 9999,
 			"y": 3962,
 			"width": 209,
@@ -9243,7 +9243,7 @@
 		{
 			"id": "4746520d0325a729",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平面向量检测120分.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平面向量检测120分.md",
 			"x": 10663,
 			"y": 3068,
 			"width": 385,
@@ -9252,7 +9252,7 @@
 		{
 			"id": "1215dfdb19f40e69",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/判断三角形的形状.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/判断三角形的形状.md",
 			"x": 8811,
 			"y": 3426,
 			"width": 287,
@@ -9261,7 +9261,7 @@
 		{
 			"id": "3583b995cac71599",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由图象确定三角函数解析式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由图象确定三角函数解析式.md",
 			"x": 4308,
 			"y": 1429,
 			"width": 334,
@@ -9270,7 +9270,7 @@
 		{
 			"id": "6152bb5cbc772bed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/含负号得图像变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/含负号得图像变换.md",
 			"x": 4308,
 			"y": 1675,
 			"width": 250,
@@ -9279,7 +9279,7 @@
 		{
 			"id": "f8092a3c807d44aa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/y=Asin(ωx+φ)的图象与性质的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/y=Asin(ωx+φ)的图象与性质的综合应用.md",
 			"x": 4714,
 			"y": 1423,
 			"width": 328,
@@ -9288,7 +9288,7 @@
 		{
 			"id": "b7b1bc679a2ddd05",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/图像平移前后重合问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/图像平移前后重合问题.md",
 			"x": 4714,
 			"y": 1675,
 			"width": 290,
@@ -9306,7 +9306,7 @@
 		{
 			"id": "cfd86c1646802992",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正余弦函数值域.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数值域.md",
 			"x": 3921,
 			"y": 3,
 			"width": 229,
@@ -9324,7 +9324,7 @@
 		{
 			"id": "aff94b8eb41907c9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/五点作图法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/五点作图法.md",
 			"x": 3108,
 			"y": 50,
 			"width": 250,
@@ -9333,7 +9333,7 @@
 		{
 			"id": "7aad163b5f3fd35d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求三角函数的单调区间.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求三角函数的单调区间.md",
 			"x": 3910,
 			"y": 579,
 			"width": 285,
@@ -9342,7 +9342,7 @@
 		{
 			"id": "980e6671d9b2bc8f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/y=Asin(ωx+φ)的图象与三角恒等变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/y=Asin(ωx+φ)的图象与三角恒等变换.md",
 			"x": 5273,
 			"y": 1110,
 			"width": 334,
@@ -9351,7 +9351,7 @@
 		{
 			"id": "c00babed66e5dd13",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在圆周运动问题中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在圆周运动问题中的应用.md",
 			"x": 5488,
 			"y": 1629,
 			"width": 250,
@@ -9360,7 +9360,7 @@
 		{
 			"id": "33742d8e7cdfe0e2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在日常生活中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在日常生活中的应用.md",
 			"x": 5488,
 			"y": 1445,
 			"width": 250,
@@ -9369,7 +9369,7 @@
 		{
 			"id": "f6c6466ab36a0a0d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在物理学中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数模型在物理学中的应用.md",
 			"x": 5828,
 			"y": 1442,
 			"width": 250,
@@ -9378,7 +9378,7 @@
 		{
 			"id": "8622d2d4b1f554c0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/数据拟合三角函数模型问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/数据拟合三角函数模型问题.md",
 			"x": 5828,
 			"y": 1629,
 			"width": 250,
@@ -9387,7 +9387,7 @@
 		{
 			"id": "b616cdd7731a71a3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求正切函数的单调区间.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求正切函数的单调区间.md",
 			"x": 5508,
 			"y": 545,
 			"width": 245,
@@ -9396,7 +9396,7 @@
 		{
 			"id": "1f4c41fe326acc2d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数图象的对称性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数图象的对称性.md",
 			"x": 5508,
 			"y": 895,
 			"width": 245,
@@ -9405,7 +9405,7 @@
 		{
 			"id": "28d5ad6553854bd3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数的周期性与奇偶性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数的周期性与奇偶性.md",
 			"x": 5508,
 			"y": 720,
 			"width": 299,
@@ -9414,7 +9414,7 @@
 		{
 			"id": "abd8b5159e47e064",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数的对称性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数的对称性.md",
 			"x": 3913,
 			"y": 865,
 			"width": 280,
@@ -9423,7 +9423,7 @@
 		{
 			"id": "fdc363e2378e1888",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/求值域（可化为一元二次函数型）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/求值域（可化为一元二次函数型）.md",
 			"x": 4861,
 			"y": 799,
 			"width": 285,
@@ -9432,7 +9432,7 @@
 		{
 			"id": "46b21fbf80bf8577",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/分式型求值域或最大(小)值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/分式型求值域或最大(小)值.md",
 			"x": 4879,
 			"y": 1050,
 			"width": 250,
@@ -9450,7 +9450,7 @@
 		{
 			"id": "ae54f7c6b2e4630d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知对称性求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知对称性求参数.md",
 			"x": 4391,
 			"y": 1006,
 			"width": 250,
@@ -9459,7 +9459,7 @@
 		{
 			"id": "296ce29945e6d394",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用三角函数的有界性和单调性求值域或最大(小)值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用三角函数的有界性和单调性求值域或最大(小)值.md",
 			"x": 4391,
 			"y": 799,
 			"width": 345,
@@ -9477,7 +9477,7 @@
 		{
 			"id": "f66bccb5917385b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数单调性的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数单调性的应用.md",
 			"x": 6000,
 			"y": 221,
 			"width": 235,
@@ -9486,7 +9486,7 @@
 		{
 			"id": "bebd07f64045ab2d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数的周期问题及简单应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数的周期问题及简单应用.md",
 			"x": 3915,
 			"y": 150,
 			"width": 247,
@@ -9495,7 +9495,7 @@
 		{
 			"id": "3b940a3f52e95329",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数的奇偶性及其应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数的奇偶性及其应用.md",
 			"x": 3910,
 			"y": 346,
 			"width": 252,
@@ -9504,7 +9504,7 @@
 		{
 			"id": "afe7e796b23f9602",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知三角函数的单调情况求参数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知三角函数的单调情况求参数问题.md",
 			"x": 4391,
 			"y": 559,
 			"width": 285,
@@ -9513,7 +9513,7 @@
 		{
 			"id": "b7fad9cdef511199",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用单调性比较三角函数值的大小.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用单调性比较三角函数值的大小.md",
 			"x": 4391,
 			"y": 365,
 			"width": 291,
@@ -9522,7 +9522,7 @@
 		{
 			"id": "9199b810cf83b7c1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数的定义域.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数的定义域.md",
 			"x": 5508,
 			"y": 225,
 			"width": 242,
@@ -9531,7 +9531,7 @@
 		{
 			"id": "1c726138a93ed519",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数的值域.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数的值域.md",
 			"x": 5508,
 			"y": 365,
 			"width": 198,
@@ -9540,7 +9540,7 @@
 		{
 			"id": "2f943721edf739bd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/与正切（型）函数有关的值域（最值）问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/与正切（型）函数有关的值域（最值）问题.md",
 			"x": 5968,
 			"y": 802,
 			"width": 299,
@@ -9549,7 +9549,7 @@
 		{
 			"id": "74e2afd7a428fab9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/正切函数图象与性质的综合应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/正切函数图象与性质的综合应用.md",
 			"x": 5968,
 			"y": 541,
 			"width": 299,
@@ -9558,7 +9558,7 @@
 		{
 			"id": "c0d6245b6bcf0663",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/二倍角公式与数学文化的结合.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/二倍角公式与数学文化的结合.md",
 			"x": 6182,
 			"y": -210,
 			"width": 562,
@@ -9567,7 +9567,7 @@
 		{
 			"id": "e38a781e8d622311",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度2：三角形中三角函数值的取值范围.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度2：三角形中三角函数值的取值范围.md",
 			"x": 6468,
 			"y": -379,
 			"width": 307,
@@ -9576,7 +9576,7 @@
 		{
 			"id": "432f6339de4bfb13",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度1：确定三角形形状或角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度1：确定三角形形状或角.md",
 			"x": 6182,
 			"y": -379,
 			"width": 250,
@@ -9585,7 +9585,7 @@
 		{
 			"id": "bcf4190058675ecb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/二倍角中的拼凑角问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/二倍角中的拼凑角问题.md",
 			"x": 6182,
 			"y": -610,
 			"width": 250,
@@ -9594,7 +9594,7 @@
 		{
 			"id": "d285ef1ee8021150",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/周期函数的一些性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/周期函数的一些性质.md",
 			"x": 4391,
 			"y": -30,
 			"width": 250,
@@ -9603,7 +9603,7 @@
 		{
 			"id": "d98826c81a19eb9c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/函数奇偶性与周期性、单调性，对称性的综合问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/函数奇偶性与周期性、单调性，对称性的综合问题.md",
 			"x": 4391,
 			"y": 122,
 			"width": 291,
@@ -9612,7 +9612,7 @@
 		{
 			"id": "2eccf7db13de53e3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/倍角公式证明三角恒等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/倍角公式证明三角恒等式.md",
 			"x": 5695,
 			"y": -379,
 			"width": 250,
@@ -9621,7 +9621,7 @@
 		{
 			"id": "bc1be439474b79f9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用二倍角公式求角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用二倍角公式求角.md",
 			"x": 5688,
 			"y": -548,
 			"width": 256,
@@ -9630,7 +9630,7 @@
 		{
 			"id": "448477bde7920a1c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用正弦图像比大小.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用正弦图像比大小.md",
 			"x": 2470,
 			"y": 645,
 			"width": 250,
@@ -9639,7 +9639,7 @@
 		{
 			"id": "b9d7a9fc16c5da3c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/诱导公式在三角形中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/诱导公式在三角形中的应用.md",
 			"x": 4577,
 			"y": -615,
 			"width": 250,
@@ -9648,7 +9648,7 @@
 		{
 			"id": "a924f7a83b87a6b1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/半角公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/半角公式.md",
 			"x": 6951,
 			"y": -645,
 			"width": 250,
@@ -9657,7 +9657,7 @@
 		{
 			"id": "e0e924a87b3391b5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/和差化积与积化和差公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/和差化积与积化和差公式.md",
 			"x": 6951,
 			"y": -443,
 			"width": 250,
@@ -9666,7 +9666,7 @@
 		{
 			"id": "2163e22a6a509f85",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/和差化积运用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/和差化积运用.md",
 			"x": 7302,
 			"y": -451,
 			"width": 250,
@@ -9675,7 +9675,7 @@
 		{
 			"id": "636d51f60f0d7bc9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/和差化积、积化和差的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/和差化积、积化和差的应用.md",
 			"x": 7648,
 			"y": -476,
 			"width": 296,
@@ -9684,7 +9684,7 @@
 		{
 			"id": "0364337775e2eca6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的乘法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的乘法.md",
 			"x": -2555,
 			"y": 6513,
 			"width": 211,
@@ -9693,7 +9693,7 @@
 		{
 			"id": "25f63d3e3d19d151",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的加法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的加法.md",
 			"x": -2555,
 			"y": 6412,
 			"width": 211,
@@ -9702,7 +9702,7 @@
 		{
 			"id": "f7e022cd6075c6a7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的减法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的减法.md",
 			"x": -2202,
 			"y": 6412,
 			"width": 198,
@@ -9720,7 +9720,7 @@
 		{
 			"id": "a14b08bac8972858",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用诱导公式证明三角恒等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用诱导公式证明三角恒等式.md",
 			"x": 3747,
 			"y": -653,
 			"width": 250,
@@ -9729,7 +9729,7 @@
 		{
 			"id": "6fefa8b4caab0058",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用诱导公式的化简.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用诱导公式的化简.md",
 			"x": 4078,
 			"y": -653,
 			"width": 242,
@@ -9748,7 +9748,7 @@
 		{
 			"id": "0e6da6cee9fc98b1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/反三角函数的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/反三角函数的应用.md",
 			"x": 6700,
 			"y": 440,
 			"width": 207,
@@ -9776,7 +9776,7 @@
 		{
 			"id": "dec5c13624530f26",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的三角表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的三角表示.md",
 			"x": -2146,
 			"y": 7377,
 			"width": 373,
@@ -9785,7 +9785,7 @@
 		{
 			"id": "f7b8391f2d915ae7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数乘、除运算的三角表示及其几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数乘、除运算的三角表示及其几何意义.md",
 			"x": -1562,
 			"y": 7377,
 			"width": 250,
@@ -9794,7 +9794,7 @@
 		{
 			"id": "d2fe3b6365898a55",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/共轭复数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/共轭复数.md",
 			"x": -1562,
 			"y": 7089,
 			"width": 165,
@@ -9803,7 +9803,7 @@
 		{
 			"id": "a42aa348fd5bd311",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数回顾与思考.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数回顾与思考.md",
 			"x": -574,
 			"y": 7089,
 			"width": 250,
@@ -9821,7 +9821,7 @@
 		{
 			"id": "c0d2d746d09584e5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的几何意义.md",
 			"x": -2555,
 			"y": 7007,
 			"width": 260,
@@ -9839,7 +9839,7 @@
 		{
 			"id": "6700873ec7d161cb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数除法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数除法.md",
 			"x": -2202,
 			"y": 6513,
 			"width": 198,
@@ -9848,7 +9848,7 @@
 		{
 			"id": "2a888da901de7ba0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数习题7.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数习题7.1.md",
 			"x": -574,
 			"y": 6896,
 			"width": 250,
@@ -9857,7 +9857,7 @@
 		{
 			"id": "4bb38480cee7a784",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数减法的几何意义.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数减法的几何意义.md",
 			"x": -1146,
 			"y": 6834,
 			"width": 315,
@@ -9866,7 +9866,7 @@
 		{
 			"id": "c80b64d89aa9d803",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/i.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/i.md",
 			"x": -3122,
 			"y": 6782,
 			"width": 77,
@@ -9875,7 +9875,7 @@
 		{
 			"id": "9143c80393aaa590",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数.md",
 			"x": -2834,
 			"y": 6782,
 			"width": 111,
@@ -9884,7 +9884,7 @@
 		{
 			"id": "e8cc120d4550127a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/方程无解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/方程无解.md",
 			"x": -3514,
 			"y": 6782,
 			"width": 180,
@@ -9893,7 +9893,7 @@
 		{
 			"id": "9b28a585b47bae5f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复数的四则运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复数的四则运算.md",
 			"x": -2576,
 			"y": 6340,
 			"width": 253,
@@ -9902,7 +9902,7 @@
 		{
 			"id": "50d6d93282feb424",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量的减法运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的减法运算.md",
 			"x": -2436,
 			"y": 2817,
 			"width": 264,
@@ -9911,7 +9911,7 @@
 		{
 			"id": "3cdafd73046ac2c2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/相反向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/相反向量.md",
 			"x": -2402,
 			"y": 2687,
 			"width": 196,
@@ -9920,7 +9920,7 @@
 		{
 			"id": "dda50596100d50f9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量的数乘运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的数乘运算.md",
 			"x": -2436,
 			"y": 2936,
 			"width": 244,
@@ -9929,7 +9929,7 @@
 		{
 			"id": "1774c5bd4ddda629",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/投影向量的表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/投影向量的表示.md",
 			"x": -2524,
 			"y": 3188,
 			"width": 265,
@@ -9992,7 +9992,7 @@
 		{
 			"id": "f3ac4d7851bd6431",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/共线向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/共线向量.md",
 			"x": -2388,
 			"y": 2585,
 			"width": 184,
@@ -10001,7 +10001,7 @@
 		{
 			"id": "ed055d5e86ba0c1d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/模（向量的长度）.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/模（向量的长度）.md",
 			"x": -2388,
 			"y": 2489,
 			"width": 74,
@@ -10055,7 +10055,7 @@
 		{
 			"id": "58a78169e16ecbab",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题6.3.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题6.3.md",
 			"x": -177,
 			"y": 4011,
 			"width": 250,
@@ -10074,7 +10074,7 @@
 		{
 			"id": "0cccf98b7356b757",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/相等向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/相等向量.md",
 			"x": -2712,
 			"y": 2284,
 			"width": 196,
@@ -10083,7 +10083,7 @@
 		{
 			"id": "dd2d30f615175e88",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量的几何表示.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的几何表示.md",
 			"x": -2388,
 			"y": 2385,
 			"width": 253,
@@ -10092,7 +10092,7 @@
 		{
 			"id": "45ab1ea21a241635",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/有向线段.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/有向线段.md",
 			"x": -2145,
 			"y": 2190,
 			"width": 167,
@@ -10129,7 +10129,7 @@
 		{
 			"id": "4d630db4f0066d64",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/投影向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/投影向量.md",
 			"x": -2879,
 			"y": 3352,
 			"width": 180,
@@ -10147,7 +10147,7 @@
 		{
 			"id": "515d3bdf698ff778",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量的数量积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的数量积.md",
 			"x": -3484,
 			"y": 3130,
 			"width": 334,
@@ -10165,7 +10165,7 @@
 		{
 			"id": "bae0b35a997b3aca",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/极化恒等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/极化恒等式.md",
 			"x": -1012,
 			"y": 3470,
 			"width": 250,
@@ -10174,7 +10174,7 @@
 		{
 			"id": "e0b68a3efea30f92",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/施密特正交.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/施密特正交.md",
 			"x": -1301,
 			"y": 3660,
 			"width": 197,
@@ -10183,7 +10183,7 @@
 		{
 			"id": "9ef9c63bafc9eb78",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量的加法运算.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量的加法运算.md",
 			"x": -2944,
 			"y": 2687,
 			"width": 312,
@@ -10228,7 +10228,7 @@
 		{
 			"id": "cd3e1fe673b9c0c5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量共线的充要条件.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量共线的充要条件.md",
 			"x": -1704,
 			"y": 2820,
 			"width": 212,
@@ -10237,7 +10237,7 @@
 		{
 			"id": "f3bc5afa3406227a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三点共线.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三点共线.md",
 			"x": -1184,
 			"y": 2757,
 			"width": 192,
@@ -10246,7 +10246,7 @@
 		{
 			"id": "432c1fcf1071c6f6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/等和线.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/等和线.md",
 			"x": -789,
 			"y": 2757,
 			"width": 177,
@@ -10255,7 +10255,7 @@
 		{
 			"id": "c98fc3aef2ed5362",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/数学历史/向量及向量符号的由来.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/数学历史/向量及向量符号的由来.md",
 			"x": -3484,
 			"y": 2075,
 			"width": 222,
@@ -10274,7 +10274,7 @@
 		{
 			"id": "c2ad0df7701c1a72",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量的概念.md",
 			"x": -2929,
 			"y": 2489,
 			"width": 281,
@@ -10301,7 +10301,7 @@
 		{
 			"id": "d4fe06c26c32c483",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量不等式.md",
 			"x": -1933,
 			"y": 2509,
 			"width": 250,
@@ -10319,7 +10319,7 @@
 		{
 			"id": "03c389fa8dad0dd3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题6.1.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题6.1.md",
 			"x": -1292,
 			"y": 2140,
 			"width": 177,
@@ -10328,7 +10328,7 @@
 		{
 			"id": "514d0a873ff4af9b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题6.2.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题6.2.md",
 			"x": -1385,
 			"y": 2269,
 			"width": 250,
@@ -10337,7 +10337,7 @@
 		{
 			"id": "15510aa224bf1845",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/单位向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/单位向量.md",
 			"x": -1683,
 			"y": 2385,
 			"width": 171,
@@ -10346,7 +10346,7 @@
 		{
 			"id": "476dcc104b950a77",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/零向量.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/零向量.md",
 			"x": -1912,
 			"y": 2385,
 			"width": 144,
@@ -10355,7 +10355,7 @@
 		{
 			"id": "d17f890c7e7ea734",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/中线定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/中线定理.md",
 			"x": -1685,
 			"y": 1470,
 			"width": 250,
@@ -10364,7 +10364,7 @@
 		{
 			"id": "64ccbb3eef0f141a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/角平分线定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/角平分线定理.md",
 			"x": -756,
 			"y": 840,
 			"width": 250,
@@ -10382,7 +10382,7 @@
 		{
 			"id": "023f8149a46873f7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正弦定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正弦定理.md",
 			"x": 320,
 			"y": 5402,
 			"width": 250,
@@ -10409,7 +10409,7 @@
 		{
 			"id": "354b2e119daf4b2a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角形的其他元素与给定的某些元素有怎样的数量关系？.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角形的其他元素与给定的某些元素有怎样的数量关系？.md",
 			"x": -92,
 			"y": 5083,
 			"width": 226,
@@ -10418,7 +10418,7 @@
 		{
 			"id": "51bd47d396a05423",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/解三角形.md",
 			"x": -1300,
 			"y": 1078,
 			"width": 248,
@@ -10427,7 +10427,7 @@
 		{
 			"id": "381671ecef47f294",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角形面积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角形面积.md",
 			"x": -2005,
 			"y": 1138,
 			"width": 320,
@@ -10436,7 +10436,7 @@
 		{
 			"id": "b8547782ee7f6043",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/射影定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/射影定理.md",
 			"x": -756,
 			"y": 1228,
 			"width": 250,
@@ -10454,7 +10454,7 @@
 		{
 			"id": "0baeba1c6175bb88",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角恒等变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角恒等变换.md",
 			"x": -1712,
 			"y": 930,
 			"width": 350,
@@ -10464,7 +10464,7 @@
 		{
 			"id": "39e7f87afd6ec1e1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/奔驰定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/奔驰定理.md",
 			"x": 1264,
 			"y": 5875,
 			"width": 250,
@@ -10473,7 +10473,7 @@
 		{
 			"id": "d3b4352fa5c7928c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/欧拉线定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/欧拉线定理.md",
 			"x": 1264,
 			"y": 5978,
 			"width": 250,
@@ -10500,7 +10500,7 @@
 		{
 			"id": "42882b8a003197ef",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/海伦和秦九韶.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/海伦和秦九韶.md",
 			"x": 799,
 			"y": 5188,
 			"width": 250,
@@ -10509,7 +10509,7 @@
 		{
 			"id": "faf088b566fbe1d9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/用向量法研究三角形的性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/用向量法研究三角形的性质.md",
 			"x": 1265,
 			"y": 5007,
 			"width": 250,
@@ -10527,7 +10527,7 @@
 		{
 			"id": "a71e29f1b517aef9",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题6.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/复习参考题6.md",
 			"x": 1260,
 			"y": 4890,
 			"width": 250,
@@ -10536,7 +10536,7 @@
 		{
 			"id": "b8ff136e57b148c3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/余弦定理、正弦定理应用举例.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/余弦定理、正弦定理应用举例.md",
 			"x": 1260,
 			"y": 4720,
 			"width": 255,
@@ -10554,7 +10554,7 @@
 		{
 			"id": "d8cd4ef4a9828978",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/射影定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/射影定理.md",
 			"x": 301,
 			"y": 5742,
 			"width": 335,
@@ -10581,7 +10581,7 @@
 		{
 			"id": "10b188be0aba29b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/习题6.4.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/习题6.4.md",
 			"x": 1256,
 			"y": 4362,
 			"width": 250,
@@ -10590,7 +10590,7 @@
 		{
 			"id": "a26d13db114468eb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面向量回顾与思考.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面向量回顾与思考.md",
 			"x": 1256,
 			"y": 4540,
 			"width": 250,
@@ -10608,7 +10608,7 @@
 		{
 			"id": "4d6ee68696b83e92",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/基底法和坐标法 比较.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/基底法和坐标法 比较.md",
 			"x": -901,
 			"y": 5060,
 			"width": 361,
@@ -10617,7 +10617,7 @@
 		{
 			"id": "82911b64093a7724",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/定比分点公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/定比分点公式.md",
 			"x": -901,
 			"y": 4500,
 			"width": 295,
@@ -10626,7 +10626,7 @@
 		{
 			"id": "578e198f5da9262c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/向量在物理中的应用举例.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/向量在物理中的应用举例.md",
 			"x": -92,
 			"y": 4570,
 			"width": 412,
@@ -10635,7 +10635,7 @@
 		{
 			"id": "3d01578204627daa",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/平面几何中的向量方法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/平面几何中的向量方法.md",
 			"x": -92,
 			"y": 4450,
 			"width": 360,
@@ -10644,7 +10644,7 @@
 		{
 			"id": "fc61d6add6bc7f80",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/余弦定理.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/余弦定理.md",
 			"x": 301,
 			"y": 4925,
 			"width": 250,
@@ -10653,7 +10653,7 @@
 		{
 			"id": "066e20aba5a0002e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/解三角形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/解三角形.md",
 			"x": 823,
 			"y": 4935,
 			"width": 203,
@@ -10671,7 +10671,7 @@
 		{
 			"id": "118a296b350ba850",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/几何投影法、基底法、坐标法 向量数量积的最值和范围.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/几何投影法、基底法、坐标法 向量数量积的最值和范围.md",
 			"x": -881,
 			"y": 5963,
 			"width": 250,
@@ -10698,7 +10698,7 @@
 		{
 			"id": "acd36d5a96513d42",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数对称性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数对称性.md",
 			"x": -785,
 			"y": -140,
 			"width": 155,
@@ -10707,7 +10707,7 @@
 		{
 			"id": "2fc9b86706aeb14b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数值域.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数值域.md",
 			"x": -1031,
 			"y": -142,
 			"width": 160,
@@ -10716,7 +10716,7 @@
 		{
 			"id": "b2870fe3295f239f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余函数周期性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余函数周期性.md",
 			"x": -1031,
 			"y": -350,
 			"width": 160,
@@ -10725,7 +10725,7 @@
 		{
 			"id": "e3df4ff89a82f239",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数单调区间.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数单调区间.md",
 			"x": -1031,
 			"y": -230,
 			"width": 160,
@@ -10734,7 +10734,7 @@
 		{
 			"id": "722c41992da50637",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数奇偶性.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数奇偶性.md",
 			"x": -791,
 			"y": -230,
 			"width": 166,
@@ -10743,7 +10743,7 @@
 		{
 			"id": "e8eb3768fe0495da",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数最值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数最值.md",
 			"x": -791,
 			"y": -350,
 			"width": 166,
@@ -10761,7 +10761,7 @@
 		{
 			"id": "2db2cee6f039120e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/匀速圆周运动的数学模型.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/匀速圆周运动的数学模型.md",
 			"x": -285,
 			"y": -254,
 			"width": 250,
@@ -10770,7 +10770,7 @@
 		{
 			"id": "9740e8add5f48331",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角函数图象变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角函数图象变换.md",
 			"x": -583,
 			"y": 164,
 			"width": 250,
@@ -10842,7 +10842,7 @@
 		{
 			"id": "dfaeed07f76a8db7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/五点(画图)法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/五点(画图)法.md",
 			"x": -1826,
 			"y": -140,
 			"width": 217,
@@ -10860,7 +10860,7 @@
 		{
 			"id": "d882b8e8a242f4d1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/探索φ对y=sin(x+φ)   图象的影响.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/探索φ对y=sin(x+φ)   图象的影响.md",
 			"x": -1175,
 			"y": 213,
 			"width": 350,
@@ -10869,7 +10869,7 @@
 		{
 			"id": "e0d83ef679550354",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦图像变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦图像变换.md",
 			"x": -1449,
 			"y": 38,
 			"width": 250,
@@ -10879,7 +10879,7 @@
 		{
 			"id": "042587a25933029b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/探索ω对y=sin(ωx+φ)图象的影响.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/探索ω对y=sin(ωx+φ)图象的影响.md",
 			"x": -1175,
 			"y": 376,
 			"width": 350,
@@ -10888,7 +10888,7 @@
 		{
 			"id": "1bf6083b2a144fa1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/探索A对y=Asin(ωx+φ)图象的影响.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/探索A对y=Asin(ωx+φ)图象的影响.md",
 			"x": -1175,
 			"y": 531,
 			"width": 350,
@@ -10906,7 +10906,7 @@
 		{
 			"id": "8d568645f08dcdef",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角函数的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角函数的应用.md",
 			"x": 474,
 			"y": -22,
 			"width": 250,
@@ -10915,7 +10915,7 @@
 		{
 			"id": "8439fe22f1a35b89",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/振幅、周期、频率、相位.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/振幅、周期、频率、相位.md",
 			"x": 474,
 			"y": 196,
 			"width": 250,
@@ -10924,7 +10924,7 @@
 		{
 			"id": "91e96e2485e89ed1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/y=Asin(ωx+φ)的周期.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/y=Asin(ωx+φ)的周期.md",
 			"x": -10,
 			"y": 136,
 			"width": 362,
@@ -10933,7 +10933,7 @@
 		{
 			"id": "95f4bb69921ee935",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/y=Asin(ωx+φ).md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/y=Asin(ωx+φ).md",
 			"x": 46,
 			"y": -22,
 			"width": 250,
@@ -10951,7 +10951,7 @@
 		{
 			"id": "2c05cb37e4554ad5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数图像性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正余弦函数图像性质.md",
 			"x": -1041,
 			"y": -440,
 			"width": 416,
@@ -10978,7 +10978,7 @@
 		{
 			"id": "9a7289238a54faed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正弦函数图象.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正弦函数图象.md",
 			"x": -2226,
 			"y": -499,
 			"width": 400,
@@ -10987,7 +10987,7 @@
 		{
 			"id": "555ec5dc65529244",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/辅助角公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/辅助角公式.md",
 			"x": -192,
 			"y": -650,
 			"width": 250,
@@ -11024,7 +11024,7 @@
 		{
 			"id": "3f9563ae2bddf47b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正切函数的性质与图象.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正切函数的性质与图象.md",
 			"x": -560,
 			"y": -577,
 			"width": 250,
@@ -11069,7 +11069,7 @@
 		{
 			"id": "b9f7e71619dea14f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数值符号的运用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数值符号的运用.md",
 			"x": 2908,
 			"y": -812,
 			"width": 250,
@@ -11078,7 +11078,7 @@
 		{
 			"id": "ace76ca73211773c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/余弦函数图像.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/余弦函数图像.md",
 			"x": -1474,
 			"y": -730,
 			"width": 299,
@@ -11087,7 +11087,7 @@
 		{
 			"id": "d8ee29aa167d32df",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/反三角函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/反三角函数.md",
 			"x": -2924,
 			"y": -774,
 			"width": 250,
@@ -11096,7 +11096,7 @@
 		{
 			"id": "c69321ff45a994c8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角函数史.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角函数史.md",
 			"x": -3412,
 			"y": -774,
 			"width": 250,
@@ -11106,7 +11106,7 @@
 		{
 			"id": "0edeaf9044fcc6b4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/切弦转化（万能公式）求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/切弦转化（万能公式）求值.md",
 			"x": 6475,
 			"y": -809,
 			"width": 269,
@@ -11115,7 +11115,7 @@
 		{
 			"id": "7a76932f35c1336c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用二倍角化简求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用二倍角化简求值.md",
 			"x": 5688,
 			"y": -766,
 			"width": 263,
@@ -11124,7 +11124,7 @@
 		{
 			"id": "27c981514b00401e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用半角公式求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用半角公式求值.md",
 			"x": 7348,
 			"y": -687,
 			"width": 272,
@@ -11169,7 +11169,7 @@
 		{
 			"id": "b81ff65abcbb0b59",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/诱导公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/诱导公式.md",
 			"x": -1760,
 			"y": -985,
 			"width": 250,
@@ -11205,7 +11205,7 @@
 		{
 			"id": "7732511341b2c764",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/15°（75°）的正弦值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/15°（75°）的正弦值.md",
 			"x": 6127,
 			"y": -1632,
 			"width": 281,
@@ -11214,7 +11214,7 @@
 		{
 			"id": "bfde8f9d80fbb544",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/逆用和差角的余弦公式化简、求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/逆用和差角的余弦公式化简、求值.md",
 			"x": 5804,
 			"y": -1429,
 			"width": 250,
@@ -11223,7 +11223,7 @@
 		{
 			"id": "37ec45fa17b22885",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的正切.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的正切.md",
 			"x": 6102,
 			"y": -2005,
 			"width": 327,
@@ -11232,7 +11232,7 @@
 		{
 			"id": "4fda3d73b9648a74",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的余弦.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的余弦.md",
 			"x": 6445,
 			"y": -2005,
 			"width": 315,
@@ -11241,7 +11241,7 @@
 		{
 			"id": "1ef847616fe6f779",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的正弦.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知两角的正弦，余弦求和差角的正弦.md",
 			"x": 5788,
 			"y": -2005,
 			"width": 314,
@@ -11250,7 +11250,7 @@
 		{
 			"id": "8045f3e8f082d7ed",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/15°（75°）的正切值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/15°（75°）的正切值.md",
 			"x": 5814,
 			"y": -1633,
 			"width": 288,
@@ -11259,7 +11259,7 @@
 		{
 			"id": "df9c1cd8260302fb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数检测 120分.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数检测 120分.md",
 			"x": 8358,
 			"y": -2079,
 			"width": 250,
@@ -11268,7 +11268,7 @@
 		{
 			"id": "66ec423faa918c65",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两角和与差在三角形中的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两角和与差在三角形中的应用.md",
 			"x": 5788,
 			"y": -1170,
 			"width": 266,
@@ -11277,7 +11277,7 @@
 		{
 			"id": "c28d967efbdb8d1c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/15°(75°)的余弦值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/15°(75°)的余弦值.md",
 			"x": 6468,
 			"y": -1633,
 			"width": 269,
@@ -11286,7 +11286,7 @@
 		{
 			"id": "0ae029816906a5e5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用辅助角公式的化简.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用辅助角公式的化简.md",
 			"x": 6143,
 			"y": -1398,
 			"width": 250,
@@ -11295,7 +11295,7 @@
 		{
 			"id": "e15d433c38c0de1d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/通过降幂，平方转化求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/通过降幂，平方转化求值.md",
 			"x": 6175,
 			"y": -829,
 			"width": 257,
@@ -11304,7 +11304,7 @@
 		{
 			"id": "40ce3d3fa032394f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两角和与差正切公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两角和与差正切公式.md",
 			"x": 5248,
 			"y": -1473,
 			"width": 256,
@@ -11313,7 +11313,7 @@
 		{
 			"id": "63d762e76b18f66c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用和差角的正切公式化简、求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用和差角的正切公式化简、求值.md",
 			"x": 6102,
 			"y": -2159,
 			"width": 278,
@@ -11322,7 +11322,7 @@
 		{
 			"id": "8b42eaae40a53197",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用和差角的正弦公式化简、求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用和差角的正弦公式化简、求值.md",
 			"x": 5788,
 			"y": -2159,
 			"width": 285,
@@ -11331,7 +11331,7 @@
 		{
 			"id": "59439cb21174d5f2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/用和差角的余弦公式化简、求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/用和差角的余弦公式化简、求值.md",
 			"x": 6443,
 			"y": -2159,
 			"width": 257,
@@ -11340,7 +11340,7 @@
 		{
 			"id": "1dad6296a5ae08ca",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度3：配凑角化简求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度3：配凑角化简求值.md",
 			"x": 5788,
 			"y": -2280,
 			"width": 250,
@@ -11349,7 +11349,7 @@
 		{
 			"id": "e0c0eea3a2ff82df",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/给角、值求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/给角、值求值.md",
 			"x": 6102,
 			"y": -2270,
 			"width": 327,
@@ -11358,7 +11358,7 @@
 		{
 			"id": "58245bd7b1bd086c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/借助辅助角公式研究函数性质.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/借助辅助角公式研究函数性质.md",
 			"x": 6528,
 			"y": -1433,
 			"width": 283,
@@ -11367,7 +11367,7 @@
 		{
 			"id": "f010a14daac605f0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两角和与差余弦公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两角和与差余弦公式.md",
 			"x": 5248,
 			"y": -1634,
 			"width": 234,
@@ -11376,7 +11376,7 @@
 		{
 			"id": "3f73551f552243a6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/sinθ，cosθ，tanθ的知一求二.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/sinθ，cosθ，tanθ的知一求二.md",
 			"x": 3707,
 			"y": -1265,
 			"width": 330,
@@ -11385,7 +11385,7 @@
 		{
 			"id": "bc85981f5a4da7ea",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/给角求值问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/给角求值问题.md",
 			"x": 3743,
 			"y": -857,
 			"width": 170,
@@ -11394,7 +11394,7 @@
 		{
 			"id": "f2c7d20efd60de19",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/同角三角函数的基本关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/同角三角函数的基本关系.md",
 			"x": 3703,
 			"y": -1690,
 			"width": 250,
@@ -11403,7 +11403,7 @@
 		{
 			"id": "7c325f18950213c3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/诱导公式与同角函数基本关系的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/诱导公式与同角函数基本关系的应用.md",
 			"x": 4566,
 			"y": -890,
 			"width": 308,
@@ -11412,7 +11412,7 @@
 		{
 			"id": "9409d733c0b911b7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/给值(式)求值问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/给值(式)求值问题.md",
 			"x": 4095,
 			"y": -863,
 			"width": 250,
@@ -11421,7 +11421,7 @@
 		{
 			"id": "96d6a964e0a742d4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用平方关系求参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用平方关系求参数.md",
 			"x": 4131,
 			"y": -1404,
 			"width": 250,
@@ -11430,7 +11430,7 @@
 		{
 			"id": "f46d4c18fb1292e4",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/同角三角函数的基本关系式化简.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/同角三角函数的基本关系式化简.md",
 			"x": 4131,
 			"y": -1715,
 			"width": 261,
@@ -11439,7 +11439,7 @@
 		{
 			"id": "92fc64a3d9d80e91",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/两角和与差正弦公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/两角和与差正弦公式.md",
 			"x": 5248,
 			"y": -1799,
 			"width": 263,
@@ -11458,7 +11458,7 @@
 		{
 			"id": "8de50e174bba751d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/三角函数线的应用.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/三角函数线的应用.md",
 			"x": 3176,
 			"y": -1101,
 			"width": 250,
@@ -11467,7 +11467,7 @@
 		{
 			"id": "44669d86fed5aadb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/弧长公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/弧长公式.md",
 			"x": 2975,
 			"y": -1489,
 			"width": 250,
@@ -11476,7 +11476,7 @@
 		{
 			"id": "ddb2f872e8adfc01",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/扇形面积公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/扇形面积公式.md",
 			"x": 2968,
 			"y": -1379,
 			"width": 250,
@@ -11485,7 +11485,7 @@
 		{
 			"id": "5cbb350a1783ba77",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/确定n分角的终边所在的象限.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/确定n分角的终边所在的象限.md",
 			"x": 2979,
 			"y": -1785,
 			"width": 305,
@@ -11495,7 +11495,7 @@
 		{
 			"id": "3783f57e5aa3f8e6",
 			"type": "file",
-			"file": "MathLogic-Weave/初中数学逻辑结构/知识点/用弧度制表示角的集合.md",
+			"file": "初中/MathLogic-Weave/初中数学逻辑结构/知识点/用弧度制表示角的集合.md",
 			"x": 2625,
 			"y": -1621,
 			"width": 250,
@@ -11504,7 +11504,7 @@
 		{
 			"id": "2a770fcd96395695",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/画三角函数线.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/画三角函数线.md",
 			"x": 2908,
 			"y": -1110,
 			"width": 175,
@@ -11513,7 +11513,7 @@
 		{
 			"id": "79136da06368c968",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/扇形中的最值问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/扇形中的最值问题.md",
 			"x": 3340,
 			"y": -1379,
 			"width": 292,
@@ -11523,7 +11523,7 @@
 		{
 			"id": "193f96adb720efe2",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/利用 sinα+cosα ,sinα−cosα 与 sinαcosα之间的关系求值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/利用 sinα+cosα ,sinα−cosα 与 sinαcosα之间的关系求值.md",
 			"x": 4624,
 			"y": -1589,
 			"width": 396,
@@ -11532,7 +11532,7 @@
 		{
 			"id": "17188a3dfbdaa43c",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/角度与弧度的互化.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/角度与弧度的互化.md",
 			"x": 2292,
 			"y": -1466,
 			"width": 199,
@@ -11541,7 +11541,7 @@
 		{
 			"id": "64b0e39634f40341",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由终边或终边上点求三角函数值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由终边或终边上点求三角函数值.md",
 			"x": 2008,
 			"y": -1083,
 			"width": 250,
@@ -11550,7 +11550,7 @@
 		{
 			"id": "32f1d0d2ecb75e09",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/终边在某条直线上的角的集合.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/终边在某条直线上的角的集合.md",
 			"x": 1989,
 			"y": -1811,
 			"width": 302,
@@ -11559,7 +11559,7 @@
 		{
 			"id": "b982a9319d4ab9c5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/由三角函数值求终边点的参数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/由三角函数值求终边点的参数.md",
 			"x": 2375,
 			"y": -1078,
 			"width": 250,
@@ -11568,7 +11568,7 @@
 		{
 			"id": "47dfa801a2da135b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/n分角邪修法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/n分角邪修法.md",
 			"x": 3009,
 			"y": -2030,
 			"width": 246,
@@ -11577,7 +11577,7 @@
 		{
 			"id": "f6cf9563ce2a9c89",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/区域角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/区域角.md",
 			"x": 2391,
 			"y": -1760,
 			"width": 250,
@@ -11586,7 +11586,7 @@
 		{
 			"id": "0f8734af591f268d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/证明三角恒等式常用的方法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/证明三角恒等式常用的方法.md",
 			"x": 4625,
 			"y": -1835,
 			"width": 303,
@@ -11595,7 +11595,7 @@
 		{
 			"id": "8a9871f2024638b8",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/平方和公式+三角函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/平方和公式+三角函数.md",
 			"x": 4624,
 			"y": -2030,
 			"width": 336,
@@ -11604,7 +11604,7 @@
 		{
 			"id": "8083169e9ed12f43",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/已知tanα,求关于sinα和cosα的齐次式的值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/已知tanα,求关于sinα和cosα的齐次式的值.md",
 			"x": 4624,
 			"y": -1309,
 			"width": 304,
@@ -11658,7 +11658,7 @@
 		{
 			"id": "a2a0f706bcfd14c3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/万能公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/万能公式.md",
 			"x": 888,
 			"y": -1455,
 			"width": 250,
@@ -11667,7 +11667,7 @@
 		{
 			"id": "c941d789fd62fc8b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/任意角的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/任意角的概念.md",
 			"x": 1628,
 			"y": -1857,
 			"width": 223,
@@ -11676,7 +11676,7 @@
 		{
 			"id": "dcf1144d0e26ecf7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/终边相同的角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/终边相同的角.md",
 			"x": 1989,
 			"y": -1984,
 			"width": 239,
@@ -11685,7 +11685,7 @@
 		{
 			"id": "223b0ab8e5db8078",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/弧度制的概念.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/弧度制的概念.md",
 			"x": 2020,
 			"y": -1447,
 			"width": 227,
@@ -11694,7 +11694,7 @@
 		{
 			"id": "f5c0cf189409ed24",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/微积分.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/微积分.md",
 			"x": -12192,
 			"y": -1911,
 			"width": 250,
@@ -11712,7 +11712,7 @@
 		{
 			"id": "e45c60d8073fabbf",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/函数的表达式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/函数的表达式.md",
 			"x": -10752,
 			"y": -1887,
 			"width": 320,
@@ -11777,7 +11777,7 @@
 		{
 			"id": "9532dffdfda14d48",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/解与零点.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/解与零点.md",
 			"x": -9139,
 			"y": -1629,
 			"width": 237,
@@ -11886,7 +11886,7 @@
 		{
 			"id": "398ebe249da82691",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/二分法求方程的近似解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/二分法求方程的近似解.md",
 			"x": -8561,
 			"y": -1660,
 			"width": 297,
@@ -11895,7 +11895,7 @@
 		{
 			"id": "ae6f75812f730922",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/零点区间问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/零点区间问题.md",
 			"x": -8537,
 			"y": -1296,
 			"width": 250,
@@ -11904,7 +11904,7 @@
 		{
 			"id": "6cc40fcea80b29cd",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/零点个数问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/零点个数问题.md",
 			"x": -8537,
 			"y": -1129,
 			"width": 250,
@@ -12039,7 +12039,7 @@
 		{
 			"id": "fafa83ef28b5a3a1",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/和差化积.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/和差化积.md",
 			"x": 288,
 			"y": -1290,
 			"width": 209,
@@ -12156,7 +12156,7 @@
 		{
 			"id": "598f8b37dea84aef",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角恒等变换.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角恒等变换.md",
 			"x": 88,
 			"y": -1455,
 			"width": 250,
@@ -12212,7 +12212,7 @@
 		{
 			"id": "e801d05407661e31",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/二倍角的正弦、余弦、正切公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/二倍角的正弦、余弦、正切公式.md",
 			"x": -392,
 			"y": -1790,
 			"width": 250,
@@ -12221,7 +12221,7 @@
 		{
 			"id": "1d8fd1f15cd97fb7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/半角公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/半角公式.md",
 			"x": 509,
 			"y": -1790,
 			"width": 208,
@@ -12249,7 +12249,7 @@
 		{
 			"id": "aba3013ce067533b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/分类思想练习.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/分类思想练习.md",
 			"x": -4232,
 			"y": -4928,
 			"width": 250,
@@ -12268,7 +12268,7 @@
 		{
 			"id": "6cca383a6337c073",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/同角三角函数的基本关系.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/同角三角函数的基本关系.md",
 			"x": -1222,
 			"y": -1760,
 			"width": 400,
@@ -12287,7 +12287,7 @@
 		{
 			"id": "79a2caf3a295b594",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/积化和差.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/积化和差.md",
 			"x": -392,
 			"y": -1295,
 			"width": 250,
@@ -12296,7 +12296,7 @@
 		{
 			"id": "91da849c702698a3",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/放到单位圆中研究.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/放到单位圆中研究.md",
 			"x": 529,
 			"y": -1396,
 			"width": 256,
@@ -12323,7 +12323,7 @@
 		{
 			"id": "0e3f578e935b7ab6",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/放到单位圆中研究.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/放到单位圆中研究.md",
 			"x": -2171,
 			"y": -1225,
 			"width": 249,
@@ -12332,7 +12332,7 @@
 		{
 			"id": "4560e82be257a6bc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/恒成立问题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/恒成立问题.md",
 			"x": -4072,
 			"y": -3918,
 			"width": 250,
@@ -12342,7 +12342,7 @@
 		{
 			"id": "91d2fd902260cf98",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/在区间内有解.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/在区间内有解.md",
 			"x": -3708,
 			"y": -3918,
 			"width": 250,
@@ -12352,7 +12352,7 @@
 		{
 			"id": "10ccdc8aa44fc0ea",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/分式不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/分式不等式.md",
 			"x": -3377,
 			"y": -3918,
 			"width": 250,
@@ -12398,7 +12398,7 @@
 		{
 			"id": "1dda835afafa5d11",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/用线段比值表示角的大小.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/用线段比值表示角的大小.md",
 			"x": -3766,
 			"y": -1276,
 			"width": 250,
@@ -12416,7 +12416,7 @@
 		{
 			"id": "28439b20a051d1eb",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/余弦函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/余弦函数.md",
 			"x": -2948,
 			"y": -1216,
 			"width": 176,
@@ -12425,7 +12425,7 @@
 		{
 			"id": "178e76a7b907351d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正切函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正切函数.md",
 			"x": -2948,
 			"y": -1110,
 			"width": 176,
@@ -12434,7 +12434,7 @@
 		{
 			"id": "ea0eb1ce37ac94d0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/三角函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/三角函数.md",
 			"x": -2626,
 			"y": -1216,
 			"width": 250,
@@ -12443,7 +12443,7 @@
 		{
 			"id": "30dd6677f46a9a7f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/函数值在各象限的符号.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/函数值在各象限的符号.md",
 			"x": -2230,
 			"y": -997,
 			"width": 238,
@@ -12479,7 +12479,7 @@
 		{
 			"id": "603627c4d01c3f5b",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/两角差的余弦公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/两角差的余弦公式.md",
 			"x": -1235,
 			"y": -1225,
 			"width": 50,
@@ -12515,7 +12515,7 @@
 		{
 			"id": "246fac79bd4581cc",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/角终边上任意一点的坐标的三角函数值.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/角终边上任意一点的坐标的三角函数值.md",
 			"x": -2241,
 			"y": -1660,
 			"width": 388,
@@ -12533,7 +12533,7 @@
 		{
 			"id": "1978b3f2ccb4f567",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/两角和与差的正弦、余弦、正切公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/两角和与差的正弦、余弦、正切公式.md",
 			"x": -1275,
 			"y": -1325,
 			"width": 620,
@@ -12542,7 +12542,7 @@
 		{
 			"id": "58e441c58f48b635",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/任意角.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/任意角.md",
 			"x": -3230,
 			"y": -1540,
 			"width": 178,
@@ -12560,7 +12560,7 @@
 		{
 			"id": "7e80ec08f52fb1c7",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/弧度制.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/弧度制.md",
 			"x": -2948,
 			"y": -1439,
 			"width": 176,
@@ -12569,7 +12569,7 @@
 		{
 			"id": "7aa8844478bfcc5a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/正弦函数.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/正弦函数.md",
 			"x": -2948,
 			"y": -1336,
 			"width": 176,
@@ -12578,7 +12578,7 @@
 		{
 			"id": "8701654cf9025d1d",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/扇形的弧长和面积公式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/扇形的弧长和面积公式.md",
 			"x": -2626,
 			"y": -1460,
 			"width": 250,
@@ -12587,7 +12587,7 @@
 		{
 			"id": "54a0a37842a908e6",
 			"type": "file",
-			"file": "高中数学知识点/幂函数.md",
+			"file": "高中/课堂同步/教辅/中小学智慧平台题/必修一/函数的概念与性质/幂函数.md",
 			"x": -4027,
 			"y": -3208,
 			"width": 250,
@@ -12698,7 +12698,7 @@
 		{
 			"id": "e59be60fefcff942",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/不等式一题多解专题.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/不等式一题多解专题.md",
 			"x": -2752,
 			"y": -4964,
 			"width": 220,
@@ -12708,7 +12708,7 @@
 		{
 			"id": "6e67b84ca588f6a5",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/不等式难点.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/不等式难点.md",
 			"x": -2752,
 			"y": -4501,
 			"width": 200,
@@ -12754,7 +12754,7 @@
 		{
 			"id": "5c3442b998a1b76e",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/罗素悖论.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/罗素悖论.md",
 			"x": -11011,
 			"y": -5100,
 			"width": 282,
@@ -12898,7 +12898,7 @@
 		{
 			"id": "55b22a2875f2d696",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/穿针引线法.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/穿针引线法.md",
 			"x": -4332,
 			"y": -4168,
 			"width": 280,
@@ -13015,7 +13015,7 @@
 		{
 			"id": "9a737c65fc2ea143",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/当且仅当a=b时，等号成立.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/当且仅当a=b时，等号成立.md",
 			"x": -3906,
 			"y": -5512,
 			"width": 263,
@@ -13070,7 +13070,7 @@
 		{
 			"id": "87881661bc783841",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/柯西不等式及其变形.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/柯西不等式及其变形.md",
 			"x": -2314,
 			"y": -5368,
 			"width": 250,
@@ -13079,7 +13079,7 @@
 		{
 			"id": "08f3b728468d97a0",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/题/基本不等式解题思路.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/题/基本不等式解题思路.md",
 			"x": -2752,
 			"y": -5890,
 			"width": 250,
@@ -13192,7 +13192,7 @@
 		{
 			"id": "a2e4d3e69dda473a",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/数形结合.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/数形结合.md",
 			"x": -10416,
 			"y": -5952,
 			"width": 250,
@@ -13294,7 +13294,7 @@
 		{
 			"id": "b3409c9f9f2948ef",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/希尔伯特旅馆悖论.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/希尔伯特旅馆悖论.md",
 			"x": -11758,
 			"y": -5872,
 			"width": 398,
@@ -13303,7 +13303,7 @@
 		{
 			"id": "27ec6dee1506aa1f",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/集合史.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/集合史.md",
 			"x": -11758,
 			"y": -5732,
 			"width": 250,
@@ -13313,7 +13313,7 @@
 		{
 			"id": "811b873f36176640",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/33 借助数轴.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/33 借助数轴.md",
 			"x": -11280,
 			"y": -6007,
 			"width": 299,
@@ -13331,7 +13331,7 @@
 		{
 			"id": "34bc73ecab09e840",
 			"type": "file",
-			"file": "MathLogic-Weave/高中数学逻辑结构/知识点/不等式.md",
+			"file": "高中/MathLogic-Weave/高中数学逻辑结构/知识点/不等式.md",
 			"x": -4836,
 			"y": -5458,
 			"width": 250,
