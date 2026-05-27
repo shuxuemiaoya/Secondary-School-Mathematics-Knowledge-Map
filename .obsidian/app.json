@@ -1,0 +1,7 @@
+{
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "deleteUnlinkedAttachments": "always"
+}
