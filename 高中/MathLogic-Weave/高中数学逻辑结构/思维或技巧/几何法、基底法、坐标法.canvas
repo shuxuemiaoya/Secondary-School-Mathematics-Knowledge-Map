@@ -1,0 +1,59 @@
+{
+	"nodes": [
+		{
+			"id": "a4be68bb3985a2c0",
+			"type": "text",
+			"text": "几何法",
+			"x": -88,
+			"y": -72,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "58d2432ba23f19af",
+			"type": "text",
+			"text": "基底法",
+			"x": -88,
+			"y": 264,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "fa469a7d5200805a",
+			"type": "text",
+			"text": "坐标法",
+			"x": -88,
+			"y": 600,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "30316630a4abfa50",
+			"type": "text",
+			"text": "在边长为 $2$ 的正方形 $ABCD$ 中，点 $P$ 为正方形内部（含边界）任意一点，求$\\vec{AP}\\cdot\\vec{AC}$的取值范围。",
+			"x": 360,
+			"y": -280,
+			"width": 760,
+			"height": 108
+		},
+		{
+			"id": "474b31355437f694",
+			"type": "text",
+			"text": "中线定理",
+			"x": 1349,
+			"y": -266,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "d695d4ba17819965",
+			"x": 763,
+			"y": 126,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "# 向量数量积最值——三种方法\n\n## 题目\n\n在边长为 $2$ 的正方形 $ABCD$ 中，点 $P$ 为正方形内部（含边界）任意一点，求\n\n$\\vec{AP}\\cdot\\vec{AC}$\n\n的取值范围。\n\n---\n\n# 方法一 几何投影法\n\n## 思路\n\n由数量积的几何意义：\n\n$\\vec{AP}\\cdot\\vec{AC}=|\\vec{AC}|\\times(\\vec{AP}\\text{ 在 }\\vec{AC}\\text{ 方向上的投影})$\n\n因此只需研究点 $P$ 在对角线 $AC$ 方向上的投影范围。\n\n## 解答\n\n因为正方形边长为 $2$，\n\n所以\n\n$|AC|=2\\sqrt2$\n\n设 $\\vec{AP}$ 在 $\\vec{AC}$ 方向上的投影长度为 $t$。\n\n由于点 $P$ 在正方形内部运动，\n\n所以\n\n$0\\le t\\le2\\sqrt2$\n\n因此\n\n$\\vec{AP}\\cdot\\vec{AC}=|AC|\\cdot t$\n\n$=2\\sqrt2\\,t$\n\n故\n\n$0\\le\\vec{AP}\\cdot\\vec{AC}\\le8$\n\n所以取值范围为\n\n$\\boxed{[0,8]}$\n\n## 特点\n\n- 直接利用数量积几何意义\n- 数形结合最强\n- 运算量最小\n\n---\n\n# 方法二 基底法\n\n## 思路\n\n取\n\n$\\vec{AB},\\vec{AD}$\n\n为基底，将 $\\vec{AP}$ 表示出来。\n\n## 解答\n\n设\n\n$\\vec{AP}=x\\vec{AB}+y\\vec{AD}$\n\n其中\n\n$0\\le x\\le1,\\quad0\\le y\\le1$\n\n又\n\n$\\vec{AC}=\\vec{AB}+\\vec{AD}$\n\n因为正方形中\n\n$\\vec{AB}\\perp\\vec{AD}$\n\n且\n\n$|AB|=|AD|=2$\n\n所以\n\n$\\vec{AB}\\cdot\\vec{AD}=0$\n\n$|\\vec{AB}|^2=|\\vec{AD}|^2=4$\n\n于是\n\n$\\vec{AP}\\cdot\\vec{AC}$\n\n$=(x\\vec{AB}+y\\vec{AD})\\cdot(\\vec{AB}+\\vec{AD})$\n\n$=4x+4y$\n\n因为\n\n$0\\le x,y\\le1$\n\n所以\n\n$0\\le4x+4y\\le8$\n\n故\n\n$\\boxed{[0,8]}$\n\n## 特点\n\n- 向量特征明显\n- 通用性较强\n- 适合复杂向量关系\n\n---\n\n# 方法三 坐标法\n\n## 思路\n\n建立平面直角坐标系，将向量坐标化。\n\n## 解答\n\n建立平面直角坐标系：\n\n$A(0,0),\\quad B(2,0),\\quad D(0,2)$\n\n则\n\n$C(2,2)$\n\n设\n\n$P(x,y)$\n\n其中\n\n$0\\le x\\le2,\\quad0\\le y\\le2$\n\n则\n\n$\\vec{AP}=(x,y)$\n\n$\\vec{AC}=(2,2)$\n\n因此\n\n$\\vec{AP}\\cdot\\vec{AC}$\n\n$=(x,y)\\cdot(2,2)$\n\n$=2x+2y$\n\n由\n\n$0\\le x\\le2,\\quad0\\le y\\le2$\n\n得\n\n$0\\le2x+2y\\le8$\n\n故\n\n$\\boxed{[0,8]}$\n\n## 特点\n\n- 方法最稳定\n- 适用范围最广\n- 计算量略大\n\n---\n\n# 三种方法对比\n\n| 方法 | 核心思想 | 优点 | 缺点 |\n|---|---|---|---|\n| 几何投影法 | 利用投影 | 最直观、最快 | 依赖图形 |\n| 基底法 | 向量表示 | 向量味最浓 | 抽象性较强 |\n| 坐标法 | 坐标运算 | 最稳定 | 运算较多 |"
+		}
+	],
+	"edges": []
+}
