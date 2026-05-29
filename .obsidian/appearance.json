@@ -1,5 +1,6 @@
 {
   "baseFontSizeAction": true,
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "theme": "moonstone"
 }
