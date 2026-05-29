@@ -1,0 +1,31 @@
+{
+	"nodes": [
+		{
+			"id": "cddc7830b77ea162",
+			"x": -222,
+			"y": -266,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "因式分解"
+		},
+		{
+			"id": "781751a557fe55be",
+			"x": 108,
+			"y": -398,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "一次提净"
+		}
+	],
+	"edges": [
+		{
+			"id": "161833c7be0e9b00",
+			"fromNode": "cddc7830b77ea162",
+			"fromSide": "right",
+			"toNode": "781751a557fe55be",
+			"toSide": "left"
+		}
+	]
+}
