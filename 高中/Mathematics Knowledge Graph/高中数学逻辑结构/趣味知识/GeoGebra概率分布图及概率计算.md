@@ -14,10 +14,10 @@ $$
 P(8\leqslant X\leqslant 12) = 0.7368.
 $$
 
-![](7e9d7eaff6587a5e4aa49503eab032b3e17dbc416b29edf16a5e9332fb6ef2c9.jpg)  
+![](images/7e9d7eaff6587a5e4aa49503eab032b3e17dbc416b29edf16a5e9332fb6ef2c9.jpg)  
 图1
 
-![](e4dcf8af32e5fea10f32209aa11c3425f19900b7dc03bbfbb00d218f01dd4bdb.jpg)  
+![](images/e4dcf8af32e5fea10f32209aa11c3425f19900b7dc03bbfbb00d218f01dd4bdb.jpg)  
 图2
 
 2. 超几何分布
@@ -36,7 +36,7 @@ $$
 \begin{array}{l}P(-1\leqslant X\leqslant 1) = 0.6827, \\ P(-2\leqslant X\leqslant 2) = 0.9545, \\ P(-3\leqslant X\leqslant 3) = 0.9973. \end{array}
 $$
 
-![](a6c1764121dac395ee0a3f1a848b4ba30d2a7db78ed6deff7b40917929ca5751.jpg)  
+![](images/a6c1764121dac395ee0a3f1a848b4ba30d2a7db78ed6deff7b40917929ca5751.jpg)  
 图3
 
 通过窗口左下角的按钮,还可以求变量落在单边区间内的概率,例如
