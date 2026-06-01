@@ -1,10 +1,10 @@
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-**专题三　汉堡模型**
+专题三　汉堡模型
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -22,11 +22,11 @@
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-<strong>[例]</strong>　(1) (2013辽宁)已知直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的6个顶点都在球<em>O</em>的球面上．若<em>AB</em>＝3，<em>AC</em>＝4，<em>AB</em>⊥<em>AC</em>，<em>AA</em><sub>1</sub>＝12，则球<em>O</em>的半径为(　　)．
+<strong>[例]</strong>　（1） (2013辽宁)已知直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的6个顶点都在球<em>O</em>的球面上．若<em>AB</em>＝3，<em>AC</em>＝4，<em>AB</em>⊥<em>AC</em>，<em>AA</em><sub>1</sub>＝12，则球<em>O</em>的半径为(　　)．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -38,10 +38,12 @@
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　B．　　　　　　　C．　　　　　　　D．
+A．　　　　　　　
+B．　　　　　　　
+C．　　　　　　　
+D．
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
 答案　C　解析　如图所示，由球心作平面<em>ABC</em>的垂线，则垂足为<em>BC</em>的中点<em>M</em>．又<em>AM</em>＝<em>BC</em>＝，<em>OM</em>＝<em>AA</em><sub>1</sub>＝6，所以球<em>O</em>的半径<em>R</em>＝<em>OA</em>＝＝．
 
 ![](images/3a7f032f5225f35401871722ff1f3ba74ea898263ef7736f7f757ef7b6472986.jpg)
@@ -56,21 +58,10 @@ A．　　　　　　　B．　　　　　　　C．　　　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-(2)设三棱柱的侧棱垂直于底面，所有棱长都为，顶点都在一个球面上，则该球的表面积为(　　)．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)  
+（2）设三棱柱的侧棱垂直于底面，所有棱长都为，顶点都在一个球面上，则该球的表面积为(　　)．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　 　　B．　　　　　　　C．　　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -78,34 +69,48 @@ A．　　　　　 　　B．　　　　　　　C．　　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+A．　　　　　 　　
+B．　　　　　　　
+C．　　　　　　
+D．
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　B　解析　，．故选B．
 
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-(3)(2009全国Ⅰ)直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的各顶点都在同一球面上，若<em>AB</em>＝<em>AC</em>＝<em>AA</em><sub>1</sub>＝2，∠<em>BAC</em>＝120°，则此球的表面积等于(　　)．
-
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-A．10π　　　　　　　　B．20π　　　　　　　　C．30π　　　　　　　　D．40π
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)  
+（3）(2009全国Ⅰ)直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的各顶点都在同一球面上，若<em>AB</em>＝<em>AC</em>＝<em>AA</em><sub>1</sub>＝2，∠<em>BAC</em>＝120°，则此球的表面积等于(　　)．
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
+A．10π　　　　　　　　
+B．20π　　　　　　　　
+C．30π　　　　　　　　
+D．40π
+
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 答案　B　解析　如图，先由余弦定理求出<em>BC</em>＝2，再由正弦定理求出<em>r</em>＝<em>AO</em><sub>1</sub>＝2，外接球的直径<em>R</em>＝＝，所以该球的表面积为4π<em>R</em><sup>2</sup>＝20π．故选B．
 
 ![](images/d2745598258e976517cabc9604a4eeb9ace2ac5672e24515fe193c0e0fdae862.jpg)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-(4)已知圆柱的高为2，底面半径为，若该圆柱的两个底面的圆周都在同一个球面上，则这个球的表面积等于(　　)
-
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-A．4π 　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．16π
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)  
+（4）已知圆柱的高为2，底面半径为，若该圆柱的两个底面的圆周都在同一个球面上，则这个球的表面积等于(　　)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
+A．4π 　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．16π
+
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 答案　D　解析　由题意知圆柱的中心<em>O</em>为这个球的球心，于是，球的半径<em>r</em>＝<em>OB</em>＝＝＝2．故这个球的表面积<em>S</em>＝4π<em>r</em><sup>2</sup>＝16π．故选D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -114,25 +119,8 @@ A．4π 　　　　　　　　B．　　　　　　　　C．　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(5)若一个圆柱的表面积为，则该圆柱的外接球的表面积的最小值为
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　B．　　　　　C．　　　　　D．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（5）若一个圆柱的表面积为，则该圆柱的外接球的表面积的最小值为
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -144,17 +132,35 @@ A．　　　　　B．　　　　　C．　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+A．　　　　　
+B．　　　　　
+C．　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　A　解析　设圆柱的底面半径为，高为，则，则．设该圆柱的外接球的半径为，则，当且仅当，即时，等号成立．故该圆柱的外接球的表面积的最小值为．
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -162,7 +168,10 @@ A．　　　　　B．　　　　　C．　　　　　D．
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-A．　　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．π
+A．　　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．π
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -193,12 +202,14 @@ A．　　　　　　　　　B．　　　　　　　　C．　　　　　�
 3．已知正三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>中，底面积为，一个侧面的周长为6，则正三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>外
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
 接球的表面积为(　　)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-A．4π　　　　　　　　B．8π　　　　　　　　C．16π　　　　　　　D．32π
+A．4π　　　　　　　　
+B．8π　　　　　　　　
+C．16π　　　　　　　
+D．32π
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -222,7 +233,10 @@ A．4π　　　　　　　　B．8π　　　　　　　　C．16π　　　�
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．20π
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．20π
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -233,7 +247,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
 由题意可得外接球的球心<em>O</em>为<em>O</em><sub>1</sub><em>O</em><sub>2</sub>的中点．在△<em>ABC</em>中，由余弦定理可得<em>BC</em><sup>2</sup>＝<em>AB</em><sup>2</sup>＋<em>AC</em><sup>2</sup>－2<em>AB</em>×<em>AC</em>cos∠<em>BAC</em>＝3<sup>2</sup>＋1<sup>2</sup>－2×3×1×cos 60°＝7，所以<em>BC</em>＝，由正弦定理可得△<em>ABC</em>外接圆的直径2<em>r</em>＝2<em>O</em><sub>2</sub><em>B</em>＝＝，所以<em>r</em>＝＝，而球心<em>O</em>到截面<em>ABC</em>的距离<em>d</em>＝<em>OO</em><sub>2</sub>＝<em>AA</em><sub>1</sub>＝1，设直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的外接球半径为<em>R</em>，由球的截面性质可得<em>R</em><sup>2</sup>＝<em>d</em><sup>2</sup>＋<em>r</em><sup>2</sup>＝1<sup>2</sup>＋<sup>2</sup>＝，故<em>R</em>＝，所以该三棱柱的外接球的体积为<em>V</em>＝<em>R</em><sup>3</sup>＝．故选B．
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
@@ -246,7 +259,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-A．6π　　　　　　　　B．5π　　　　　　　　C．4π　　　　　　　　D．3π
+A．6π　　　　　　　　
+B．5π　　　　　　　　
+C．4π　　　　　　　　
+D．3π
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -261,12 +277,14 @@ A．6π　　　　　　　　B．5π　　　　　　　　C．4π　　　�
 6．已知直三棱柱<em>ABC</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub>的6个顶点都在球<em>O</em>的表面上，若<em>AB</em>＝<em>AC</em>＝1，<em>AA</em><sub>1</sub>＝2，∠<em>BAC</em>＝，
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
 则球*O*的体积为(　　)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
-A．　　　　　　　　B．3π　　　　　　　　C．　　　　　　　　D．8π
+A．　　　　　　　　
+B．3π　　　　　　　　
+C．　　　　　　　　
+D．8π
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
@@ -277,7 +295,6 @@ A．　　　　　　　　B．3π　　　　　　　　C．　　　　　�
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
 
 ![](images/4a32f6ffe051b2d2ab3d6cb36d827f0940bf55bc9f47572cfddcd61fdab796f4.png)
-
 ∵<em>AB</em>＝<em>AC</em>＝1，<em>AA</em><sub>1</sub>＝2，∠<em>BAC</em>＝，∴2<em>r</em>＝＝＝2，即<em>O</em><sub>1</sub><em>A</em>＝1，<em>O</em><sub>1</sub><em>O</em>＝<em>AA</em><sub>1</sub>＝，∴<em>OA</em>＝＝＝2，∴球<em>O</em>的体积<em>V</em>＝π·<em>OA</em><sup>3</sup>＝．故选A．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -296,7 +313,10 @@ A．　　　　　　　　B．3π　　　　　　　　C．　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．倍　　　　　　B．2倍　　　　　　C．倍　　　　　　D．3倍
+A．倍　　　　　　
+B．2倍　　　　　　
+C．倍　　　　　　
+D．3倍
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -358,7 +378,10 @@ A．倍　　　　　　B．2倍　　　　　　C．倍　　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 

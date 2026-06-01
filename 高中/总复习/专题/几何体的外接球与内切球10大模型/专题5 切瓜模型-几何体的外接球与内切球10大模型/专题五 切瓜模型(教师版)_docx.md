@@ -1,10 +1,10 @@
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-**专题五　切瓜模型**
+专题五　切瓜模型
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
@@ -22,42 +22,40 @@
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-<strong>[例]</strong>　(1)已知在三棱锥<em>P</em>－<em>ABC</em>中，<em>V<sub>P</sub></em><sub>­</sub><em><sub>ABC</sub></em>＝，∠<em>APC</em>＝，∠<em>BPC</em>＝，<em>PA</em>⊥<em>AC</em>，<em>PB</em>⊥<em>BC</em>，且平面<em>PAC</em>⊥平面<em>PBC</em>，那么三棱锥<em>P</em>－<em>ABC</em>外接球的体积为\_\_\_\_\_\_\_\_．
+<strong>[例]</strong>　（1）已知在三棱锥<em>P</em>－<em>ABC</em>中，<em>V<sub>P</sub></em><sub>­</sub><em><sub>ABC</sub></em>＝，∠<em>APC</em>＝，∠<em>BPC</em>＝，<em>PA</em>⊥<em>AC</em>，<em>PB</em>⊥<em>BC</em>，且平面<em>PAC</em>⊥平面<em>PBC</em>，那么三棱锥<em>P</em>－<em>ABC</em>外接球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
 答案　　解析　如图，取<em>PC</em>的中点<em>O</em>，连接<em>AO</em>，<em>BO</em>，设<em>PC</em>＝2<em>R</em>，则<em>OA</em>＝<em>OB</em>＝<em>OC</em>＝<em>OP</em>＝<em>R</em>，∴<em>O</em>是三棱锥<em>P</em>－<em>ABC</em>外接球的球心，易知，<em>PB</em>＝<em>R</em>，<em>BC</em>＝<em>R</em>，∵∠<em>APC</em>＝，<em>PA</em>⊥<em>AC</em>，<em>O</em>为<em>PC</em>的中点，∴<em>AO</em>⊥<em>PC</em>，又平面<em>PAC</em>⊥平面<em>PBC</em>，且平面<em>PAC</em>∩平面<em>PBC</em>＝<em>PC</em>，∴<em>AO</em>⊥平面<em>PBC</em>，∴<em>V<sub>P</sub></em><sub>­</sub><em><sub>ABC</sub></em>＝<em>V<sub>A</sub></em><sub>­</sub><em><sub>PBC</sub></em>＝××<em>PB</em>×<em>BC</em>×<em>AO</em>＝××<em>R</em>×<em>R</em>×<em>R</em>＝，解得<em>R</em>＝2，∴三棱锥<em>P</em>－<em>ABC</em>外接球的体积<em>V</em>＝π<em>R</em><sup>3</sup>＝．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
-(2)如图，已知平面四边形*ABCD*满足*AB*＝*AD*＝2，∠*A*＝60˚，∠*C*＝90˚，将△*ABD*沿对角线*BD*翻折，使平面*ABD*⊥平面*CBD*，则四面体*ABCD*外接球的体积为\_\_\_\_\_\_\_\_．
+![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)  
+（2）如图，已知平面四边形*ABCD*满足*AB*＝*AD*＝2，∠*A*＝60˚，∠*C*＝90˚，将△*ABD*沿对角线*BD*翻折，使平面*ABD*⊥平面*CBD*，则四面体*ABCD*外接球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/d923aede342e564e4ce5d009f943a8a00652efb8f6dddce3833cf1d14d00efd8.jpg)
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
 答案　　解析　在四面体<em>ABCD</em>中，∵<em>AB</em>＝<em>AD</em>＝2，∠<em>BAD</em>＝60˚，∴△<em>ABD</em>为正三角形，设<em>BD</em>的中点为<em>M</em>，连接<em>AM</em>，则<em>AM</em>⊥<em>BD</em>，又平面<em>ABD</em>⊥平面<em>CBD</em>，平面<em>ABD</em>∩平面<em>CBD</em>＝<em>BD</em>，∴<em>AM</em>⊥平面<em>CBD</em>．∵△<em>CBD</em>为直角三角形，∴其外接圆的圆心是斜边<em>BD</em>的中点<em>M</em>，由球的性质知，四面体<em>ABCD</em>外接球的球心必在线段<em>AM</em>上，又△<em>ABD</em>为正三角形，∴球心是△<em>ABD</em>的中心，则外接球的半径为×2×＝，∴四面体<em>ABCD</em>外接球的体积为×π×()<sup>3</sup>＝．
 
-![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
-(3)已知三棱锥*A－BCD*中，△*ABD*与△*BCD*是边长为2的等边三角形且二面角*A－BD－C*为直二面角，则三棱锥*A－BCD*的外接球的表面积为(　　)
-
-![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
-A．　　　　　　　　B．5π　　　　　　　　C．6π　　　　　　　　D．
+![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)  
+（3）已知三棱锥*A－BCD*中，△*ABD*与△*BCD*是边长为2的等边三角形且二面角*A－BD－C*为直二面角，则三棱锥*A－BCD*的外接球的表面积为(　　)
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
+A．　　　　　　　　
+B．5π　　　　　　　　
+C．6π　　　　　　　　
+D．
+
+![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 答案　D　解析　如图，取<em>BD</em>中点<em>M</em>，连接<em>AM</em>，<em>CM</em>，取△<em>ABD</em>，△<em>CBD</em>的中心即<em>AM</em>，<em>CM</em>的三等分点<em>P</em>，<em>Q</em>，过<em>P</em>作平面<em>ABD</em>的垂线，过<em>Q</em>作平面<em>CBD</em>的垂线，两垂线相交于点<em>O</em>，则点<em>O</em>为外接球的球心，如图，其中<em>OQ</em>＝，<em>CQ</em>＝，连接<em>OC</em>，则外接球的半径<em>R</em>＝<em>OC</em>＝，表面积为4π<em>R</em><sup>2</sup>＝，故选D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -84,9 +82,8 @@ A．　　　　　　　　B．5π　　　　　　　　C．6π　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(4)已知是以为斜边的直角三角形，为平面外一点，且平面平面，，，，则三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（4）已知是以为斜边的直角三角形，为平面外一点，且平面平面，，，，则三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -137,21 +134,18 @@ A．　　　　　　　　B．5π　　　　　　　　C．6π　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　由题意知的中点为外接圆的圆心，且平面平面，过作面的垂线，则垂线一定在面内．根据球的性质，球心一定在垂线上，球心一定在平面内，且球心也是外接圆的圆心．在中，由余弦定理得，，由正弦定理得：，解得，三棱锥的外接球的表面积．
 
-![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
-
-(5)已知等腰直角三角形*ABC*中，*AB*＝*AC*＝2，*D*，*E*分别为*AB*，*AC*的中点，沿*DE*将△*ABC*折成直二面角(如图)，则四棱锥*A*－*DECB*的外接球的表面积为\_\_\_\_\_\_\_\_．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
+![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)  
+（5）已知等腰直角三角形*ABC*中，*AB*＝*AC*＝2，*D*，*E*分别为*AB*，*AC*的中点，沿*DE*将△*ABC*折成直二面角(如图)，则四棱锥*A*－*DECB*的外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 答案　10π　解析　取<em>DE</em>的中点<em>M</em>，<em>BC</em>的中点<em>N</em>，连接<em>MN</em>(图略)，由题意知，<em>MN</em>⊥平面<em>ADE</em>，因为△<em>ADE</em>是等腰直角三角形，所以△<em>ADE</em>的外接圆的圆心是点<em>M</em>，四棱锥<em>A</em>－<em>DECB</em>的外接球的球心在直线<em>MN</em>上，又等腰梯形<em>DECB</em>的外接圆的圆心在<em>MN</em>上，所以四棱锥<em>A</em>－<em>DECB</em>的外接球的球心就是等腰梯形<em>DECB</em>的外接圆的圆心．连接<em>BE</em>，易知△<em>BEC</em>是钝角三角形，所以等腰梯形<em>DECB</em>的外接圆的圆心在等腰梯形<em>DECB</em>的外部．设四棱锥<em>A</em>－<em>DECB</em>的外接球的半径为<em>R</em>，球心到<em>BC</em>的距离为<em>d</em>，则解得<em>R</em><sup>2</sup>＝，故四棱锥<em>A</em>－<em>DECB</em>的外接球的表面积<em>S</em>＝4π<em>R</em><sup>2</sup>＝10π．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -160,7 +154,7 @@ A．　　　　　　　　B．5π　　　　　　　　C．6π　　　　�
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -190,7 +184,10 @@ A．　　　　　　　　B．5π　　　　　　　　C．6π　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -217,7 +214,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 则，；三棱锥的外接球直径为，外接球的表面积为．
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
@@ -254,7 +250,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
-A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　　　　　　D．36π
+A．4π　　　　　　　　
+B．12π　　　　　　　　
+C．16π　　　　　　　　
+D．36π
 
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
@@ -300,7 +299,10 @@ A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -438,7 +440,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -516,7 +521,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -587,7 +595,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/27259713f8472cf55b62c7f7af8abbb7ce84564a616e52df331c004e3109a7a1.png)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 则该四棱锥的外接球的体积为
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -600,7 +607,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　B．　　　　　　　C．　　　　　　　D．
+A．　　　　　　　
+B．　　　　　　　
+C．　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -668,7 +678,10 @@ A．　　　　　　　B．　　　　　　　C．　　　　　　　D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -862,7 +875,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 

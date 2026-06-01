@@ -1,72 +1,75 @@
-**专题05　立体几何中的截面问题**
+专题05　立体几何中的截面问题
 
-【**方法总结**】
+【方法总结】
 
 确定截面的主要依据
 
-用一个平面去截几何体，此平面与几何体的交集叫做这个几何体的截面，利用平面的性质确定截面形状是解决截面问题的关键．
+用一个平面去截几何体，此平面与几何体的交集叫做这个几何体的截面，利用平面的性质确定截面形状是解决截面问题的关键．  
+（1）平面的四个公理及推论．（2）直线和平面平行的判定和性质．（3）两个平面平行的性质．（4）球的截面的性质．
 
-(1)平面的四个公理及推论．(2)直线和平面平行的判定和性质．(3)两个平面平行的性质．(4)球的截面的性质．
+【例题选讲】
 
-**【例题选讲】**
-
-<strong>[例1]</strong>(1)如图，在正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，<em>E</em>，<em>F</em>，<em>G</em>分别在<em>AB</em>，<em>BC</em>，<em>DD</em><sub>1</sub>上，则作过<em>E</em>，<em>F</em>，<em>G</em>三点的截面图形为(　　)
+<strong>[例1]</strong>（1）如图，在正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，<em>E</em>，<em>F</em>，<em>G</em>分别在<em>AB</em>，<em>BC</em>，<em>DD</em><sub>1</sub>上，则作过<em>E</em>，<em>F</em>，<em>G</em>三点的截面图形为(　　)
 
 ![](images/20d617bb4a49afc323069ed86e1415fcadf2487a7f4404ef0585dfb4875c8b67.jpg)
 
-A．四边形　　　　　　B．三角形　　　　　　C．五边形　　　　　　D．六边形
-
+A．四边形　　　　　　
+B．三角形　　　　　　
+C．五边形　　　　　　
+D．六边形
 答案　C　解析　作法：①在底面<em>AC</em>内，过<em>E</em>，<em>F</em>作直线<em>EF</em>，分别与<em>DA</em>，<em>DC</em>的延长线交于<em>L</em>，<em>M</em>．②在侧面<em>A</em><sub>1</sub><em>D</em>内，连接<em>LG</em>交<em>AA</em><sub>1</sub>于<em>K</em>．③在侧面<em>D</em><sub>1</sub><em>C</em>内，连接<em>GM</em>交<em>CC</em><sub>1</sub>于<em>H</em>．④连接<em>KE</em>，<em>FH</em>．则五边形<em>EFHGK</em>即为所求的截面．
 
-![](images/ddf5f24a57710738767865993477dc97025094a7423332f7dcd3682797d18e42.jpg)
-
-(2)如图，在正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，点<em>E</em>，<em>F</em>分别是棱<em>B</em><sub>1</sub><em>B</em>，<em>B</em><sub>1</sub><em>C</em><sub>1</sub>的中点，点<em>G</em>是棱<em>C</em><sub>1</sub><em>C</em>的中点，则过线段<em>AG</em>且平行于平面<em>A</em><sub>1</sub><em>EF</em>的截面图形为(　　)
+![](images/ddf5f24a57710738767865993477dc97025094a7423332f7dcd3682797d18e42.jpg)  
+（2）如图，在正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，点<em>E</em>，<em>F</em>分别是棱<em>B</em><sub>1</sub><em>B</em>，<em>B</em><sub>1</sub><em>C</em><sub>1</sub>的中点，点<em>G</em>是棱<em>C</em><sub>1</sub><em>C</em>的中点，则过线段<em>AG</em>且平行于平面<em>A</em><sub>1</sub><em>EF</em>的截面图形为(　　)
 
 ![](images/d40a2d1ba58cd728060a1e958c9c2acbb93148d5cf4f122475da1d4f794d5045.jpg)
 
-A．矩形　　　　　　　B．三角形　　　　　　　　C．正方形　　　　　　　D．等腰梯形
-
+A．矩形　　　　　　　
+B．三角形　　　　　　　　
+C．正方形　　　　　　　
+D．等腰梯形
 答案　D　解析　取<em>BC</em>的中点<em>H</em>，连接<em>AH</em>，<em>GH</em>，<em>AD</em><sub>1</sub>，<em>D</em><sub>1</sub><em>G</em>，
 
 ![](images/aad742e0ab3f17b9f107e018eec3320c4527e38b20400d4c2d07f335ee1a49b1.jpg)
+由题意得<em>GH</em>∥<em>EF</em>，<em>AH</em>∥<em>A</em><sub>1</sub><em>F</em>，又<em>GH</em>⊄平面<em>A</em><sub>1</sub><em>EF</em>，<em>EF</em>⊂平面<em>A</em><sub>1</sub><em>EF</em>，∴<em>GH</em>∥平面<em>A</em><sub>1</sub><em>EF</em>，同理<em>AH</em>∥平面<em>A</em><sub>1</sub><em>EF</em>，又<em>GH</em>∩<em>AH</em>＝<em>H</em>，<em>GH</em>，<em>AH</em>⊂平面<em>AHGD</em><sub>1</sub>，∴平面<em>AHGD</em><sub>1</sub>∥平面<em>A</em><sub>1</sub><em>EF</em>，故过线段<em>AG</em>且与平面<em>A</em><sub>1</sub><em>EF</em>平行的截面图形为四边形<em>AHGD</em><sub>1</sub>，显然为等腰梯形．  
+（3）(2018·全国Ⅰ)已知正方体的棱长为1，每条棱所在直线与平面*α*所成的角都相等，则*α*截此正方体所得截面面积的最大值为(　　)
 
-由题意得<em>GH</em>∥<em>EF</em>，<em>AH</em>∥<em>A</em><sub>1</sub><em>F</em>，又<em>GH</em>⊄平面<em>A</em><sub>1</sub><em>EF</em>，<em>EF</em>⊂平面<em>A</em><sub>1</sub><em>EF</em>，∴<em>GH</em>∥平面<em>A</em><sub>1</sub><em>EF</em>，同理<em>AH</em>∥平面<em>A</em><sub>1</sub><em>EF</em>，又<em>GH</em>∩<em>AH</em>＝<em>H</em>，<em>GH</em>，<em>AH</em>⊂平面<em>AHGD</em><sub>1</sub>，∴平面<em>AHGD</em><sub>1</sub>∥平面<em>A</em><sub>1</sub><em>EF</em>，故过线段<em>AG</em>且与平面<em>A</em><sub>1</sub><em>EF</em>平行的截面图形为四边形<em>AHGD</em><sub>1</sub>，显然为等腰梯形．
-
-(3)(2018·全国Ⅰ)已知正方体的棱长为1，每条棱所在直线与平面*α*所成的角都相等，则*α*截此正方体所得截面面积的最大值为(　　)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 答案　A　解析　如图所示，在正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，平面<em>AB</em><sub>1</sub><em>D</em><sub>1</sub>与棱<em>A</em><sub>1</sub><em>A</em>，<em>A</em><sub>1</sub><em>B</em><sub>1</sub>，<em>A</em><sub>1</sub><em>D</em><sub>1</sub>所成的角都相等，又正方体的其余棱都分别与<em>A</em><sub>1</sub><em>A</em>，<em>A</em><sub>1</sub><em>B</em><sub>1</sub>，<em>A</em><sub>1</sub><em>D</em><sub>1</sub>平行，故正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>的每条棱所在直线与平面<em>AB</em><sub>1</sub><em>D</em><sub>1</sub>所成的角都相等．取棱<em>AB</em>，<em>BB</em><sub>1</sub>，<em>B</em><sub>1</sub><em>C</em><sub>1</sub>，<em>C</em><sub>1</sub><em>D</em><sub>1</sub>，<em>DD</em><sub>1</sub>，<em>AD</em>的中点<em>E</em>，<em>F</em>，<em>G</em>，<em>H</em>，<em>M</em>，<em>N</em>，则正六边形<em>EFGHMN</em>所在平面与平面<em>AB</em><sub>1</sub><em>D</em><sub>1</sub>平行且面积最大，此截面面积为<em>S</em><sub>正六边形</sub><em><sub>EFGHMN</sub></em>＝6×××sin 60°＝．故选A．
 
-![](images/b68b827bcadf356123d5c796d014daecedf5aed2b16ebfe8645c126645f5ea60.jpg)
-
-(4)如图，在三棱锥<em>O</em>－<em>ABC</em>中，三条棱<em>OA</em>，<em>OB</em>，<em>OC</em>两两垂直，且<em>OA</em>&gt;<em>OB</em>&gt;<em>OC</em>，分别经过三条棱<em>OA</em>，<em>OB</em>，<em>OC</em>作一个截面平分三棱锥的体积，截面面积依次为<em>S</em><sub>1</sub>，<em>S</em><sub>2</sub>，<em>S</em><sub>3</sub>，则<em>S</em><sub>1</sub>，<em>S</em><sub>2</sub>，<em>S</em><sub>3</sub>的大小关系为\_\_\_\_\_\_\_\_．
+![](images/b68b827bcadf356123d5c796d014daecedf5aed2b16ebfe8645c126645f5ea60.jpg)  
+（4）如图，在三棱锥<em>O</em>－<em>ABC</em>中，三条棱<em>OA</em>，<em>OB</em>，<em>OC</em>两两垂直，且<em>OA</em>&gt;<em>OB</em>&gt;<em>OC</em>，分别经过三条棱<em>OA</em>，<em>OB</em>，<em>OC</em>作一个截面平分三棱锥的体积，截面面积依次为<em>S</em><sub>1</sub>，<em>S</em><sub>2</sub>，<em>S</em><sub>3</sub>，则<em>S</em><sub>1</sub>，<em>S</em><sub>2</sub>，<em>S</em><sub>3</sub>的大小关系为\_\_\_\_\_\_\_\_．
 
 ![](images/385c886263ca2f81d1690e471d2d140256e38541fc24ee8a56daf542a7a06be8.jpg)
-
 答案　<em>S</em><sub>3</sub>&lt;<em>S</em><sub>2</sub>&lt;<em>S</em><sub>1</sub>　　解析　由题意知<em>OA</em>，<em>OB</em>，<em>OC</em>两两垂直，可将其放置在以<em>O</em>为顶点的长方体中，设三边<em>OA</em>，<em>OB</em>，<em>OC</em>分别为<em>a</em>，<em>b</em>，<em>c</em>，且<em>a</em>&gt;<em>b</em>&gt;<em>c</em>，利用等体积法易得
 
 ![](images/59afa38512bcd3d0f814430cd4eced061eaaa088258a8acd99ce10b4066f71fd.jpg)
 
-<em>S</em><sub>1</sub>＝<em>a</em>，<em>S</em><sub>2</sub>＝<em>b</em>，<em>S</em><sub>3</sub>＝<em>c</em>，∴<em>S</em>－<em>S</em>＝(<em>a</em><sup>2</sup><em>b</em><sup>2</sup>＋<em>a</em><sup>2</sup><em>c</em><sup>2</sup>)－(<em>b</em><sup>2</sup><em>a</em><sup>2</sup>＋<em>b</em><sup>2</sup><em>c</em><sup>2</sup>)＝<em>c</em><sup>2</sup>(<em>a</em><sup>2</sup>－<em>b</em><sup>2</sup>)，又<em>a</em>&gt;<em>b</em>，∴<em>S</em>－<em>S</em>&gt;0，即<em>S</em><sub>1</sub>&gt;<em>S</em><sub>2</sub>，同理，平方后作差可得，<em>S</em><sub>2</sub>&gt;<em>S</em><sub>3</sub>，∴<em>S</em><sub>3</sub>&lt;<em>S</em><sub>2</sub>&lt;<em>S</em><sub>1</sub>．
+<em>S</em><sub>1</sub>＝<em>a</em>，<em>S</em><sub>2</sub>＝<em>b</em>，<em>S</em><sub>3</sub>＝<em>c</em>，∴<em>S</em>－<em>S</em>＝(<em>a</em><sup>2</sup><em>b</em><sup>2</sup>＋<em>a</em><sup>2</sup><em>c</em><sup>2</sup>)－(<em>b</em><sup>2</sup><em>a</em><sup>2</sup>＋<em>b</em><sup>2</sup><em>c</em><sup>2</sup>)＝<em>c</em><sup>2</sup>(<em>a</em><sup>2</sup>－<em>b</em><sup>2</sup>)，又<em>a</em>&gt;<em>b</em>，∴<em>S</em>－<em>S</em>&gt;0，即<em>S</em><sub>1</sub>&gt;<em>S</em><sub>2</sub>，同理，平方后作差可得，<em>S</em><sub>2</sub>&gt;<em>S</em><sub>3</sub>，∴<em>S</em><sub>3</sub>&lt;<em>S</em><sub>2</sub>&lt;<em>S</em><sub>1</sub>．  
+（5）(2016·全国Ⅰ)平面<em>α</em>过正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>的顶点<em>A</em>，<em>α</em>∥平面<em>CB</em><sub>1</sub><em>D</em><sub>1</sub>，<em>α</em>∩平面<em>ABCD</em>＝<em>m</em>，<em>α</em>∩平面<em>ABB</em><sub>1</sub><em>A</em><sub>1</sub>＝<em>n</em>，则<em>m</em>，<em>n</em>所成角的正弦值为(　　)
 
-(5)(2016·全国Ⅰ)平面<em>α</em>过正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>的顶点<em>A</em>，<em>α</em>∥平面<em>CB</em><sub>1</sub><em>D</em><sub>1</sub>，<em>α</em>∩平面<em>ABCD</em>＝<em>m</em>，<em>α</em>∩平面<em>ABB</em><sub>1</sub><em>A</em><sub>1</sub>＝<em>n</em>，则<em>m</em>，<em>n</em>所成角的正弦值为(　　)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 答案　A　解析　如图所示，设平面<em>CB</em><sub>1</sub><em>D</em><sub>1</sub>∩平面<em>ABCD</em>＝<em>m</em><sub>1</sub>，∵<em>α</em>∥平面<em>CB</em><sub>1</sub><em>D</em><sub>1</sub>，则<em>m</em><sub>1</sub>∥<em>m</em>，
 
 ![](images/a025e0513c1e0555e88f3c11841b3480cbbf9f0ba9b4fbf733b81870204599ea.jpg)
-
 又∵平面<em>ABCD</em>∥平面<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>，平面<em>CB</em><sub>1</sub><em>D</em><sub>1</sub>∩平面<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>＝<em>B</em><sub>1</sub><em>D</em><sub>1</sub>，∴<em>B</em><sub>1</sub><em>D</em><sub>1</sub>∥<em>m</em><sub>1</sub>，∴<em>B</em><sub>1</sub><em>D</em><sub>1</sub>∥<em>m</em>，同理可得<em>CD</em><sub>1</sub>∥<em>n</em>．故<em>m</em>，<em>n</em>所成角的大小与<em>B</em><sub>1</sub><em>D</em><sub>1</sub>，<em>CD</em><sub>1</sub>所成角的大小相等，即∠<em>CD</em><sub>1</sub><em>B</em><sub>1</sub>的大小．而<em>B</em><sub>1</sub><em>C</em>＝<em>B</em><sub>1</sub><em>D</em><sub>1</sub>＝<em>CD</em><sub>1</sub>(均为面对角线)，因此∠<em>CD</em><sub>1</sub><em>B</em><sub>1</sub>＝，得sin∠<em>CD</em><sub>1</sub><em>B</em><sub>1</sub>＝，故选A．
 
-【**对点精练**】
+【对点精练】
 
 1．如图是长方体被一平面所截得的几何体，四边形*EFGH*为截面，则四边形*EFGH*的图形为(　　)
 
 ![](images/794d0a517e10dad7f3fcea34a161590fc63df5badb420b5a1abc80c94db8701f.jpg)
 
-A．矩形　　　　　　B．平行四边形　　　　　　　C．正方形　　　　　　D．等腰梯形
+A．矩形　　　　　　
+B．平行四边形　　　　　　　
+C．正方形　　　　　　
+D．等腰梯形
 
 1．答案　B　解析　∵平面*ABFE*∥平面*DCGH*，又平面*EFGH*∩平面*ABFE*＝*EF*，平面*EFGH*∩平面*DC*
 
@@ -76,11 +79,14 @@ A．矩形　　　　　　B．平行四边形　　　　　　　C．正方�
 
 ![](images/96c34b7f6dbb9d8f77b93ee6f24883d72a46fe32cf4cbf645f92ebb2566900a7.jpg)
 
-A．四边形　　　　　　B．三角形　　　　　　C．五边形　　　　　　D．六边形
+A．四边形　　　　　　
+B．三角形　　　　　　
+C．五边形　　　　　　
+D．六边形
 
-2．答案　C　解析　作法：(1)连接*QP*，*QR*并延长，分别交*CB*，*CD*的延长线于*E*，*F*．(2)连接*EF*交*AB*
+2．答案　C　解析　作法：（1）连接*QP*，*QR*并延长，分别交*CB*，*CD*的延长线于*E*，*F*．（2）连接*EF*交*AB*
 
-于*T*，交*AD*于*S*．(3)连接*RS*，*TP*．则五边形*PQRST*即为所求截面．
+于*T*，交*AD*于*S*．（3）连接*RS*，*TP*．则五边形*PQRST*即为所求截面．
 
 ![](images/7927ae42573f0ddff8de7c953cd89b16d2257942f444a03f4208ba25c8cdbe90.jpg)
 
@@ -90,18 +96,17 @@ A．四边形　　　　　　B．三角形　　　　　　C．五边形　�
 
 ![](images/4891b208bc349afc2bd0863aa4892bab9096abcc1f2c801313d679b04fab8c6a.jpg)
 
-A．当0<*CQ*<时，*S*为四边形　　　　　　　　　　　B．当*CQ*＝时，*S*为等腰梯形
+A．当0<*CQ*<时，*S*为四边形　　　　　　　　　　　
+B．当*CQ*＝时，*S*为等腰梯形
 
-C．当<em>CQ</em>＝时，<em>S</em>与<em>C</em><sub>1</sub><em>D</em><sub>1</sub>的交点<em>R</em>满足<em>C</em><sub>1</sub><em>R</em>＝　　　D．当&lt;<em>CQ</em>&lt;1时，<em>S</em>为六边形
+C．当<em>CQ</em>＝时，<em>S</em>与<em>C</em><sub>1</sub><em>D</em><sub>1</sub>的交点<em>R</em>满足<em>C</em><sub>1</sub><em>R</em>＝　　　
+D．当&lt;<em>CQ</em>&lt;1时，<em>S</em>为六边形
 
 3．答案　ABC　解析　当<em>Q</em>为中点，即<em>CQ</em>＝时，截面<em>APQD</em><sub>1</sub>为等腰梯形，故B正确；
-
 ![](images/2ce6bfe5d47ad8fecfd5ff967951e823202c32497d0c303c2ca957b903878bc9.jpg)
-
 当0&lt;<em>CQ</em>&lt;时，只需在<em>DD</em><sub>1</sub>上取点<em>M</em>使<em>PQ</em>∥<em>AM</em>，即可得截面<em>APQM</em>为四边形，故A正确；当<em>CQ</em>＝时，如图，延长<em>AP</em>交<em>DC</em>于<em>M</em>，连接<em>MQ</em>，并延长交<em>C</em><sub>1</sub><em>D</em><sub>1</sub>于<em>R</em>，交<em>DD</em><sub>1</sub>于<em>N</em>，
 
 ![](images/7622e90eb1b4d49e8b38b2d721ba20ce177a773757eb881ea4a0e4fc7d0909af.jpg)
-
 ∵<em>CQ</em>＝，∴<em>DN</em>＝×2＝，∴<em>D</em><sub>1</sub><em>N</em>＝，∴＝，∴＝，∴<em>D</em><sub>1</sub><em>R</em>＝<em>DM</em>＝，∴<em>C</em><sub>1</sub><em>R</em>＝，故C正确；当&lt;<em>CQ</em>&lt;1时，在上图中只需将<em>Q</em>上移，此时截面形状仍是<em>APQRT</em>，为五边形，故D不正确．
 
 4．如图，将一个长方体用过相邻三条棱的中点的平面截出一个棱锥，则该棱锥的体积与剩下的几何体体
@@ -118,12 +123,14 @@ C．当<em>CQ</em>＝时，<em>S</em>与<em>C</em><sub>1</sub><em>D</em><sub>1</
 
 方体所得的截面周长为(　　)
 
-A．6＋4　　　　B．6＋2　　　　C．3＋4　　　　D．3＋2
+A．6＋4　　　　
+B．6＋2　　　　
+C．3＋4　　　　
+D．3＋2
 
 5．答案　A　解析　∵正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，<em>E</em>，<em>F</em>分别是棱<em>AD</em>，<em>DD</em><sub>1</sub>的中点，
 
 ![](images/99c1b5b844637561b2d61d3bf94b43d1cbfd01241cb80e24be7066a77f09bb12.jpg)
-
 ∴<em>EF</em>∥<em>AD</em><sub>1</sub>∥<em>BC</em><sub>1</sub>．∵<em>EF</em>⊄平面<em>BCC</em><sub>1</sub><em>B</em><sub>1</sub>，<em>BC</em><sub>1</sub>⊂平面<em>BCC</em><sub>1</sub><em>B</em><sub>1</sub>，∴<em>EF</em>∥平面<em>BCC</em><sub>1</sub><em>B</em><sub>1</sub>．由正方体的棱长为4，可得截面是以<em>BE</em>＝<em>C</em><sub>1</sub><em>F</em>＝2为腰，<em>EF</em>＝2为上底，<em>BC</em><sub>1</sub>＝2<em>EF</em>＝4为下底的等腰梯形，故周长为6＋4．
 
 6．如图，在棱长为1的正方体<em>ABCD</em>－<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>中，<em>M</em>，<em>N</em>分别是<em>A</em><sub>1</sub><em>D</em><sub>1</sub>，<em>A</em><sub>1</sub><em>B</em><sub>1</sub>的中点，过直线<em>BD</em>的平面
@@ -132,7 +139,10 @@ A．6＋4　　　　B．6＋2　　　　C．3＋4　　　　D．3＋2
 
 ![](images/01327087e2676034c862761b9dcbae82835303397dfa5e6c08fe6a1bee18e1fe.jpg)
 
-A．　　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 6．答案　B　解析　如图，分别取<em>C</em><sub>1</sub><em>D</em><sub>1</sub>，<em>B</em><sub>1</sub><em>C</em><sub>1</sub>的中点<em>P</em>，<em>Q</em>，连接<em>PQ</em>，<em>B</em><sub>1</sub><em>D</em><sub>1</sub>，<em>DP</em>，<em>BQ</em>，<em>NP</em>，易知<em>MN</em>∥<em>B</em><sub>1</sub><em>D</em><sub>1</sub>
 
@@ -156,9 +166,11 @@ A．　　　　　　　　　B．　　　　　　　　C．　　　　　�
 
 ![](images/5e8a690b78840ead2ead96d7aefbc41273ec048a17c9eca432968be9fbd510b2.jpg)
 
-A．*AC*⊥*BD*　　　　　　　　 　　　B．*AC*∥截面*PQMN*
+A．*AC*⊥*BD*　　　　　　　　 　　　
+B．*AC*∥截面*PQMN*
 
-C．*AC*＝*BD*　　　　　　   　　　　D．异面直线*PM*与*BD*所成的角为45°
+C．*AC*＝*BD*　　　　　　   　　　　
+D．异面直线*PM*与*BD*所成的角为45°
 
 8．答案　C　解析　因为截面*PQMN*是正方形，所以*MN*∥*QP*，又*PQ*⊂平面*ABC*，*MN*⊄平面*ABC*，则
 
@@ -170,7 +182,10 @@ C．*AC*＝*BD*　　　　　　   　　　　D．异面直线*PM*与*BD*所�
 
 ![](images/cd22030183f424a7aa6c50315cc707b92cbc5301da66b7665e1c0f1e79243740.jpg)
 
-A．①　　　　　　　　B．②　　　　　　　　C．③　　　　　　　　D．④
+A．①　　　　　　　　
+B．②　　　　　　　　
+C．③　　　　　　　　
+D．④
 
 9．答案　B　解析　作出过<em>M</em>，<em>N</em>，<em>P</em>，<em>Q</em>四点的截面交<em>C</em><sub>1</sub><em>D</em><sub>1</sub>于点<em>S</em>，交<em>AB</em>于点<em>R</em>，如图中的六边形
 
@@ -189,6 +204,5 @@ A．①　　　　　　　　B．②　　　　　　　　C．③　　　�
 平面<em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>＝<em>B</em><sub>1</sub><em>D</em><sub>1</sub>，∴<em>B</em><sub>1</sub><em>D</em><sub>1</sub>∥<em>PQ</em>．
 
 ![](images/20914785b72befdc4e8e7a6877de61e8038e2ea64d1f1bc177494731edbd2844.jpg)
-
 又∵<em>B</em><sub>1</sub><em>D</em><sub>1</sub>∥<em>BD</em>，∴<em>BD</em>∥<em>PQ</em>，设<em>PQ</em>∩<em>AB</em>＝<em>M</em>，∵<em>AB</em>∥<em>CD</em>，∴△<em>APM</em>∽△<em>DPQ</em>．∴＝＝，即<em>PQ</em>＝2<em>PM</em>．又知△<em>APM</em>∽△<em>ADB</em>，∴＝＝，∴<em>PM</em>＝<em>BD</em>，又<em>BD</em>＝<em>a</em>，∴<em>PQ</em>＝<em>a</em>．
 

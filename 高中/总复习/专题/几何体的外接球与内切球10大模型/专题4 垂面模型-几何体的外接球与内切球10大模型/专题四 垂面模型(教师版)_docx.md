@@ -1,10 +1,10 @@
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-**专题四　垂面模型**
+专题四　垂面模型
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -22,18 +22,20 @@
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-<strong>[例]</strong>　(1)已知在三棱锥<em>S</em>－<em>ABC</em>中，<em>SA</em>⊥平面<em>ABC</em>，且∠<em>ACB</em>＝30°，<em>AC</em>＝2<em>AB</em>＝2，<em>SA</em>＝1．则该三棱锥的外接球的体积为(　　)
+<strong>[例]</strong>　（1）已知在三棱锥<em>S</em>－<em>ABC</em>中，<em>SA</em>⊥平面<em>ABC</em>，且∠<em>ACB</em>＝30°，<em>AC</em>＝2<em>AB</em>＝2，<em>SA</em>＝1．则该三棱锥的外接球的体积为(　　)
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．π　　　　　　B．13π　　　　　　C．π　　　　　　D．π
+A．π　　　　　　
+B．13π　　　　　　
+C．π　　　　　　
+D．π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
 答案　D　解析　∵∠<em>ACB</em>＝30°，<em>AC</em>＝2<em>AB</em>＝2，∴△<em>ABC</em>是以<em>AC</em>为斜边的直角三角形，其外接圆半径<em>r</em>＝＝，则三棱锥外接球即为以△<em>ABC</em>为底面，以<em>SA</em>为高的三棱柱的外接球，∴三棱锥外接球的半径<em>R</em>满足<em>R</em>＝＝，故三棱锥外接球的体积<em>V</em>＝π<em>R</em><sup>3</sup>＝π．故选D．
 
 ![](images/a3b8a5e74bfac8204db5d70b982bb76cf0d7184507a34a9cea12c9094eb01265.jpg)
@@ -46,46 +48,49 @@ A．π　　　　　　B．13π　　　　　　C．π　　　　　　D．π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-第(1)小题图                     第(2)小题图1　　　　     　　　第(2)小题图2
+第（1）小题图                     第（2）小题图1　　　　     　　　第（2）小题图2
+
+![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)  
+（2）三棱锥*P*－*ABC*中，平面*PAC*⊥平面*ABC*，*AB*⊥*AC*，*PA*＝*PC*＝*AC*＝2，*AB*＝4，则三棱锥*P*－*ABC*的外接球的表面积为(　　)
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-(2)三棱锥*P*－*ABC*中，平面*PAC*⊥平面*ABC*，*AB*⊥*AC*，*PA*＝*PC*＝*AC*＝2，*AB*＝4，则三棱锥*P*－*ABC*的外接球的表面积为(　　)
+A．23π　　　　　　　　
+B．π　　　　　　　　
+C．64π　　　　　　　　
+D．π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
-A．23π　　　　　　　　B．π　　　　　　　　C．64π　　　　　　　　D．π
-
-![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
 答案　D　解析　如图1，设<em>O</em>为三棱锥外接球的球心，<em>O</em><sub>1</sub>为正△<em>PAC</em>的中心，则<em>OO</em><sub>1</sub>＝<em>AB</em>＝2．2<em>AO</em><sub>1</sub>＝＝，<em>AO</em><sub>1</sub>＝，<em>R</em><sup>2</sup>＝<em>OA</em><sup>2</sup>＝<em>O</em><sub>1</sub><em>A</em><sup>2</sup>＋<em>O</em><sub>1</sub><em>O</em><sup>2</sup>＝＋4＝，故几何体外接球的表面积<em>S</em>＝4π<em>R</em><sup>2</sup>＝π．
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
 另解：如图2，设<em>O</em>′为正△<em>PAC</em>的中心，<em>D</em>为Rt△<em>ABC</em>斜边的中点，<em>H</em>为<em>AC</em>中点．由平面<em>PAC</em>⊥平面<em>ABC</em>，则<em>O</em>′<em>H</em>⊥平面<em>ABC</em>．作<em>O</em>′<em>O</em>∥<em>HD</em>，<em>OD</em>∥<em>O</em>′<em>H</em>，则交点<em>O</em>为三棱锥外接球的球心，连接<em>OP</em>，又<em>O</em>′<em>P</em>＝<em>PH</em>＝××2＝，<em>OO</em>′＝<em>DH</em>＝<em>AB</em>＝2．∴<em>R</em><sup>2</sup>＝<em>OP</em><sup>2</sup>＝<em>O</em>′<em>P</em><sup>2</sup>＋<em>O</em>′<em>O</em><sup>2</sup>＝＋4＝．故几何体外接球的表面积<em>S</em>＝4π<em>R</em><sup>2</sup>＝π．
 
-![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
-(3)在三棱锥*S*－*ABC*中，侧棱*SA*⊥底面*ABC*，*AB*＝5，*BC*＝8，∠*ABC*＝60°，*SA*＝2，则该三棱锥的外接球的表面积为(　　)
-
-![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
-A．π　　　　　　　　B．π　　　　　　　　C．π　　　　　　　　D．π
+![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)  
+（3）在三棱锥*S*－*ABC*中，侧棱*SA*⊥底面*ABC*，*AB*＝5，*BC*＝8，∠*ABC*＝60°，*SA*＝2，则该三棱锥的外接球的表面积为(　　)
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
+A．π　　　　　　　　
+B．π　　　　　　　　
+C．π　　　　　　　　
+D．π
+
+![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 答案　B　解析　由题意知，<em>AB</em>＝5，<em>BC</em>＝8，∠<em>ABC</em>＝60°，则在△<em>ABC</em>中，由余弦定理得<em>AC</em><sup>2</sup>＝<em>AB</em><sup>2</sup>＋<em>BC</em><sup>2</sup>－2×<em>AB</em>×<em>BC</em>×cos∠<em>ABC</em>，解得<em>AC</em>＝7，设△<em>ABC</em>的外接圆半径为<em>r</em>，则△<em>ABC</em>的外接圆直径2<em>r</em>＝＝，∴<em>r</em>＝，又∵侧棱<em>SA</em>⊥底面<em>ABC</em>，∴三棱锥的外接球的球心到平面<em>ABC</em>的距离<em>h</em>＝<em>SA</em>＝，则外接球的半径<em>R</em>＝＝，则该三棱锥的外接球的表面积为<em>S</em>＝4π<em>R</em><sup>2</sup>＝π.
 
-![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
-(4)在三棱锥*P*－*ABC*中，已知*PA*⊥底面*ABC*，∠*BAC*＝120˚，*PA*＝*AB*＝*AC*＝2，若该三棱锥的顶点都在同一个球面上，则该球的表面积为(　　)
-
-![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
-
-A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　　　　D．9π
+![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)  
+（4）在三棱锥*P*－*ABC*中，已知*PA*⊥底面*ABC*，∠*BAC*＝120˚，*PA*＝*AB*＝*AC*＝2，若该三棱锥的顶点都在同一个球面上，则该球的表面积为(　　)
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
+A．10π　　　　　　　
+B．18π　　　　　　　
+C．20π　　　　　　　
+D．9π
+
+![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 答案　C　解析　如图1，先由余弦定理求出<em>BC</em>＝2，再由正弦定理求出<em>r</em>＝<em>AO</em><sub>1</sub>＝2，外接球的直径<em>R</em>＝＝，所以该球的表面积为4π<em>R</em><sup>2</sup>＝20π．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -98,7 +103,7 @@ A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　�
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-第(3)小题图                          第(4)小题图1　　　　     　　     　第(4)小题图2
+第（3）小题图                          第（4）小题图1　　　　     　　     　第（4）小题图2
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -126,9 +131,8 @@ A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(5)在三棱锥中，平面，，，，设为中点，且直线与平面所成角的余弦值为，则该三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（5）在三棱锥中，平面，，，，设为中点，且直线与平面所成角的余弦值为，则该三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -143,7 +147,6 @@ A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　在中，，，，由余弦定理得：
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -222,7 +225,7 @@ A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　�
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -230,7 +233,10 @@ A．10π　　　　　　　B．18π　　　　　　　C．20π　　　　�
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．18π　　　　　　　　B．　　　　　　　　C．21π　　　　　　　　D．42π
+A．18π　　　　　　　　
+B．　　　　　　　　
+C．21π　　　　　　　　
+D．42π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -250,7 +256,10 @@ A．18π　　　　　　　　B．　　　　　　　　C．21π　　　　
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　　　　　　D．32π
+A．4π　　　　　　　　
+B．12π　　　　　　　　
+C．16π　　　　　　　　
+D．32π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -270,7 +279,10 @@ A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　　　　　　D．64π
+A．4π　　　　　　　　
+B．12π　　　　　　　　
+C．16π　　　　　　　　
+D．64π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -304,7 +316,10 @@ A．4π　　　　　　　　B．12π　　　　　　　　C．16π　　　
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．　　　　　　　　B．　　　　　　　　C．8π　　　　　　　　D．12π
+A．　　　　　　　　
+B．　　　　　　　　
+C．8π　　　　　　　　
+D．12π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -348,7 +363,10 @@ A．　　　　　　　　B．　　　　　　　　C．8π　　　　　�
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
-A．7π　　　　　　　　　B．5π　　　　　　　　　C．3π　　　　　　　　　D．π
+A．7π　　　　　　　　　
+B．5π　　　　　　　　　
+C．3π　　　　　　　　　
+D．π
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -384,7 +402,10 @@ A．7π　　　　　　　　　B．5π　　　　　　　　　C．3π　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/95de6e9227211e240333a36bb06f8bc67f981098c1d15a31b40291033c8dd3a9.png)
 
@@ -413,7 +434,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 ∴，∴球半径，故*OC*＝*OA*＝*OB*＝，又∵，∴△*OAB*为等边三角形．∴．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)

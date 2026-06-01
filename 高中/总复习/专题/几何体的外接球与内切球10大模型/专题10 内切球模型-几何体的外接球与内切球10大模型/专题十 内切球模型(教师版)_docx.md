@@ -1,29 +1,23 @@
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-**专题十　内切球模型**
+专题十　内切球模型
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
 以三棱锥*P*－*ABC*为例，求其内切球的半径．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 方法：等体积法，三棱锥*P*－*ABC*体积等于内切球球心与四个面构成的四个三棱锥的体积之和；
-
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
 第一步：先求出四个表面的面积和整个锥体体积；
-
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 第二步：设内切球的半径为<em>r</em>，球心为<em>O</em>，建立等式：<em>V<sub>P</sub></em><sub>－</sub><em><sub>ABC</sub></em>＝<em>V<sub>O</sub></em><sub>－</sub><em><sub>ABC</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PAB</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PAC</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PBC</sub></em>⇒<em>V<sub>P</sub></em><sub>－</sub><em><sub>ABC</sub></em>＝<em>S</em><sub>△</sub><em><sub>ABC</sub></em>·<em>r</em>＋<em>S</em><sub>△</sub><em><sub>PAB</sub></em>·<em>r</em>＋<em>S</em><sub>△</sub><em><sub>PAC</sub></em>·<em>r</em>＋<em>S</em><sub>△</sub><em><sub>PBC</sub></em>·<em>r</em>＝(<em>S</em><sub>△</sub><em><sub>ABC</sub></em>＋<em>S</em><sub>△</sub><em><sub>PAB</sub></em>＋<em>S</em><sub>△</sub><em><sub>PAC</sub></em>＋<em>S</em><sub>△</sub><em><sub>PBC</sub></em>)·<em>r</em>；
-
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 第三步：解出*r*＝＝．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
@@ -32,35 +26,31 @@
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-**[例]**　(1)已知一个三棱锥的所有棱长均为，则该三棱锥的内切球的体积为\_\_\_\_\_\_\_\_．
+[例]　（1）已知一个三棱锥的所有棱长均为，则该三棱锥的内切球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 答案　π　解析　由题意可知，该三棱锥为正四面体，如图所示．<em>AE</em>＝<em>AB</em>·sin 60°＝，<em>AO</em>＝<em>AE</em>＝，<em>DO</em>＝＝，三棱锥的体积<em>V<sub>D</sub></em><sub>­</sub><em><sub>ABC</sub></em>＝<em>S</em><sub>△</sub><em><sub>ABC</sub></em>·<em>DO</em>＝，设内切球的半径为<em>r</em>，则<em>V<sub>D</sub></em><sub>­</sub><em><sub>ABC</sub></em>＝<em>r</em>(<em>S</em><sub>△</sub><em><sub>ABC</sub></em>＋<em>S</em><sub>△</sub><em><sub>ABD</sub></em>＋<em>S</em><sub>△</sub><em><sub>BCD</sub></em>＋<em>S</em><sub>△</sub><em><sub>ACD</sub></em>)＝，<em>r</em>＝，<em>V</em><sub>内切球</sub>＝π<em>r</em><sup>3</sup>＝π．
 
 ![](images/55f4ec7a23acf24c03de06882638d0be04080805848db1f6b6185f8a07bf744d.jpg)
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
+![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)  
+（2）(2020·全国Ⅲ)已知圆锥的底面半径为1，母线长为3，则该圆锥内半径最大的球的体积为\_\_\_\_\_\_\_\_．
+
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
-(2)(2020·全国Ⅲ)已知圆锥的底面半径为1，母线长为3，则该圆锥内半径最大的球的体积为\_\_\_\_\_\_\_\_．
-
-![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 答案　π　解析　圆锥内半径最大的球即为圆锥的内切球，设其半径为<em>r</em>．作出圆锥的轴截面<em>PAB</em>，如图所示，则△<em>PAB</em>的内切圆为圆锥的内切球的大圆．在△<em>PAB</em>中，<em>PA</em>＝<em>PB</em>＝3，<em>D</em>为<em>AB</em>的中点，<em>AB</em>＝2，<em>E</em>为切点，则<em>PD</em>＝2，△<em>PEO</em>∽△<em>PDB</em>，故＝，即＝，解得<em>r</em>＝，故内切球的体积为π<sup>3</sup>＝π．
 
 ![](images/4b54c1d0611ad26cedfeabf596e1959ab9e3ea60c082ee03593b5ea19df558ce.jpg)
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
-(3)阿基米德(公元前287年～公元前212年)是古希腊伟大的哲学家、数学家和物理学家，他和高斯、牛顿并列被称为世界三大数学家．据说，他自己觉得最为满意的一个数学发现就是“圆柱内切球体的体积是圆柱体积的三分之二，并且球的表面积也是圆柱表面积的三分之二”．他特别喜欢这个结论．要求后人在他的墓碑上刻着一个圆柱容器里放了一个球，如图，该球顶天立地，四周碰边．若表面积为54π的圆柱的底面直径与高都等于球的直径，则该球的体积为(　　)
+![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)  
+（3）阿基米德(公元前287年～公元前212年)是古希腊伟大的哲学家、数学家和物理学家，他和高斯、牛顿并列被称为世界三大数学家．据说，他自己觉得最为满意的一个数学发现就是“圆柱内切球体的体积是圆柱体积的三分之二，并且球的表面积也是圆柱表面积的三分之二”．他特别喜欢这个结论．要求后人在他的墓碑上刻着一个圆柱容器里放了一个球，如图，该球顶天立地，四周碰边．若表面积为54π的圆柱的底面直径与高都等于球的直径，则该球的体积为(　　)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -68,18 +58,18 @@
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-A．4π　　　　　　　　B．16π　　　　　　　　C．36π　　　　　　　　D．
+A．4π　　　　　　　　
+B．16π　　　　　　　　
+C．36π　　　　　　　　
+D．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 答案　C　解析　设该圆柱的底面半径为<em>R</em>，则圆柱的高为2<em>R</em>，则圆柱的表面积<em>S</em>＝<em>S</em><sub>底</sub>＋<em>S</em><sub>侧</sub>＝2×π<em>R</em><sup>2</sup>＋2·π·<em>R</em>·2<em>R</em>＝54π，解得<em>R</em><sup>2</sup>＝9，即<em>R</em>＝3．∴圆柱的体积为<em>V</em>＝π<em>R</em><sup>2</sup>×2<em>R</em>＝54π，∴该圆柱的内切球的体积为×54π＝36π．故选C．
 
+![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)  
+（4）已知三棱锥*P*－*ABC*的三条侧棱*PA*，*PB*，*PC*两两互相垂直，且*PA*＝*PB*＝*PC*＝2，则三棱锥*P*－*ABC*的外接球与内切球的半径比为\_\_\_\_\_\_\_\_．
+
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
-(4)已知三棱锥*P*－*ABC*的三条侧棱*PA*，*PB*，*PC*两两互相垂直，且*PA*＝*PB*＝*PC*＝2，则三棱锥*P*－*ABC*的外接球与内切球的半径比为\_\_\_\_\_\_\_\_．
-
-![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 答案　　解析　以<em>PA</em>，<em>PB</em>，<em>PC</em>为过同一顶点的三条棱，作长方体，由<em>PA</em>＝<em>PB</em>＝<em>PC</em>＝2，可知此长方体即为正方体．设外接球的半径为<em>R</em>，则<em>R</em>＝＝，设内切球的半径为<em>r</em>，则内切球的球心到四个面的距离均为<em>r</em>，由(<em>S</em><sub>△</sub><em><sub>ACP</sub></em>＋<em>S</em><sub>△</sub><em><sub>APB</sub></em>＋<em>S</em><sub>△</sub><em><sub>PCB</sub></em>＋<em>S</em><sub>△</sub><em><sub>ABC</sub></em>)·<em>r</em>＝·<em>S</em><sub>△</sub><em><sub>PCB</sub></em>·<em>AP</em>，解得<em>r</em>＝，所以＝＝．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -94,9 +84,8 @@ A．4π　　　　　　　　B．16π　　　　　　　　C．36π　　　
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(5)正四面体的外接球和内切球上各有一个动点、，若线段长度的最大值为，则这个四面体的棱长为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（5）正四面体的外接球和内切球上各有一个动点、，若线段长度的最大值为，则这个四面体的棱长为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -109,12 +98,11 @@ A．4π　　　　　　　　B．16π　　　　　　　　C．36π　　　
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　4　解析　设这个四面体的棱长为，则它的外接球与内切球的球心重合，且半径，，依题意得，．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
@@ -138,7 +126,10 @@ A．4π　　　　　　　　B．16π　　　　　　　　C．36π　　　
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
@@ -158,7 +149,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-A．6　　　　　　　　B．5　　　　　　　　C．　　　　　　　　D．
+A．6　　　　　　　　
+B．5　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
@@ -173,7 +167,6 @@ A．6　　　　　　　　B．5　　　　　　　　C．　　　　　　
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 其中*PE*，*PF*是斜高，*A*为球面与侧面的切点．设*PH*＝*h*，易知Rt△*PAO*∽Rt△*PHF*，所以＝，即＝，解得*h*＝，故选D．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
@@ -182,7 +175,10 @@ A．6　　　　　　　　B．5　　　　　　　　C．　　　　　　
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-A．π　　　　　　　　B．2π　　　　　　　　C．3π　　　　　　　　D．4π
+A．π　　　　　　　　
+B．2π　　　　　　　　
+C．3π　　　　　　　　
+D．4π
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
@@ -202,7 +198,7 @@ A．π　　　　　　　　B．2π　　　　　　　　C．3π　　　　
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
-<em>a</em>，则×<em>a</em>＝1，所以<em>a</em>＝2．所以<em>V</em>＝×(2)<sup>2</sup>×2＝6．
+<em>a</em>，则×<em>a</em>＝1，所以<em>a</em>＝2．所以<em>V</em>＝×（2）<sup>2</sup>×2＝6．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
 
@@ -221,9 +217,7 @@ A．π　　　　　　　　B．2π　　　　　　　　C．3π　　　　
 内切球的球心为<em>O</em>，半径为<em>r</em>，连接<em>OA</em>，<em>OB</em>，<em>OC</em>，<em>OD</em>，<em>OP</em>，则<em>V<sub>P</sub></em><sub>－</sub><em><sub>ABCD</sub></em>＝<em>V<sub>O</sub></em><sub>－</sub><em><sub>ABCD</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PAD</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PAB</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PBC</sub></em>＋<em>V<sub>O</sub></em><sub>－</sub><em><sub>PCD</sub></em>，即×2<em>a</em>×2<em>a</em>×2<em>a</em>＝××<em>r</em>，解得<em>r</em>＝(2－)<em>a</em>．
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
-
 解法二：易知当球内切于四棱锥*P*－*ABCD*，即与四棱锥*P*－*ABCD*各个面均相切时，球的半径最大，作出相切时的侧视图如图所示，设四棱锥*P*－*ABCD*内切球的半径为*r*，则
-
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/20a5f8127af41a91ffc1fe04317e37c7f69b3105b76474e5020bed31f462f34e.png)
@@ -250,7 +244,10 @@ A．π　　　　　　　　B．2π　　　　　　　　C．3π　　　　
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 

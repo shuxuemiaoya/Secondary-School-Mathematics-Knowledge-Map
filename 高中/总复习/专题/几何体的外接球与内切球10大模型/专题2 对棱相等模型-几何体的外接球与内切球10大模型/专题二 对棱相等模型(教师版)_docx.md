@@ -1,10 +1,10 @@
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-**专题二　对棱相等模型**
+专题二　对棱相等模型
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -18,13 +18,13 @@
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-**[例]**　(1)正四面体的各条棱长都为，则该正面体外接球的体积为\_\_\_\_\_\_\_\_．
+[例]　（1）正四面体的各条棱长都为，则该正面体外接球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -35,15 +35,25 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　这是特殊情况，但也是对棱相等的模式，放入长方体中，，，．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)  
+（2）在三棱锥*A*－*BCD*中，*AB*＝*CD*＝2，*AD*＝*BC*＝3，*AC*＝*BD*＝4，则三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-(2)在三棱锥*A*－*BCD*中，*AB*＝*CD*＝2，*AD*＝*BC*＝3，*AC*＝*BD*＝4，则三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
-
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -53,24 +63,10 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　构造长方体，三个长度为三对面的对角线长，设长宽高分别为，则，，，，，，．
 
-![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
-
-(3)在三棱锥*A*－*BCD*中，*AB*＝*CD*＝6，*AC*＝*BD*＝*AD*＝*BC*＝5，则该三棱锥的外接球的体积为\_\_\_\_．
+![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)  
+（3）在三棱锥*A*－*BCD*中，*AB*＝*CD*＝6，*AC*＝*BD*＝*AD*＝*BC*＝5，则该三棱锥的外接球的体积为\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -81,7 +77,6 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　依题意得，该三棱锥的三组对棱分别相等，因此可将该三棱锥补形成一个长方体，设该长方体的长、宽、高分别为<em>a</em>、<em>b</em>、<em>c</em>，且其外接球的半径为<em>R</em>，则得<em>a</em><sup>2</sup>＋<em>b</em><sup>2</sup>＋<em>c</em><sup>2</sup>＝43，即(2<em>R</em>)<sup>2</sup>＝<em>a</em><sup>2</sup>＋<em>b</em><sup>2</sup>＋<em>c</em><sup>2</sup>＝43，易知，即为该三棱锥的外接球的半径，所以该三棱锥的外接球的表面积为．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -102,25 +97,8 @@
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(4)在正四面体中，是棱的中点，是棱上一动点，的最小值为，则该正四面体的外接球的体积是
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（4）在正四面体中，是棱的中点，是棱上一动点，的最小值为，则该正四面体的外接球的体积是
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -132,12 +110,30 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　A　解析　将侧面和展成平面图形，如图所示：设正四面体的棱长为，则的最小值为，．在正四面体的边长为2，外接球的半径，外接球的体积．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -152,9 +148,8 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(5)已知三棱锥，三组对棱两两相等，且，，若三棱锥的外接球表面积为．则\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（5）已知三棱锥，三组对棱两两相等，且，，若三棱锥的外接球表面积为．则\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -199,12 +194,11 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　将四面体放置于长方体中，四面体的顶点为长方体八个顶点中的四个，长方体的外接球就是四面体的外接球，，，且三组对棱两两相等，设，得长方体的对角线长为，可得外接球的直径，所以，三棱锥的外接球表面积为，，解得，即，解之得，因即．
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
@@ -238,7 +232,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -254,7 +251,7 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-2．**答案**　B　解析　表面积为的正四面体的棱长为，将正四面体补成一个正方体，则正方体的棱长为2，正方体的对角线长为，正四面体的外接球的直径为正方体的对角线长，外接球的表面积的值为．
+2．答案　B　解析　表面积为的正四面体的棱长为，将正四面体补成一个正方体，则正方体的棱长为2，正方体的对角线长为，正四面体的外接球的直径为正方体的对角线长，外接球的表面积的值为．
 
 ![](images/c17cf8eea160cf8765c569f2e4d7ee7391b59241f1b267f3198140b9e6c773d8.png)
 
@@ -340,7 +337,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 

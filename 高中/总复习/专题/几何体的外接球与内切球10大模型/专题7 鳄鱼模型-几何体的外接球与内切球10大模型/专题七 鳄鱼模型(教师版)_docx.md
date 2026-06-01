@@ -1,10 +1,10 @@
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
-**专题七　鳄鱼模型**
+专题七　鳄鱼模型
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
@@ -16,7 +16,7 @@
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -30,7 +30,7 @@
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-**[例]**　(1)在三棱锥中，和均为边长为2的等边三角形，且二面角的平面角为，则三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
+[例]　（1）在三棱锥中，和均为边长为2的等边三角形，且二面角的平面角为，则三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -91,7 +91,6 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　如图，取中点，连接，，因为与均为边长为2的等边三角形，所以，，则为二面角的平面角，即，设与外接圆圆心分别为，，则由，可得，，分别过作平面，平面的垂线，则三棱锥的外接球一定是两条垂线的交点，记为，连接，，则由对称性可得，所以，则，则三棱锥外接球的表面积，
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -118,9 +117,8 @@
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(2)在等腰直角中，，，为斜边的高，将沿折叠，使二面角为，则三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（2）在等腰直角中，，，为斜边的高，将沿折叠，使二面角为，则三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -157,27 +155,25 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　沿折叠后二面角为，即折叠后，所以为等边三角形，又因为，所以折叠后，设点为三棱锥外接球的球心，为的外心，所以，所以，又，所以球心半径，所以．
 
+![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)  
+（3）在四面体*ABCD*中，*AB*＝*AD*＝2，∠*BAD*＝60°，∠*BCD*＝90°，二面角*A*－*BD*－*C*的大小为150°，则四面体*ABCD*外接球的半径为\_\_\_\_\_\_\_\_．
+
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
-(3)在四面体*ABCD*中，*AB*＝*AD*＝2，∠*BAD*＝60°，∠*BCD*＝90°，二面角*A*－*BD*－*C*的大小为150°，则四面体*ABCD*外接球的半径为\_\_\_\_\_\_\_\_．
-
-![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
 答案　　解析　因为∠<em>BCD</em>＝90°，所以<em>BC</em>⊥<em>CD</em>，设<em>BD</em>的中点为<em>O</em><sub>2</sub>，则<em>O</em><sub>2</sub>为△<em>BCD</em>外接圆的圆心，由<em>AB</em>＝<em>AD</em>＝2，∠<em>BAD</em>＝60°知，△<em>ABD</em>为等边三角形，设△<em>ABD</em>的外接圆的圆心为<em>O</em><sub>1</sub>，连接<em>AO</em><sub>2</sub>，则<em>O</em><sub>1</sub>在线段<em>AO</em><sub>2</sub>上，过<em>O</em><sub>1</sub>，<em>O</em><sub>2</sub>分别作平面<em>ABD</em>与平面<em>BDC</em>的垂线，交于点<em>O</em>，则<em>O</em>为四面体<em>ABCD</em>外接球的球心，过<em>O</em><sub>2</sub>在平面<em>BCD</em>内作<em>O</em><sub>2</sub><em>E</em>⊥<em>BD</em>，交<em>DC</em>于点<em>E</em>，则∠<em>AO</em><sub>2</sub><em>E</em>＝150°，所以∠<em>AO</em><sub>2</sub><em>O</em>＝60°，又<em>O</em><sub>1</sub><em>O</em><sub>2</sub>＝，所以<em>OO</em><sub>1</sub>＝1，连接<em>OA</em>，又<em>AO</em><sub>1</sub>＝，所以<em>OA</em>＝＝＝．
 
-![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
-(3)在三棱锥*S*－*ABC*中，*AB*⊥*BC*，*AB*＝*BC*＝，*SA*＝*SC*＝2，二面角*S*－*AC*－*B*的余弦值是－，若*S*，*A*，*B*，*C*都在同一球面上，则该球的表面积是(　　)
-
-![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
-A．4π　　　　　　　　B．6π　　　　　　　　C．8π　　　　　　　　D．9π
+![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)  
+（3）在三棱锥*S*－*ABC*中，*AB*⊥*BC*，*AB*＝*BC*＝，*SA*＝*SC*＝2，二面角*S*－*AC*－*B*的余弦值是－，若*S*，*A*，*B*，*C*都在同一球面上，则该球的表面积是(　　)
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
+A．4π　　　　　　　　
+B．6π　　　　　　　　
+C．8π　　　　　　　　
+D．9π
+
+![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 答案　B　解析　如图，取<em>AC</em>的中点<em>D</em>，连接<em>SD</em>，<em>BD</em>．因为<em>SA</em>＝<em>SC</em>，<em>AB</em>＝<em>BC</em>，所以<em>SD</em>⊥<em>AC</em>，<em>BD</em>⊥<em>AC</em>，可得∠<em>SDB</em>即为二面角<em>S</em>－<em>AC</em>－<em>B</em>的平面角，故cos∠<em>SDB</em>＝－．在△<em>ABC</em>中，<em>AB</em>⊥<em>BC</em>，<em>AB</em>＝<em>BC</em>＝，则<em>AC</em>＝＝2，所以<em>CD</em>＝<em>AD</em>＝1．在Rt△<em>SDC</em>中，<em>SD</em>＝＝＝，同理可得<em>BD</em>＝1，由余弦定理得cos∠<em>SDB</em>＝＝－，解得<em>SB</em>＝．在△<em>SCB</em>中，<em>SC</em><sup>2</sup>＋<em>CB</em><sup>2</sup>＝4＋2＝()<sup>2</sup>＝<em>SB</em><sup>2</sup>，所以△<em>SCB</em>为直角三角形，同理可得△<em>SAB</em>为直角三角形，取<em>SB</em>的中点<em>E</em>，则<em>SE</em>＝<em>EB</em>＝，在Rt△<em>SCB</em>与Rt△<em>SAB</em>中，<em>EA</em>＝＝，<em>EC</em>＝＝，所以点<em>E</em>为该球的球心，半径为，所以该球的表面积为<em>S</em>＝4×π×＝6π，故选B．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -204,53 +200,8 @@ A．4π　　　　　　　　B．6π　　　　　　　　C．8π　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(4)已知三棱锥中，，，，，且二面角的大小为，则三棱锥外接球的表面积为
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（4）已知三棱锥中，，，，，且二面角的大小为，则三棱锥外接球的表面积为
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -262,7 +213,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -294,6 +248,49 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　D　解析　取中点，中点，易知，，，且平面平面，作交的延长线于，则平面，球心在过与平面垂直的直线上如图：作于，设，由已知条件可得，，，，从而，，在直角三角形中，，在直角三角形中，，由解得，，，
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -312,9 +309,8 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(5)在三棱锥中，，三角形为等边三角形，二面角的余弦值为，当三棱锥的体积最大值为时，三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（5）在三棱锥中，，三角形为等边三角形，二面角的余弦值为，当三棱锥的体积最大值为时，三棱锥的外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -411,7 +407,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　　解析　如图所示，过点作面，垂足为，过点作交于点，连接，则为二面角的平面角的补角，即有，易知面，则，而为等边三角形，所以为中点，设，，，则，故三棱锥的体积为：，当且仅当时，体积最大，则，即，，所以、、三点共线，设三棱锥的外接球的球心为，半径为，过点作于，则四边形为矩形，则，，，在中，，解得，三棱锥的外接球的表面积为．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -430,87 +425,8 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(6)在体积为的四棱锥中，底面为边长为2的正方形，为等边三角形，二面角为锐角，则四棱锥外接球的半径为
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（6）在体积为的四棱锥中，底面为边长为2的正方形，为等边三角形，二面角为锐角，则四棱锥外接球的半径为
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -522,7 +438,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -590,11 +509,88 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　A　解析　取的中点，的中点，连接，，，过作于，由，可得，，所以面，可得，，所以面，所以，解得，而为等边三角形，所以，所以，所以可得，可得，，，所以，所以，取的中点，即四边形的对角线的交点，，过作垂直于底面，可得，取为外接球的球心，设外接球的半径为，连接，，则可得，过作于，则四边形为矩形，所以，，当，在面的同侧时，在中，①，在中，②，由①②可得（舍，当，在面的两侧时，在中，③，过在中，②，由②③可得，，所以，
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -630,7 +626,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -713,7 +712,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 2．已知三棱锥，，且、均为等边三角形，二面角的平面角为，
 
 ![](images/908a8537825657aa91c0728c05ad70e5cdf62359a26bd813cc059abd98cc6b40.png)
-
 则三棱锥外接球的表面积是\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -1044,7 +1042,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -1302,7 +1303,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -1404,7 +1408,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 

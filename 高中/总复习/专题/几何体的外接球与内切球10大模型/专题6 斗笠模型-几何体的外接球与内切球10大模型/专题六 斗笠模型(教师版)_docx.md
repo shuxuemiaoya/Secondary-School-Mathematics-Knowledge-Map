@@ -1,10 +1,10 @@
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-**专题六　斗笠模型**
+专题六　斗笠模型
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
@@ -18,7 +18,7 @@
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -26,7 +26,7 @@
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-**[例]**　(1)一个圆锥恰有三条母线两两夹角为，若该圆锥的侧面积为，则该圆锥外接球的表面积为\_\_\_\_\_\_\_\_．
+[例]　（1）一个圆锥恰有三条母线两两夹角为，若该圆锥的侧面积为，则该圆锥外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -55,19 +55,19 @@
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　解析　设，则．设，则底面圆的直径为，该圆锥的侧面积为，解得，高．．设圆锥外接球的半径为，所以，解得，则外接球的表面积为．
 
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-(2)(2020·全国Ⅰ)已知<em>A</em>，<em>B</em>，<em>C</em>为球<em>O</em>的球面上的三个点，⊙<em>O</em><sub>1</sub>为△<em>ABC</em>的外接圆．若⊙<em>O</em><sub>1</sub>的面积为4π，<em>AB</em>＝<em>BC</em>＝<em>AC</em>＝<em>OO</em><sub>1</sub>，则球<em>O</em>的表面积为(　　)
-
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-A．64π　　　　　　　　B．48π　　　　　　　　C．36π　　　　　　　　D．32π
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)  
+（2）(2020·全国Ⅰ)已知<em>A</em>，<em>B</em>，<em>C</em>为球<em>O</em>的球面上的三个点，⊙<em>O</em><sub>1</sub>为△<em>ABC</em>的外接圆．若⊙<em>O</em><sub>1</sub>的面积为4π，<em>AB</em>＝<em>BC</em>＝<em>AC</em>＝<em>OO</em><sub>1</sub>，则球<em>O</em>的表面积为(　　)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
+A．64π　　　　　　　　
+B．48π　　　　　　　　
+C．36π　　　　　　　　
+D．32π
+
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 答案　A　解析　设⊙<em>O</em><sub>1</sub>的半径为<em>r</em>，球的半径为<em>R</em>，依题意，得π<em>r</em><sup>2</sup>＝4π，∴<em>r</em>＝2．由正弦定理可得＝2<em>r</em>，∴<em>AB</em>＝2<em>r</em> sin 60°＝2．∴<em>OO</em><sub>1</sub>＝<em>AB</em>＝2．根据球的截面性质，得<em>OO</em><sub>1</sub>⊥平面<em>ABC</em>，∴<em>OO</em><sub>1</sub>⊥<em>O</em><sub>1</sub><em>A</em>，<em>R</em>＝<em>OA</em>＝＝＝4，∴球<em>O</em>的表面积<em>S</em>＝4π<em>R</em><sup>2</sup>＝64π．故选A．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -82,9 +82,8 @@ A．64π　　　　　　　　B．48π　　　　　　　　C．36π　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(3)在三棱锥中，，且，则该三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（3）在三棱锥中，，且，则该三棱锥外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -129,88 +128,38 @@ A．64π　　　　　　　　B．48π　　　　　　　　C．36π　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 答案　36π　解析　设顶点在底面中的射影为，由于，所以，即点是底面的外心，又，所以为的中点，因为，所以，设外接球的球心为，半径为，则必在上，，在中，，解得，所以．
 
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-(4)正四棱锥的顶点都在同一球面上，若该棱锥的高为4，底面边长为2，则该球的表面积为(　　)
-
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-A．　　　　　　　　B．16π　　　　　　　　C．9π　　　　　　　　D．
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)  
+（4）正四棱锥的顶点都在同一球面上，若该棱锥的高为4，底面边长为2，则该球的表面积为(　　)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
+A．　　　　　　　　
+B．16π　　　　　　　　
+C．9π　　　　　　　　
+D．
+
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 答案　A　解析　如图所示，设球半径为<em>R</em>，底面中心为<em>O</em>′且球心为<em>O</em>，∵正四棱锥<em>P</em>­<em>ABCD</em>中<em>AB</em>＝2，∴<em>AO</em>′＝，∵<em>PO</em>′＝4，∴在Rt△<em>AOO</em>′中，<em>AO</em><sup>2</sup>＝<em>AO</em>′<sup>2</sup>＋<em>OO</em>′<sup>2</sup>，∴<em>R</em><sup>2</sup>＝()<sup>2</sup>＋(4－<em>R</em>)<sup>2</sup>，解得<em>R</em>＝，∴该球的表面积为4π<em>R</em><sup>2</sup>＝4π×<sup>2</sup>＝.
 
 ![](images/d6e8309f6a54410d4ca39bb2e82aa8842f91054ff9b641b80872c456fa0df2bd.jpg)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-(5)如图所示，在正四棱锥*P*－*ABCD*中，底面*ABCD*是边长为4的正方形，*E*，*F*分别是*AB*，*CD*的中点，cos∠*PEF*＝，若*A*，*B*，*C*，*D*，*P*在同一球面上，则此球的体积为\_\_\_\_\_\_\_\_．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-答案　36π　解析　由题意，得底面<em>ABCD</em>是边长为4的正方形，cos ∠<em>PEF</em>＝，故高<em>PO</em><sub>1</sub>为2．易知正四棱锥<em>P</em>－<em>ABCD</em>的外接球的球心在它的高<em>PO</em><sub>1</sub>上，记球心为<em>O</em>，则<em>AO</em><sub>1</sub>＝2，<em>PO</em>＝<em>AO</em>＝<em>R</em>，<em>PO</em><sub>1</sub>＝2，<em>OO</em><sub>1</sub>＝2－<em>R</em>或<em>OO</em><sub>1</sub>＝<em>R</em>－2(此时<em>O</em>在<em>PO</em><sub>1</sub>的延长线上)，在直角△<em>AO</em><sub>1</sub><em>O</em>中，<em>R</em><sup>2</sup>＝<em>AO</em>＋<em>OO</em>＝(2)<sup>2</sup>＋(2－<em>R</em>)<sup>2</sup>，解得<em>R</em>＝3，所以球的体积为<em>V</em>＝π<em>R</em><sup>3</sup>＝×3<sup>3</sup>＝36π．
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)  
+（5）如图所示，在正四棱锥*P*－*ABCD*中，底面*ABCD*是边长为4的正方形，*E*，*F*分别是*AB*，*CD*的中点，cos∠*PEF*＝，若*A*，*B*，*C*，*D*，*P*在同一球面上，则此球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
+答案　36π　解析　由题意，得底面<em>ABCD</em>是边长为4的正方形，cos ∠<em>PEF</em>＝，故高<em>PO</em><sub>1</sub>为2．易知正四棱锥<em>P</em>－<em>ABCD</em>的外接球的球心在它的高<em>PO</em><sub>1</sub>上，记球心为<em>O</em>，则<em>AO</em><sub>1</sub>＝2，<em>PO</em>＝<em>AO</em>＝<em>R</em>，<em>PO</em><sub>1</sub>＝2，<em>OO</em><sub>1</sub>＝2－<em>R</em>或<em>OO</em><sub>1</sub>＝<em>R</em>－2(此时<em>O</em>在<em>PO</em><sub>1</sub>的延长线上)，在直角△<em>AO</em><sub>1</sub><em>O</em>中，<em>R</em><sup>2</sup>＝<em>AO</em>＋<em>OO</em>＝（2）<sup>2</sup>＋(2－<em>R</em>)<sup>2</sup>，解得<em>R</em>＝3，所以球的体积为<em>V</em>＝π<em>R</em><sup>3</sup>＝×3<sup>3</sup>＝36π．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-(6)在三棱锥中，，，，则该三棱锥外接球的体积为
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
-![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -224,7 +173,23 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)  
+（6）在三棱锥中，，，，则该三棱锥外接球的体积为
+
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -248,11 +213,44 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
+
+![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 答案　A　解析　由，过作平面，垂足为，则为三角形的外心，在中，由，，可得，则由正弦定理可得：，即．．取中点，作交于，则为该三棱锥外接球的球心．由，可得，则．可知与重合，即该棱锥外接球半径为1．该三棱锥外接球的体积为．
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -322,7 +320,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -386,7 +387,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -429,7 +433,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 如图在直角三角形中，，即，，则该三棱锥外接球的表面积为．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -460,7 +463,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
-A．2　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．2　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
@@ -508,7 +514,10 @@ A．2　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
@@ -523,7 +532,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
 
 ![](images/f2094e7cdb8d05b1314ee8b4cd59944792f3196fcb2c68590b70127c9758084c.png)
-
 ∵底面正方形的边长为，∴<em>O</em>′<em>D</em>＝1，∵正四棱锥的体积为2，∴<em>V<sub>P</sub></em><sub>－</sub><em><sub>ABCD</sub></em>＝×()<sup>2</sup>×<em>PO</em>′＝2，解得<em>PO</em>′＝3，∴<em>OO</em>′＝|<em>PO</em>′－<em>PO</em>|＝|3－<em>R</em>|，在Rt△<em>OO</em>′<em>D</em>中，由勾股定理可得<em>OO</em>′<sup>2</sup>＋<em>O</em>′<em>D</em><sup>2</sup>＝<em>OD</em><sup>2</sup>，即(3－<em>R</em>)<sup>2</sup>＋1<sup>2</sup>＝<em>R</em><sup>2</sup>，解得<em>R</em>＝，∴<em>V</em><sub>球</sub>＝π<em>R</em><sup>3</sup>＝π×<sup>3</sup>＝．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -601,7 +609,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 在圆台的轴上，满足，则圆台的外接球的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -669,7 +676,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 可得是该六棱锥外接球的直径，底面是边长为的正六边形的对角线差为：，可得，外接球的半径为，外接球的体积为．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
@@ -793,7 +799,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)
-
 若且，则三棱锥的外接球的体积为\_\_\_\_\_\_\_\_．
 
 ![](images/5e383d1d45b7de4b9fa9143e4e9ea41713e055a9d72ac00614059c40393f341c.jpg)

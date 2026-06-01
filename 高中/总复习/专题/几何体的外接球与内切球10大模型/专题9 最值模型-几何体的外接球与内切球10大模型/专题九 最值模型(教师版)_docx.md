@@ -1,10 +1,10 @@
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-**专题九　最值模型**
+专题九　最值模型
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-**【方法总结】**
+【方法总结】
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -12,71 +12,71 @@
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-**【例题选讲】**
+【例题选讲】
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-<strong>[例]</strong>　(1)已知三棱锥<em>P</em>－<em>ABC</em>的顶点<em>P</em>，<em>A</em>，<em>B</em>，<em>C</em>在球<em>O</em>的球面上，△<em>ABC</em>是边长为的等边三角形，如果球<em>O</em>的表面积为36π，那么<em>P</em>到平面<em>ABC</em>距离的最大值为\_\_\_\_\_\_\_\_．
+<strong>[例]</strong>　（1）已知三棱锥<em>P</em>－<em>ABC</em>的顶点<em>P</em>，<em>A</em>，<em>B</em>，<em>C</em>在球<em>O</em>的球面上，△<em>ABC</em>是边长为的等边三角形，如果球<em>O</em>的表面积为36π，那么<em>P</em>到平面<em>ABC</em>距离的最大值为\_\_\_\_\_\_\_\_．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
 答案　3＋2　解析　依题意，边长是的等边△<em>ABC</em>的外接圆半径<em>r</em>＝·＝1.∵球<em>O</em>的表面积为36π＝4π<em>R</em><sup>2</sup>，∴球<em>O</em>的半径<em>R</em>＝3，∴球心<em>O</em>到平面<em>ABC</em>的距离<em>d</em>＝＝2，∴球面上的点<em>P</em>到平面<em>ABC</em>距离的最大值为<em>R</em>＋<em>d</em>＝3＋2．
 
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-(2)在四面体*ABCD*中，*AB*＝1，*BC*＝*CD*＝，*AC*＝，当四面体*ABCD*的体积最大时，其外接球的表面积为(　　)
-
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-A．2π　　　　　　　　B．3π　　　　　　　　C．6π　　　　　　　　D．8π
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)  
+（2）在四面体*ABCD*中，*AB*＝1，*BC*＝*CD*＝，*AC*＝，当四面体*ABCD*的体积最大时，其外接球的表面积为(　　)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
+A．2π　　　　　　　　
+B．3π　　　　　　　　
+C．6π　　　　　　　　
+D．8π
+
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 答案　C　解析　∵<em>AB</em>＝1，<em>BC</em>＝，<em>AC</em>＝，由勾股定理可得<em>AB</em><sup>2</sup>＋<em>AC</em><sup>2</sup>＝<em>BC</em><sup>2</sup>，所以△<em>ABC</em>是以<em>BC</em>为斜边的直角三角形，且该三角形的外接圆直径为<em>BC</em>＝，当<em>CD</em>⊥平面<em>ABC</em>时，四面体<em>ABCD</em>的体积取最大值，此时，其外接球的直径为2<em>R</em>＝＝，因此，四面体<em>ABCD</em>的外接球的表面积为4π<em>R</em><sup>2</sup>＝π×(2<em>R</em>)<sup>2</sup>＝6π．故选C．
 
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-(3)已知四棱锥*S*－*ABCD*的所有顶点在同一球面上，底面*ABCD*是正方形且球心*O*在此平面内，当四棱锥的体积取得最大值时，其表面积等于16＋16，则球*O*的体积等于(　　)
-
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)  
+（3）已知四棱锥*S*－*ABCD*的所有顶点在同一球面上，底面*ABCD*是正方形且球心*O*在此平面内，当四棱锥的体积取得最大值时，其表面积等于16＋16，则球*O*的体积等于(　　)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
+
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 答案　D　解析　由题意得，当四棱锥的体积取得最大值时，该四棱锥为正四棱锥．因为该四棱锥的表面积等于16＋16，设球<em>O</em>的半径为<em>R</em>，则<em>AC</em>＝2<em>R</em>，<em>SO</em>＝<em>R</em>，如图，所以该四棱锥的底面边长<em>AB</em>＝<em>R</em>，则有(<em>R</em>)<sup>2</sup>＋4××<em>R</em>× ＝16＋16，解得<em>R</em>＝2，所以球<em>O</em>的体积是π<em>R</em><sup>3</sup>＝π．故选D．
 
 ![](images/d3394ace0b6c4ddf2c56716361b01eb8706a7d6662e25a555e04cb4cf221063f.jpg)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-(4)三棱锥*A*－*BCD*内接于半径为的球*O*中，*AB*＝*CD*＝4，则三棱锥*A*－*BCD*的体积的最大值为(　　)
-
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)  
+（4）三棱锥*A*－*BCD*内接于半径为的球*O*中，*AB*＝*CD*＝4，则三棱锥*A*－*BCD*的体积的最大值为(　　)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
+
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 答案　C　解析　如图，过<em>CD</em>作平面<em>ECD</em>，使<em>AB</em>⊥平面<em>ECD</em>，交<em>AB</em>于点<em>E</em>，设点<em>E</em>到<em>CD</em>的距离为<em>EF</em>，当球心在<em>EF</em>上时，<em>EF</em>最大，此时<em>E</em>，<em>F</em>分别为<em>AB</em>，<em>CD</em>的中点，且球心<em>O</em>为<em>EF</em>的中点，所以<em>EF</em>＝2，所以<em>V</em><sub>max</sub>＝××4×2×4＝，故选C．
 
 ![](images/39269ade5c2d783f1114f24a10cd31a3bb025084296b886a9ae710c9840a137d.jpg)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
+![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)  
+（5）已知正四棱柱的顶点在同一个球面上，且球的表面积为12π，当正四棱柱的体积最大时，正四棱柱的高为\_\_\_\_\_\_\_\_．
+
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
-(5)已知正四棱柱的顶点在同一个球面上，且球的表面积为12π，当正四棱柱的体积最大时，正四棱柱的高为\_\_\_\_\_\_\_\_．
-
-![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
 答案　8　解析　设正四棱柱的底面边长为<em>a</em>，高为<em>h</em>，球的半径为<em>r</em>，由题意知4π<em>r</em><sup>2</sup>＝12π，所以<em>r</em><sup>2</sup>＝3，又2<em>a</em><sup>2</sup>＋<em>h</em><sup>2</sup>＝(2<em>r</em>)<sup>2</sup>＝12，所以<em>a</em><sup>2</sup>＝6－，所以正四棱柱的体积<em>V</em>＝<em>a</em><sup>2</sup><em>h</em>＝<em>h</em>，则<em>V</em>′＝6－<em>h</em><sup>2</sup>，由<em>V</em>′&gt;0，得0&lt;<em>h</em>&lt;2，由<em>V</em>′&lt;0，得<em>h</em>&gt;2，所以当<em>h</em>＝2时，正四棱柱的体积最大，<em>V</em><sub>max</sub>＝8．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-**【对点训练】**
+【对点训练】
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -88,16 +88,17 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．4　　　　　　　　B．6　　　　　　　　C．8　　　　　　　　D．10
+A．4　　　　　　　　
+B．6　　　　　　　　
+C．8　　　　　　　　
+D．10
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
 1．答案　C　解析　依题意，设题中球的球心为*O*、半径为*R*，△*ABC*的外接圆半径为*r*，则＝，
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
 解得<em>R</em>＝5，由π<em>r</em><sup>2</sup>＝16π，解得<em>r</em>＝4，又球心<em>O</em>到平面<em>ABC</em>的距离为＝3，因此三棱锥<em>P</em>－<em>ABC</em>的高的最大值为5＋3＝8.
-
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
 2．(2015·全国Ⅱ)已知*A*，*B*是球*O*的球面上两点，∠*AOB*＝90°，*C*为该球面上的动点．若三棱锥*O*－*ABC*
@@ -108,7 +109,10 @@ A．4　　　　　　　　B．6　　　　　　　　C．8　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．36π　　　　　　　　B．64π　　　　　　　　C．144π　　　　　　　　D．256π
+A．36π　　　　　　　　
+B．64π　　　　　　　　
+C．144π　　　　　　　　
+D．256π
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -127,7 +131,6 @@ A．36π　　　　　　　　B．64π　　　　　　　　C．144π　　�
 3．已知点*A*，*B*，*C*，*D*均在球*O*上，*AB*＝*BC*＝，*AC*＝2．若三棱锥*D*－*ABC*体积的最大值为3，
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
 则球*O*的表面积为\_\_\_\_\_\_\_\_．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
@@ -168,7 +171,10 @@ A．36π　　　　　　　　B．64π　　　　　　　　C．144π　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．8π　　　　　　　　B．9π　　　　　　　　C．　　　　　　　　D．
+A．8π　　　　　　　　
+B．9π　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -188,7 +194,10 @@ A．8π　　　　　　　　B．9π　　　　　　　　C．　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -199,7 +208,6 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
-
 其中<em>AB</em>＝<em>BC</em>＝<em>CD</em>＝<em>BD</em>＝<em>AC</em>＝2，<em>AD</em>＝<em>a</em>，取<em>BC</em>，<em>AD</em>的中点分别为<em>E</em>，<em>F</em>，可知<em>AE</em>⊥<em>BC</em>，<em>DE</em>⊥<em>BC</em>，且<em>AE</em>∩<em>DE</em>＝<em>E</em>，∴<em>BC</em>⊥平面<em>AED</em>，∴平面<em>ABC</em>⊥平面<em>BCD</em>时，三棱锥<em>A</em>－<em>BCD</em>的体积最大，此时<em>AD</em>＝<em>a</em>＝<em>AE</em>＝×＝．设三棱锥外接球的球心为<em>O</em>，半径为<em>R</em>，由球体的对称性知，球心<em>O</em>在线段<em>EF</em>上，∴<em>OA</em>＝<em>OC</em>＝<em>R</em>，又<em>EF</em>＝＝＝，设<em>OF</em>＝<em>x</em>，<em>OE</em>＝－<em>x</em>，∴<em>R</em><sup>2</sup>＝＋<em>x</em><sup>2</sup>＝＋1，解得<em>x</em>＝．∴球的半径<em>R</em>满足<em>R</em><sup>2</sup>＝，∴三棱锥外接球的表面积为4π<em>R</em><sup>2</sup>＝4π×＝，故选B．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
@@ -212,7 +220,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．
+A．　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -232,7 +243,10 @@ A．　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．12　　　　　　　　B．18　　　　　　　　C．24　　　　　　　　D．54
+A．12　　　　　　　　
+B．18　　　　　　　　
+C．24　　　　　　　　
+D．54
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -252,7 +266,10 @@ A．12　　　　　　　　B．18　　　　　　　　C．24　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．2　　　　　　　　B．　　　　　　　　C．　　　　　　　　D．2
+A．2　　　　　　　　
+B．　　　　　　　　
+C．　　　　　　　　
+D．2
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -276,7 +293,10 @@ A．2　　　　　　　　B．　　　　　　　　C．　　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．8　　　　　　　　B．　　　　　　　　C．16　　　　　　　　D．
+A．8　　　　　　　　
+B．　　　　　　　　
+C．16　　　　　　　　
+D．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -296,7 +316,10 @@ A．8　　　　　　　　B．　　　　　　　　C．16　　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．4π　　　　　　　　B．　　　　　　　　C．6π　　　　　　　　D．
+A．4π　　　　　　　　
+B．　　　　　　　　
+C．6π　　　　　　　　
+D．
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
@@ -340,7 +363,10 @@ A．4π　　　　　　　　B．　　　　　　　　C．6π　　　　�
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
-A．2　　　　　　　　B．　　　　　　　　C．2　　　　　　　　D．4
+A．2　　　　　　　　
+B．　　　　　　　　
+C．2　　　　　　　　
+D．4
 
 ![](images/e2537cd93bafe00c7ce1820844c3c4023a2683df7a32901b48a4ddcbca1dd0cf.png)
 
