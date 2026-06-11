@@ -1,1 +1,0 @@
-# Secondary-School-Mathematics-Knowledge-Map
