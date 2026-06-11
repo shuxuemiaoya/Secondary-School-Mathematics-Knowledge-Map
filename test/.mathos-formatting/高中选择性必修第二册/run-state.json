@@ -1,0 +1,17 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\【人教版】高中选择性必修 第二册数学电子课本.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-v4-pro",
+  "stage": "heading-provider",
+  "status": "failed",
+  "artifacts": {
+    "toc_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_sample.md",
+    "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_prompt.md"
+  },
+  "warnings": [],
+  "errors": [
+    "'gbk' codec can't encode character '\\u2217' in position 16991: illegal multibyte sequence"
+  ],
+  "approved": false
+}
