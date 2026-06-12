@@ -4,61 +4,81 @@
       "id": "chapter_heading",
       "pattern": "^#\\s*(第[一二三四五六七八九十]+章)\\s*(.+)$",
       "replacement": "# \\1 \\2",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "section_heading",
       "pattern": "^#\\s*(\\d+\\.\\d+\\*?)\\s+(.+)$",
       "replacement": "## \\1 \\2",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "reading_heading",
       "pattern": "^#\\s*(阅读与思考 .+)$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "exploration_heading",
       "pattern": "^#\\s*(探究与发现 .+)$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "it_application_heading",
       "pattern": "^#\\s*(信息技术应用 .+)$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "literature_heading",
       "pattern": "^#\\s*(文献阅读与数学写作 .+)$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "summary_heading",
       "pattern": "^#\\s*(小结)\\s*$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "review_heading",
       "pattern": "^#\\s*(复习参考题\\d+)\\s*$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "index_heading",
       "pattern": "^#\\s*(部分中英文词汇索引)\\s*$",
       "replacement": "### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     },
     {
       "id": "demote_non_toc_heading",
       "pattern": "^#{1,3} (?!第[一二三四五六七八九十]+章 .+|\\d+\\.\\d+\\*? .+|阅读与思考 .+|探究与发现 .+|信息技术应用 .+|文献阅读与数学写作 .+|小结|复习参考题\\d+|部分中英文词汇索引|$)(.+)$",
       "replacement": "#### \\1",
-      "flags": ["MULTILINE"]
+      "flags": [
+        "MULTILINE"
+      ]
     }
   ],
   "notes": [

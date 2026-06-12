@@ -3,16 +3,28 @@
   "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\candidate.md",
   "provider_base_url": "https://api.deepseek.com",
   "provider_model": "deepseek-v4-pro",
-  "stage": "heading-provider",
-  "status": "failed",
+  "stage": "complete",
+  "status": "candidate-written",
   "artifacts": {
     "toc_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_sample.md",
     "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_prompt.md",
-    "heading_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_response.json"
+    "heading_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_response.json",
+    "heading_rules": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules.json",
+    "stage1_report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\stage1_heading_report.md",
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_detection_response.json",
+    "h1_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\h1_sample.md",
+    "content_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\content_cleaner_prompt.md",
+    "content_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\content_cleaner_response.py",
+    "content_cleaner": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\content_cleaner.py",
+    "candidate": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\candidate.md",
+    "report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\candidate-report.md"
   },
-  "warnings": [],
-  "errors": [
-    "Expecting value: line 1 column 1 (char 0)"
+  "warnings": [
+    "Found 179 image markdown lines that may be removed by the cleaner.",
+    "Found 86 <details> blocks that may be removed by the cleaner."
   ],
+  "errors": [],
   "approved": false
 }
