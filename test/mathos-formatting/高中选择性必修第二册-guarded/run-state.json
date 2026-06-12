@@ -1,0 +1,29 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\【人教版】高中选择性必修 第二册数学电子课本.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-v4-pro",
+  "stage": "complete",
+  "status": "candidate-written",
+  "artifacts": {
+    "toc_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\toc_sample.md",
+    "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\heading_rules_prompt.md",
+    "heading_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\heading_rules_response.json",
+    "heading_rules": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\heading_rules.json",
+    "stage1_report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\stage1_heading_report.md",
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\toc_detection_response.json",
+    "h1_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\h1_sample.md",
+    "content_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\content_cleaner_prompt.md",
+    "content_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\content_cleaner_response.py",
+    "content_cleaner": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\content_cleaner.py",
+    "candidate": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\candidate.md",
+    "report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\高中选择性必修第二册-guarded\\candidate-report.md"
+  },
+  "warnings": [
+    "179 image(s) have empty alt text."
+  ],
+  "errors": [],
+  "approved": false
+}
