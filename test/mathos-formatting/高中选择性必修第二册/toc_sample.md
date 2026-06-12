@@ -2,12 +2,6 @@
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/adfeca06378db39fc2a73fd39b8d331cd7139cdab42026963a7540711739ebb9.jpg)
 
-<details>
-<summary>natural_image</summary>
-
-Beach scene with floating geometric shapes on sand, ocean waves in background (no text or symbols)
-</details>
-
 # 第四章 数列 …… 1
 
 4.1 数列的概念…… 2
@@ -27,12 +21,6 @@ Beach scene with floating geometric shapes on sand, ocean waves in background (n
 复习参考题4 54
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/ff832bce231e2962ad6e32dcd0b6117becee8672ba1a5bf2658e9b23bcf40e61.jpg)
-
-<details>
-<summary>natural_image</summary>
-
-J performing a dive into the pool, mid-air against a light blue background (no text or symbols)
-</details>
 
 # 第五章 一元函数的导数及其应用 …… 58
 
@@ -62,13 +50,7 @@ J performing a dive into the pool, mid-air against a light blue background (no t
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/3ecf3ecc6792a2a3902225377b653d0ac2fcbecf24914fee188dae0ed3749e1f.jpg)
 
-<details>
-<summary>text_image</summary>
-
-人民教育出版社
-</details>
-
-# 4.1 数列的概念
+## 4.1 数列的概念
 
 在现实生活和数学学习中，我们经常需要根据问题的意义，通过对一些数据按特定顺序排列的方法来刻画研究对象。例如：
 
@@ -92,26 +74,6 @@ J performing a dive into the pool, mid-air against a light blue background (no t
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/d23c029f9929e000ae93124d426eb90a131e665cdef4ab4c027ecd5b6634fcc3.jpg)
 
-<details>
-<summary>text_image</summary>
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-</details>
-
 ① 把满月分成 240 份，则从初一到十五每天月亮的可见部分可用一个代表份数的数来表示.
 
 3. $-\frac{1}{2}$ 的 n 次幂按 1 次幂、2 次幂、3 次幂、4 次幂……依次排成一列数：
@@ -122,14 +84,12 @@ $$
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/a852cfb59c38597f1719e1aec14ae4eded7507833573ade8ff2c73e3ca74c13c.jpg)
 
-# 思考
-
+> [!think] 思考
 你能仿照上面的叙述，说明③也是具有确定顺序的一列数吗？
 
 ![](images/【人教版】高中选择性必修 第二册数学电子课本/8b6dd8420dd6c57940a6edd99980d96a55bce179329810b099df8983792f13c8.jpg)
 
-# 归纳
-
+> [!tip] 归纳
 上述例子的共同特征是什么？
 
 一般地，我们把按照确定的顺序排列的一列数称为数列（sequence of number），数列中的每一个数叫做这个数列的项．数列的第一个位置上的数叫做这个数列的第1项，常用符号 $a_{1}$ 表示，第二个位置上的数叫做这个数列的第2项，用 $a_{2}$ 表示……第n个位置上的数叫做这个数列的第n项，用 $a_{n}$ 表示．其中第1项也叫做首项．①是按年龄从小到大的顺序排列的，②是按每月的日期从小到大的顺序排列的，③是按幂指数从小到大的顺序排列的，它们都是从第1项开始的.

@@ -24,53 +24,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 ## Warnings
 
 - Found 179 image markdown lines that may be removed by the cleaner.
-- Found 86 <details> blocks that may be removed by the cleaner.
-
-## Diff
-
-````diff
---- C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\test\【人教版】高中选择性必修 第二册数学电子课本.md
-+++ C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\test\.mathos-formatting\高中选择性必修第二册\candidate.md
-@@ -1,172 +1,12 @@
--# 数学
--
--选择性必修
--
--第二册
--
--![](images/【人教版】高中选择性必修 第二册数学电子课本/4de1b1594752f5bcc1cebcfa4b9adabf4899362412a73e6932133e1de14fa88d.jpg)
--
--<details>
--<summary>text_image</summary>
--
--y'
--x
--y=f(x)
--P
--T
--f(x₀)
--P₀
--x₀
--O
--人民教育出版社
--A版
--</details>
+- Found 86 
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/8e64224c44375582ad489ab372f8b513dc78763391d794efeecff67fe0e7152a.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--P
--T
--f(x₀)
--P₀
--O
--x₀
--x
--</details>
 -
 -人民教育出版社
 -
@@ -134,11 +92,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/adfeca06378db39fc2a73fd39b8d331cd7139cdab42026963a7540711739ebb9.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Beach scene with floating geometric shapes on sand, ocean waves in background (no text or symbols)
--</details>
 -
 -# 第四章 数列 …… 1
 -
@@ -160,11 +114,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/ff832bce231e2962ad6e32dcd0b6117becee8672ba1a5bf2658e9b23bcf40e61.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--J performing a dive into the pool, mid-air against a light blue background (no text or symbols)
--</details>
 -
 -# 第五章 一元函数的导数及其应用 …… 58
 -
@@ -195,11 +145,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/3ecf3ecc6792a2a3902225377b653d0ac2fcbecf24914fee188dae0ed3749e1f.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--人民教育出版社
--</details>
 -
 -# 4.1 数列的概念
 +
@@ -222,25 +168,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/d23c029f9929e000ae93124d426eb90a131e665cdef4ab4c027ecd5b6634fcc3.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--1
--2
--3
--4
--5
--6
--7
--8
--9
--10
--11
--12
--13
--14
--15
--</details>
 +
  
  ① 把满月分成 240 份，则从初一到十五每天月亮的可见部分可用一个代表份数的数来表示.
@@ -256,6 +184,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  你能仿照上面的叙述，说明③也是具有确定顺序的一列数吗？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/8b6dd8420dd6c57940a6edd99980d96a55bce179329810b099df8983792f13c8.jpg)
 -
@@ -264,6 +193,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 归纳
  
  上述例子的共同特征是什么？
+
  
 @@ -264,31 +81,7 @@
  
@@ -271,29 +201,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/ecec43099cc17247eb28ff6f5bbc6373972843bfa8605699bdd4f19cb5c7e952.jpg)
 -
--<details>
--<summary>scatter</summary>
 -
--| n | an |
--|---|---|
--| 1 | 75 |
--| 2 | 85 |
--| 3 | 95 |
--| 4 | 102 |
--| 5 | 110 |
--| 6 | 115 |
--| 7 | 120 |
--| 8 | 127 |
--| 9 | 137 |
--| 10 | 145 |
--| 11 | 152 |
--| 12 | 158 |
--| 13 | 160 |
--| 14 | 161 |
--| 15 | 162 |
--| 16 | 165 |
--| 17 | 168 |
--</details>
 +
  
  图4.1-1
@@ -304,34 +212,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/a236c4fccd90ee2c13c647cb9366a64fc921e4f5d54eb17ccd00c6342da7194b.jpg)
 -
--<details>
--<summary>scatter</summary>
 -
--| n | an |
--|---|---|
--| 1 | 1 |
--| 2 | 3 |
--| 3 | 6 |
--| 4 | 9 |
--| 5 | 15 |
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/e5d864c742cd27e92fa771bdeebbe52d62450ae80bb2bdf3a5d6be85879d911b.jpg)
 -
--<details>
--<summary>scatter</summary>
 -
--| n | a_n |
--|---|---|
--| 1 | 1 |
--| 2 | 0 |
--| 3 | -1 |
--| 4 | 0 |
--| 5 | 1 |
--</details>
 +
  
  (2)   
@@ -370,6 +258,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  已知数列 $\{a_{n}\}$ 的前 $n$ 项和公式为 $S_{n} = n^{2} + n$ ，你能求出 $\{a_{n}\}$ 的通项公式吗？
+
  
 @@ -473,71 +238,56 @@
  
@@ -488,6 +377,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  (1) 求证 $a_{n} \geqslant \frac{1}{2}$ .   
  (2) $\{a_{n}\}$ 是递增数列还是递减数列？为什么？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/2f9ad586a86db9e185d07c4e82df7ee90b506d755878d29f285db03dc1355a86.jpg)
 -
@@ -507,16 +397,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/80797607d5ed7c9945a2cd7b26f3e7a1a43d419b4f2cd38e71309c9a69697799.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--8
--5
--1
--1
--2
--3
--</details>
 +
  
  图1
@@ -525,11 +406,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/72b0ffe3399a15d66a325d12ad9244e12eea4c1c936ffce3e39e56b973bbd511.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Close-up of a sunflower's center with blue polygonal mesh overlay (no text or symbols)
--</details>
 +
  
  图2
@@ -554,11 +431,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f2fc7eb9b55b91bcc00e643a4ca390df5dab2a135b957f4dffa34ad05ffa884e.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Exterior view of a traditional Chinese stone pathway with a pavilion and surrounding trees under a clear blue sky (no signage or text visible)
--</details>
 +
  
  如果按月还款，等额本金还款方式的计算公式是
@@ -571,15 +444,18 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  在代数的学习中，我们常常通过运算来发现规律。例如，在指数函数的学习中，我们通过运算发现了A，B两地旅游人数的变化规律。类似地，你能通过运算发现以上数列的取值规律吗？
+
  
 @@ -758,7 +481,7 @@
  
  在日常生活中，人们常常用到等差数列。例如，在给各种产品的尺寸划分级别时，当其中的最大尺寸与最小尺寸相差不大时，常按等差数列进行分级（如前面例子中的上衣尺码）。你能举出一些例子吗？
+
  
 -# 探究
 +#### 探究
  
  你能根据等差数列的定义推导它的通项公式吗？
+
  
 @@ -798,7 +521,7 @@
  a _ {n} = a _ {1} + (n - 1) d.
@@ -589,6 +465,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  观察等差数列的通项公式，你认为它与我们熟悉的哪一类函数有关？
+
  
 @@ -806,20 +529,7 @@
  
@@ -596,18 +473,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/ff7d709c49592c3d621bf35c893247974cab2958d04f5beadcebf12999df0ae2.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x | f(x) |
--|---|------|
--| 1 | a₁-d |
--| 2 | a₂ |
--| 3 | a₃ |
--| 4 | a₄ |
--| 5 | a₅ |
--| 6 | a₆ |
--</details>
 +
  
  图4.2-1
@@ -629,22 +495,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  例 5 是等差数列的一条性质，图 4.2-2 是它的一种情形．你能从几何角度解释等差数列的这一性质吗？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/6112f7c5461d92cc2c3f55ed518e0cd39be7d5f46f0b08287f639e49b321969b.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| Point | x    | y    |
--|-------|------|------|
--| a_p   | s    | p    |
--| a_q   | q    | q    |
--| a_s   | s    | p    |
--| a_t   | t    | t    |
--| (s,a_s)| s    | p    |
--| (q,a_q)| q    | q    |
--| (t,a_t)| t    | t    |
--</details>
 +
  
  图4.2-2
@@ -657,6 +512,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -1074,7 +770,7 @@
  （2）依次取出数列中的所有奇数项，组成一个新的数列，这个新数列是等差数列吗？如果是，它的首项和公差分别是多少？  
  （3）依次取出数列中所有序号为7的倍数的项，组成一个新的数列，它是等差数列吗？你能根据得到的结论作出一个猜想吗？
+
  
 -# 4.2.2 等差数列的前 $n$ 项和公式
 +#### 4.2.2 等差数列的前 $n$ 项和公式
@@ -669,11 +525,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/a0717a460d08e7370b906093878c66918fea25973548144fcff2da158728c691.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Portrait sketch of an elderly man with white hair and beard, wearing a red and white garment (no text or symbols visible)
--</details>
 +
  
  高斯(Gauss,1777—1855)，德国数学家，近代数学的奠基者之一。他在天文学、大地测量学、磁学、光学等领域都作出了杰出贡献。
@@ -682,6 +534,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  你能说说高斯在求和过程中利用了数列①的什么性质吗？你能从中得到求数列①的前 $n$ 项和的方法吗？
+
  
 @@ -1156,7 +846,7 @@
  S _ {n} = 1 + 2 + 3 + \dots + n = \frac {n (1 + n)}{2}.
@@ -691,6 +544,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  我们发现，在求前 $n$ 个正整数的和时，要对 $n$ 分奇数、偶数进行讨论，比较麻烦．能否设法避免分类讨论？
+
  
 @@ -1186,9 +876,8 @@
  
@@ -703,15 +557,18 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  上述方法的妙处在哪里？这种方法能够推广到求等差数列 $\{a_{n}\}$ 的前 $n$ 项和吗？
+
  
 @@ -1228,7 +917,7 @@
  
  所以 $\frac{a_1 + a_n}{2}$ 就是等差数列 $\{a_{n}\}$ 前 $n$ 项的平均数．实际上，我们就是利用等差数列的这一重要特性来推导它的前 $n$ 项和的．你还能发现这一特性的一些应用吗？
+
  
 -# 思考
 +#### 思考
  
  不从公式（1）出发，你能用其他方法得到公式（2）吗？
+
  
 @@ -1310,9 +999,8 @@
  
@@ -740,23 +597,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/c11eece76255e8bcea545238763b8300cf6d00057eb8a35e5a61584111c6252e.jpg)
 -
--<details>
--<summary>scatter</summary>
 -
--| n  | Sn  |
--|----|-----|
--| 1  | 10  |
--| 2  | 18  |
--| 3  | 24  |
--| 4  | 28  |
--| 5  | 30  |
--| 6  | 30  |
--| 7  | 28  |
--| 8  | 24  |
--| 9  | 18  |
--| 10 | 10  |
--| 11 | 5   |
--</details>
 +
  
  图4.2-4
@@ -800,11 +641,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/dcd4c74e1baf88fa52a335cd4a2a3e03adc77e8b75fb3112c13e55d850a9bf57.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Deep space image showing a bright comet with a long tail, surrounded by stars and faint star clusters (no text or symbols)
--</details>
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/7b39acebccfb8fe2658d325fd3218ede332bb02af088abe29136f6e955fdea40.jpg)
 -
@@ -834,11 +671,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/6b0857ce023fbb5eea85d8e7ce52f3138bd3feada24845423d06e212104351e7.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Cluster of red spherical objects with gradient shading (no text or symbols)
--</details>
 +
  
  (第12题)
@@ -847,6 +680,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +## 4.3 等比数列
  
  我们知道，等差数列的特征是“从第2项起，每一项与它的前一项的差都等于同一个常数”，类比等差数列的研究思路和方法，从运算的角度出发，你觉得还有怎样的数列是值得研究的？
+
  
 -# 4.3.1 等比数列的概念
 +#### 4.3.1 等比数列的概念
@@ -859,33 +693,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/9e30474307212aeb96e59ec424ac54cc89a9f0cd47cadbd5504179a85e1c5f4f.jpg)
 -
--<details>
--<summary>flowchart</summary>
 -
--```mermaid
--graph TD
--    A["分裂"] --> B["Child 1"]
--    A --> C["Child 2"]
--    A --> D["Child 3"]
--    B --> E["Child 4"]
--    B --> F["Child 5"]
--    C --> G["Child 6"]
--    C --> H["Child 7"]
--    D --> I["Child 8"]
--    D --> J["Child 9"]
--    E --> K["Child 10"]
--    E --> L["Child 11"]
--    F --> M["Child 12"]
--    F --> N["Child 13"]
--    G --> O["Child 14"]
--    G --> P["Child 15"]
--    H --> Q["Child 16"]
--    H --> R["Child 17"]
--    I --> S["Child 18"]
--    I --> T["Child 19"]
--    J --> U["Child 20"]
--```
--</details>
 +
  
  ②复利是指把前一期的利息和本金加在一起算作本金，再计算下一期的利息.
@@ -897,6 +705,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  类比等差数列的研究，你认为可以通过怎样的运算发现以上数列的取值规律？你发现了什么规律？
+
  
 @@ -1602,9 +1227,8 @@
  
@@ -909,6 +718,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  类比等差数列的概念，从上述几个数列的规律中，你能抽象出等比数列的概念吗？
+
  
 @@ -1612,9 +1236,8 @@
  
@@ -921,6 +731,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  你能根据等比数列的定义推导它的通项公式吗？
+
  
 @@ -1650,19 +1273,7 @@
  
@@ -928,17 +739,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/6634aa50bfc9aa238c4636fd1fb4bb09e7fa43e62c56d217717377da5d1115cd.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| Point | x | f(x)     |
--|-------|---|----------|
--| 1     | 1 | a₁       |
--| 2     | 2 | a₂       |
--| 3     | 3 | a₃       |
--| 4     | 4 | a₄       |
--| 5     | 5 | a₅       |
--</details>
 +
  
  图4.3-1
@@ -960,6 +761,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  已知 $b > 0$ 且 $b \neq 1$ ，如果数列 $\{a_n\}$ 是等差数列，那么数列 $\{b^{a_n}\}$ 是否一定是等比数列？如果数列 $\{a_n\}$ 是各项均为正的等比数列，那么数列 $\{\log_b a_n\}$ 是否一定是等差数列？
+
  
 @@ -1952,7 +1563,7 @@
  
@@ -981,11 +783,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/64b78313dc12df49a7db3b3203f8777cc7256eb6569d27a64dc932589b503c42.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Chessboard with wooden pieces arranged on a checkered board (no text or symbols visible)
--</details>
 +
  
  让我们一起来分析一下．如果把各格所放的麦粒数看成一个数列，我们可以得到一个等比数列，它的首项是1，公比是2，求第1个格子到第64个格子各格所放的麦粒数总和就是求这个等比数列前64项的和.
@@ -1005,15 +803,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/afd40dd4435d120dbc8b7ba07814c05f103033bc978561ad268e2f048f083b5d.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--A H D
--L O K
--E P N G
--I M J
--B F C
--</details>
 +
  
  图4.3-2
@@ -1089,11 +879,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/c48af28dffe98aa249e0be6ea579098af933a07861a707a0cfc4d5713e291c5e.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Portrait sketch of an elderly man in traditional attire (no text or symbols visible)
--</details>
 +
  
  刘徽
@@ -1104,26 +890,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/9d593cb15d38f88059b28bc5457ab119d65ce6c08fe5ed818e3282e4a9fb140f.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--a
--b
--n
--c
--d
--</details>
 +
  
  图1
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f6f5ea617af37c834bbe5b1729dae14b2c76bbde2ab40b71303a17e4c3ba8c7c.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--圭垛
--</details>
 +
  
  图2
@@ -1132,11 +906,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/970b721f86027473d136e928c9ed1764542eec20c3fc0c93352278d5c5b9c38e.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Geometric diagram of a triangular pyramid with pink and blue faces, no text or symbols present
--</details>
 +
  
  图3
@@ -1160,11 +930,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/1ef826f8458e42fef518438a27d9bb18e1727adc4af2bc293d80dae56c2caaff.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Blue 3D blocks descending in a row, symbolizing market decline or drop (no text or symbols)
--</details>
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/bc7110cd284b7bc5e1f3eb93b8c50030ce667ff96f5cf49168677f9a79f5ed79.jpg)
 -
@@ -1175,6 +941,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  在这个游戏中，能使所有多米诺骨牌全部倒下的条件是什么？
+
  
 @@ -2492,9 +2047,8 @@
  
@@ -1187,6 +954,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  你认为条件(2)的作用是什么？如何用数学语言描述它？
+
  
 @@ -2504,9 +2058,8 @@
  
@@ -1199,6 +967,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  你认为证明前面的猜想“数列的通项公式是 $a_{n} = 1 (n \in \mathbf{N}^{*})$ ”与上述多米诺骨牌游戏有相似性吗？你能类比多米诺骨牌游戏解决这个问题吗？
+
  
 @@ -2520,9 +2073,8 @@
  
@@ -1211,6 +980,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  归纳上述过程的共性，你能得出推理的一般结构吗？
+
  
 @@ -2553,9 +2105,8 @@
  
@@ -1223,6 +993,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  数学归纳法中的两个步骤之间有什么关系？
+
  
 @@ -2607,7 +2158,7 @@
  
@@ -1232,6 +1003,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 练习
  
  1. 下列各题在应用数学归纳法证明的过程中，有没有错误？如果有错误，错在哪里？
+
  
 @@ -2875,7 +2426,7 @@
  
@@ -1290,36 +1062,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/db756c4366635907a6e91b02ffdf91992ce43c8bfed954db90551432d67ec861.jpg)
 -
--<details>
--<summary>flowchart</summary>
 -
--```mermaid
--graph TD
--    A["数学归纳法"] --> B["特殊数列"]
--    B --> C["特殊化"]
--    C --> D["数列"]
--    D --> E["概念"]
--    D --> F["表示"]
--    E --> G["表格"]
--    E --> H["图象"]
--    F --> I["通项公式"]
--    F --> J["递推公式"]
--    B --> K["等差数列"]
--    K --> L["类比"]
--    L --> M["等比数列"]
--    M --> N["指数函数"]
--    N --> O["基本原理"]
--    N --> P["简单应用"]
--    M --> Q["概念"]
--    M --> R["表示"]
--    M --> S["前n项和公式"]
--    Q --> T["通项公式"]
--    R --> T
--    S --> T
--    T --> U["应用"]
--    K --> V["一次函数"]
--```
--</details>
 -
 -# 二、回顾与思考
 +### 小结
@@ -1334,6 +1077,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3007,11 +2523,9 @@
  6. 推导等差数列、等比数列的前 $n$ 项和公式时，各用了哪些巧妙的方法？  
  \* 7. 为什么说数学归纳法的两个步骤（归纳奠基与归纳递推）缺一不可？你能说说两个步骤各自的作用吗？它们之间有怎样的关系？
+
  
 -# 复习参考题4
 -
@@ -1357,11 +1101,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/accf27d242f69b903c5f442b286082971002fd6576dc388de220ba016cc19692.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Simple blue eight-pointed star shape on white background (no text or symbols)
--</details>
 +
  
  ②
@@ -1370,11 +1110,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/3d01302d0cca27f8e9ede0f938ca65be3395439b2626e19068454c682af8bb20.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Abstract geometric star-like shape composed of eight petal-like segments in light blue (no text or symbols)
--</details>
 +
  
  ③
@@ -1383,11 +1119,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/37b2678765b856c1c6062dcce88edb8968b1f113bf0fd920cc014e8b85af7699.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Symmetrical blue fractal-like shape with jagged edges and no text or symbols
--</details>
 +
  
  ④   
@@ -1395,6 +1127,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3106,9 +2601,8 @@
  6. 某中学的募捐小组暑假期间走上街头进行了一次募捐活动，共收到捐款 1200 元。他们第 1 天只得到 10 元，之后采取了积极措施，从第 2 天起，每天收到的捐款都比前一天多 10 元。这次募捐活动一共进行了多少天？  
  7. 某同学利用暑假中的一段时间（不超过 20 天）到一家商场勤工俭学。该商场向他提供了三种付酬方案：第一种，每天支付 85 元；第二种，第 1 天支付 65 元，从第 2 天起，每天比前一天都多支付 2 元；第三种，第 1 天支付 40 元，从第 2 天起，每天支付的金额都是前一天的 1.1 倍。你认为他选择哪种方案领取报酬更划算？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/47fa231ed5e49050fccaa8db4864c8a48dbd68b84fee573339ac4202726a5e90.jpg)
 -
@@ -1418,11 +1151,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f42bb754eb91c1fd14fb621cc18cb5e194001d9e73c0757b3c2d27755782cc61.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Three rows of light blue spheres arranged in triangular stacks, with a separate row of black dots (no text or symbols)
--</details>
 +
  
  (第 14 题)
@@ -1444,19 +1173,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/b246e1754a5d306d9dd242dc3ae0c353536c822900b340c0add5694e4e561aef.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Female gymnast performing a vertical split in mid-air (no text or symbols visible)
--</details>
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/87b9ce6ba95e1782f45dcb26d2f907e3c0660a24202286171cb6901fa8839eee.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Exterior view of a modern building entrance with blue flooring and metal railing (no signage or text)
--</details>
 -
 -# 5.1 导数的概念及其意义
 +
@@ -1491,6 +1212,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  计算运动员在 $0 \leqslant t \leqslant \frac{4}{7}$ 这段时间里的平均速度，你发现了什么？你认为用平均速度描述运动员的运动状态有什么问题吗？
+
  
 @@ -3263,9 +2734,8 @@
  
@@ -1503,6 +1225,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  瞬时速度与平均速度有什么关系？你能利用这种关系求运动员在 $t = 1$ s时的瞬时速度吗？
+
  
 @@ -3279,7 +2749,7 @@
  
@@ -1512,6 +1235,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 观察
  
  给出 $\Delta t$ 更多的值，利用计算工具计算对应的平均速度 $\overline{v}$ 的值。当 $\Delta t$ 无限趋近于0时，平均速度 $\overline{v}$ 有什么变化趋势？
+
  
 @@ -3293,12 +2763,12 @@
  
@@ -1539,6 +1263,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  你认为应该如何定义抛物线 $f(x) = x^{2}$ 在点 $P_{0}(1, 1)$ 处的切线？
+
  
  与研究瞬时速度类似，为了研究抛物线 $f(x) = x^{2}$ 在点 $P_{0}(1,1)$ 处的切线，我们通常在点 $P_{0}(1,1)$ 的附近任取一点 $P(x,x^{2})$ ，考察抛物线 $f(x) = x^{2}$ 的割线 $P_{0}P$ 的变化情况.
  
@@ -1549,19 +1274,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 观察
  
  如图5.1-1，当点 $P(x, x^2)$ 沿着抛物线 $f(x) = x^2$ 趋近于点 $P_0(1, 1)$ 时，割线 $P_0P$ 有什么变化趋势？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/4113304d163830c0fad157a0a90dad13ff0b8baef77648d3afc3e86fc1cf0a95.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| Point | x    | y    |
--|-------|------|------|
--| P     | 1.0  | 1.0  |
--| P₀    | 1.0  | 1.0  |
--| P     | 2.0  | 4.0  |
--| P₀    | 2.0  | 3.5  |
--</details>
 +
  
  图5.1-1
@@ -1577,6 +1294,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  我们知道，斜率是确定直线的一个要素．如何求抛物线 $f(x) = x^{2}$ 在点 $P_{0}(1,1)$ 处的切线 $P_{0}T$ 的斜率 $k_{0}$ 呢？
+
  
 @@ -3365,9 +2821,8 @@
  
@@ -1589,6 +1307,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 观察
  
  利用计算工具计算更多割线 $P_0P$ 的斜率 $k$ 的值，当 $\Delta x$ 无限趋近于0时，割线 $P_0P$ 的斜率 $k$ 有什么变化趋势？
+
  
 @@ -3381,7 +2836,7 @@
  
@@ -1602,17 +1321,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3391,25 +2846,16 @@
  
  的几何意义是什么？瞬时速度 $v(1)$ 呢？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/63dc2a8ae340729b01d72acbda6481f8ad63a2264a946c90dd6b8fd13b61e142.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t              | h(t)        |
--| -------------- | ----------- |
--| 1              | h(1)        |
--| 1+Δt           | h(1+Δt)     |
--</details>
 +
  
  图5.1-2
@@ -1640,6 +1353,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3510,7 +2956,7 @@
  
  我们知道，导数 $f'(x_0)$ 表示函数 $y = f(x)$ 在 $x = x_0$ 处的瞬时变化率，反映了函数 $y = f(x)$ 在 $x = x_0$ 附近的变化情况。那么导数 $f'(x_0)$ 的几何意义是什么？
+
  
 -# 思考
 +#### 思考
@@ -1649,25 +1363,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3526,24 +2972,7 @@
  
  表示什么？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/c51820b582154759e4f8f0f502947ebb2de6f6cc7286d18e675be87e919919f2.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--f(x₀+Δx)
--P
--f(x₀)
--P₀
--T
--f(x₀+Δx)-f(x₀)
--O
--x₀
--x₀+Δx
--x
--</details>
 +
  
  图5.1-3
@@ -1675,22 +1375,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3559,21 +2988,7 @@
  
  此处的切线定义与初中学过的圆的切线定义有什么不同？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/003fc541b94b0888ebacb790fcf141ac935622dc6ae180d41f6c295e10108cef.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--P
--T
--f(x₀)
--P₀
--O
--x₀
--x
--</details>
 +
  
  图5.1-4
@@ -1701,16 +1390,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/76ad0b6a09755161e4f3ff69b35247e04a7c2be5d58e44f9d4ec0110d7ebe14c.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--T
--P₀
--T
--P₀
--P₀
--T
--</details>
 +
  
  图5.1-5
@@ -1721,17 +1401,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/3860a2b512887df666ee67cb5b051637797d5aa69d8b9889dd1a216f9dc41395.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | h     |
--| ---- | ----- |
--| t0   | 1.0   |
--| t1   | 0.8   |
--| t2   | 0.5   |
--| t3   | 0.3   |
--| t4   | 0.1   |
--</details>
 +
  
  图5.1-6
@@ -1742,22 +1412,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/24e19c83538bdae06cc90dc85fc322a49612fdf35f050707d1f172b89523a2db.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | c (blue line) | c (pink line) |
--| ---- | ------------- | ------------- |
--| 0.1  | 0.85          | -             |
--| 0.2  | 0.92          | -             |
--| 0.3  | 0.96          | -             |
--| 0.4  | 0.98          | -             |
--| 0.5  | 0.99          | -             |
--| 0.6  | 0.97          | -             |
--| 0.7  | 0.92          | 0.95          |
--| 0.8  | -             | 0.85          |
--| 0.9  | -             | 0.70          |
--| 1.0  | 0.25          | 0.45          |
--</details>
 +
  
  图5.1-7
@@ -1777,16 +1432,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/15118ecc4899217e8cc20e3f38713f7511a1751606d0afb6ea362b525d43c6dc.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x | f(x) |
--|---|------|
--| 0 | 0    |
--| 1 | ~0.5 |
--| 2 | ~1   |
--| 3 | ~1.5 |
--</details>
 +
  
  (第2题)
@@ -1809,57 +1455,28 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/2fbef2e3851d3782741c1299fc1fdf1b89922bced196f57a62d21ae94006db1f.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | 距学校的距离 |
--| ---- | ------------ |
--| 0    | 0            |
--| >0   | >0           |
--</details>
 +
  
  (A)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/a19208dbb373932d7de43fb71f5afb0329ab3408a7c13bfaacff435744f1a749.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | 距学校的距离 |
--| ---- | ------------ |
--| 0    | 1            |
--| >0   | 0            |
--</details>
 +
  
  (B)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/107202aaa9a080c6056ab2ae7afff73246d4e4f3af1384e1dc73252107130207.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | 距学校的距离 |
--| ---- | ------------ |
--| 0    | High         |
--| Low  | Decreasing   |
--| High | Decreasing   |
--</details>
 +
  
  (C)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/681dbc8cf0a3b327340008f0a2b5452fde79c1ebb2712ad61f2a4ac9fa1213da.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | 距学校的距离 |
--| ---- | ------------ |
--| 0    | 1            |
--| >0   | 0            |
--</details>
 +
  
  (D)
@@ -1869,20 +1486,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/31e429bd1f438789b8180043771ba0c61b0fad57346c3d6ca87814d1c2ed7354.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x   | y     |
--| --- | ----- |
--| -5  | -140  |
--| -4  | -60   |
--| -3  | 0     |
--| -2  | 40    |
--| -1  | 0     |
--| 0   | -40   |
--| 1   | -60   |
--| 2   | -140  |
--</details>
 +
  
  (第6题)
@@ -1901,39 +1505,21 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f45e683a0744a5f222d2ebaa6ee3ca99eab57b174bffd70c164160a34a535f37.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--O
--x
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/39d9c61b7c7dce84298ea41e524144f1712c1bac08ee95fe9838f2c9458d1633.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--O
--x
--</details>
 +
  
  (2)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/371b64214cb3b3454ec295e4be9c18f27f5b558e5249db8f8dea636b4c656e3b.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--O
--x
--</details>
 +
  
  (3)   
@@ -1972,14 +1558,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/ca6564004ef2e78188fe8c4658dd92c12fef3561536a8da1240663f4d975e6b4.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=c
--O
--x
--</details>
 +
  
  图5.2-1
@@ -1995,14 +1574,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/05a407ba1d74c9a8c4ccf03a010773284f27c925170e624358047a4ca2dda5a8.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x
--O
--x
--</details>
 +
  
  图5.2-2
@@ -2018,14 +1590,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/b796289c43ce8c11cf5a04fc06c8298841e4da9e4b8e8629f083eb4966b9cd89.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x²
--O
--x
--</details>
 +
  
  图5.2-3
@@ -2041,14 +1606,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/2e799704ec09b0bbf78743adbfd92062cf37fade2b2e53c024d7f3a193d0268b.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x³
--O
--x
--</details>
 +
  
  图5.2-4
@@ -2078,6 +1636,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -4076,7 +3324,7 @@
  
  如果某种商品的 $p_0 = 5$ ，那么在第10个年头，这种商品的价格上涨的速度大约是多少？
+
  
 -# 练习
 +#### 练习
@@ -2092,6 +1651,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 5.2.2 导数的四则运算法则
  
  在例2中，当 $p_0 = 5$ 时， $p(t) = 5 \times 1.05^t$ 。这时，求 $p$ 关于 $t$ 的导数可以看成求函数 $f(t) = 5$ 与 $g(t) = 1.05^t$ 乘积的导数。一般地，如何求两个函数的和、差、积、商的导数呢？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/de1a41472f8abc013f097b35a3b1b686496af518fa3ed764f46694db8b0a7cb2.jpg)
 -
@@ -2100,6 +1660,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  设 $f(x) = x^2$ ， $g(x) = x$ ，计算 $[f(x) + g(x)]'$ 与 $[f(x) - g(x)]'$ ，它们与 $f'(x)$ 和 $g'(x)$ 有什么关系？再取几组函数试试，上述关系仍然成立吗？由此你能想到什么？
+
  
 @@ -4167,7 +3414,7 @@
  \begin{array}{l} = (2 ^ {x}) ^ {\prime} + (\cos x) ^ {\prime} \\ = 2 ^ {x} \ln 2 - \sin x. \\ \end{array}
@@ -2109,6 +1670,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  设 $f(x) = x^2$ ， $g(x) = x$ ，计算 $[f(x)g(x)]'$ 与 $f'(x)g'(x)$ ，它们是否相等？ $f(x)$ 与 $g(x)$ 商的导数是否等于它们导数的商呢？
+
  
 @@ -4236,7 +3483,7 @@
  
@@ -2118,6 +1680,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 练习
  
  1. 运用基本初等函数的导数公式与导数运算法则，重新求解 5.1 节例 2. 你是否感觉到运算法则给解题带来的方便简捷？
+
  
 @@ -4256,11 +3503,10 @@
  
@@ -2190,11 +1753,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/fd182e93cddf896d5a96931bba4a560c17e241b489d125e83c2865668540a4d2.jpg)
 -
--<details>
--<summary>natural_image</summary>
 -
--Beach scene with sandy beach, ocean waves, and scattered rocks under clear sky (no text or symbols)
--</details>
 +
  
  (1) 上午 6:00;   
@@ -2217,17 +1776,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -4498,16 +3734,7 @@
  1. 不同的初始值对求方程的近似解有影响吗？如果有，影响在什么地方？  
  2. 你还知道其他求方程近似解的方法吗？你认为牛顿法的优点和缺点是什么？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/a21ff84130fdc5104cc17f6f06384c4cfc98df89d739e7e9ec3ee59d53d3f811.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | f(x)        |
--| ---- | ----------- |
--| x₁   | 3/5         |
--| x₀   | 12/5        |
--</details>
 +
  
  图1
@@ -2256,27 +1809,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/240a927d7a0756f21eb5a320ce2281d2e80be70f62463ff459f21e62d034fe17.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | h(t)        |
--| ---- | ----------- |
--| a    | -4.9t² + 2.8t + 11 |
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/c8692a8e277635b924872794e7e453de09da00e0a70d0056fb24c00043bf8efd.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t | v(t) |
--|---|---|
--| a | -9.8t+2.8 |
--| b | -9.8t+2.8 |
--</details>
 +
  
  (2)   
@@ -2289,10 +1829,12 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  我们看到，函数 $h(t)$ 的单调性与 $h'(t)$ 的正负有内在联系。那么，我们能否由 $h'(t)$ 的正负来判断函数 $h(t)$ 的单调性呢？
+
  
 @@ -4577,59 +3786,23 @@
  
  这种情况是否具有一般性呢？
+
  
 -# 观察
 +#### 观察
@@ -2301,56 +1843,28 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/e1ae69e020ac9bc1e1af6e2b19a0559d5311c12eb613b62f023c633415908a4c.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x
--O
--x
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/6002803cd8ed11e07440721d847abfa89b5d6c6ae2abca632459ffc92615f609.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x²
--O
--x
--</details>
 +
  
  (2)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/c202cc5f7dd3a81b2f51cbb00db619b51338d477b00f79fec026ae6f1b0e5848.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x³
--O
--x
--</details>
 +
  
  (3)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/020bfa821c4d3735f12cbf8a09583ac4bf577f06b28c447168f154c49288880e.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=1/x
--O
--x
--</details>
 +
  
  (4)   
@@ -2361,16 +1875,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/bce2e6f67a9c62cbfb1b61384f32c8724ff46aed5b7baa4ff636bfc785471296.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--(x₁,f(x₁))
--(x₀,f(x₀))
--O
--x
--</details>
 +
  
  图5.3-3
@@ -2381,45 +1886,21 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/fd72521d8bc3a4ea5be83930e1427429b099ca764b39a37af3636c30be0e04be.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--f(x)=x³+3x
--y
--O
--x
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/ad18ec62196107b8b5dde3cf8e3b9cf1da2811b9b659c3d1245708b605c88e86.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--O
--π
--x
---π
--f(x)=sin x-x
--</details>
 +
  
  (2)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/76c78757b6f8d114468431f7991d14796ac64c5d2badfcf96285015fd42c4b19.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | f(x) = (x-1)/x |
--| ---- | -------------- |
--| 0    | 0              |
--| 1    | 1              |
--| 2    | 2              |
--</details>
 +
  
  (3)   
@@ -2430,14 +1911,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f8921ad635c63b038ba05fcba6f4ec91a86c70d2c3f4af0dcbda5299bc7ba61b.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x | y=f(x) |
--|---|--------|
--| 1 | U-shaped trough |
--| 4 | Peak value (approx.) |
--</details>
 +
  
  图5.3-5
@@ -2463,13 +1937,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/faf03b49b0eae070a71fa15a852336b88685f8c0c8a6f535ff1e5d6f3df614dd.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--O a b x
--</details>
 +
  
  (第3题)
@@ -2480,14 +1948,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/8b526e2e488c9baf13b5be8c77f198772b6871e047aa79fc88fbfa57a2ab6942.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x       | y        |
--| ------- | -------- |
--| -1      | 13/6     |
--| 2       | -7/3     |
--</details>
 +
  
  图5.3-6
@@ -2508,28 +1969,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/7786db9c4104957ffeb2191a006dbf623f5678ef6b05bbc900f6a27e39038532.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=ln x
--O
--x
--</details>
 +
  
  (1)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/caa8905b39577d07e87f75b5e92d32731d84bcc9dc87c7ce9659c7707daf92a2.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=x³
--O
--x
--</details>
 +
  
  (2)   
@@ -2540,14 +1987,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/88d1803a33e37696809a5e45aa14ec16c95b67133d691e2b5169ff22de53d016.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | C1     | C2     |
--| ---- | ------ | ------ |
--| 0    | 0      | 0      |
--| 1    | 1      | 1      |
--</details>
 +
  
  图5.3-8
@@ -2565,12 +2005,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/88e2c52dd5aff069a87e14c2d3f20aee5abb849e8392e9a7f62b8ed0cc247ebe.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--O a b c d e x
--</details>
 +
  
  (第3题)
@@ -2579,24 +2014,17 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 5.3.2 函数的极值与最大（小）值
  
  在用导数研究函数的单调性时，我们发现利用导数的正负可以判断函数的增减。如果函数在某些点处的导数为0，那么在这些点处函数有什么性质呢？
+
  
 -# 1. 函数的极值
 +#### 1. 函数的极值
  
  观察图5.3-9，我们发现，当 $t = a$ 时，跳水运动员距水面的高度最大。那么，函数 $h(t)$ 在此点处的导数是多少呢？此点附近的图象有什么特点？相应地，导数的正负性有什么变化规律？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/1c9ee54421bceaa776bbb94ba37cfb8bc6df0de4f939ba234d47841bfc156397.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | h     |
--| ---- | ----- |
--| a    | h(a)  |
--| b    | 0     |
--| h'(a)=0 | 0     |
--| h'(t)<0 | <0    |
--</details>
 +
  
  图5.3-9  
@@ -2604,6 +2032,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -4967,27 +4026,12 @@
  
  对于一般的函数 $y=f(x)$ ，是否也有同样的性质呢？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/9208de4bb52873da90f6409d785131a38065a63cb710ae1aef263b8b29cf7229.jpg)
 -
@@ -2612,22 +2041,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  如图5.3-11，函数 $y = f(x)$ 在 $x = a, b, c, d, e$ 等点处的函数值与这些点附近的函数值有什么关系？ $y = f(x)$ 在这些点处的导数值是多少？在这些点附近， $y = f(x)$ 的导数的正负性有什么规律？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/2c739b297c48c9fc8044717a7f17d8b3c0f3591231f15a4ce4f51574dd6dd393.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--a
--O
--b
--c
--d
--e
--x
--</details>
 +
  
  图5.3-11
@@ -2638,15 +2056,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/f4e6deb92a94ad14e8870be901a3d9249e079e828525e1b0edf771dfcbf04a4f.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y      |
--| ---- | ------ |
--| -2   | 1.5    |
--| 0    | 0      |
--| 2    | 0      |
--</details>
 +
  
  图5.3-12
@@ -2655,6 +2065,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  导数值为0的点一定是函数的极值点吗？
+
  
 @@ -5057,7 +4091,7 @@
  
@@ -2671,20 +2082,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/87621e2766ae4c97dfc5caa5dc517ab52571d9725108e056bc3a900f0c70cb45.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y         |
--| ---- | --------- |
--| a    | -0.5      |
--| x₁   | 1.0       |
--| x₂   | -0.5      |
--| x₃   | -1.0      |
--| x₄   | 0.5       |
--| x₅   | 1.0       |
--| x₆   | 0.0       |
--| b    | 0.5       |
--</details>
 +
  
  (第1题)
@@ -2695,23 +2093,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  我们知道，极值反映的是函数在某一点附近的局部性质，而不是函数在整个定义域内的性质。也就是说，如果 $x_0$ 是函数 $y = f(x)$ 的极大（小）值点，那么在 $x = x_0$ 附近找不到比 $f(x_0)$ 更大（小）的值。但是，在解决实际问题或研究函数的性质时，我们往往更关心函数在某个区间上，哪个值最大，哪个值最小。如果 $x_0$ 是某个区间上函数 $y = f(x)$ 的最大（小）值点，那么 $f(x_0)$ 不小（大）于函数 $y = f(x)$ 在此区间上的所有函数值。
  
  图 5.3-13 是函数 $y=f(x)$ ， $x\in[a,b]$ 的图象，你能找出它的极小值、极大值吗？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/3cda4d8ee66df492797c843131507f6c68b63555365e7c2cdd7bdb50a2275d3d.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y     |
--| ---- | ----- |
--| a    | y=f(x)|
--| x₁   | y     |
--| x₂   | y     |
--| x₃   | y     |
--| x₄   | y     |
--| x₅   | y     |
--| x₆   | y     |
--| b    | y     |
--</details>
 +
  
  图5.3-13
@@ -2725,43 +2111,23 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 探究
  
  进一步地，你能找出函数 $y = f(x)$ 在区间 $[a, b]$ 上的最小值、最大值吗？
+
  
 @@ -5127,37 +4130,11 @@
  
  在图5.3-14、图5.3-15中，观察 $[a, b]$ 上的函数 $y = f(x)$ 和 $y = g(x)$ 的图象，它们在 $[a, b]$ 上有最大值、最小值吗？如果有，最大值和最小值分别是什么？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/d07d5f43c1234e6b7f86748f38f1269b725fea14171c0e8a4c2e8d32c1d7c7ee.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--y=f(x)
--a
--O
--b
--x
--</details>
 +
  
  图5.3-14
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/208999154cd369516e357a4c460fd27916af10ba85168d5fb93e25d11708cb5f.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x     | y          |
--|-------|------------|
--| a     | Low value  |
--| x₁    | Medium value |
--| x₂O   | Low value  |
--| x₃    | High value |
--| x₄    | Low value  |
--| x₅    | High value |
--| b     | High value |
--| x     | y=g(x)     |
--</details>
 +
  
  图5.3-15
@@ -2772,16 +2138,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/9337144a34ebd2d3be8cf9ab02be45bb8ed58adc59891235843e3fecfb435fc5.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y     |
--| ---- | ----- |
--| 0    | 4     |
--| 1    | 2     |
--| 2    | 0     |
--| 3    | 4     |
--</details>
 +
  
  图5.3-16
@@ -2801,15 +2158,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/5b985460db750efcffdd50d859aa786abcb62983f1de1bc43f743d6c20d7eea0.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x       | y       |
--| ------- | ------- |
--| -2      | -1/2    |
--| 0       | 1       |
--| 1       | 1e+1    |
--</details>
 +
  
  图5.3-17
@@ -2823,22 +2172,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  （1）你是否注意过，市场上等量的小包装的物品一般比大包装的要贵些？你想从数学上知道它的道理吗？  
  (2) 是不是饮料瓶越大，饮料公司的利润越大？
+
 @@ -5364,22 +4320,11 @@
  
  通过此问题的解决，我们很容易回答开始时的问题。请同学们自己作出回答。
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/37938f91b09be711a7ba4efa1571603773caeef161821da30f64457182033cd9.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| r    | f(r)        |
--| ---- | ----------- |
--| 0    | 0           |
--| 1    | ~0.5        |
--| 2    | ~-0.5       |
--| 3    | >0.5        |
--</details>
 +
  
  图5.3-18
@@ -2851,6 +2192,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5389,14 +4334,12 @@
  
  2. 如图，用铁丝围成一个上面是半圆，下面是矩形的图形，其面积为 $a \mathrm{~m}^{2}$ 。为使所用材料最省，圆的直径应为多少？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/1c7322c217cae5652627069eff5a6607cebb94ae5b924a064d6f1232cde25f32.jpg)  
  (第2题)
@@ -2870,132 +2212,18 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5423,130 +4366,11 @@
  （1）如果 $y=f(t)$ 表示时刻 t 时汽车与起点的距离，请标出汽车速度等于 0 的点；  
  (2) 如果 $y=f(t)$ 表示时刻 t 时汽车的速度，那么(1)中标出点的意义是什么？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/753cb7e9cab2137a06ab0cea2a91f096f5602594b102e03c7d63b0c317dca126.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| t    | y=f(t) |
--| ---- | ------ |
--| 0    | 0      |
--| 1    | 0.5    |
--| 2    | 0.25   |
--| 3    | 0.75   |
--| 4    | 0.5    |
--| 5    | 0.25   |
--| 6    | 0.75   |
--| 7    | 0.5    |
--| 8    | 0.25   |
--| 9    | 0.75   |
--| 10   | 0.5    |
--| 11   | 0.25   |
--| 12   | 0.75   |
--| 13   | 0.5    |
--| 14   | 0.25   |
--| 15   | 0.75   |
--| 16   | 0.5    |
--| 17   | 0.25   |
--| 18   | 0.75   |
--| 19   | 0.5    |
--| 20   | 0.25   |
--| 21   | 0.75   |
--| 22   | 0.5    |
--| 23   | 0.25   |
--| 24   | 0.75   |
--| 25   | 0.5    |
--| 26   | 0.25   |
--| 27   | 0.75   |
--| 28   | 0.5    |
--| 29   | 0.25   |
--| 30   | 0.75   |
--| 31   | 0.5    |
--| 32   | 0.25   |
--| 33   | 0.75   |
--| 34   | 0.5    |
--| 35   | 0.25   |
--| 36   | 0.75   |
--| 37   | 0.5    |
--| 38   | 0.25   |
--| 39   | 0.75   |
--| 40   | 0.5    |
--| 41   | 0.25   |
--| 42   | 0.75   |
--| 43   | 0.5    |
--| 44   | 0.25   |
--| 45   | 0.75   |
--| 46   | 0.5    |
--| 47   | 0.25   |
--| 48   | 0.75   |
--| 49   | 0.5    |
--| 50   | 0.25   |
--| 51   | 0.75   |
--| 52   | 0.5    |
--| 53   | 0.25   |
--| 54   | 0.75   |
--| 55   | 0.5    |
--| 56   | 0.25   |
--| 57   | 0.75   |
--| 58   | 0.5    |
--| 59   | 0.25   |
--| 60   | 0.75   |
--| 61   | 0.5    |
--| 62   | 0.25   |
--| 63   | 0.75   |
--| 64   | 0.5    |
--| 65   | 0.25   |
--| 66   | 0.75   |
--| 67   | 0.5    |
--| 68   | 0.25   |
--| 69   | 0.75   |
--| 70   | 0.5    |
--| 71   | 0.25   |
--| 72   | 0.75   |
--| 73   | 0.5    |
--| 74   | 0.25   |
--| 75   | 0.75   |
--| 76   | 0.5    |
--| 77   | 0.25   |
--| 78   | 0.75   |
--| 79   | 0.5    |
--| 80   | 0.25   |
--| 81   | 0.75   |
--| 82   | 0.5    |
--| 83   | 0.25   |
--| 84   | 0.75   |
--| 85   | 0.5    |
--| 86   | 0.25   |
--| 87   | 0.75   |
--| 88   | 0.5    |
--| 89   | 0.25   |
--| 90   | 0.75   |
--| 91   | 0.5    |
--| 92   | 0.25   |
--| 93   | 0.75   |
--| 94   | 0.5    |
--| 95   | 0.25   |
--| 96   | 0.75   |
--| 97   | 0.5    |
--| 98   | 0.25   |
--| 99   | 0.75   |
--|100<fcel>y= f(t)     |
--</details>
 +
  
  (第3题)
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/7e417c0291012af3b111d5704e804ad412466a31a349807e41a21ccc680b5c7f.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y         |
--| ---- | --------- |
--| x₁   | Low point |
--| x₂   | Peak      |
--| x₃   | Minimum    |
--| x₄   | High point |
--</details>
 +
  
  (第4题)
@@ -3030,21 +2258,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/91886b7d071a9c293e62a0926429bb647f9acbfe552aea328fe6cf342de503da.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | y     |
--| ---- | ----- |
--| -4.00| 6.0   |
--| -3.00| 2.0   |
--| -2.00| -2.0  |
--| -1.00| -4.0  |
--| 0.00 | -2.0  |
--| 1.00 | 2.0   |
--| 2.00 | 6.0   |
--| 3.00 | 2.0   |
--| 4.00 | -4.0  |
--</details>
 +
  
  (第 13 题)
@@ -3067,79 +2281,14 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  图 1、图 2 展示了上述部分功能.  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/74df2198214d8eee05bf86771556c9e12cae12194d069d5782951eae1a07271f.jpg)
 -
--<details>
--<summary>line</summary>
 -
--| x    | f'(x)       | f(x)        |
--| ---- | ----------- | ----------- |
--| -12  | -12         | -4          |
--| 0    | 0           | 0           |
--| 1    | 0           | 1           |
--| 0    | 5           | 1           |
--| 1    | 0           | 0           |
--</details>
 +
  
  图1
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/8512a04983797a3066b6103fefaa4c13e1b5f5b7ecfc261722a0e3ded9694cc1.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--代数区
--函数
--f(x) = -4 x³
--f'(x) = -12 x
--点
--A = (0.89, 1.42)
--直线
--a: y = -2.77x + 3.
--垂线
--平行线
--中垂线
--角平分线
--切线
--极线 / 径线
--回归直线
--轨迹
--输入
--绘图区
--a
--A
--1
--0
---1
---2
---3
---4
---5
---6
---7
---8
---9
---10
---11
---12
---13
---14
---15
---16
---17
---18
---19
---20
---21
---22
---23
---24
---25
---26
---27
---28
---29
---30
--</details>
 +
  
  图2
@@ -3191,27 +2340,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/17294239d578bdea0e635b683269b4aa20150e3f20dd1f10712f752d3a0cc557.jpg)
 -
--<details>
--<summary>flowchart</summary>
 -
--```mermaid
--graph TD
--    A["平均速度"] --> B["瞬时速度"]
--    C["割线斜率"] --> D["切线斜率"]
--    B --> E["抽象"]
--    D --> E
--    E --> F["导数的概念"]
--    E --> G["导数的几何意义"]
--    F --> H["导数的运算"]
--    G --> H
--    H --> I["导数在研究函数中的应用"]
--    H --> J["导数的四则运算法则"]
--    H --> K["简单复合函数的导数"]
--    I --> L["导数的单调性"]
--    I --> M["最大（小）值"]
--    I --> N["函数的极值与"]
--```
--</details>
 -
 -# 二、回顾与思考
 +### 小结
@@ -3226,6 +2355,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5817,11 +4529,9 @@
  5. 利用导数研究函数性质的基本步骤是什么？  
  6. 通过本章的学习，你对“导数是研究函数性质的基本工具”有什么体会？
+
  
 -# 复习参考题5
 -
@@ -3261,19 +2391,11 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5880,40 +4585,23 @@
  
  10. 如图，过点 $P(1, 1)$ 作直线 $AB$ ，分别与 $x$ 轴的正半轴、 $y$ 轴的正半轴交于点 $A, B$ 。当直线 $AB$ 在什么位置时， $\triangle AOB$ 的面积最小？最小面积是多少？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/af0ef9ea171f3493bd27de93fc8a2659e06a6f64bbf263db4f618b12b2f58782.jpg)
 -
--<details>
--<summary>text_image</summary>
 -
--y
--B
--P(1,1)
--O
--A
--x
--</details>
 +
  
  (第10题)
@@ -3305,6 +2427,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5925,9 +4613,8 @@
  14. 用总长 $14.8 \mathrm{~m}$ 的钢条制作一个长方体容器的框架，如果所制容器底面一边的长比另一边的长多 $0.5 \mathrm{~m}$ ，那么高为多少时容器的容积最大？最大容积是多少？  
  15. 用半径为 $R$ 的圆形铁皮剪出一个圆心角为 $\alpha$ 的扇形，制成一个圆锥形容器。扇形的圆心角 $\alpha$ 为多大时，容器的容积最大？
+
  
 -![](images/【人教版】高中选择性必修 第二册数学电子课本/68c71351f01fb6a8fb8578deb0046e439ae3d85ed8f5462f31af3d85ef2fce0b.jpg)
 -

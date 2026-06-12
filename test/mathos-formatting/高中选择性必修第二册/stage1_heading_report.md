@@ -18,9 +18,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 
 ## Content Plugin Summary
 
-
 ## Warnings
-
 
 ## Diff
 
@@ -58,7 +56,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 目录
 +#### 目录
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/adfeca06378db39fc2a73fd39b8d331cd7139cdab42026963a7540711739ebb9.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/adfeca06378db39fc2a73fd39b8d331cd7139cdab42026963a7540711739ebb9.jpg)
  
 @@ -152,7 +152,7 @@
  
@@ -80,19 +78,21 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -220,13 +220,13 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/a852cfb59c38597f1719e1aec14ae4eded7507833573ade8ff2c73e3ca74c13c.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/a852cfb59c38597f1719e1aec14ae4eded7507833573ade8ff2c73e3ca74c13c.jpg)
  
 -# 思考
 +#### 思考
  
  你能仿照上面的叙述，说明③也是具有确定顺序的一列数吗？
+
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8b6dd8420dd6c57940a6edd99980d96a55bce179329810b099df8983792f13c8.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8b6dd8420dd6c57940a6edd99980d96a55bce179329810b099df8983792f13c8.jpg)
  
 -# 归纳
 +#### 归纳
  
  上述例子的共同特征是什么？
+
  
 @@ -365,7 +365,7 @@
  
@@ -111,6 +111,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  已知数列 $\{a_{n}\}$ 的前 $n$ 项和公式为 $S_{n} = n^{2} + n$ ，你能求出 $\{a_{n}\}$ 的通项公式吗？
+
  
 @@ -473,7 +473,7 @@
  
@@ -123,7 +124,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -537,7 +537,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/0f9095d20b1da2d66c5066cf6dda99100a63e1de23b5fe123b2591d624bcb6a9.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/0f9095d20b1da2d66c5066cf6dda99100a63e1de23b5fe123b2591d624bcb6a9.jpg)
  
 -# (第1题)
 +#### (第1题)
@@ -137,7 +138,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题4.1
 +#### 习题4.1
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/946ea38bd8a6e63873376f2629f518620d7ce099a54d995cde03bd709374044a.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/946ea38bd8a6e63873376f2629f518620d7ce099a54d995cde03bd709374044a.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -146,7 +147,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -581,7 +581,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/60b11db8d40b549063388961814381192078f2c2a94d34b564321885181c29fd.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/60b11db8d40b549063388961814381192078f2c2a94d34b564321885181c29fd.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -155,7 +156,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -620,7 +620,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/d7f8d4c200f318382ad477165b25bdfda794b20fe9c8716d271fef7812401df2.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/d7f8d4c200f318382ad477165b25bdfda794b20fe9c8716d271fef7812401df2.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -164,7 +165,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -629,9 +629,9 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/2f9ad586a86db9e185d07c4e82df7ee90b506d755878d29f285db03dc1355a86.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/2f9ad586a86db9e185d07c4e82df7ee90b506d755878d29f285db03dc1355a86.jpg)
  
 -# 阅读与思考
 -
@@ -197,15 +198,18 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  在代数的学习中，我们常常通过运算来发现规律。例如，在指数函数的学习中，我们通过运算发现了A，B两地旅游人数的变化规律。类似地，你能通过运算发现以上数列的取值规律吗？
+
  
 @@ -758,7 +758,7 @@
  
  在日常生活中，人们常常用到等差数列。例如，在给各种产品的尺寸划分级别时，当其中的最大尺寸与最小尺寸相差不大时，常按等差数列进行分级（如前面例子中的上衣尺码）。你能举出一些例子吗？
+
  
 -# 探究
 +#### 探究
  
  你能根据等差数列的定义推导它的通项公式吗？
+
  
 @@ -798,7 +798,7 @@
  a _ {n} = a _ {1} + (n - 1) d.
@@ -215,6 +219,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  观察等差数列的通项公式，你认为它与我们熟悉的哪一类函数有关？
+
  
 @@ -897,7 +897,7 @@
  
@@ -233,6 +238,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  例 5 是等差数列的一条性质，图 4.2-2 是它的一种情形．你能从几何角度解释等差数列的这一性质吗？
+
  
 @@ -1057,7 +1057,7 @@
  
@@ -246,6 +252,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -1074,7 +1074,7 @@
  （2）依次取出数列中的所有奇数项，组成一个新的数列，这个新数列是等差数列吗？如果是，它的首项和公差分别是多少？  
  （3）依次取出数列中所有序号为7的倍数的项，组成一个新的数列，它是等差数列吗？你能根据得到的结论作出一个猜想吗？
+
  
 -# 4.2.2 等差数列的前 $n$ 项和公式
 +#### 4.2.2 等差数列的前 $n$ 项和公式
@@ -260,6 +267,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  你能说说高斯在求和过程中利用了数列①的什么性质吗？你能从中得到求数列①的前 $n$ 项和的方法吗？
+
  
 @@ -1156,7 +1156,7 @@
  S _ {n} = 1 + 2 + 3 + \dots + n = \frac {n (1 + n)}{2}.
@@ -269,28 +277,32 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  我们发现，在求前 $n$ 个正整数的和时，要对 $n$ 分奇数、偶数进行讨论，比较麻烦．能否设法避免分类讨论？
+
  
 @@ -1188,7 +1188,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/1f7940544399ec62ac96c10665cad6ff881bf345a2b5f91e56d9d2b677c10a22.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/1f7940544399ec62ac96c10665cad6ff881bf345a2b5f91e56d9d2b677c10a22.jpg)
  
 -# 探究
 +#### 探究
  
  上述方法的妙处在哪里？这种方法能够推广到求等差数列 $\{a_{n}\}$ 的前 $n$ 项和吗？
+
  
 @@ -1228,7 +1228,7 @@
  
  所以 $\frac{a_1 + a_n}{2}$ 就是等差数列 $\{a_{n}\}$ 前 $n$ 项的平均数．实际上，我们就是利用等差数列的这一重要特性来推导它的前 $n$ 项和的．你还能发现这一特性的一些应用吗？
+
  
 -# 思考
 +#### 思考
  
  不从公式（1）出发，你能用其他方法得到公式（2）吗？
+
  
 @@ -1312,7 +1312,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/5e2a84a86b6d9e562415778d50839829183dbd1275cd7dbff580503e7828eac4.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/5e2a84a86b6d9e562415778d50839829183dbd1275cd7dbff580503e7828eac4.jpg)
  
 -# 探究
 +#### 探究
@@ -308,7 +320,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -1418,11 +1418,11 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/d0af91426d583dfac1870c3660c5cd7cce7b7b20f82d6471e5342d68e11ee60a.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/d0af91426d583dfac1870c3660c5cd7cce7b7b20f82d6471e5342d68e11ee60a.jpg)
  
 -# 思考
 +#### 思考
@@ -327,7 +339,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题4.2
 +#### 习题4.2
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8bb2f28c2d0189f7afbc8e7a69a30026cf35f1ce26f2fba5f923244d7d88bbea.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8bb2f28c2d0189f7afbc8e7a69a30026cf35f1ce26f2fba5f923244d7d88bbea.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -336,7 +348,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -1466,7 +1466,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/7b39acebccfb8fe2658d325fd3218ede332bb02af088abe29136f6e955fdea40.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/7b39acebccfb8fe2658d325fd3218ede332bb02af088abe29136f6e955fdea40.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -345,7 +357,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  6. 数列 $\{a_{n}\}$ ， $\{b_{n}\}$ 都是等差数列，且 $a_{1} = 5$ ， $b_{1} = 15$ ， $a_{100} + b_{100} = 100$ 。求数列 $\{a_{n} + b_{n}\}$ 的前 100 项的和。  
 @@ -1483,7 +1483,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/2fd684bfcb56a449fa766ad9d448a091ef6d4a5648b5ad367215fdc6f0599a78.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/2fd684bfcb56a449fa766ad9d448a091ef6d4a5648b5ad367215fdc6f0599a78.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -360,6 +372,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +## 4.3 等比数列
  
  我们知道，等差数列的特征是“从第2项起，每一项与它的前一项的差都等于同一个常数”，类比等差数列的研究思路和方法，从运算的角度出发，你觉得还有怎样的数列是值得研究的？
+
  
 -# 4.3.1 等比数列的概念
 +#### 4.3.1 等比数列的概念
@@ -368,30 +381,33 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -1586,7 +1586,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/444ee2246ffdf21eaec6bf241a3f587a286539409e00fc74faca5b040790fc7b.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/444ee2246ffdf21eaec6bf241a3f587a286539409e00fc74faca5b040790fc7b.jpg)
  
 -# 探究
 +#### 探究
  
  类比等差数列的研究，你认为可以通过怎样的运算发现以上数列的取值规律？你发现了什么规律？
+
  
 @@ -1604,7 +1604,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/c14d2ce19a6de43a284e8f7f156bf9bd195a0632b9be0f16d01b4926f535e41b.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/c14d2ce19a6de43a284e8f7f156bf9bd195a0632b9be0f16d01b4926f535e41b.jpg)
  
 -# 思考
 +#### 思考
  
  类比等差数列的概念，从上述几个数列的规律中，你能抽象出等比数列的概念吗？
+
  
 @@ -1614,7 +1614,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/5d0716689109f27fbfe33bf55d961240e3e464ababe9f7cb354ba88537a8ec87.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/5d0716689109f27fbfe33bf55d961240e3e464ababe9f7cb354ba88537a8ec87.jpg)
  
 -# 探究
 +#### 探究
  
  你能根据等比数列的定义推导它的通项公式吗？
+
  
 @@ -1778,7 +1778,7 @@
  
@@ -410,6 +426,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  已知 $b > 0$ 且 $b \neq 1$ ，如果数列 $\{a_n\}$ 是等差数列，那么数列 $\{b^{a_n}\}$ 是否一定是等比数列？如果数列 $\{a_n\}$ 是各项均为正的等比数列，那么数列 $\{\log_b a_n\}$ 是否一定是等差数列？
+
  
 @@ -1952,7 +1952,7 @@
  
@@ -454,7 +471,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题4.3
 +#### 习题4.3
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/5573a1d453dc0c80430173aecdff91d76dfa9b126e374b9bd0c8da95fa6a775f.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/5573a1d453dc0c80430173aecdff91d76dfa9b126e374b9bd0c8da95fa6a775f.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -463,7 +480,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -2353,7 +2353,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/4bc1163cae298010eb1d3f9470fd497a9e5d755b82f31f2864e40e9a930c77f0.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/4bc1163cae298010eb1d3f9470fd497a9e5d755b82f31f2864e40e9a930c77f0.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -472,7 +489,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  6. 求下列数列的一个通项公式和一个前 $n$ 项和公式：
 @@ -2377,7 +2377,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/551dbc34977303ced2ba5b96c5f548d059e4eb0d31d30c86a041c172f461e785.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/551dbc34977303ced2ba5b96c5f548d059e4eb0d31d30c86a041c172f461e785.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -481,7 +498,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  11. 已知数列 $\{a_{n}\}$ 的首项 $a_{1} = \frac{3}{5}$ ，且满足 $a_{n+1} = \frac{3a_{n}}{2a_{n} + 1}$ .
 @@ -2392,9 +2392,9 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/e89d3e838e8fd14eaa38f769dc70db657053a07410186f4c774cad9ba9aeff80.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/e89d3e838e8fd14eaa38f769dc70db657053a07410186f4c774cad9ba9aeff80.jpg)
  
 -# 阅读与思考
 -
@@ -501,7 +518,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  在数列的学习过程中，我们已经用归纳的方法得出了一些结论，例如等差数列 $\{a_{n}\}$ 的通项公式 $a_{n} = a_{1} + (n - 1)d$ 等，但并没有给出严格的数学证明。那么，对于这类与正整数 $n$ 有关的命题，我们怎样证明它对每一个正整数 $n$ 都成立呢？本节我们就来介绍一种重要的证明方法——数学归纳法。
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/e751b94f51c779db393b993b552820cfc4d018aca61f767e8cc6c0c84e2a35cf.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/e751b94f51c779db393b993b552820cfc4d018aca61f767e8cc6c0c84e2a35cf.jpg)
  
 -# 探究
 +#### 探究
@@ -510,48 +527,53 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -2482,7 +2482,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/bc7110cd284b7bc5e1f3eb93b8c50030ce667ff96f5cf49168677f9a79f5ed79.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/bc7110cd284b7bc5e1f3eb93b8c50030ce667ff96f5cf49168677f9a79f5ed79.jpg)
  
 -# 思考
 +#### 思考
  
  在这个游戏中，能使所有多米诺骨牌全部倒下的条件是什么？
+
  
 @@ -2494,7 +2494,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/1d3ce3be20c9c3c071715de5bc6abd4677ec8300692834fa13cf64aba26af7ef.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/1d3ce3be20c9c3c071715de5bc6abd4677ec8300692834fa13cf64aba26af7ef.jpg)
  
 -# 思考
 +#### 思考
  
  你认为条件(2)的作用是什么？如何用数学语言描述它？
+
  
 @@ -2506,7 +2506,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/593341ccb4dabb13a0b90cd3eaa9eeb2f369243348b9ad3f739c5c1aca8d43ff.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/593341ccb4dabb13a0b90cd3eaa9eeb2f369243348b9ad3f739c5c1aca8d43ff.jpg)
  
 -# 思考
 +#### 思考
  
  你认为证明前面的猜想“数列的通项公式是 $a_{n} = 1 (n \in \mathbf{N}^{*})$ ”与上述多米诺骨牌游戏有相似性吗？你能类比多米诺骨牌游戏解决这个问题吗？
+
  
 @@ -2522,7 +2522,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/5023d4edf176f3b884a4c7311b877ad737872f6c38a253170992818209ea385c.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/5023d4edf176f3b884a4c7311b877ad737872f6c38a253170992818209ea385c.jpg)
  
 -# 思考
 +#### 思考
  
  归纳上述过程的共性，你能得出推理的一般结构吗？
+
  
 @@ -2555,7 +2555,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/b0dfcf0ce805a9d29d613602d53981be7984e7e1be5c94428ba4916c1e2d9f97.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/b0dfcf0ce805a9d29d613602d53981be7984e7e1be5c94428ba4916c1e2d9f97.jpg)
  
 -# 思考
 +#### 思考
  
  数学归纳法中的两个步骤之间有什么关系？
+
  
 @@ -2607,7 +2607,7 @@
  
@@ -561,6 +583,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 练习
  
  1. 下列各题在应用数学归纳法证明的过程中，有没有错误？如果有错误，错在哪里？
+
  
 @@ -2875,7 +2875,7 @@
  
@@ -578,7 +601,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题4.4
 +#### 习题4.4
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/b73f646e04eb37e4960febdbdaa0923aa6b6b39d2686848231d5ba083262adb8.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/b73f646e04eb37e4960febdbdaa0923aa6b6b39d2686848231d5ba083262adb8.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -587,7 +610,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -2925,7 +2925,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/bbb7923b9aa2080e5bce6b072c80b98fdf9360b4acc5a02f807a3a54a9825066.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/bbb7923b9aa2080e5bce6b072c80b98fdf9360b4acc5a02f807a3a54a9825066.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -596,7 +619,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  6. 已知数列 $\{a_{n}\}$ ， $\{b_{n}\}$ 的通项公式分别为 $a_{n} = 2^{n}$ ， $b_{n} = n^{4}$ ，其中 $n \in \mathbf{N}^{*}$ 。试推断 $a_{n} > b_{n}$ 对哪些正整数 $n$ 成立，证明你的结论。  
 @@ -2933,7 +2933,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/b0cad8d7b7e78c6fe37706ed1080ba6da1d24083d2e416f27f0e2a399f12fc62.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/b0cad8d7b7e78c6fe37706ed1080ba6da1d24083d2e416f27f0e2a399f12fc62.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -613,7 +636,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +### 小结
 +#### 一、本章知识结构
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/db756c4366635907a6e91b02ffdf91992ce43c8bfed954db90551432d67ec861.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/db756c4366635907a6e91b02ffdf91992ce43c8bfed954db90551432d67ec861.jpg)
  
 @@ -2989,7 +2988,7 @@
  ```
@@ -627,11 +650,12 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3007,11 +3006,10 @@
  6. 推导等差数列、等比数列的前 $n$ 项和公式时，各用了哪些巧妙的方法？  
  \* 7. 为什么说数学归纳法的两个步骤（归纳奠基与归纳递推）缺一不可？你能说说两个步骤各自的作用吗？它们之间有怎样的关系？
+
  
 -# 复习参考题4
 -
 +### 复习参考题4
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8964d6511a92563977e679cc3984c0715df50cc762536e31ab418e4415fbf602.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8964d6511a92563977e679cc3984c0715df50cc762536e31ab418e4415fbf602.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -640,7 +664,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -3108,7 +3106,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/47fa231ed5e49050fccaa8db4864c8a48dbd68b84fee573339ac4202726a5e90.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/47fa231ed5e49050fccaa8db4864c8a48dbd68b84fee573339ac4202726a5e90.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -649,7 +673,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -3155,7 +3153,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/2e58b9e2bebd057dd4411c1a26dc83da8bb3366a62e6ce7f1e6c4d4fde4ce7f6.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/2e58b9e2bebd057dd4411c1a26dc83da8bb3366a62e6ce7f1e6c4d4fde4ce7f6.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -681,7 +705,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  问题 1 跳水运动员的速度
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/fe030fe163b4149d0926d0f4d131bfbbe7d33d06451ebea0c4a784a3425d7831.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/fe030fe163b4149d0926d0f4d131bfbbe7d33d06451ebea0c4a784a3425d7831.jpg)
  
 -# 探究
 +#### 探究
@@ -690,21 +714,23 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -3255,7 +3251,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/c25829d96cabf1bff580ab6a7f47246515859dab405a7f48470d684a865cec38.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/c25829d96cabf1bff580ab6a7f47246515859dab405a7f48470d684a865cec38.jpg)
  
 -# 思考
 +#### 思考
  
  计算运动员在 $0 \leqslant t \leqslant \frac{4}{7}$ 这段时间里的平均速度，你发现了什么？你认为用平均速度描述运动员的运动状态有什么问题吗？
+
  
 @@ -3265,7 +3261,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8d4c887628ea9483234615e4a25b30a1965b541fb322d2e79f2c0e2377f98638.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8d4c887628ea9483234615e4a25b30a1965b541fb322d2e79f2c0e2377f98638.jpg)
  
 -# 探究
 +#### 探究
  
  瞬时速度与平均速度有什么关系？你能利用这种关系求运动员在 $t = 1$ s时的瞬时速度吗？
+
  
 @@ -3279,7 +3275,7 @@
  
@@ -714,6 +740,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 观察
  
  给出 $\Delta t$ 更多的值，利用计算工具计算对应的平均速度 $\overline{v}$ 的值。当 $\Delta t$ 无限趋近于0时，平均速度 $\overline{v}$ 有什么变化趋势？
+
  
 @@ -3293,12 +3289,12 @@
  
@@ -732,39 +759,43 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  2. 火箭发射 $t$ s后，其高度（单位：m）为 $h(t) = 0.9t^2$ 。求：
 @@ -3314,7 +3310,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/82609dc3994265932f3aaa3cfabb95c8e987ac442bfb9b85c4ef759cb361420b.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/82609dc3994265932f3aaa3cfabb95c8e987ac442bfb9b85c4ef759cb361420b.jpg)
  
 -# 探究
 +#### 探究
  
  你认为应该如何定义抛物线 $f(x) = x^{2}$ 在点 $P_{0}(1, 1)$ 处的切线？
+
  
 @@ -3322,7 +3318,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/a532249132e61d91d617477b213f452327dbd152b11506eec4e42082d0788a9f.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/a532249132e61d91d617477b213f452327dbd152b11506eec4e42082d0788a9f.jpg)
  
 -# 观察
 +#### 观察
  
  如图5.1-1，当点 $P(x, x^2)$ 沿着抛物线 $f(x) = x^2$ 趋近于点 $P_0(1, 1)$ 时，割线 $P_0P$ 有什么变化趋势？
+
  
 @@ -3347,7 +3343,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/c0b1418c886a2c4476845944f085bd93588503a24a27f5f18d1a052096f7ddf6.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/c0b1418c886a2c4476845944f085bd93588503a24a27f5f18d1a052096f7ddf6.jpg)
  
 -# 探究
 +#### 探究
  
  我们知道，斜率是确定直线的一个要素．如何求抛物线 $f(x) = x^{2}$ 在点 $P_{0}(1,1)$ 处的切线 $P_{0}T$ 的斜率 $k_{0}$ 呢？
+
  
 @@ -3367,7 +3363,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/95a9e4e576c5c91cefa526a3b32039ccc1b13f696ba9483aad7789380aeabedd.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/95a9e4e576c5c91cefa526a3b32039ccc1b13f696ba9483aad7789380aeabedd.jpg)
  
 -# 观察
 +#### 观察
  
  利用计算工具计算更多割线 $P_0P$ 的斜率 $k$ 的值，当 $\Delta x$ 无限趋近于0时，割线 $P_0P$ 的斜率 $k$ 有什么变化趋势？
+
  
 @@ -3381,7 +3377,7 @@
  
@@ -802,6 +833,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -3510,7 +3506,7 @@
  
  我们知道，导数 $f'(x_0)$ 表示函数 $y = f(x)$ 在 $x = x_0$ 处的瞬时变化率，反映了函数 $y = f(x)$ 在 $x = x_0$ 附近的变化情况。那么导数 $f'(x_0)$ 的几何意义是什么？
+
  
 -# 思考
 +#### 思考
@@ -824,7 +856,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题5.1
 +#### 习题5.1
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/0745dc98339525610d15fbc02df25d1bd5bd12a3ec52bc7977fc6039b7a91a9e.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/0745dc98339525610d15fbc02df25d1bd5bd12a3ec52bc7977fc6039b7a91a9e.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -833,7 +865,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  2. 圆的面积 S（单位： $cm^{2}$ ）与半径 R（单位：cm）的关系为 $S=\pi R^{2}$ . 求 R=5 cm 时面积关于半径的瞬时变化率.  
 @@ -3815,7 +3811,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/3a2a27b4f8c11f0ba9124c5a4d9ac5bfea6f2de59366f951f160be8a27c0bc51.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/3a2a27b4f8c11f0ba9124c5a4d9ac5bfea6f2de59366f951f160be8a27c0bc51.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -842,7 +874,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  9. 根据下面的文字叙述，画出相应的路程关于时间的函数图象的大致形状.
 @@ -3865,7 +3861,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/0544e96b6185c7d337826f232810c0fc5b7cab5af6def7db6e4169bffd532c47.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/0544e96b6185c7d337826f232810c0fc5b7cab5af6def7db6e4169bffd532c47.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -906,7 +938,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -4018,11 +4014,11 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/1890fb5f2ce6e33bd59803f0ec3fedd407554a9d9cd63ad46502a1f262569fe7.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/1890fb5f2ce6e33bd59803f0ec3fedd407554a9d9cd63ad46502a1f262569fe7.jpg)
  
 -# 探究
 +#### 探究
@@ -921,6 +953,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -4076,7 +4072,7 @@
  
  如果某种商品的 $p_0 = 5$ ，那么在第10个年头，这种商品的价格上涨的速度大约是多少？
+
  
 -# 练习
 +#### 练习
@@ -935,13 +968,15 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 5.2.2 导数的四则运算法则
  
  在例2中，当 $p_0 = 5$ 时， $p(t) = 5 \times 1.05^t$ 。这时，求 $p$ 关于 $t$ 的导数可以看成求函数 $f(t) = 5$ 与 $g(t) = 1.05^t$ 乘积的导数。一般地，如何求两个函数的和、差、积、商的导数呢？
+
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/de1a41472f8abc013f097b35a3b1b686496af518fa3ed764f46694db8b0a7cb2.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/de1a41472f8abc013f097b35a3b1b686496af518fa3ed764f46694db8b0a7cb2.jpg)
  
 -# 探究
 +#### 探究
  
  设 $f(x) = x^2$ ， $g(x) = x$ ，计算 $[f(x) + g(x)]'$ 与 $[f(x) - g(x)]'$ ，它们与 $f'(x)$ 和 $g'(x)$ 有什么关系？再取几组函数试试，上述关系仍然成立吗？由此你能想到什么？
+
  
 @@ -4167,7 +4163,7 @@
  \begin{array}{l} = (2 ^ {x}) ^ {\prime} + (\cos x) ^ {\prime} \\ = 2 ^ {x} \ln 2 - \sin x. \\ \end{array}
@@ -951,6 +986,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  设 $f(x) = x^2$ ， $g(x) = x$ ，计算 $[f(x)g(x)]'$ 与 $f'(x)g'(x)$ ，它们是否相等？ $f(x)$ 与 $g(x)$ 商的导数是否等于它们导数的商呢？
+
  
 @@ -4236,7 +4232,7 @@
  
@@ -960,6 +996,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 练习
  
  1. 运用基本初等函数的导数公式与导数运算法则，重新求解 5.1 节例 2. 你是否感觉到运算法则给解题带来的方便简捷？
+
  
 @@ -4256,11 +4252,11 @@
  
@@ -968,7 +1005,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 5.2.3 简单复合函数的导数
 +#### 5.2.3 简单复合函数的导数
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/361b584d4b05ef5c1dcd947b3066dcb381481cafecbc9aca06f45e0b1c161db4.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/361b584d4b05ef5c1dcd947b3066dcb381481cafecbc9aca06f45e0b1c161db4.jpg)
  
 -# 思考
 +#### 思考
@@ -991,7 +1028,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 -# 习题5.2
 +#### 习题5.2
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/24ae5ea1d9e6cda1d0914610fe1154fe35fdbd309a313dffdf481061006b3c52.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/24ae5ea1d9e6cda1d0914610fe1154fe35fdbd309a313dffdf481061006b3c52.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -1000,7 +1037,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -4406,7 +4402,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8223224f5bcf066b803d421d58fed7862131ff1926338c18e8e2fe4ef01148a2.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8223224f5bcf066b803d421d58fed7862131ff1926338c18e8e2fe4ef01148a2.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -1009,7 +1046,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -4427,7 +4423,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/c52b0f3f495faed8925bca7d6cc3c95c1b0f6443d9b5b16591389f88d7ae61b0.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/c52b0f3f495faed8925bca7d6cc3c95c1b0f6443d9b5b16591389f88d7ae61b0.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -1018,7 +1055,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  12. 请按步骤，完成下面的任务.
 @@ -4455,9 +4451,9 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/eff71ab743c4e945e75d218ce35c7a941b2b13dc9ee808b28bd67d58552139a8.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/eff71ab743c4e945e75d218ce35c7a941b2b13dc9ee808b28bd67d58552139a8.jpg)
  
 -# 探究与发现
 -
@@ -1043,7 +1080,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  我们先来研究前面学习过的跳水问题.
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/8749f8eaeceea669b3a5b9461a74a481a371d58d353d0d96d03f0814289d4cba.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/8749f8eaeceea669b3a5b9461a74a481a371d58d353d0d96d03f0814289d4cba.jpg)
  
 -# 思考
 +#### 思考
@@ -1058,10 +1095,12 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  我们看到，函数 $h(t)$ 的单调性与 $h'(t)$ 的正负有内在联系。那么，我们能否由 $h'(t)$ 的正负来判断函数 $h(t)$ 的单调性呢？
+
  
 @@ -4577,7 +4573,7 @@
  
  这种情况是否具有一般性呢？
+
  
 -# 观察
 +#### 观察
@@ -1070,7 +1109,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -4771,11 +4767,11 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/fd4afc82d507bfeabcb0972d80cab5a965da9e9967b0eb2b049308e3565059f4.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/fd4afc82d507bfeabcb0972d80cab5a965da9e9967b0eb2b049308e3565059f4.jpg)
  
 -# 思考
 +#### 思考
@@ -1084,7 +1123,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -4848,7 +4844,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/c9199b3193e4f0dc6c6caa79febc669bc68e07e07a25c52c0e7d3b677ead6f88.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/c9199b3193e4f0dc6c6caa79febc669bc68e07e07a25c52c0e7d3b677ead6f88.jpg)
  
 -# 探究
 +#### 探究
@@ -1108,20 +1147,23 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 5.3.2 函数的极值与最大（小）值
  
  在用导数研究函数的单调性时，我们发现利用导数的正负可以判断函数的增减。如果函数在某些点处的导数为0，那么在这些点处函数有什么性质呢？
+
  
 -# 1. 函数的极值
 +#### 1. 函数的极值
  
  观察图5.3-9，我们发现，当 $t = a$ 时，跳水运动员距水面的高度最大。那么，函数 $h(t)$ 在此点处的导数是多少呢？此点附近的图象有什么特点？相应地，导数的正负性有什么变化规律？
+
  
 @@ -4969,7 +4965,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/9208de4bb52873da90f6409d785131a38065a63cb710ae1aef263b8b29cf7229.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/9208de4bb52873da90f6409d785131a38065a63cb710ae1aef263b8b29cf7229.jpg)
  
 -# 探究
 +#### 探究
  
  如图5.3-11，函数 $y = f(x)$ 在 $x = a, b, c, d, e$ 等点处的函数值与这些点附近的函数值有什么关系？ $y = f(x)$ 在这些点处的导数值是多少？在这些点附近， $y = f(x)$ 的导数的正负性有什么规律？
+
  
 @@ -5043,7 +5039,7 @@
  
@@ -1131,6 +1173,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +#### 思考
  
  导数值为0的点一定是函数的极值点吗？
+
  
 @@ -5057,7 +5053,7 @@
  
@@ -1152,12 +1195,13 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5119,7 +5115,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/a38fd7388e7190b997424cd9555dc0c49cf4b18e9eec22aacca56557366bf09c.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/a38fd7388e7190b997424cd9555dc0c49cf4b18e9eec22aacca56557366bf09c.jpg)
  
 -# 探究
 +#### 探究
  
  进一步地，你能找出函数 $y = f(x)$ 在区间 $[a, b]$ 上的最小值、最大值吗？
+
  
 @@ -5242,7 +5238,7 @@
  
@@ -1177,6 +1221,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
  （1）你是否注意过，市场上等量的小包装的物品一般比大包装的要贵些？你想从数学上知道它的道理吗？  
  (2) 是不是饮料瓶越大，饮料公司的利润越大？
+
 @@ -5379,7 +5375,7 @@
  
  图5.3-18
@@ -1187,13 +1232,13 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  1. 利用函数的单调性，证明下列不等式，并通过函数图象直观验证：
  
 @@ -5392,11 +5388,11 @@
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/1c7322c217cae5652627069eff5a6607cebb94ae5b924a064d6f1232cde25f32.jpg)  
+![](images/【人教版】高中选择性必修 第二册数学电子课本/1c7322c217cae5652627069eff5a6607cebb94ae5b924a064d6f1232cde25f32.jpg)
  (第2题)
  
 -# 习题5.3
 +#### 习题5.3
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/416762e0ae4a54f622c53f4ceebe4600845ed779a9ee0e87a0b70561903e46e0.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/416762e0ae4a54f622c53f4ceebe4600845ed779a9ee0e87a0b70561903e46e0.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -1202,7 +1247,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5573,7 +5569,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/54810d583a2c9085b6bd12e95b93f3c7e8c5de348d178b39f6c4fd172111e3ba.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/54810d583a2c9085b6bd12e95b93f3c7e8c5de348d178b39f6c4fd172111e3ba.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -1211,7 +1256,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  8. 将一个边长为 $a$ 的正方形铁片的四角截去四个边长均为 $x$ 的小正方形，做成一个无盖方盒.
 @@ -5607,7 +5603,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/79ac45367afc70aabab24049602c8d40a0ef254460c46141f42d400792351183.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/79ac45367afc70aabab24049602c8d40a0ef254460c46141f42d400792351183.jpg)
  
 -# 拓广探索
 +#### 拓广探索
@@ -1220,7 +1265,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5643,9 +5639,9 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/83f4809b618cf54f82bc88af62b361d81616b19700551fa2384d40416c12ccab.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/83f4809b618cf54f82bc88af62b361d81616b19700551fa2384d40416c12ccab.jpg)
  
 -# 信息技术应用
 -
@@ -1233,7 +1278,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5739,9 +5735,9 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/83e1ddf9774a83005db4baf1705914669601ac284b2643fdaae12147188d3e18.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/83e1ddf9774a83005db4baf1705914669601ac284b2643fdaae12147188d3e18.jpg)
  
 -# 文献阅读与数学写作\*
 -
@@ -1277,7 +1322,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 +### 小结
 +#### 一、本章知识结构
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/17294239d578bdea0e635b683269b4aa20150e3f20dd1f10712f752d3a0cc557.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/17294239d578bdea0e635b683269b4aa20150e3f20dd1f10712f752d3a0cc557.jpg)
  
 @@ -5798,7 +5793,7 @@
  ```
@@ -1291,11 +1336,12 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
 @@ -5817,11 +5812,10 @@
  5. 利用导数研究函数性质的基本步骤是什么？  
  6. 通过本章的学习，你对“导数是研究函数性质的基本工具”有什么体会？
+
  
 -# 复习参考题5
 -
 +### 复习参考题5
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/2db25c692e94b7e5401d7b3c74f6b530f8df561e36fbd10c92f8b63e0e308e24.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/2db25c692e94b7e5401d7b3c74f6b530f8df561e36fbd10c92f8b63e0e308e24.jpg)
  
 -# 复习巩固
 +#### 复习巩固
@@ -1304,7 +1350,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5897,7 +5891,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/7ee6d48aa5c98600b1b40808c54694122a469e9a29683fab7e582831ad0ec779.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/7ee6d48aa5c98600b1b40808c54694122a469e9a29683fab7e582831ad0ec779.jpg)
  
 -# 综合运用
 +#### 综合运用
@@ -1313,7 +1359,7 @@ Candidate file: `C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge
  
 @@ -5927,7 +5921,7 @@
  
- ![](images/【人教版】高中选择性必修 第二册数学电子课本/68c71351f01fb6a8fb8578deb0046e439ae3d85ed8f5462f31af3d85ef2fce0b.jpg)
+![](images/【人教版】高中选择性必修 第二册数学电子课本/68c71351f01fb6a8fb8578deb0046e439ae3d85ed8f5462f31af3d85ef2fce0b.jpg)
  
 -# 拓广探索
 +#### 拓广探索

@@ -4,10 +4,10 @@ You are generating deterministic Markdown heading normalization rules from the e
 
 Your goal is to output JSON containing regex replacement rules that accomplish two main tasks:
 
-1. **Standardize TOC Headings**:
+1. Standardize TOC Headings:
    Generate rules to format the headings mentioned in the TOC to their appropriate hierarchical levels (e.g. Chapter headings to level-1 `#`, Section headings to level-2 `##`, Subsection headings to level-3 `###` etc.), removing page numbers and leader dots.
 
-2. **Demote Non-TOC Headings**:
+2. Demote Non-TOC Headings:
    Generate rules to demote any other headings in the document that are NOT mentioned in the TOC to levels not used by the TOC (e.g., H4+, using negative lookahead patterns like `^# (?!目录|第七章|第八章)(.+)$` to H4 or similar) so they do not occupy/clash with the TOC heading levels.
 
 Return JSON only with this shape:
