@@ -7,11 +7,12 @@
   "status": "failed",
   "artifacts": {
     "toc_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\toc_sample.md",
-    "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_prompt.md"
+    "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_prompt.md",
+    "heading_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\.mathos-formatting\\高中选择性必修第二册\\heading_rules_response.json"
   },
   "warnings": [],
   "errors": [
-    "'gbk' codec can't encode character '\\u2217' in position 16991: illegal multibyte sequence"
+    "Expecting value: line 1 column 1 (char 0)"
   ],
   "approved": false
 }
