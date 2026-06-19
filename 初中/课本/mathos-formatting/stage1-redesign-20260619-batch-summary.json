@@ -1,0 +1,130 @@
+[
+  {
+    "Book": "【2012版】【人教版】七年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】八年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text before the TOC heading",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】八年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】八年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text before the TOC heading",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】九年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text before the TOC heading",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】九年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】九年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text before the TOC heading",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】九年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】七年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response must be one contiguous source span",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】七年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【北师大版】七年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text before the TOC heading",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【北师大版】七年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【人教版】九年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "stage4-apply",
+    "Status": "failed",
+    "Error": "Stage 2 protected token was changed or removed: MATHOSPROTECTEDTOKEN002787",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【人教版】九年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2013版】【人教版】九年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response is not verbatim at source line 217",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2013版】【人教版】九年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【北师大版】八年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【北师大版】八年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【北师大版】七年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】七年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【北师大版】七年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【人教版】八年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【人教版】八年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【人教版】七年级上册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【人教版】七年级上册数学\\stage1-redesign-20260619-batch1"
+  },
+  {
+    "Book": "【2024版】【人教版】七年级下册数学.md",
+    "ExitCode": 1,
+    "Stage": "toc-extraction",
+    "Status": "failed",
+    "Error": "TOC response contains unrelated text outside the TOC entries",
+    "WorkDir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【人教版】七年级下册数学\\stage1-redesign-20260619-batch1"
+  }
+]

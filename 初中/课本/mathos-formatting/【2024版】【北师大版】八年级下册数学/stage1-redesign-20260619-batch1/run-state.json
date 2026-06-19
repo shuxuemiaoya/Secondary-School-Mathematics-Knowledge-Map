@@ -1,0 +1,21 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】八年级下册数学.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-chat",
+  "stage": "toc-extraction",
+  "status": "failed",
+  "artifacts": {
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1\\toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1-redesign-20260619-batch1\\toc_detection_response.md"
+  },
+  "warnings": [],
+  "errors": [
+    "TOC response contains unrelated text outside the TOC entries"
+  ],
+  "approved": false,
+  "toc_start_line": null,
+  "toc_end_line": null,
+  "stage1_validated": false
+}

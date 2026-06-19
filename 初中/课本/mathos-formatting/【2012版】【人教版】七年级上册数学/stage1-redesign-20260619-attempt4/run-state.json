@@ -1,0 +1,32 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2012版】【人教版】七年级上册数学.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-chat",
+  "stage": "stage4-apply",
+  "status": "failed",
+  "artifacts": {
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\toc_detection_response.md",
+    "toc": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\toc.md",
+    "toc_and_headings": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\toc_and_headings.md",
+    "heading_script": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\heading_processor.py",
+    "stage1_report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\stage1_heading_report.md",
+    "heading_check_input": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\heading_check_input.md",
+    "heading_check_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\heading_check_prompt.md",
+    "heading_check_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\heading_check_response.json",
+    "h1_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\h1_sample.md",
+    "content_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\content_cleaner_prompt.md",
+    "content_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\content_processor_response.py",
+    "content_script": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\mathos-formatting\\【2012版】【人教版】七年级上册数学\\stage1-redesign-20260619-attempt4\\content_processor.py"
+  },
+  "warnings": [],
+  "errors": [
+    "content cleaner removed image references (344 before, 332 after)"
+  ],
+  "approved": false,
+  "toc_start_line": 104,
+  "toc_end_line": 220,
+  "stage1_validated": true
+}
