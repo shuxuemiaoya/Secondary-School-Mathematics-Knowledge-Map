@@ -1,4314 +1,523 @@
 {
-	"nodes": [
-		{
-			"id": "aa995b480cf8d4a6",
-			"type": "group",
-			"x": 7427,
-			"y": -3600,
-			"width": 4563,
-			"height": 1942,
-			"label": "八下第一章三角形的证明及其应用"
-		},
-		{
-			"id": "b0ca71ae673c0cbd",
-			"type": "group",
-			"x": -535,
-			"y": 1354,
-			"width": 3410,
-			"height": 846,
-			"label": "7上第二章有理数及其运算"
-		},
-		{
-			"id": "8adca25746507384",
-			"type": "group",
-			"x": 7447,
-			"y": -2758,
-			"width": 1682,
-			"height": 1080,
-			"label": "等腰三角形"
-		},
-		{
-			"id": "5dfe3fa8744b5123",
-			"type": "group",
-			"x": 3600,
-			"y": -891,
-			"width": 2230,
-			"height": 800,
-			"label": "7下第四章三角形"
-		},
-		{
-			"id": "20a7ad052ffde5ef",
-			"type": "group",
-			"x": 13840,
-			"y": -891,
-			"width": 1761,
-			"height": 529,
-			"label": "九上第四章 图像的相似"
-		},
-		{
-			"id": "67bec4a8ac6c7025",
-			"type": "group",
-			"x": 7447,
-			"y": -3440,
-			"width": 1637,
-			"height": 550,
-			"label": "三角形内角和定理"
-		},
-		{
-			"id": "33f30f85f4d13dc0",
-			"type": "group",
-			"x": 6240,
-			"y": 378,
-			"width": 1799,
-			"height": 460,
-			"label": "8上第三章位置与坐标"
-		},
-		{
-			"id": "f07626a91ba23ca0",
-			"type": "group",
-			"x": 14040,
-			"y": 378,
-			"width": 1477,
-			"height": 530,
-			"label": "九下第二章 二次函数"
-		},
-		{
-			"id": "c7649c3072040af4",
-			"type": "group",
-			"x": 6160,
-			"y": -891,
-			"width": 1170,
-			"height": 665,
-			"label": "七下第五章生活中的轴对称"
-		},
-		{
-			"id": "401a6c32ad116c14",
-			"type": "group",
-			"x": 10880,
-			"y": -891,
-			"width": 1380,
-			"height": 516,
-			"label": "八下第六章 平行四边形"
-		},
-		{
-			"id": "d5fa213ebbee05f6",
-			"type": "group",
-			"x": 9940,
-			"y": -3384,
-			"width": 1040,
-			"height": 664,
-			"label": "Untitled group"
-		},
-		{
-			"id": "b65f18f05d7c00d0",
-			"type": "group",
-			"x": 12480,
-			"y": 378,
-			"width": 1064,
-			"height": 510,
-			"label": "九下第一章 直角三角形的边角关系"
-		},
-		{
-			"id": "760dc545b4facac8",
-			"type": "group",
-			"x": 9940,
-			"y": -2108,
-			"width": 922,
-			"height": 420,
-			"label": "角平分线"
-		},
-		{
-			"id": "f4b27a7134e82dfd",
-			"type": "group",
-			"x": 7847,
-			"y": -891,
-			"width": 723,
-			"height": 527,
-			"label": "八上第七章平行线的证明"
-		},
-		{
-			"id": "b1740f3039b0ee4e",
-			"type": "group",
-			"x": 9940,
-			"y": -2540,
-			"width": 984,
-			"height": 374,
-			"label": "垂直平分线"
-		},
-		{
-			"id": "219848eb90bd4afc",
-			"type": "group",
-			"x": 9739,
-			"y": -891,
-			"width": 832,
-			"height": 414,
-			"label": "八下第三章 图形的平移与旋转"
-		},
-		{
-			"id": "38dd3c9a1b009c09",
-			"type": "group",
-			"x": 8880,
-			"y": 378,
-			"width": 1290,
-			"height": 223,
-			"label": "8上第四章 一次函数"
-		},
-		{
-			"id": "6599d5798395cf90",
-			"type": "group",
-			"x": 8265,
-			"y": 378,
-			"width": 696,
-			"height": 407,
-			"label": "7下第三章变量之间的关系"
-		},
-		{
-			"id": "b38cd79715b15efe",
-			"type": "group",
-			"x": 9061,
-			"y": -891,
-			"width": 449,
-			"height": 586,
-			"label": "八下第一章三角形的证明"
-		},
-		{
-			"id": "c8beae460f56bf14",
-			"type": "group",
-			"x": 12720,
-			"y": -891,
-			"width": 714,
-			"height": 183,
-			"label": "九上第一章 特殊的平行四边形"
-		},
-		{
-			"id": "281733a57b3ca42a",
-			"type": "group",
-			"x": 10720,
-			"y": 378,
-			"width": 1291,
-			"height": 100,
-			"label": "九上第六章 反比例函数"
-		},
-		{
-			"id": "c66c7fbb8564fc99",
-			"type": "group",
-			"x": 15920,
-			"y": -891,
-			"width": 732,
-			"height": 129,
-			"label": "九上第五章 投影与视图"
-		},
-		{
-			"id": "a76b29f9d9c982a9",
-			"type": "group",
-			"x": 17040,
-			"y": -891,
-			"width": 1547,
-			"height": 810,
-			"label": "九下第三章 圆"
-		},
-		{
-			"id": "0375a949f4a423bb",
-			"type": "group",
-			"x": -280,
-			"y": -891,
-			"width": 1790,
-			"height": 700,
-			"label": "7上第四章基本平面图形"
-		},
-		{
-			"id": "fd9d388107dfc429",
-			"type": "group",
-			"x": 4360,
-			"y": 1354,
-			"width": 2118,
-			"height": 560,
-			"label": "8上第二章 实数"
-		},
-		{
-			"id": "23faf7a8f4f723e9",
-			"type": "group",
-			"x": 9220,
-			"y": 2713,
-			"width": 1660,
-			"height": 562,
-			"label": "八下第二章 一元一次不等式与一元一次不等式组"
-		},
-		{
-			"id": "c5f027f6a35a09be",
-			"type": "group",
-			"x": -535,
-			"y": 2713,
-			"width": 2080,
-			"height": 423,
-			"label": "7上第三章整式及其加减"
-		},
-		{
-			"id": "51736a31c1fa615b",
-			"type": "group",
-			"x": 4360,
-			"y": 2713,
-			"width": 2104,
-			"height": 376,
-			"label": "7下第一章整式的乘除"
-		},
-		{
-			"id": "cfe0debcfe507156",
-			"type": "group",
-			"x": 14240,
-			"y": 2713,
-			"width": 1417,
-			"height": 545,
-			"label": "九上第二章 一元二次方程"
-		},
-		{
-			"id": "533ce5c5cf43944b",
-			"type": "group",
-			"x": 1840,
-			"y": 2713,
-			"width": 1790,
-			"height": 407,
-			"label": "7上第五章一元一次方程"
-		},
-		{
-			"id": "e91b1063d2431c78",
-			"type": "group",
-			"x": 6952,
-			"y": 2713,
-			"width": 1790,
-			"height": 370,
-			"label": "八上第五章二元一次方程组"
-		},
-		{
-			"id": "7bed6af1b49dbe4d",
-			"type": "group",
-			"x": 2040,
-			"y": -891,
-			"width": 1299,
-			"height": 344,
-			"label": "7下第二章相交线与平行线"
-		},
-		{
-			"id": "a6893ea23d5b6645",
-			"type": "group",
-			"x": 12560,
-			"y": 2713,
-			"width": 1162,
-			"height": 352,
-			"label": "八下第五章 分式与分式方程"
-		},
-		{
-			"id": "dbb21acd30ad9f0b",
-			"type": "group",
-			"x": -535,
-			"y": 4560,
-			"width": 1316,
-			"height": 296,
-			"label": "7上第六章数据的收集与整理"
-		},
-		{
-			"id": "9fdfa22b74127b30",
-			"type": "group",
-			"x": -280,
-			"y": -1760,
-			"width": 790,
-			"height": 460,
-			"label": "7上第一章丰富的图形世界"
-		},
-		{
-			"id": "dd8bd344b4a6a89c",
-			"type": "group",
-			"x": 1215,
-			"y": 4480,
-			"width": 860,
-			"height": 399,
-			"label": "八下第六章数据的分析"
-		},
-		{
-			"id": "278b4e570472fe88",
-			"type": "group",
-			"x": 11366,
-			"y": 2713,
-			"width": 813,
-			"height": 298,
-			"label": "八下第四章 因式分解"
-		},
-		{
-			"id": "915e8e13de7c7b18",
-			"type": "group",
-			"x": -535,
-			"y": 5160,
-			"width": 1290,
-			"height": 160,
-			"label": "7下概率初步"
-		},
-		{
-			"id": "3e05ab5ff585e30b",
-			"type": "group",
-			"x": 4360,
-			"y": 378,
-			"width": 520,
-			"height": 345,
-			"label": "八上第一章勾股定理"
-		},
-		{
-			"id": "f5173bc371cc755e",
-			"type": "group",
-			"x": 1011,
-			"y": 5152,
-			"width": 706,
-			"height": 105,
-			"label": "九上第三章 概率的进一步认识"
-		},
-		{
-			"id": "56f52f64c0070e1e",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/问题解决策略：反思.md",
-			"x": 11157,
-			"y": -2780,
-			"width": 250,
-			"height": 100,
-			"color": "1"
-		},
-		{
-			"id": "8415f0f37c53d3da",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.5.md",
-			"x": 11137,
-			"y": -2031,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2f15ba0087521d18",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.3.md",
-			"x": 11077,
-			"y": -3096,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "78d2e07cbe37587b",
-			"type": "file",
-			"file": "初中数学知识点/中点.md",
-			"x": 680,
-			"y": -701,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "fd55e9e7d0b9171d",
-			"type": "file",
-			"file": "初中数学知识点/角的大小.md",
-			"x": 680,
-			"y": -549,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7ef7069d7ed79b2f",
-			"type": "file",
-			"file": "初中数学知识点/角的平分.md",
-			"x": 680,
-			"y": -429,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "41f359d76e02ce64",
-			"type": "file",
-			"file": "初中数学知识点/圆的面积.md",
-			"x": 680,
-			"y": -271,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "5ebd60ce848dfdd5",
-			"type": "file",
-			"file": "初中数学知识点/两点距离.md",
-			"x": 1240,
-			"y": -701,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b1f5f0b1e19d54cf",
-			"type": "file",
-			"file": "初中数学知识点/角的计算.md",
-			"x": 1720,
-			"y": -1000,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9a045b2618cdb430",
-			"type": "file",
-			"file": "初中数学知识点/有理数.md",
-			"x": 5,
-			"y": 1744,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "0253ec13646ea9c7",
-			"type": "file",
-			"file": "初中数学知识点/数轴.md",
-			"x": 5,
-			"y": 1514,
-			"width": 250,
-			"height": 60,
-			"color": "#c800ff"
-		},
-		{
-			"id": "dbef0466bfbe263d",
-			"type": "file",
-			"file": "初中数学知识点/有理数比大小.md",
-			"x": 505,
-			"y": 1514,
-			"width": 250,
-			"height": 60,
-			"color": "6"
-		},
-		{
-			"id": "6f92c4320befaad9",
-			"type": "file",
-			"file": "初中数学知识点/相反数.md",
-			"x": 5,
-			"y": 1934,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "f68c20560c809b00",
-			"type": "file",
-			"file": "初中数学知识点/多边形和圆.md",
-			"x": 240,
-			"y": -271,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "69110c5e5795df2a",
-			"type": "file",
-			"file": "初中数学知识点/线.md",
-			"x": 240,
-			"y": -701,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9d53f79b3067a646",
-			"type": "file",
-			"file": "初中数学知识点/角.md",
-			"x": 240,
-			"y": -489,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3e5f1d4c5563aafa",
-			"type": "file",
-			"file": "初中数学知识点/两点确定一条线.md",
-			"x": -260,
-			"y": -701,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "3bcdbb7d1cc320da",
-			"type": "file",
-			"file": "初中数学知识点/基本平面图形.md",
-			"x": -260,
-			"y": -489,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ae8955ce2d595ef8",
-			"type": "file",
-			"file": "初中数学知识点/距离.md",
-			"x": 880,
-			"y": 1234,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "bc8c7445fa69795e",
-			"type": "file",
-			"file": "初中数学知识点/绝对值.md",
-			"x": 509,
-			"y": 1934,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "7aae301d71804b3a",
-			"type": "file",
-			"file": "初中数学知识点/点、线、面、体.md",
-			"x": 240,
-			"y": -1740,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "984cca5608139415",
-			"type": "file",
-			"file": "初中数学知识点/立体图形.md",
-			"x": -260,
-			"y": -1549,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "5fabd8debeb936ce",
-			"type": "file",
-			"file": "初中数学知识点/两点之间线段最短.md",
-			"x": 680,
-			"y": -871,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "fe64a1ee3368c1c7",
-			"type": "file",
-			"file": "高中数学知识点/几何学.md",
-			"x": -1220,
-			"y": -758,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "8ffce834ddf4de3a",
-			"type": "file",
-			"file": "初中数学知识点/三视图.md",
-			"x": 240,
-			"y": -1380,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "a47b0220e7b9d5ce",
-			"type": "file",
-			"file": "初中数学知识点/旋转思想.md",
-			"x": 824,
-			"y": -1740,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "be22c753479731fa",
-			"type": "file",
-			"file": "初中数学知识点/展开图.md",
-			"x": 240,
-			"y": -1609,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "db86cca3474043ec",
-			"type": "file",
-			"file": "初中数学知识点/截一个几何体.md",
-			"x": 240,
-			"y": -1489,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f19fcd5f44ca8c1f",
-			"type": "file",
-			"file": "初中数学知识点/用表格表示变量之间的关系.md",
-			"x": 8285,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b3c15949b0fc5d5e",
-			"type": "file",
-			"file": "初中数学知识点/用关系式表示变量间关系v.md",
-			"x": 8285,
-			"y": 538,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3a709e8ae2e4cf1a",
-			"type": "file",
-			"file": "初中数学知识点/用图像表示的变量间关系.md",
-			"x": 8285,
-			"y": 658,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e1317b8f5cfee687",
-			"type": "file",
-			"file": "初中数学知识点/求解一元二次方程.md",
-			"x": 7972,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f148d55192c5d843",
-			"type": "file",
-			"file": "初中专题培优/线段长度如何在直角坐标系中计算.md",
-			"x": 8313,
-			"y": 280,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1d40a19ad4ef2fe1",
-			"type": "file",
-			"file": "初中数学知识点/为什么要证明.md",
-			"x": 7867,
-			"y": -871,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f455320be0783586",
-			"type": "file",
-			"file": "初中数学知识点/定义.md",
-			"x": 7867,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9d439f7a14045bbc",
-			"type": "file",
-			"file": "初中数学知识点/平行线的判定.md",
-			"x": 8300,
-			"y": -811,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "0985b32b7409506d",
-			"type": "file",
-			"file": "初中数学知识点/平行线的性质.md",
-			"x": 8300,
-			"y": -657,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ac1d9d534edc6973",
-			"type": "file",
-			"file": "初中数学知识点/三角形内角和定理.md",
-			"x": 8300,
-			"y": -444,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7f816f6a77327856",
-			"type": "file",
-			"file": "初中数学知识点/应用二元一次方程.md",
-			"x": 7972,
-			"y": 2973,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2a93e0bee6113c3c",
-			"type": "file",
-			"file": "初中数学知识点/鸡兔同笼问题.md",
-			"x": 8472,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d54ec9e4cd0e062c",
-			"type": "file",
-			"file": "初中数学知识点/增收节支问题.md",
-			"x": 8472,
-			"y": 2883,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2b8a2466e8323e1e",
-			"type": "file",
-			"file": "初中数学知识点/里程碑上的数问题.md",
-			"x": 8472,
-			"y": 3003,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9fd999f1e3d0e75d",
-			"type": "file",
-			"file": "初中数学知识点/三元一次方程组.md",
-			"x": 7722,
-			"y": 3200,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "59d74f6a3952a109",
-			"type": "file",
-			"file": "初中数学知识点/二元一次方程组.md",
-			"x": 6972,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "a9b5f753ff42c59b",
-			"type": "file",
-			"file": "初中数学知识点/列二元一次方程组.md",
-			"x": 7472,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "8b79127c0ad8ce34",
-			"type": "file",
-			"file": "初中数学知识点/平面直角坐标系.md",
-			"x": 6801,
-			"y": 578,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1cf18d5848b550fc",
-			"type": "file",
-			"file": "初中数学知识点/确定位置.md",
-			"x": 7266,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "aba63b67d6188519",
-			"type": "file",
-			"file": "初中数学知识点/等腰三角形.md",
-			"x": 7040,
-			"y": -626,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "12539086936d950f",
-			"type": "file",
-			"file": "初中数学知识点/垂直平分线.md",
-			"x": 7040,
-			"y": -474,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b64c38bfd654c140",
-			"type": "file",
-			"file": "初中数学知识点/快速的画出根号的长度.md",
-			"x": 6260,
-			"y": 698,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "c1208c43df0455b6",
-			"type": "file",
-			"file": "初中数学知识点/简单的轴对称图形.md",
-			"x": 6425,
-			"y": -534,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "043b5ae9d771e836",
-			"type": "file",
-			"file": "初中数学知识点/探索轴对称的性质.md",
-			"x": 6550,
-			"y": -777,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "68795baf5072d992",
-			"type": "file",
-			"file": "初中数学知识点/点、线、面、体.md",
-			"x": 6801,
-			"y": 758,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "425f58a4e8ec9dfa",
-			"type": "file",
-			"file": "初中数学知识点/点都可以在直角坐标系中表示.md",
-			"x": 7266,
-			"y": 578,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ddb46ec80d16cca2",
-			"type": "file",
-			"file": "有趣的一些交流/直线如何在坐标轴上表示.md",
-			"x": 7769,
-			"y": 578,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2e1a8bdd2e63f745",
-			"type": "text",
-			"text": "虚数",
-			"x": 6600,
-			"y": 1755,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "79e9c9f56510d9ab",
-			"type": "file",
-			"file": "初中数学知识点/字母表示数.md",
-			"x": -515,
-			"y": 2813,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "289c3f6314af1073",
-			"type": "file",
-			"file": "初中数学知识点/代数式.md",
-			"x": -15,
-			"y": 2813,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "b8aeb13b1e0c673d",
-			"type": "file",
-			"file": "初中数学知识点/方程思想.md",
-			"x": 1860,
-			"y": 2763,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1a8f2a9711bda033",
-			"type": "file",
-			"file": "初中数学知识点/利用轴对称进行设计.md",
-			"x": 6760,
-			"y": -346,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "efc488945c5a89ca",
-			"type": "file",
-			"file": "初中数学知识点/对称轴.md",
-			"x": 6960,
-			"y": -777,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "60394879927341ef",
-			"type": "file",
-			"file": "初中数学知识点/单项式.md",
-			"x": 360,
-			"y": 2753,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "d68f56279a5cbc47",
-			"type": "file",
-			"file": "初中数学知识点/多项式.md",
-			"x": 360,
-			"y": 2873,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "e6c6926e0d595f9f",
-			"type": "file",
-			"file": "初中数学知识点/整式.md",
-			"x": 765,
-			"y": 2813,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "f31e8417ede1aa9c",
-			"type": "file",
-			"file": "初中数学知识点/整式的加减.md",
-			"x": 1174,
-			"y": 2813,
-			"width": 250,
-			"height": 60,
-			"color": "6"
-		},
-		{
-			"id": "ee7831ac7b28d596",
-			"type": "file",
-			"file": "初中数学知识点/探索与表达规律.md",
-			"x": -515,
-			"y": 3016,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "0d2021cb9f017fa0",
-			"type": "file",
-			"file": "高中数学知识点/代数.md",
-			"x": -1175,
-			"y": 2833,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7a7c1e6904d12779",
-			"type": "file",
-			"file": "初中数学知识点/统计图表.md",
-			"x": 485,
-			"y": 4739,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "55509d3f2b6d3a00",
-			"type": "file",
-			"file": "初中数学知识点/用树状图或表格求概率.md",
-			"x": 1031,
-			"y": 5177,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b1437a15276c9322",
-			"type": "text",
-			"text": "不等式解集画图fen'x",
-			"x": -482,
-			"y": 6495,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ba7f76f60a27e647",
-			"type": "file",
-			"file": "初中数学知识点/等可能事件的概率.md",
-			"x": 485,
-			"y": 5180,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "884f302182944daf",
-			"type": "file",
-			"file": "初中数学知识点/频率的稳定性.md",
-			"x": -15,
-			"y": 5180,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "17946f80d595208e",
-			"type": "file",
-			"file": "初中数学知识点/感受可能性.md",
-			"x": -515,
-			"y": 5240,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "65c715f0b896cb5b",
-			"type": "file",
-			"file": "初中数学知识点/普查和抽样调查.md",
-			"x": -15,
-			"y": 4619,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "99efb82d519f82fb",
-			"type": "file",
-			"file": "初中数学知识点/用统计图描述数据.md",
-			"x": -15,
-			"y": 4739,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d08e69d71e606880",
-			"type": "file",
-			"file": "初中数学知识点/数据的收集.md",
-			"x": -515,
-			"y": 4679,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "6cdbeda2d3b17544",
-			"type": "file",
-			"file": "初中数学知识点/从统计图分析集中趋势.md",
-			"x": 1235,
-			"y": 4500,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b47ad7bbafbea9c9",
-			"type": "file",
-			"file": "初中数学知识点/平均数.md",
-			"x": 1240,
-			"y": 4619,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "50acaf87b54d01d3",
-			"type": "file",
-			"file": "初中数学知识点/中位数众数.md",
-			"x": 1240,
-			"y": 4799,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "da93987cfa458077",
-			"type": "file",
-			"file": "初中数学知识点/数据的离散程度.md",
-			"x": 1805,
-			"y": 4649,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "5bd142f0c8199c99",
-			"type": "file",
-			"file": "初中数学知识点/用频率估计概率.md",
-			"x": 1447,
-			"y": 5172,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "43903fd673b1a80b",
-			"type": "file",
-			"file": "初中数学知识点/有理数乘法.md",
-			"x": 1009,
-			"y": 1834,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "539546d9233b7300",
-			"type": "file",
-			"file": "初中数学知识点/有理数除法.md",
-			"x": 1509,
-			"y": 1834,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "ded25578e6246030",
-			"type": "file",
-			"file": "初中数学知识点/倒数.md",
-			"x": 1509,
-			"y": 1992,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "28935be08062b41a",
-			"type": "file",
-			"file": "初中数学知识点/有理数的乘方.md",
-			"x": 1009,
-			"y": 2116,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "35c83541ae1a90c7",
-			"type": "file",
-			"file": "初中数学知识点/有理数加法.md",
-			"x": 1009,
-			"y": 1410,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "f9c83f3dd7b8f6cc",
-			"type": "file",
-			"file": "初中数学知识点/交换律.md",
-			"x": 1409,
-			"y": 1532,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "fce051678044a4c9",
-			"type": "file",
-			"file": "初中数学知识点/结合律.md",
-			"x": 1409,
-			"y": 1624,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "c87d0fc3efb5e9a8",
-			"type": "file",
-			"file": "初中数学知识点/分配律.md",
-			"x": 1409,
-			"y": 1722,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "88cc1e2342d42ee0",
-			"type": "text",
-			"text": "概率统计",
-			"x": -1055,
-			"y": 4937,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "cdd4c095f3fdda17",
-			"type": "file",
-			"file": "初中数学知识点/正数和负数.md",
-			"x": -495,
-			"y": 1838,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "51779aedfe5623fa",
-			"type": "file",
-			"file": "初中数学知识点/有理数减法.md",
-			"x": 1509,
-			"y": 1410,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "5cbd6f1d362c7a8d",
-			"type": "file",
-			"file": "初中数学知识点/三角形全等测距离.md",
-			"x": 5508,
-			"y": -719,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e94c6f1abe8f8d6e",
-			"type": "file",
-			"file": "初中数学知识点/三角形的中线.md",
-			"x": 4480,
-			"y": -579,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b62ab4a4f8420061",
-			"type": "file",
-			"file": "初中数学知识点/三角形的角平分线.md",
-			"x": 4480,
-			"y": -475,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3feee49c1c243832",
-			"type": "text",
-			"text": "勾股定理",
-			"x": 4380,
-			"y": 551,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "6fc2e144c32363c6",
-			"type": "file",
-			"file": "初中数学知识点/混合运算.md",
-			"x": 2009,
-			"y": 1624,
-			"width": 250,
-			"height": 60,
-			"color": "6"
-		},
-		{
-			"id": "80f617e306e2b7df",
-			"type": "file",
-			"file": "初中数学知识点/科学计数法.md",
-			"x": 2009,
-			"y": 1774,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "2c57a4665d7ab54a",
-			"type": "file",
-			"file": "初中数学知识点/近似数.md",
-			"x": 2009,
-			"y": 1932,
-			"width": 250,
-			"height": 60,
-			"color": "5"
-		},
-		{
-			"id": "d543ef804e32a2ce",
-			"type": "file",
-			"file": "初中数学知识点/轴对称现象.md",
-			"x": 6205,
-			"y": -777,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "09c9ec276aecc865",
-			"type": "file",
-			"file": "初中数学知识点/三角形全等.md",
-			"x": 4480,
-			"y": -826,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3de1bfd5cc179c53",
-			"type": "file",
-			"file": "初中数学知识点/直角三角形.md",
-			"x": 4000,
-			"y": -672,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "8cb115845bc01792",
-			"type": "file",
-			"file": "初中数学知识点/三角形的高.md",
-			"x": 4480,
-			"y": -375,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "402a7a01b741ee88",
-			"type": "file",
-			"file": "初中数学知识点/直角三角形两个锐角互余.md",
-			"x": 5000,
-			"y": -732,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "425bd5ca6678371f",
-			"type": "file",
-			"file": "初中数学知识点/尺规做三角形.md",
-			"x": 5500,
-			"y": -826,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "95c264a585d4dfed",
-			"type": "file",
-			"file": "初中数学知识点/图形的全等.md",
-			"x": 3620,
-			"y": -831,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "713eb0b50ceaf562",
-			"type": "file",
-			"file": "初中数学知识点/三角形.md",
-			"x": 3620,
-			"y": -475,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2d08ff9c295bbeca",
-			"type": "file",
-			"file": "学生作业/勾股定理重难专题.md",
-			"x": 5185,
-			"y": 496,
-			"width": 330,
-			"height": 111
-		},
-		{
-			"id": "93e5f512f2f23ad7",
-			"type": "text",
-			"text": "相交",
-			"x": 2560,
-			"y": -867,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ae492d22f551f7c2",
-			"type": "text",
-			"text": "平行",
-			"x": 2560,
-			"y": -747,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b010dfeb09043883",
-			"type": "text",
-			"text": "垂直",
-			"x": 2560,
-			"y": -627,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "c85480213bec4543",
-			"type": "file",
-			"file": "初中数学知识点/相交线.md",
-			"x": 2060,
-			"y": -687,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "539a137654898f84",
-			"type": "file",
-			"file": "初中数学知识点/内角和180.md",
-			"x": 4000,
-			"y": -475,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1e4a3b3edaada998",
-			"type": "text",
-			"text": "平行的条件",
-			"x": 3060,
-			"y": -807,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1455401880dabb67",
-			"type": "file",
-			"file": "初中数学知识点/任意两边之和大于第三边.md",
-			"x": 4000,
-			"y": -271,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7cf51d84f96b6255",
-			"type": "file",
-			"file": "初中数学知识点/三角形全等的条件.md",
-			"x": 5000,
-			"y": -826,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "504fb72523566b8b",
-			"type": "file",
-			"file": "初中数学知识点/重心.md",
-			"x": 5000,
-			"y": -579,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "830d1ac21fbbc47a",
-			"type": "text",
-			"text": "交叉学科",
-			"x": 3300,
-			"y": -2370,
-			"width": 165,
-			"height": 60,
-			"color": "3"
-		},
-		{
-			"id": "d9486a14016bdae8",
-			"type": "text",
-			"text": "课外故事",
-			"x": 3300,
-			"y": -2300,
-			"width": 165,
-			"height": 60,
-			"color": "5"
-		},
-		{
-			"id": "e0a7cefe8f4d9a9a",
-			"type": "text",
-			"text": "非重点",
-			"x": 3300,
-			"y": -2240,
-			"width": 165,
-			"height": 60
-		},
-		{
-			"id": "b6e956494af9d03d",
-			"type": "text",
-			"text": "解决问题",
-			"x": 3540,
-			"y": -2430,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9ed51cdba3524e54",
-			"type": "text",
-			"text": "启发应用",
-			"x": 3540,
-			"y": -2326,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "341dcd42c465e5af",
-			"type": "text",
-			"text": "二次认识，哲学思考",
-			"x": 3540,
-			"y": -2226,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "8986a2474f57c371",
-			"type": "text",
-			"text": "平行线的性质",
-			"x": 3060,
-			"y": -687,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7744fbbec88f2a00",
-			"type": "text",
-			"text": "知识点",
-			"x": 2570,
-			"y": -2240,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "44cf04ee70c4da83",
-			"type": "text",
-			"text": "思想方法",
-			"x": 2990,
-			"y": -2440,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "7a2f53dd5700b822",
-			"type": "text",
-			"text": "题型",
-			"x": 2990,
-			"y": -2240,
-			"width": 250,
-			"height": 60,
-			"color": "6"
-		},
-		{
-			"id": "e25baed46bfdfd5c",
-			"type": "text",
-			"text": "数学工具",
-			"x": 3300,
-			"y": -2440,
-			"width": 165,
-			"height": 60,
-			"color": "#c800ff"
-		},
-		{
-			"id": "9d3f09468d3bcdcc",
-			"type": "text",
-			"text": "知识点",
-			"x": 2570,
-			"y": -2440,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "fc5a8d5437f0b93d",
-			"type": "text",
-			"text": "章节",
-			"x": 2310,
-			"y": -2340,
-			"width": 190,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "84f435b486e2a0bd",
-			"type": "file",
-			"file": "初中数学知识点/一元一次不等式组.md",
-			"x": 10610,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1eeae3312de7833e",
-			"type": "file",
-			"file": "初中数学知识点/一元一次不等式与一次函数.md",
-			"x": 10360,
-			"y": 2859,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "bb56dd83ebb0080b",
-			"type": "file",
-			"file": "初中数学知识点/图形的平移.md",
-			"x": 9759,
-			"y": -871,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "a59d9a4afe36c485",
-			"type": "text",
-			"text": "约分",
-			"x": 13022,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "049a38ea15bc0562",
-			"type": "file",
-			"file": "初中数学知识点/分式的乘除法.md",
-			"x": 13057,
-			"y": 2860,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1766e8835fb63f22",
-			"type": "file",
-			"file": "初中数学知识点/分式的加减法.md",
-			"x": 13142,
-			"y": 2985,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b04199d311d89a41",
-			"type": "file",
-			"file": "初中数学知识点/分式方程.md",
-			"x": 13452,
-			"y": 2803,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "681c9d814675f88a",
-			"type": "text",
-			"text": "平行四边形",
-			"x": 10960,
-			"y": -702,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "925ee4d36acec474",
-			"type": "file",
-			"file": "初中数学知识点/多边形的内角和与外角和.md",
-			"x": 11990,
-			"y": -445,
-			"width": 250,
-			"height": 50
-		},
-		{
-			"id": "6e7834d0100eb834",
-			"type": "file",
-			"file": "初中数学知识点/图形的旋转.md",
-			"x": 9759,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "fc76a7305e4be777",
-			"type": "file",
-			"file": "初中数学知识点/中心对称.md",
-			"x": 9759,
-			"y": -557,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "bacd12345260ed9c",
-			"type": "file",
-			"file": "初中数学知识点/简单的图案设计.md",
-			"x": 10301,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e5aedd77868bb0cc",
-			"type": "file",
-			"file": "初中数学知识点/平行四边形的性质.md",
-			"x": 11280,
-			"y": -810,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9a7ba751d1964596",
-			"type": "file",
-			"file": "初中数学知识点/平行四边形的判定.md",
-			"x": 11280,
-			"y": -642,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "538eb43c376cb039",
-			"type": "file",
-			"file": "初中数学知识点/三角形的中位线.md",
-			"x": 11740,
-			"y": -672,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d4acd0bb83d8b678",
-			"type": "file",
-			"file": "初中数学知识点/矩形的性质与判定.md",
-			"x": 12740,
-			"y": -788,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "21576aabb021fd49",
-			"type": "file",
-			"file": "初中数学知识点/一元一次不等式.md",
-			"x": 10020,
-			"y": 2919,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "408d1bd01e10ca96",
-			"type": "file",
-			"file": "初中数学知识点/不等式的解集.md",
-			"x": 9740,
-			"y": 3015,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9b77a6b374794966",
-			"type": "file",
-			"file": "初中数学知识点/不等式的性质.md",
-			"x": 9490,
-			"y": 3095,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e9fdba2a724f0feb",
-			"type": "file",
-			"file": "初中数学知识点/不等式及其解集.md",
-			"x": 9240,
-			"y": 3195,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e2a4077ac916681b",
-			"type": "file",
-			"file": "初中数学知识点/因式分解.md",
-			"x": 11386,
-			"y": 2826,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1998a95f46bd669b",
-			"type": "file",
-			"file": "初中数学知识点/提公因式法.md",
-			"x": 11909,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "273f65f5dbfed059",
-			"type": "file",
-			"file": "初中数学知识点/分式.md",
-			"x": 12580,
-			"y": 2842,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3e2ff5c1f9add1a3",
-			"type": "file",
-			"file": "初中数学知识点/菱形的性质与判定.md",
-			"x": 12744,
-			"y": -871,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e705b37b47297fda",
-			"type": "file",
-			"file": "初中数学知识点/正方形的性质与判定.md",
-			"x": 13164,
-			"y": -818,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "827f4c28ef24d9fd",
-			"type": "file",
-			"file": "初中数学知识点/三角函数的计算.md",
-			"x": 13005,
-			"y": 401,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f92e1c805b63b778",
-			"type": "file",
-			"file": "初中数学知识点/解直角三角形.md",
-			"x": 13005,
-			"y": 588,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "dcc1d5b5f74dc6dc",
-			"type": "file",
-			"file": "初中数学知识点/锐角三角函数.md",
-			"x": 12500,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f8a89fa5ea968cf7",
-			"type": "file",
-			"file": "初中数学知识点/三角函数的应用.md",
-			"x": 13005,
-			"y": 768,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "adb120f590e334db",
-			"type": "file",
-			"file": "初中数学知识点/因式分解公式法.md",
-			"x": 11909,
-			"y": 2931,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ad2b04ba75c18b46",
-			"type": "file",
-			"file": "初中数学知识点/证明等腰三角形的结论.md",
-			"x": 9081,
-			"y": -871,
-			"width": 250,
-			"height": 91
-		},
-		{
-			"id": "3947299bf6a0249a",
-			"type": "file",
-			"file": "初中数学知识点/证明直角三角形的结论.md",
-			"x": 9081,
-			"y": -718,
-			"width": 250,
-			"height": 106
-		},
-		{
-			"id": "e97504b381701773",
-			"type": "file",
-			"file": "初中数学知识点/证明垂直平分线结论.md",
-			"x": 9081,
-			"y": -542,
-			"width": 250,
-			"height": 98
-		},
-		{
-			"id": "49db71b1fe9c8332",
-			"type": "file",
-			"file": "初中数学知识点/证明角平分线结论.md",
-			"x": 9081,
-			"y": -414,
-			"width": 250,
-			"height": 89
-		},
-		{
-			"id": "9614d6261a95a294",
-			"type": "file",
-			"file": "初中数学知识点/一次函数的图像.md",
-			"x": 9900,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "cd5c1a7f6e5b3b5a",
-			"type": "file",
-			"file": "初中数学知识点/圆内接正多边形.md",
-			"x": 18317,
-			"y": -381,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ca57dde0ddc991ba",
-			"type": "file",
-			"file": "初中数学知识点/弧长及扇形面积.md",
-			"x": 18317,
-			"y": -161,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1ba230be81e58f33",
-			"type": "file",
-			"file": "初中数学知识点/直线与圆的关系.md",
-			"x": 18317,
-			"y": -790,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d9827f349f7925da",
-			"type": "file",
-			"file": "初中数学知识点/切线长定理.md",
-			"x": 18317,
-			"y": -581,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "93c53d329d3c6d7b",
-			"type": "file",
-			"file": "初中数学知识点/反比例函数.md",
-			"x": 10740,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "c1711d581a653d19",
-			"type": "file",
-			"file": "初中数学知识点/反比例函数的图像与性质.md",
-			"x": 11221,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f5d8674ab4e4e93d",
-			"type": "file",
-			"file": "初中数学知识点/反比例函数的应用.md",
-			"x": 11741,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9bb98242c50be71f",
-			"type": "text",
-			"text": "函数",
-			"x": 8900,
-			"y": 461,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "0b2d312d0b113757",
-			"type": "file",
-			"file": "初中数学知识点/一次函数表达式.md",
-			"x": 9400,
-			"y": 461,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "8aedea0c7934af83",
-			"type": "file",
-			"file": "初中数学知识点/一次函数的应用.md",
-			"x": 9900,
-			"y": 521,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9abd147db87b1106",
-			"type": "file",
-			"file": "初中数学知识点/圆.md",
-			"x": 17060,
-			"y": -790,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "00814fe9e17a3087",
-			"type": "file",
-			"file": "初中数学知识点/相似三角形的性质.md",
-			"x": 15312,
-			"y": -799,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1f799cf75272036c",
-			"type": "file",
-			"file": "初中数学知识点/圆的对称性.md",
-			"x": 17560,
-			"y": -871,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "e6007b961305d581",
-			"type": "file",
-			"file": "初中数学知识点/垂径定理.md",
-			"x": 17560,
-			"y": -690,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "60ba705db0ce9a5d",
-			"type": "file",
-			"file": "初中数学知识点/圆周角与圆心角的关系.md",
-			"x": 17560,
-			"y": -475,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "6e8bd978f9aef323",
-			"type": "file",
-			"file": "初中数学知识点/确定圆的条件.md",
-			"x": 17560,
-			"y": -281,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3bf8e1a52783d09c",
-			"type": "file",
-			"file": "初中数学知识点/三角形相似的应用.md",
-			"x": 15312,
-			"y": -657,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "29876c44a5689f5a",
-			"type": "file",
-			"file": "初中数学知识点/投影.md",
-			"x": 15940,
-			"y": -842,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "0364ee05ac0c4e46",
-			"type": "file",
-			"file": "初中数学知识点/一元二次方程.md",
-			"x": 14260,
-			"y": 2859,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "5f2e96eaeb84f157",
-			"type": "file",
-			"file": "初中数学知识点/二分法确定一元二次方程的近似解.md",
-			"x": 14703,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "51bdb62b5818e27f",
-			"type": "file",
-			"file": "初中数学知识点/配方法求解一元二次方程.md",
-			"x": 14822,
-			"y": 2862,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ac96ac3a749277ed",
-			"type": "file",
-			"file": "初中数学知识点/公式法求解一元二次方程.md",
-			"x": 14828,
-			"y": 2998,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ad2d589ad94c1146",
-			"type": "file",
-			"file": "初中数学知识点/因式分解法求解一元二次方程.md",
-			"x": 14828,
-			"y": 3178,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "33abf3f0e70f8aa8",
-			"type": "file",
-			"file": "初中数学知识点/根与系数的关系.md",
-			"x": 15387,
-			"y": 2953,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d5caa58854abd789",
-			"type": "file",
-			"file": "初中数学知识点/应用一元二次方程.md",
-			"x": 15387,
-			"y": 3178,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b7200b4992a98948",
-			"type": "file",
-			"file": "初中数学知识点/视图.md",
-			"x": 16384,
-			"y": -842,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "886b719529984ec2",
-			"type": "file",
-			"file": "初中数学知识点/二次函数.md",
-			"x": 14060,
-			"y": 398,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7be0a3f31427a391",
-			"type": "file",
-			"file": "初中数学知识点/二次函数的图像与性质.md",
-			"x": 14637,
-			"y": 399,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "71ee42152de6e611",
-			"type": "file",
-			"file": "初中数学知识点/确定二次函数的表达式.md",
-			"x": 14637,
-			"y": 618,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f3605a4b7ede8c20",
-			"type": "file",
-			"file": "初中数学知识点/二次函数的应用.md",
-			"x": 14637,
-			"y": 828,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "45bf52946dbd92fc",
-			"type": "file",
-			"file": "初中数学知识点/二次函数与一元二次方程.md",
-			"x": 15247,
-			"y": 618,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "9ee0ceb384c37ee8",
-			"type": "file",
-			"file": "初中数学知识点/图像的相似比.md",
-			"x": 14336,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "138f43cc4acb9457",
-			"type": "file",
-			"file": "初中数学知识点/平行线分线段成比例.md",
-			"x": 14341,
-			"y": -871,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "072bd86a1505da2e",
-			"type": "file",
-			"file": "初中数学知识点/图形的位似.md",
-			"x": 14341,
-			"y": -522,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "3b7774f42647dbb2",
-			"type": "file",
-			"file": "初中数学知识点/成比例线段.md",
-			"x": 13921,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "87c1de1f6d720cbf",
-			"type": "file",
-			"file": "初中数学知识点/完全平方公式.md",
-			"x": 6195,
-			"y": 2853,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "465cf84cba814fe8",
-			"type": "file",
-			"file": "初中数学知识点/平方差公式.md",
-			"x": 6195,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d663df3097d986c8",
-			"type": "file",
-			"file": "初中数学知识点/三角形相似的条件.md",
-			"x": 14841,
-			"y": -717,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "4bb87d39d902805e",
-			"type": "file",
-			"file": "初中数学知识点/同底数幂的乘法.md",
-			"x": 4380,
-			"y": 2769,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "a9777c773e7708ee",
-			"type": "file",
-			"file": "初中数学知识点/幂的乘方与积的乘方.md",
-			"x": 5022,
-			"y": 2769,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "99ed1c562e367dd0",
-			"type": "file",
-			"file": "初中数学知识点/整式的乘法.md",
-			"x": 5807,
-			"y": 2793,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "110c3317b933e3a6",
-			"type": "file",
-			"file": "初中数学知识点/同底数幂的除法.md",
-			"x": 4380,
-			"y": 3009,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "978765f94735b862",
-			"type": "file",
-			"file": "初中数学知识点/整式的除法.md",
-			"x": 5807,
-			"y": 3009,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "08c6d30acb6dc09a",
-			"type": "text",
-			"text": "无理数",
-			"x": 5630,
-			"y": 1663,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1f4667e525d4a62f",
-			"type": "text",
-			"text": "根号的运算",
-			"x": 5630,
-			"y": 1543,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "bfb2e350bf28f981",
-			"type": "file",
-			"file": "初中数学知识点/水箱变高了.md",
-			"x": 3360,
-			"y": 2733,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "7beba18e18025fb4",
-			"type": "file",
-			"file": "初中数学知识点/打折销售.md",
-			"x": 3360,
-			"y": 2840,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f6ae801bed6b7af3",
-			"type": "file",
-			"file": "初中数学知识点/希望工程义演.md",
-			"x": 3360,
-			"y": 2940,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "2e99853f441c135a",
-			"type": "file",
-			"file": "初中数学知识点/追赶小明.md",
-			"x": 3360,
-			"y": 3040,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "c9715e18e54745a6",
-			"type": "file",
-			"file": "初中数学知识点/列方程.md",
-			"x": 2360,
-			"y": 2763,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b9d02e42eb7cfc88",
-			"type": "file",
-			"file": "初中数学知识点/方程的解.md",
-			"x": 2800,
-			"y": 2763,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "01106ad6512ed342",
-			"type": "file",
-			"file": "初中数学知识点/应用一元方程.md",
-			"x": 2800,
-			"y": 2940,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ab3a6f778b879121",
-			"type": "file",
-			"file": "初中数学知识点/进位制.md",
-			"x": 2009,
-			"y": 2116,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "c76a93ec915cc50e",
-			"type": "text",
-			"text": "根号运算律",
-			"x": 6130,
-			"y": 1423,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "871ce0ce9a5bbe0b",
-			"type": "text",
-			"text": "根号计算技巧",
-			"x": 6130,
-			"y": 1543,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "21d85a320b1af9b8",
-			"type": "text",
-			"text": "实数",
-			"x": 6130,
-			"y": 1755,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "87107bf7c0ccc10d",
-			"type": "text",
-			"text": "不是分数",
-			"x": 4755,
-			"y": 1483,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "82dbafb6be0dcf4c",
-			"type": "text",
-			"text": "$a^2=2$",
-			"x": 4380,
-			"y": 1543,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "c07b718b0d8f8638",
-			"type": "text",
-			"text": "不是整数",
-			"x": 4755,
-			"y": 1603,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1dde586307293ea5",
-			"type": "text",
-			"text": "根号",
-			"x": 5130,
-			"y": 1543,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "1e7c03b584c2c367",
-			"type": "text",
-			"text": "$\\sqrt{x^2}= \\begin{Bmatrix}x,x>0 \\\\-x,x<0\\end{Bmatrix}$",
-			"x": 5620,
-			"y": 1394,
-			"width": 270,
-			"height": 89
-		},
-		{
-			"id": "5c0884ec61d3a993",
-			"type": "text",
-			"text": "$\\sqrt[3]{x}$",
-			"x": 5130,
-			"y": 1815,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d82039d234cc0c4d",
-			"type": "file",
-			"file": "初中数学知识点/如何加快计算速度.md",
-			"x": 3004,
-			"y": 1264,
-			"width": 250,
-			"height": 60,
-			"color": "4"
-		},
-		{
-			"id": "37742d0bf6ef1228",
-			"type": "file",
-			"file": "初中数学知识点/无限的思维.md",
-			"x": 13796,
-			"y": -1200,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "5777f1665c0c1482",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的一个外角等于与它不相邻的两个内角的和.md",
-			"x": 8697,
-			"y": -3420,
-			"width": 250,
-			"height": 100
-		},
-		{
-			"id": "75be7857d8a512bd",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/外角.md",
-			"x": 8312,
-			"y": -3320,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "152906b39ae60aea",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的一个外角大于任何一个与它不相邻的内角.md",
-			"x": 8697,
-			"y": -3260,
-			"width": 367,
-			"height": 150
-		},
-		{
-			"id": "d6ac4ad7f5db24a5",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/定理n边形的内角和等于(n-2)·180°.md",
-			"x": 8312,
-			"y": -3021,
-			"width": 356,
-			"height": 111
-		},
-		{
-			"id": "ad871db630b30e75",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/多边形的外角和等于360°.md",
-			"x": 8721,
-			"y": -3018,
-			"width": 320,
-			"height": 105
-		},
-		{
-			"id": "d34727b9f5fb898c",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/全等三角形的对应边相等、对应角相等.md",
-			"x": 7467,
-			"y": -3349,
-			"width": 375,
-			"height": 90
-		},
-		{
-			"id": "d3bdf23894885e44",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形三个内角的和等于180°.md",
-			"x": 7937,
-			"y": -3260,
-			"width": 301,
-			"height": 90
-		},
-		{
-			"id": "7532fb74e87eb48c",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/两角分别相等且其中一组等角的对边相等的两个三角形全等。.md",
-			"x": 7467,
-			"y": -3194,
-			"width": 366,
-			"height": 139
-		},
-		{
-			"id": "660e2d895b3a0439",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等腰三角形顶角的平分线、底边上的中线、底边上的高重合.md",
-			"x": 7994,
-			"y": -2738,
-			"width": 376,
-			"height": 135
-		},
-		{
-			"id": "b94580f149afb8df",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三个角都相等的三角形是等边三角形.md",
-			"x": 8713,
-			"y": -2617,
-			"width": 334,
-			"height": 104
-		},
-		{
-			"id": "219fc154a8296eaf",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等腰三角形的两个底角相等.md",
-			"x": 7467,
-			"y": -2603,
-			"width": 263,
-			"height": 90
-		},
-		{
-			"id": "fd5ab238aaa04250",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等边三角形的三个内角都相等，并且每个角都等于60°.md",
-			"x": 7994,
-			"y": -2513,
-			"width": 376,
-			"height": 128
-		},
-		{
-			"id": "576d59b02ba09da6",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有一个角等于60°的等腰三角形是等边三角形.md",
-			"x": 8713,
-			"y": -2385,
-			"width": 396,
-			"height": 93
-		},
-		{
-			"id": "08507cf3c6f0a95e",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有两个角相等的三角形是等腰三角形.md",
-			"x": 7994,
-			"y": -2186,
-			"width": 298,
-			"height": 129
-		},
-		{
-			"id": "6e1fe11653e5ccfa",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/反证法.md",
-			"x": 8547,
-			"y": -2151,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "f55edf1f9c2b0fdc",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/在直角三角形中，如果一个锐角等于30°，那么它所对的直角边等于斜边的一半.md",
-			"x": 7994,
-			"y": -1846,
-			"width": 482,
-			"height": 148
-		},
-		{
-			"id": "bb66850cf7554500",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.2.md",
-			"x": 9240,
-			"y": -2186,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "a46bc14b09cea247",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.1.md",
-			"x": 9240,
-			"y": -3194,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "07df4b1d3159410c",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有两个角互余的三角形是直角三角形.md",
-			"x": 10470,
-			"y": -3364,
-			"width": 390,
-			"height": 94
-		},
-		{
-			"id": "23c201eb06c2055f",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/直角三角形的两个锐角互余.md",
-			"x": 9960,
-			"y": -3364,
-			"width": 279,
-			"height": 94
-		},
-		{
-			"id": "cc05955cd3953e04",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/勾股定理.md",
-			"x": 9960,
-			"y": -3164,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "740c883e2d5d3657",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/如果三角形两条边的平方和等于第三条边的平方，那么这个三角形是直角三角形.md",
-			"x": 10470,
-			"y": -3205,
-			"width": 490,
-			"height": 142
-		},
-		{
-			"id": "503a44c4c0b0cbe8",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/逆命题.md",
-			"x": 9960,
-			"y": -2997,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b0f6e55108128ca7",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/互逆定理.md",
-			"x": 10470,
-			"y": -3000,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "d3b714594741a5be",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/斜边和一条直角边分别相等的两个直角三角形全等(HL).md",
-			"x": 10470,
-			"y": -2880,
-			"width": 354,
-			"height": 146
-		},
-		{
-			"id": "985608397c9c4b51",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/过直线外一点，用尺规作已知直线的垂线.md",
-			"x": 9960,
-			"y": -2298,
-			"width": 410,
-			"height": 112
-		},
-		{
-			"id": "9547122013d5a43d",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/到一条线段两个端点距离相等的点，在这条线段的垂直平分线上.md",
-			"x": 10513,
-			"y": -2520,
-			"width": 384,
-			"height": 145
-		},
-		{
-			"id": "21ae195b9f449a23",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/线段垂直平分线上的点到这条线段两个端点的距离相等.md",
-			"x": 9960,
-			"y": -2515,
-			"width": 385,
-			"height": 135
-		},
-		{
-			"id": "8c8ba0e039f53a50",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.4.md",
-			"x": 11160,
-			"y": -2477,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "92c28e686b66c4b8",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/角平分线上的点到这个角的两边的距离相等.md",
-			"x": 9960,
-			"y": -2088,
-			"width": 337,
-			"height": 162
-		},
-		{
-			"id": "c68d874dc0a5d1ec",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/在一个角的内部，到角的两边距离相等的点在这个角的平分线上.md",
-			"x": 10452,
-			"y": -2074,
-			"width": 390,
-			"height": 148
-		},
-		{
-			"id": "f317f9dcbd8bd001",
-			"type": "file",
-			"file": "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的三条角平分线相交于一点，并且这一点到三条边的距离相等。.md",
-			"x": 9960,
-			"y": -1880,
-			"width": 356,
-			"height": 172
-		}
+	"nodes":[
+		{"id":"aa995b480cf8d4a6","type":"group","x":7427,"y":-3600,"width":4563,"height":1942,"label":"八下第一章三角形的证明及其应用"},
+		{"id":"b0ca71ae673c0cbd","type":"group","x":-535,"y":1354,"width":3410,"height":846,"label":"7上第二章有理数及其运算"},
+		{"id":"8adca25746507384","type":"group","x":7447,"y":-2758,"width":1682,"height":1080,"label":"等腰三角形"},
+		{"id":"5dfe3fa8744b5123","type":"group","x":3600,"y":-891,"width":2230,"height":800,"label":"7下第四章三角形"},
+		{"id":"20a7ad052ffde5ef","type":"group","x":13840,"y":-891,"width":1761,"height":529,"label":"九上第四章 图像的相似"},
+		{"id":"67bec4a8ac6c7025","type":"group","x":7447,"y":-3440,"width":1637,"height":550,"label":"三角形内角和定理"},
+		{"id":"33f30f85f4d13dc0","type":"group","x":6240,"y":378,"width":1799,"height":460,"label":"8上第三章位置与坐标"},
+		{"id":"f07626a91ba23ca0","type":"group","x":14040,"y":378,"width":1477,"height":530,"label":"九下第二章 二次函数"},
+		{"id":"c7649c3072040af4","type":"group","x":6160,"y":-891,"width":1170,"height":665,"label":"七下第五章生活中的轴对称"},
+		{"id":"401a6c32ad116c14","type":"group","x":10880,"y":-891,"width":1380,"height":516,"label":"八下第六章 平行四边形"},
+		{"id":"d5fa213ebbee05f6","type":"group","x":9940,"y":-3384,"width":1040,"height":664,"label":"Untitled group"},
+		{"id":"b65f18f05d7c00d0","type":"group","x":12480,"y":378,"width":1064,"height":510,"label":"九下第一章 直角三角形的边角关系"},
+		{"id":"760dc545b4facac8","type":"group","x":9940,"y":-2108,"width":922,"height":420,"label":"角平分线"},
+		{"id":"f4b27a7134e82dfd","type":"group","x":7847,"y":-891,"width":723,"height":527,"label":"八上第七章平行线的证明"},
+		{"id":"b1740f3039b0ee4e","type":"group","x":9940,"y":-2540,"width":984,"height":374,"label":"垂直平分线"},
+		{"id":"219848eb90bd4afc","type":"group","x":9739,"y":-891,"width":832,"height":414,"label":"八下第三章 图形的平移与旋转"},
+		{"id":"38dd3c9a1b009c09","type":"group","x":8880,"y":378,"width":1290,"height":223,"label":"8上第四章 一次函数"},
+		{"id":"6599d5798395cf90","type":"group","x":8265,"y":378,"width":696,"height":407,"label":"7下第三章变量之间的关系"},
+		{"id":"b38cd79715b15efe","type":"group","x":9061,"y":-891,"width":449,"height":586,"label":"八下第一章三角形的证明"},
+		{"id":"c8beae460f56bf14","type":"group","x":12720,"y":-891,"width":714,"height":183,"label":"九上第一章 特殊的平行四边形"},
+		{"id":"281733a57b3ca42a","type":"group","x":10720,"y":378,"width":1291,"height":100,"label":"九上第六章 反比例函数"},
+		{"id":"c66c7fbb8564fc99","type":"group","x":15920,"y":-891,"width":732,"height":129,"label":"九上第五章 投影与视图"},
+		{"id":"a76b29f9d9c982a9","type":"group","x":17040,"y":-891,"width":1547,"height":810,"label":"九下第三章 圆"},
+		{"id":"0375a949f4a423bb","type":"group","x":-280,"y":-891,"width":1790,"height":700,"label":"7上第四章基本平面图形"},
+		{"id":"fd9d388107dfc429","type":"group","x":4360,"y":1354,"width":2118,"height":560,"label":"8上第二章 实数"},
+		{"id":"23faf7a8f4f723e9","type":"group","x":9220,"y":2713,"width":1660,"height":562,"label":"八下第二章 一元一次不等式与一元一次不等式组"},
+		{"id":"c5f027f6a35a09be","type":"group","x":-535,"y":2713,"width":2080,"height":423,"label":"7上第三章整式及其加减"},
+		{"id":"51736a31c1fa615b","type":"group","x":4360,"y":2713,"width":2104,"height":376,"label":"7下第一章整式的乘除"},
+		{"id":"cfe0debcfe507156","type":"group","x":14240,"y":2713,"width":1417,"height":545,"label":"九上第二章 一元二次方程"},
+		{"id":"533ce5c5cf43944b","type":"group","x":1840,"y":2713,"width":1790,"height":407,"label":"7上第五章一元一次方程"},
+		{"id":"e91b1063d2431c78","type":"group","x":6952,"y":2713,"width":1790,"height":370,"label":"八上第五章二元一次方程组"},
+		{"id":"7bed6af1b49dbe4d","type":"group","x":2040,"y":-891,"width":1299,"height":344,"label":"7下第二章相交线与平行线"},
+		{"id":"a6893ea23d5b6645","type":"group","x":12560,"y":2713,"width":1162,"height":352,"label":"八下第五章 分式与分式方程"},
+		{"id":"dbb21acd30ad9f0b","type":"group","x":-535,"y":4560,"width":1316,"height":296,"label":"7上第六章数据的收集与整理"},
+		{"id":"9fdfa22b74127b30","type":"group","x":-280,"y":-1760,"width":790,"height":460,"label":"7上第一章丰富的图形世界"},
+		{"id":"dd8bd344b4a6a89c","type":"group","x":1215,"y":4480,"width":860,"height":399,"label":"八下第六章数据的分析"},
+		{"id":"278b4e570472fe88","type":"group","x":11366,"y":2713,"width":813,"height":298,"label":"八下第四章 因式分解"},
+		{"id":"915e8e13de7c7b18","type":"group","x":-535,"y":5160,"width":1290,"height":160,"label":"7下概率初步"},
+		{"id":"3e05ab5ff585e30b","type":"group","x":4360,"y":378,"width":520,"height":345,"label":"八上第一章勾股定理"},
+		{"id":"f5173bc371cc755e","type":"group","x":1011,"y":5152,"width":706,"height":105,"label":"九上第三章 概率的进一步认识"},
+		{"id":"56f52f64c0070e1e","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/问题解决策略：反思.md","x":11157,"y":-2780,"width":250,"height":100,"color":"1"},
+		{"id":"8415f0f37c53d3da","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.5.md","x":11137,"y":-2031,"width":250,"height":60},
+		{"id":"2f15ba0087521d18","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.3.md","x":11077,"y":-3096,"width":250,"height":60},
+		{"id":"78d2e07cbe37587b","type":"file","file":"初中数学知识点/中点.md","x":680,"y":-701,"width":250,"height":60},
+		{"id":"fd55e9e7d0b9171d","type":"file","file":"初中数学知识点/角的大小.md","x":680,"y":-549,"width":250,"height":60},
+		{"id":"7ef7069d7ed79b2f","type":"file","file":"初中数学知识点/角的平分.md","x":680,"y":-429,"width":250,"height":60},
+		{"id":"41f359d76e02ce64","type":"file","file":"初中数学知识点/圆的面积.md","x":680,"y":-271,"width":250,"height":60},
+		{"id":"5ebd60ce848dfdd5","type":"file","file":"初中数学知识点/两点距离.md","x":1240,"y":-701,"width":250,"height":60},
+		{"id":"b1f5f0b1e19d54cf","type":"file","file":"初中数学知识点/角的计算.md","x":1720,"y":-1000,"width":250,"height":60},
+		{"id":"9a045b2618cdb430","type":"file","file":"初中数学知识点/有理数.md","x":5,"y":1744,"width":250,"height":60,"color":"2"},
+		{"id":"0253ec13646ea9c7","type":"file","file":"初中数学知识点/数轴.md","x":5,"y":1514,"width":250,"height":60,"color":"#c800ff"},
+		{"id":"dbef0466bfbe263d","type":"file","file":"初中数学知识点/有理数比大小.md","x":505,"y":1514,"width":250,"height":60,"color":"6"},
+		{"id":"6f92c4320befaad9","type":"file","file":"初中数学知识点/相反数.md","x":5,"y":1934,"width":250,"height":60,"color":"2"},
+		{"id":"f68c20560c809b00","type":"file","file":"初中数学知识点/多边形和圆.md","x":240,"y":-271,"width":250,"height":60},
+		{"id":"69110c5e5795df2a","type":"file","file":"初中数学知识点/线.md","x":240,"y":-701,"width":250,"height":60},
+		{"id":"9d53f79b3067a646","type":"file","file":"初中数学知识点/角.md","x":240,"y":-489,"width":250,"height":60},
+		{"id":"3e5f1d4c5563aafa","type":"file","file":"初中数学知识点/两点确定一条线.md","x":-260,"y":-701,"width":250,"height":60,"color":"4"},
+		{"id":"3bcdbb7d1cc320da","type":"file","file":"初中数学知识点/基本平面图形.md","x":-260,"y":-489,"width":250,"height":60},
+		{"id":"ae8955ce2d595ef8","type":"file","file":"初中数学知识点/距离.md","x":880,"y":1234,"width":250,"height":60,"color":"4"},
+		{"id":"bc8c7445fa69795e","type":"file","file":"初中数学知识点/绝对值.md","x":509,"y":1934,"width":250,"height":60,"color":"2"},
+		{"id":"7aae301d71804b3a","type":"file","file":"初中数学知识点/点、线、面、体.md","x":240,"y":-1740,"width":250,"height":60,"color":"4"},
+		{"id":"984cca5608139415","type":"file","file":"初中数学知识点/立体图形.md","x":-260,"y":-1549,"width":250,"height":60,"color":"2"},
+		{"id":"5fabd8debeb936ce","type":"file","file":"初中数学知识点/两点之间线段最短.md","x":680,"y":-871,"width":250,"height":60,"color":"4"},
+		{"id":"fe64a1ee3368c1c7","type":"file","file":"高中数学知识点/几何学.md","x":-1220,"y":-758,"width":250,"height":60},
+		{"id":"8ffce834ddf4de3a","type":"file","file":"初中数学知识点/三视图.md","x":240,"y":-1380,"width":250,"height":60},
+		{"id":"a47b0220e7b9d5ce","type":"file","file":"初中数学知识点/旋转思想.md","x":824,"y":-1740,"width":250,"height":60,"color":"4"},
+		{"id":"be22c753479731fa","type":"file","file":"初中数学知识点/展开图.md","x":240,"y":-1609,"width":250,"height":60},
+		{"id":"db86cca3474043ec","type":"file","file":"初中数学知识点/截一个几何体.md","x":240,"y":-1489,"width":250,"height":60},
+		{"id":"f19fcd5f44ca8c1f","type":"file","file":"初中数学知识点/用表格表示变量之间的关系.md","x":8285,"y":398,"width":250,"height":60},
+		{"id":"b3c15949b0fc5d5e","type":"file","file":"初中数学知识点/用关系式表示变量间关系v.md","x":8285,"y":538,"width":250,"height":60},
+		{"id":"3a709e8ae2e4cf1a","type":"file","file":"初中数学知识点/用图像表示的变量间关系.md","x":8285,"y":658,"width":250,"height":60},
+		{"id":"e1317b8f5cfee687","type":"file","file":"初中数学知识点/求解一元二次方程.md","x":7972,"y":2733,"width":250,"height":60},
+		{"id":"f148d55192c5d843","type":"file","file":"初中专题培优/线段长度如何在直角坐标系中计算.md","x":8313,"y":280,"width":250,"height":60},
+		{"id":"1d40a19ad4ef2fe1","type":"file","file":"初中数学知识点/为什么要证明.md","x":7867,"y":-871,"width":250,"height":60},
+		{"id":"f455320be0783586","type":"file","file":"初中数学知识点/定义.md","x":7867,"y":-717,"width":250,"height":60},
+		{"id":"9d439f7a14045bbc","type":"file","file":"初中数学知识点/平行线的判定.md","x":8300,"y":-811,"width":250,"height":60},
+		{"id":"0985b32b7409506d","type":"file","file":"初中数学知识点/平行线的性质.md","x":8300,"y":-657,"width":250,"height":60},
+		{"id":"ac1d9d534edc6973","type":"file","file":"初中数学知识点/三角形内角和定理.md","x":8300,"y":-444,"width":250,"height":60},
+		{"id":"7f816f6a77327856","type":"file","file":"初中数学知识点/应用二元一次方程.md","x":7972,"y":2973,"width":250,"height":60},
+		{"id":"2a93e0bee6113c3c","type":"file","file":"初中数学知识点/鸡兔同笼问题.md","x":8472,"y":2733,"width":250,"height":60},
+		{"id":"d54ec9e4cd0e062c","type":"file","file":"初中数学知识点/增收节支问题.md","x":8472,"y":2883,"width":250,"height":60},
+		{"id":"2b8a2466e8323e1e","type":"file","file":"初中数学知识点/里程碑上的数问题.md","x":8472,"y":3003,"width":250,"height":60},
+		{"id":"9fd999f1e3d0e75d","type":"file","file":"初中数学知识点/三元一次方程组.md","x":7722,"y":3200,"width":250,"height":60},
+		{"id":"59d74f6a3952a109","type":"file","file":"初中数学知识点/二元一次方程组.md","x":6972,"y":2733,"width":250,"height":60},
+		{"id":"a9b5f753ff42c59b","type":"file","file":"初中数学知识点/列二元一次方程组.md","x":7472,"y":2733,"width":250,"height":60},
+		{"id":"8b79127c0ad8ce34","type":"file","file":"初中数学知识点/平面直角坐标系.md","x":6801,"y":578,"width":250,"height":60},
+		{"id":"1cf18d5848b550fc","type":"file","file":"初中数学知识点/确定位置.md","x":7266,"y":398,"width":250,"height":60},
+		{"id":"aba63b67d6188519","type":"file","file":"初中数学知识点/等腰三角形.md","x":7040,"y":-626,"width":250,"height":60},
+		{"id":"12539086936d950f","type":"file","file":"初中数学知识点/垂直平分线.md","x":7040,"y":-474,"width":250,"height":60},
+		{"id":"b64c38bfd654c140","type":"file","file":"初中数学知识点/快速的画出根号的长度.md","x":6260,"y":698,"width":250,"height":60},
+		{"id":"c1208c43df0455b6","type":"file","file":"初中数学知识点/简单的轴对称图形.md","x":6425,"y":-534,"width":250,"height":60},
+		{"id":"043b5ae9d771e836","type":"file","file":"初中数学知识点/探索轴对称的性质.md","x":6550,"y":-777,"width":250,"height":60},
+		{"id":"68795baf5072d992","type":"file","file":"初中数学知识点/点、线、面、体.md","x":6801,"y":758,"width":250,"height":60,"color":"4"},
+		{"id":"425f58a4e8ec9dfa","type":"file","file":"初中数学知识点/点都可以在直角坐标系中表示.md","x":7266,"y":578,"width":250,"height":60},
+		{"id":"ddb46ec80d16cca2","type":"file","file":"有趣的一些交流/直线如何在坐标轴上表示.md","x":7769,"y":578,"width":250,"height":60},
+		{"id":"2e1a8bdd2e63f745","type":"text","text":"虚数","x":6600,"y":1755,"width":250,"height":60},
+		{"id":"79e9c9f56510d9ab","type":"file","file":"初中数学知识点/字母表示数.md","x":-515,"y":2813,"width":250,"height":60,"color":"4"},
+		{"id":"289c3f6314af1073","type":"file","file":"初中数学知识点/代数式.md","x":-15,"y":2813,"width":250,"height":60,"color":"2"},
+		{"id":"b8aeb13b1e0c673d","type":"file","file":"初中数学知识点/方程思想.md","x":1860,"y":2763,"width":250,"height":60},
+		{"id":"1a8f2a9711bda033","type":"file","file":"初中数学知识点/利用轴对称进行设计.md","x":6760,"y":-346,"width":250,"height":60},
+		{"id":"efc488945c5a89ca","type":"file","file":"初中数学知识点/对称轴.md","x":6960,"y":-777,"width":250,"height":60},
+		{"id":"60394879927341ef","type":"file","file":"初中数学知识点/单项式.md","x":360,"y":2753,"width":250,"height":60,"color":"2"},
+		{"id":"d68f56279a5cbc47","type":"file","file":"初中数学知识点/多项式.md","x":360,"y":2873,"width":250,"height":60,"color":"2"},
+		{"id":"e6c6926e0d595f9f","type":"file","file":"初中数学知识点/整式.md","x":765,"y":2813,"width":250,"height":60,"color":"2"},
+		{"id":"f31e8417ede1aa9c","type":"file","file":"初中数学知识点/整式的加减.md","x":1174,"y":2813,"width":250,"height":60,"color":"6"},
+		{"id":"ee7831ac7b28d596","type":"file","file":"初中数学知识点/探索与表达规律.md","x":-515,"y":3016,"width":250,"height":60},
+		{"id":"0d2021cb9f017fa0","type":"file","file":"高中数学知识点/代数.md","x":-1175,"y":2833,"width":250,"height":60},
+		{"id":"7a7c1e6904d12779","type":"file","file":"初中数学知识点/统计图表.md","x":485,"y":4739,"width":250,"height":60},
+		{"id":"55509d3f2b6d3a00","type":"file","file":"初中数学知识点/用树状图或表格求概率.md","x":1031,"y":5177,"width":250,"height":60},
+		{"id":"b1437a15276c9322","type":"text","text":"不等式解集画图fen'x","x":-482,"y":6495,"width":250,"height":60},
+		{"id":"ba7f76f60a27e647","type":"file","file":"初中数学知识点/等可能事件的概率.md","x":485,"y":5180,"width":250,"height":60},
+		{"id":"884f302182944daf","type":"file","file":"初中数学知识点/频率的稳定性.md","x":-15,"y":5180,"width":250,"height":60},
+		{"id":"17946f80d595208e","type":"file","file":"初中数学知识点/感受可能性.md","x":-515,"y":5240,"width":250,"height":60},
+		{"id":"65c715f0b896cb5b","type":"file","file":"初中数学知识点/普查和抽样调查.md","x":-15,"y":4619,"width":250,"height":60},
+		{"id":"99efb82d519f82fb","type":"file","file":"初中数学知识点/用统计图描述数据.md","x":-15,"y":4739,"width":250,"height":60},
+		{"id":"d08e69d71e606880","type":"file","file":"初中数学知识点/数据的收集.md","x":-515,"y":4679,"width":250,"height":60},
+		{"id":"6cdbeda2d3b17544","type":"file","file":"初中数学知识点/从统计图分析集中趋势.md","x":1235,"y":4500,"width":250,"height":60},
+		{"id":"b47ad7bbafbea9c9","type":"file","file":"初中数学知识点/平均数.md","x":1240,"y":4619,"width":250,"height":60},
+		{"id":"50acaf87b54d01d3","type":"file","file":"初中数学知识点/中位数众数.md","x":1240,"y":4799,"width":250,"height":60},
+		{"id":"da93987cfa458077","type":"file","file":"初中数学知识点/数据的离散程度.md","x":1805,"y":4649,"width":250,"height":60},
+		{"id":"5bd142f0c8199c99","type":"file","file":"初中数学知识点/用频率估计概率.md","x":1447,"y":5172,"width":250,"height":60},
+		{"id":"43903fd673b1a80b","type":"file","file":"初中数学知识点/有理数乘法.md","x":1009,"y":1834,"width":250,"height":60,"color":"2"},
+		{"id":"539546d9233b7300","type":"file","file":"初中数学知识点/有理数除法.md","x":1509,"y":1834,"width":250,"height":60,"color":"2"},
+		{"id":"ded25578e6246030","type":"file","file":"初中数学知识点/倒数.md","x":1509,"y":1992,"width":250,"height":60,"color":"2"},
+		{"id":"28935be08062b41a","type":"file","file":"初中数学知识点/有理数的乘方.md","x":1009,"y":2116,"width":250,"height":60,"color":"2"},
+		{"id":"35c83541ae1a90c7","type":"file","file":"初中数学知识点/有理数加法.md","x":1009,"y":1410,"width":250,"height":60,"color":"2"},
+		{"id":"f9c83f3dd7b8f6cc","type":"file","file":"初中数学知识点/交换律.md","x":1409,"y":1532,"width":250,"height":60,"color":"4"},
+		{"id":"fce051678044a4c9","type":"file","file":"初中数学知识点/结合律.md","x":1409,"y":1624,"width":250,"height":60,"color":"4"},
+		{"id":"c87d0fc3efb5e9a8","type":"file","file":"初中数学知识点/分配律.md","x":1409,"y":1722,"width":250,"height":60,"color":"4"},
+		{"id":"88cc1e2342d42ee0","type":"text","text":"概率统计","x":-1055,"y":4937,"width":250,"height":60},
+		{"id":"cdd4c095f3fdda17","type":"file","file":"初中数学知识点/正数和负数.md","x":-495,"y":1838,"width":250,"height":60,"color":"2"},
+		{"id":"51779aedfe5623fa","type":"file","file":"初中数学知识点/有理数减法.md","x":1509,"y":1410,"width":250,"height":60,"color":"2"},
+		{"id":"5cbd6f1d362c7a8d","type":"file","file":"初中数学知识点/三角形全等测距离.md","x":5508,"y":-719,"width":250,"height":60},
+		{"id":"e94c6f1abe8f8d6e","type":"file","file":"初中数学知识点/三角形的中线.md","x":4480,"y":-579,"width":250,"height":60},
+		{"id":"b62ab4a4f8420061","type":"file","file":"初中数学知识点/三角形的角平分线.md","x":4480,"y":-475,"width":250,"height":60},
+		{"id":"3feee49c1c243832","type":"text","text":"勾股定理","x":4380,"y":551,"width":250,"height":60},
+		{"id":"6fc2e144c32363c6","type":"file","file":"初中数学知识点/混合运算.md","x":2009,"y":1624,"width":250,"height":60,"color":"6"},
+		{"id":"80f617e306e2b7df","type":"file","file":"初中数学知识点/科学计数法.md","x":2009,"y":1774,"width":250,"height":60,"color":"2"},
+		{"id":"2c57a4665d7ab54a","type":"file","file":"初中数学知识点/近似数.md","x":2009,"y":1932,"width":250,"height":60,"color":"5"},
+		{"id":"d543ef804e32a2ce","type":"file","file":"初中数学知识点/轴对称现象.md","x":6205,"y":-777,"width":250,"height":60},
+		{"id":"09c9ec276aecc865","type":"file","file":"初中数学知识点/三角形全等.md","x":4480,"y":-826,"width":250,"height":60},
+		{"id":"3de1bfd5cc179c53","type":"file","file":"初中数学知识点/直角三角形.md","x":4000,"y":-672,"width":250,"height":60},
+		{"id":"8cb115845bc01792","type":"file","file":"初中数学知识点/三角形的高.md","x":4480,"y":-375,"width":250,"height":60},
+		{"id":"402a7a01b741ee88","type":"file","file":"初中数学知识点/直角三角形两个锐角互余.md","x":5000,"y":-732,"width":250,"height":60},
+		{"id":"425bd5ca6678371f","type":"file","file":"初中数学知识点/尺规做三角形.md","x":5500,"y":-826,"width":250,"height":60},
+		{"id":"95c264a585d4dfed","type":"file","file":"初中数学知识点/图形的全等.md","x":3620,"y":-831,"width":250,"height":60},
+		{"id":"713eb0b50ceaf562","type":"file","file":"初中数学知识点/三角形.md","x":3620,"y":-475,"width":250,"height":60},
+		{"id":"2d08ff9c295bbeca","type":"file","file":"学生作业/勾股定理重难专题.md","x":5185,"y":496,"width":330,"height":111},
+		{"id":"93e5f512f2f23ad7","type":"text","text":"相交","x":2560,"y":-867,"width":250,"height":60},
+		{"id":"ae492d22f551f7c2","type":"text","text":"平行","x":2560,"y":-747,"width":250,"height":60},
+		{"id":"b010dfeb09043883","type":"text","text":"垂直","x":2560,"y":-627,"width":250,"height":60},
+		{"id":"c85480213bec4543","type":"file","file":"初中数学知识点/相交线.md","x":2060,"y":-687,"width":250,"height":60},
+		{"id":"539a137654898f84","type":"file","file":"初中数学知识点/内角和180.md","x":4000,"y":-475,"width":250,"height":60},
+		{"id":"1e4a3b3edaada998","type":"text","text":"平行的条件","x":3060,"y":-807,"width":250,"height":60},
+		{"id":"1455401880dabb67","type":"file","file":"初中数学知识点/任意两边之和大于第三边.md","x":4000,"y":-271,"width":250,"height":60},
+		{"id":"7cf51d84f96b6255","type":"file","file":"初中数学知识点/三角形全等的条件.md","x":5000,"y":-826,"width":250,"height":60},
+		{"id":"504fb72523566b8b","type":"file","file":"初中数学知识点/重心.md","x":5000,"y":-579,"width":250,"height":60},
+		{"id":"830d1ac21fbbc47a","type":"text","text":"交叉学科","x":3300,"y":-2370,"width":165,"height":60,"color":"3"},
+		{"id":"d9486a14016bdae8","type":"text","text":"课外故事","x":3300,"y":-2300,"width":165,"height":60,"color":"5"},
+		{"id":"e0a7cefe8f4d9a9a","type":"text","text":"非重点","x":3300,"y":-2240,"width":165,"height":60},
+		{"id":"b6e956494af9d03d","type":"text","text":"解决问题","x":3540,"y":-2430,"width":250,"height":60},
+		{"id":"9ed51cdba3524e54","type":"text","text":"启发应用","x":3540,"y":-2326,"width":250,"height":60},
+		{"id":"341dcd42c465e5af","type":"text","text":"二次认识，哲学思考","x":3540,"y":-2226,"width":250,"height":60},
+		{"id":"8986a2474f57c371","type":"text","text":"平行线的性质","x":3060,"y":-687,"width":250,"height":60},
+		{"id":"7744fbbec88f2a00","type":"text","text":"知识点","x":2570,"y":-2240,"width":250,"height":60,"color":"2"},
+		{"id":"44cf04ee70c4da83","type":"text","text":"思想方法","x":2990,"y":-2440,"width":250,"height":60,"color":"4"},
+		{"id":"7a2f53dd5700b822","type":"text","text":"题型","x":2990,"y":-2240,"width":250,"height":60,"color":"6"},
+		{"id":"e25baed46bfdfd5c","type":"text","text":"数学工具","x":3300,"y":-2440,"width":165,"height":60,"color":"#c800ff"},
+		{"id":"9d3f09468d3bcdcc","type":"text","text":"知识点","x":2570,"y":-2440,"width":250,"height":60,"color":"2"},
+		{"id":"fc5a8d5437f0b93d","type":"text","text":"章节","x":2310,"y":-2340,"width":190,"height":60,"color":"1"},
+		{"id":"84f435b486e2a0bd","type":"file","file":"初中数学知识点/一元一次不等式组.md","x":10610,"y":2733,"width":250,"height":60},
+		{"id":"1eeae3312de7833e","type":"file","file":"初中数学知识点/一元一次不等式与一次函数.md","x":10360,"y":2859,"width":250,"height":60},
+		{"id":"bb56dd83ebb0080b","type":"file","file":"初中数学知识点/图形的平移.md","x":9759,"y":-871,"width":250,"height":60},
+		{"id":"a59d9a4afe36c485","type":"text","text":"约分","x":13022,"y":2733,"width":250,"height":60},
+		{"id":"049a38ea15bc0562","type":"file","file":"初中数学知识点/分式的乘除法.md","x":13057,"y":2860,"width":250,"height":60},
+		{"id":"1766e8835fb63f22","type":"file","file":"初中数学知识点/分式的加减法.md","x":13142,"y":2985,"width":250,"height":60},
+		{"id":"b04199d311d89a41","type":"file","file":"初中数学知识点/分式方程.md","x":13452,"y":2803,"width":250,"height":60},
+		{"id":"681c9d814675f88a","type":"text","text":"平行四边形","x":10960,"y":-702,"width":250,"height":60},
+		{"id":"925ee4d36acec474","type":"file","file":"初中数学知识点/多边形的内角和与外角和.md","x":11990,"y":-445,"width":250,"height":50},
+		{"id":"6e7834d0100eb834","type":"file","file":"初中数学知识点/图形的旋转.md","x":9759,"y":-717,"width":250,"height":60},
+		{"id":"fc76a7305e4be777","type":"file","file":"初中数学知识点/中心对称.md","x":9759,"y":-557,"width":250,"height":60},
+		{"id":"bacd12345260ed9c","type":"file","file":"初中数学知识点/简单的图案设计.md","x":10301,"y":-717,"width":250,"height":60},
+		{"id":"e5aedd77868bb0cc","type":"file","file":"初中数学知识点/平行四边形的性质.md","x":11280,"y":-810,"width":250,"height":60},
+		{"id":"9a7ba751d1964596","type":"file","file":"初中数学知识点/平行四边形的判定.md","x":11280,"y":-642,"width":250,"height":60},
+		{"id":"538eb43c376cb039","type":"file","file":"初中数学知识点/三角形的中位线.md","x":11740,"y":-672,"width":250,"height":60},
+		{"id":"d4acd0bb83d8b678","type":"file","file":"初中数学知识点/矩形的性质与判定.md","x":12740,"y":-788,"width":250,"height":60},
+		{"id":"21576aabb021fd49","type":"file","file":"初中数学知识点/一元一次不等式.md","x":10020,"y":2919,"width":250,"height":60},
+		{"id":"408d1bd01e10ca96","type":"file","file":"初中数学知识点/不等式的解集.md","x":9740,"y":3015,"width":250,"height":60},
+		{"id":"9b77a6b374794966","type":"file","file":"初中数学知识点/不等式的性质.md","x":9490,"y":3095,"width":250,"height":60},
+		{"id":"e9fdba2a724f0feb","type":"file","file":"初中数学知识点/不等式及其解集.md","x":9240,"y":3195,"width":250,"height":60},
+		{"id":"e2a4077ac916681b","type":"file","file":"初中数学知识点/因式分解.md","x":11386,"y":2826,"width":250,"height":60},
+		{"id":"1998a95f46bd669b","type":"file","file":"初中数学知识点/提公因式法.md","x":11909,"y":2733,"width":250,"height":60},
+		{"id":"273f65f5dbfed059","type":"file","file":"初中数学知识点/分式.md","x":12580,"y":2842,"width":250,"height":60},
+		{"id":"3e2ff5c1f9add1a3","type":"file","file":"初中数学知识点/菱形的性质与判定.md","x":12744,"y":-871,"width":250,"height":60},
+		{"id":"e705b37b47297fda","type":"file","file":"初中数学知识点/正方形的性质与判定.md","x":13164,"y":-818,"width":250,"height":60},
+		{"id":"827f4c28ef24d9fd","type":"file","file":"初中数学知识点/三角函数的计算.md","x":13005,"y":401,"width":250,"height":60},
+		{"id":"f92e1c805b63b778","type":"file","file":"初中数学知识点/解直角三角形.md","x":13005,"y":588,"width":250,"height":60},
+		{"id":"dcc1d5b5f74dc6dc","type":"file","file":"初中数学知识点/锐角三角函数.md","x":12500,"y":398,"width":250,"height":60},
+		{"id":"f8a89fa5ea968cf7","type":"file","file":"初中数学知识点/三角函数的应用.md","x":13005,"y":768,"width":250,"height":60},
+		{"id":"adb120f590e334db","type":"file","file":"初中数学知识点/因式分解公式法.md","x":11909,"y":2931,"width":250,"height":60},
+		{"id":"ad2b04ba75c18b46","type":"file","file":"初中数学知识点/证明等腰三角形的结论.md","x":9081,"y":-871,"width":250,"height":91},
+		{"id":"3947299bf6a0249a","type":"file","file":"初中数学知识点/证明直角三角形的结论.md","x":9081,"y":-718,"width":250,"height":106},
+		{"id":"e97504b381701773","type":"file","file":"初中数学知识点/证明垂直平分线结论.md","x":9081,"y":-542,"width":250,"height":98},
+		{"id":"49db71b1fe9c8332","type":"file","file":"初中数学知识点/证明角平分线结论.md","x":9081,"y":-414,"width":250,"height":89},
+		{"id":"9614d6261a95a294","type":"file","file":"初中数学知识点/一次函数的图像.md","x":9900,"y":398,"width":250,"height":60},
+		{"id":"cd5c1a7f6e5b3b5a","type":"file","file":"初中数学知识点/圆内接正多边形.md","x":18317,"y":-381,"width":250,"height":60},
+		{"id":"ca57dde0ddc991ba","type":"file","file":"初中数学知识点/弧长及扇形面积.md","x":18317,"y":-161,"width":250,"height":60},
+		{"id":"1ba230be81e58f33","type":"file","file":"初中数学知识点/直线与圆的关系.md","x":18317,"y":-790,"width":250,"height":60},
+		{"id":"d9827f349f7925da","type":"file","file":"初中数学知识点/切线长定理.md","x":18317,"y":-581,"width":250,"height":60},
+		{"id":"93c53d329d3c6d7b","type":"file","file":"初中数学知识点/反比例函数.md","x":10740,"y":398,"width":250,"height":60},
+		{"id":"c1711d581a653d19","type":"file","file":"初中数学知识点/反比例函数的图像与性质.md","x":11221,"y":398,"width":250,"height":60},
+		{"id":"f5d8674ab4e4e93d","type":"file","file":"初中数学知识点/反比例函数的应用.md","x":11741,"y":398,"width":250,"height":60},
+		{"id":"9bb98242c50be71f","type":"text","text":"函数","x":8900,"y":461,"width":250,"height":60},
+		{"id":"0b2d312d0b113757","type":"file","file":"初中数学知识点/一次函数表达式.md","x":9400,"y":461,"width":250,"height":60},
+		{"id":"8aedea0c7934af83","type":"file","file":"初中数学知识点/一次函数的应用.md","x":9900,"y":521,"width":250,"height":60},
+		{"id":"9abd147db87b1106","type":"file","file":"初中数学知识点/圆.md","x":17060,"y":-790,"width":250,"height":60},
+		{"id":"00814fe9e17a3087","type":"file","file":"初中数学知识点/相似三角形的性质.md","x":15312,"y":-799,"width":250,"height":60},
+		{"id":"1f799cf75272036c","type":"file","file":"初中数学知识点/圆的对称性.md","x":17560,"y":-871,"width":250,"height":60},
+		{"id":"e6007b961305d581","type":"file","file":"初中数学知识点/垂径定理.md","x":17560,"y":-690,"width":250,"height":60},
+		{"id":"60ba705db0ce9a5d","type":"file","file":"初中数学知识点/圆周角与圆心角的关系.md","x":17560,"y":-475,"width":250,"height":60},
+		{"id":"6e8bd978f9aef323","type":"file","file":"初中数学知识点/确定圆的条件.md","x":17560,"y":-281,"width":250,"height":60},
+		{"id":"3bf8e1a52783d09c","type":"file","file":"初中数学知识点/三角形相似的应用.md","x":15312,"y":-657,"width":250,"height":60},
+		{"id":"29876c44a5689f5a","type":"file","file":"初中数学知识点/投影.md","x":15940,"y":-842,"width":250,"height":60},
+		{"id":"0364ee05ac0c4e46","type":"file","file":"初中数学知识点/一元二次方程.md","x":14260,"y":2859,"width":250,"height":60},
+		{"id":"5f2e96eaeb84f157","type":"file","file":"初中数学知识点/二分法确定一元二次方程的近似解.md","x":14703,"y":2733,"width":250,"height":60},
+		{"id":"51bdb62b5818e27f","type":"file","file":"初中数学知识点/配方法求解一元二次方程.md","x":14822,"y":2862,"width":250,"height":60},
+		{"id":"ac96ac3a749277ed","type":"file","file":"初中数学知识点/公式法求解一元二次方程.md","x":14828,"y":2998,"width":250,"height":60},
+		{"id":"ad2d589ad94c1146","type":"file","file":"初中数学知识点/因式分解法求解一元二次方程.md","x":14828,"y":3178,"width":250,"height":60},
+		{"id":"33abf3f0e70f8aa8","type":"file","file":"初中数学知识点/根与系数的关系.md","x":15387,"y":2953,"width":250,"height":60},
+		{"id":"d5caa58854abd789","type":"file","file":"初中数学知识点/应用一元二次方程.md","x":15387,"y":3178,"width":250,"height":60},
+		{"id":"b7200b4992a98948","type":"file","file":"初中数学知识点/视图.md","x":16384,"y":-842,"width":250,"height":60},
+		{"id":"886b719529984ec2","type":"file","file":"初中数学知识点/二次函数.md","x":14060,"y":398,"width":250,"height":60},
+		{"id":"7be0a3f31427a391","type":"file","file":"初中数学知识点/二次函数的图像与性质.md","x":14637,"y":399,"width":250,"height":60},
+		{"id":"71ee42152de6e611","type":"file","file":"初中数学知识点/确定二次函数的表达式.md","x":14637,"y":618,"width":250,"height":60},
+		{"id":"f3605a4b7ede8c20","type":"file","file":"初中数学知识点/二次函数的应用.md","x":14637,"y":828,"width":250,"height":60},
+		{"id":"45bf52946dbd92fc","type":"file","file":"初中数学知识点/二次函数与一元二次方程.md","x":15247,"y":618,"width":250,"height":60},
+		{"id":"9ee0ceb384c37ee8","type":"file","file":"初中数学知识点/图像的相似比.md","x":14336,"y":-717,"width":250,"height":60},
+		{"id":"138f43cc4acb9457","type":"file","file":"初中数学知识点/平行线分线段成比例.md","x":14341,"y":-871,"width":250,"height":60},
+		{"id":"072bd86a1505da2e","type":"file","file":"初中数学知识点/图形的位似.md","x":14341,"y":-522,"width":250,"height":60},
+		{"id":"3b7774f42647dbb2","type":"file","file":"初中数学知识点/成比例线段.md","x":13921,"y":-717,"width":250,"height":60},
+		{"id":"87c1de1f6d720cbf","type":"file","file":"初中数学知识点/完全平方公式.md","x":6195,"y":2853,"width":250,"height":60},
+		{"id":"465cf84cba814fe8","type":"file","file":"初中数学知识点/平方差公式.md","x":6195,"y":2733,"width":250,"height":60},
+		{"id":"d663df3097d986c8","type":"file","file":"初中数学知识点/三角形相似的条件.md","x":14841,"y":-717,"width":250,"height":60},
+		{"id":"4bb87d39d902805e","type":"file","file":"初中数学知识点/同底数幂的乘法.md","x":4380,"y":2769,"width":250,"height":60},
+		{"id":"a9777c773e7708ee","type":"file","file":"初中数学知识点/幂的乘方与积的乘方.md","x":5022,"y":2769,"width":250,"height":60},
+		{"id":"99ed1c562e367dd0","type":"file","file":"初中数学知识点/整式的乘法.md","x":5807,"y":2793,"width":250,"height":60},
+		{"id":"110c3317b933e3a6","type":"file","file":"初中数学知识点/同底数幂的除法.md","x":4380,"y":3009,"width":250,"height":60},
+		{"id":"978765f94735b862","type":"file","file":"初中数学知识点/整式的除法.md","x":5807,"y":3009,"width":250,"height":60},
+		{"id":"08c6d30acb6dc09a","type":"text","text":"无理数","x":5630,"y":1663,"width":250,"height":60},
+		{"id":"1f4667e525d4a62f","type":"text","text":"根号的运算","x":5630,"y":1543,"width":250,"height":60},
+		{"id":"bfb2e350bf28f981","type":"file","file":"初中数学知识点/水箱变高了.md","x":3360,"y":2733,"width":250,"height":60},
+		{"id":"7beba18e18025fb4","type":"file","file":"初中数学知识点/打折销售.md","x":3360,"y":2840,"width":250,"height":60},
+		{"id":"f6ae801bed6b7af3","type":"file","file":"初中数学知识点/希望工程义演.md","x":3360,"y":2940,"width":250,"height":60},
+		{"id":"2e99853f441c135a","type":"file","file":"初中数学知识点/追赶小明.md","x":3360,"y":3040,"width":250,"height":60},
+		{"id":"c9715e18e54745a6","type":"file","file":"初中数学知识点/列方程.md","x":2360,"y":2763,"width":250,"height":60},
+		{"id":"b9d02e42eb7cfc88","type":"file","file":"初中数学知识点/方程的解.md","x":2800,"y":2763,"width":250,"height":60},
+		{"id":"01106ad6512ed342","type":"file","file":"初中数学知识点/应用一元方程.md","x":2800,"y":2940,"width":250,"height":60},
+		{"id":"ab3a6f778b879121","type":"file","file":"初中数学知识点/进位制.md","x":2009,"y":2116,"width":250,"height":60,"color":"2"},
+		{"id":"c76a93ec915cc50e","type":"text","text":"根号运算律","x":6130,"y":1423,"width":250,"height":60},
+		{"id":"871ce0ce9a5bbe0b","type":"text","text":"根号计算技巧","x":6130,"y":1543,"width":250,"height":60},
+		{"id":"21d85a320b1af9b8","type":"text","text":"实数","x":6130,"y":1755,"width":250,"height":60},
+		{"id":"87107bf7c0ccc10d","type":"text","text":"不是分数","x":4755,"y":1483,"width":250,"height":60},
+		{"id":"82dbafb6be0dcf4c","type":"text","text":"$a^2=2$","x":4380,"y":1543,"width":250,"height":60},
+		{"id":"c07b718b0d8f8638","type":"text","text":"不是整数","x":4755,"y":1603,"width":250,"height":60},
+		{"id":"1dde586307293ea5","type":"text","text":"根号","x":5130,"y":1543,"width":250,"height":60},
+		{"id":"1e7c03b584c2c367","type":"text","text":"$\\sqrt{x^2}= \\begin{Bmatrix}x,x>0 \\\\-x,x<0\\end{Bmatrix}$","x":5620,"y":1394,"width":270,"height":89},
+		{"id":"5c0884ec61d3a993","type":"text","text":"$\\sqrt[3]{x}$","x":5130,"y":1815,"width":250,"height":60},
+		{"id":"d82039d234cc0c4d","type":"file","file":"初中数学知识点/如何加快计算速度.md","x":3004,"y":1264,"width":250,"height":60,"color":"4"},
+		{"id":"37742d0bf6ef1228","type":"file","file":"初中数学知识点/无限的思维.md","x":13796,"y":-1200,"width":250,"height":60},
+		{"id":"5777f1665c0c1482","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的一个外角等于与它不相邻的两个内角的和.md","x":8697,"y":-3420,"width":250,"height":100},
+		{"id":"75be7857d8a512bd","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/外角.md","x":8312,"y":-3320,"width":250,"height":60},
+		{"id":"152906b39ae60aea","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的一个外角大于任何一个与它不相邻的内角.md","x":8697,"y":-3260,"width":367,"height":150},
+		{"id":"d6ac4ad7f5db24a5","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/定理n边形的内角和等于(n-2)·180°.md","x":8312,"y":-3021,"width":356,"height":111},
+		{"id":"ad871db630b30e75","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/多边形的外角和等于360°.md","x":8721,"y":-3018,"width":320,"height":105},
+		{"id":"d34727b9f5fb898c","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/全等三角形的对应边相等、对应角相等.md","x":7467,"y":-3349,"width":375,"height":90},
+		{"id":"d3bdf23894885e44","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形三个内角的和等于180°.md","x":7937,"y":-3260,"width":301,"height":90},
+		{"id":"7532fb74e87eb48c","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/两角分别相等且其中一组等角的对边相等的两个三角形全等。.md","x":7467,"y":-3194,"width":366,"height":139},
+		{"id":"660e2d895b3a0439","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等腰三角形顶角的平分线、底边上的中线、底边上的高重合.md","x":7994,"y":-2738,"width":376,"height":135},
+		{"id":"b94580f149afb8df","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三个角都相等的三角形是等边三角形.md","x":8713,"y":-2617,"width":334,"height":104},
+		{"id":"219fc154a8296eaf","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等腰三角形的两个底角相等.md","x":7467,"y":-2603,"width":263,"height":90},
+		{"id":"fd5ab238aaa04250","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/等边三角形的三个内角都相等，并且每个角都等于60°.md","x":7994,"y":-2513,"width":376,"height":128},
+		{"id":"576d59b02ba09da6","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有一个角等于60°的等腰三角形是等边三角形.md","x":8713,"y":-2385,"width":396,"height":93},
+		{"id":"08507cf3c6f0a95e","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有两个角相等的三角形是等腰三角形.md","x":7994,"y":-2186,"width":298,"height":129},
+		{"id":"6e1fe11653e5ccfa","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/反证法.md","x":8547,"y":-2151,"width":250,"height":60},
+		{"id":"f55edf1f9c2b0fdc","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/在直角三角形中，如果一个锐角等于30°，那么它所对的直角边等于斜边的一半.md","x":7994,"y":-1846,"width":482,"height":148},
+		{"id":"bb66850cf7554500","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.2.md","x":9240,"y":-2186,"width":250,"height":60},
+		{"id":"a46bc14b09cea247","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.1.md","x":9240,"y":-3194,"width":250,"height":60},
+		{"id":"07df4b1d3159410c","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/有两个角互余的三角形是直角三角形.md","x":10470,"y":-3364,"width":390,"height":94},
+		{"id":"23c201eb06c2055f","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/直角三角形的两个锐角互余.md","x":9960,"y":-3364,"width":279,"height":94},
+		{"id":"cc05955cd3953e04","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/勾股定理.md","x":9960,"y":-3164,"width":250,"height":60},
+		{"id":"740c883e2d5d3657","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/如果三角形两条边的平方和等于第三条边的平方，那么这个三角形是直角三角形.md","x":10470,"y":-3205,"width":490,"height":142},
+		{"id":"503a44c4c0b0cbe8","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/逆命题.md","x":9960,"y":-2997,"width":250,"height":60},
+		{"id":"b0f6e55108128ca7","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/互逆定理.md","x":10470,"y":-3000,"width":250,"height":60},
+		{"id":"d3b714594741a5be","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/斜边和一条直角边分别相等的两个直角三角形全等(HL).md","x":10470,"y":-2880,"width":354,"height":146},
+		{"id":"985608397c9c4b51","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/过直线外一点，用尺规作已知直线的垂线.md","x":9960,"y":-2298,"width":410,"height":112},
+		{"id":"9547122013d5a43d","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/到一条线段两个端点距离相等的点，在这条线段的垂直平分线上.md","x":10513,"y":-2520,"width":384,"height":145},
+		{"id":"21ae195b9f449a23","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/线段垂直平分线上的点到这条线段两个端点的距离相等.md","x":9960,"y":-2515,"width":385,"height":135},
+		{"id":"8c8ba0e039f53a50","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/题/习题1.4.md","x":11160,"y":-2477,"width":250,"height":60},
+		{"id":"92c28e686b66c4b8","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/角平分线上的点到这个角的两边的距离相等.md","x":9960,"y":-2088,"width":337,"height":162},
+		{"id":"c68d874dc0a5d1ec","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/在一个角的内部，到角的两边距离相等的点在这个角的平分线上.md","x":10452,"y":-2074,"width":390,"height":148},
+		{"id":"f317f9dcbd8bd001","type":"file","file":"初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/三角形的三条角平分线相交于一点，并且这一点到三条边的距离相等。.md","x":9960,"y":-1880,"width":356,"height":172}
 	],
-	"edges": [
-		{
-			"id": "0165f7fc0250f00c",
-			"fromNode": "3feee49c1c243832",
-			"fromSide": "bottom",
-			"toNode": "82dbafb6be0dcf4c",
-			"toSide": "top"
-		},
-		{
-			"id": "4c0b173662bc7d6d",
-			"fromNode": "82dbafb6be0dcf4c",
-			"fromSide": "right",
-			"toNode": "87107bf7c0ccc10d",
-			"toSide": "left"
-		},
-		{
-			"id": "8d1ffe427bb59d60",
-			"fromNode": "82dbafb6be0dcf4c",
-			"fromSide": "right",
-			"toNode": "c07b718b0d8f8638",
-			"toSide": "left"
-		},
-		{
-			"id": "a1504ae863b75f69",
-			"fromNode": "87107bf7c0ccc10d",
-			"fromSide": "right",
-			"toNode": "1dde586307293ea5",
-			"toSide": "left"
-		},
-		{
-			"id": "0330cd03c6567a1a",
-			"fromNode": "1dde586307293ea5",
-			"fromSide": "right",
-			"toNode": "1f4667e525d4a62f",
-			"toSide": "left"
-		},
-		{
-			"id": "a69eadfb2a6f6c34",
-			"fromNode": "1dde586307293ea5",
-			"fromSide": "right",
-			"toNode": "1e7c03b584c2c367",
-			"toSide": "left"
-		},
-		{
-			"id": "f8ab7f2a46fce63e",
-			"fromNode": "1e7c03b584c2c367",
-			"fromSide": "bottom",
-			"toNode": "1f4667e525d4a62f",
-			"toSide": "top"
-		},
-		{
-			"id": "c1512ff73917b8d7",
-			"fromNode": "08c6d30acb6dc09a",
-			"fromSide": "right",
-			"toNode": "21d85a320b1af9b8",
-			"toSide": "left"
-		},
-		{
-			"id": "ef015e9e951721df",
-			"fromNode": "1dde586307293ea5",
-			"fromSide": "bottom",
-			"toNode": "5c0884ec61d3a993",
-			"toSide": "top",
-			"label": "类比"
-		},
-		{
-			"id": "87b8a5848aad7427",
-			"fromNode": "5c0884ec61d3a993",
-			"fromSide": "right",
-			"toNode": "08c6d30acb6dc09a",
-			"toSide": "left"
-		},
-		{
-			"id": "e72833d4f56d85bc",
-			"fromNode": "1f4667e525d4a62f",
-			"fromSide": "right",
-			"toNode": "c76a93ec915cc50e",
-			"toSide": "left"
-		},
-		{
-			"id": "f73a663b4bfa51ae",
-			"fromNode": "c76a93ec915cc50e",
-			"fromSide": "bottom",
-			"toNode": "871ce0ce9a5bbe0b",
-			"toSide": "top"
-		},
-		{
-			"id": "4089b02ebca86c1b",
-			"fromNode": "1dde586307293ea5",
-			"fromSide": "right",
-			"toNode": "b64c38bfd654c140",
-			"toSide": "left"
-		},
-		{
-			"id": "099ad99e69b7317a",
-			"fromNode": "b64c38bfd654c140",
-			"fromSide": "right",
-			"toNode": "8b79127c0ad8ce34",
-			"toSide": "left"
-		},
-		{
-			"id": "f9f9c64c772ef3e7",
-			"fromNode": "68795baf5072d992",
-			"fromSide": "right",
-			"toNode": "ddb46ec80d16cca2",
-			"toSide": "left"
-		},
-		{
-			"id": "4cf14828f7192d59",
-			"fromNode": "8b79127c0ad8ce34",
-			"fromSide": "right",
-			"toNode": "425f58a4e8ec9dfa",
-			"toSide": "left"
-		},
-		{
-			"id": "e909c99ffd5d65fd",
-			"fromNode": "425f58a4e8ec9dfa",
-			"fromSide": "right",
-			"toNode": "ddb46ec80d16cca2",
-			"toSide": "left"
-		},
-		{
-			"id": "c643c1b686815dee",
-			"fromNode": "68795baf5072d992",
-			"fromSide": "right",
-			"toNode": "425f58a4e8ec9dfa",
-			"toSide": "left"
-		},
-		{
-			"id": "879f02a58442356a",
-			"fromNode": "3e05ab5ff585e30b",
-			"fromSide": "right",
-			"toNode": "2d08ff9c295bbeca",
-			"toSide": "left"
-		},
-		{
-			"id": "77b98e36273d4a3c",
-			"fromNode": "cdd4c095f3fdda17",
-			"fromSide": "right",
-			"toNode": "9a045b2618cdb430",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "31d9318bcec51b77",
-			"fromNode": "44cf04ee70c4da83",
-			"fromSide": "bottom",
-			"toNode": "7a2f53dd5700b822",
-			"toSide": "top",
-			"color": "6",
-			"label": "应用"
-		},
-		{
-			"id": "9a15c737c3c7b6c8",
-			"fromNode": "7744fbbec88f2a00",
-			"fromSide": "right",
-			"toNode": "7a2f53dd5700b822",
-			"toSide": "left",
-			"color": "5",
-			"label": "计算"
-		},
-		{
-			"id": "e2ff441735fcf1f0",
-			"fromNode": "fc5a8d5437f0b93d",
-			"fromSide": "right",
-			"toNode": "7744fbbec88f2a00",
-			"toSide": "left",
-			"label": "分类"
-		},
-		{
-			"id": "2bc6ef8b6d25e689",
-			"fromNode": "9d3f09468d3bcdcc",
-			"fromSide": "bottom",
-			"toNode": "7744fbbec88f2a00",
-			"toSide": "top",
-			"color": "2",
-			"label": "推理"
-		},
-		{
-			"id": "e326002eb6b31cc8",
-			"fromNode": "fc5a8d5437f0b93d",
-			"fromSide": "right",
-			"toNode": "9d3f09468d3bcdcc",
-			"toSide": "left",
-			"label": "分类"
-		},
-		{
-			"id": "88ee3b28a01de6f3",
-			"fromNode": "9d3f09468d3bcdcc",
-			"fromSide": "right",
-			"toNode": "44cf04ee70c4da83",
-			"toSide": "left",
-			"color": "4",
-			"label": "启发"
-		},
-		{
-			"id": "27fdbaddc138e3d3",
-			"fromNode": "cdd4c095f3fdda17",
-			"fromSide": "right",
-			"toNode": "6f92c4320befaad9",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "d020fed67acf4d68",
-			"fromNode": "6f92c4320befaad9",
-			"fromSide": "right",
-			"toNode": "bc8c7445fa69795e",
-			"toSide": "left"
-		},
-		{
-			"id": "dc2370890e620534",
-			"fromNode": "9a045b2618cdb430",
-			"fromSide": "top",
-			"toNode": "0253ec13646ea9c7",
-			"toSide": "bottom",
-			"color": "4"
-		},
-		{
-			"id": "b706ee00842de57a",
-			"fromNode": "9a045b2618cdb430",
-			"fromSide": "right",
-			"toNode": "21d85a320b1af9b8",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "3d416a3ae374aa51",
-			"fromNode": "bc8c7445fa69795e",
-			"fromSide": "right",
-			"toNode": "ae8955ce2d595ef8",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "d826e9c098206184",
-			"fromNode": "0253ec13646ea9c7",
-			"fromSide": "right",
-			"toNode": "ae8955ce2d595ef8",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "29dbf14a3fa43a78",
-			"fromNode": "0253ec13646ea9c7",
-			"fromSide": "right",
-			"toNode": "dbef0466bfbe263d",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "f685ec8c885dbd29",
-			"fromNode": "9a045b2618cdb430",
-			"fromSide": "right",
-			"toNode": "dbef0466bfbe263d",
-			"toSide": "left",
-			"color": "5"
-		},
-		{
-			"id": "f63fdd1a0529c4b4",
-			"fromNode": "35c83541ae1a90c7",
-			"fromSide": "right",
-			"toNode": "51779aedfe5623fa",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "28c73e440ca07cb8",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "right",
-			"toNode": "ded25578e6246030",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "e17881f468e076dc",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "right",
-			"toNode": "f9c83f3dd7b8f6cc",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "c58b9183f26da173",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "right",
-			"toNode": "fce051678044a4c9",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "f181be458074accf",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "right",
-			"toNode": "c87d0fc3efb5e9a8",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "c2bb2060b900a453",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "bottom",
-			"toNode": "28935be08062b41a",
-			"toSide": "top",
-			"color": "2"
-		},
-		{
-			"id": "cd7f5dea6a9f952c",
-			"fromNode": "35c83541ae1a90c7",
-			"fromSide": "right",
-			"toNode": "f9c83f3dd7b8f6cc",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "a779864274525d3f",
-			"fromNode": "35c83541ae1a90c7",
-			"fromSide": "right",
-			"toNode": "fce051678044a4c9",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "88b6d8c281c22724",
-			"fromNode": "35c83541ae1a90c7",
-			"fromSide": "right",
-			"toNode": "c87d0fc3efb5e9a8",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "25d448013792d50f",
-			"fromNode": "43903fd673b1a80b",
-			"fromSide": "right",
-			"toNode": "539546d9233b7300",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "923de91eeb0e9094",
-			"fromNode": "51779aedfe5623fa",
-			"fromSide": "right",
-			"toNode": "6fc2e144c32363c6",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "42fe4989940a7000",
-			"fromNode": "f9c83f3dd7b8f6cc",
-			"fromSide": "right",
-			"toNode": "6fc2e144c32363c6",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "3f632afcc1851149",
-			"fromNode": "fce051678044a4c9",
-			"fromSide": "right",
-			"toNode": "6fc2e144c32363c6",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "300f578fb7bb74d8",
-			"fromNode": "c87d0fc3efb5e9a8",
-			"fromSide": "right",
-			"toNode": "6fc2e144c32363c6",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "dbb78ac85bbb7f2d",
-			"fromNode": "539546d9233b7300",
-			"fromSide": "right",
-			"toNode": "6fc2e144c32363c6",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "799cb3766c45e0f5",
-			"fromNode": "289c3f6314af1073",
-			"fromSide": "right",
-			"toNode": "60394879927341ef",
-			"toSide": "left"
-		},
-		{
-			"id": "cbf2150c05ea455e",
-			"fromNode": "289c3f6314af1073",
-			"fromSide": "right",
-			"toNode": "d68f56279a5cbc47",
-			"toSide": "left"
-		},
-		{
-			"id": "f3a266cf869820a8",
-			"fromNode": "60394879927341ef",
-			"fromSide": "right",
-			"toNode": "e6c6926e0d595f9f",
-			"toSide": "left"
-		},
-		{
-			"id": "6384cc98c34cc305",
-			"fromNode": "d68f56279a5cbc47",
-			"fromSide": "right",
-			"toNode": "e6c6926e0d595f9f",
-			"toSide": "left"
-		},
-		{
-			"id": "923202462de3ce62",
-			"fromNode": "e6c6926e0d595f9f",
-			"fromSide": "right",
-			"toNode": "f31e8417ede1aa9c",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "d1c1334fa95b1494",
-			"fromNode": "9d53f79b3067a646",
-			"fromSide": "right",
-			"toNode": "fd55e9e7d0b9171d",
-			"toSide": "left"
-		},
-		{
-			"id": "fe80b1d8291ebb45",
-			"fromNode": "35c83541ae1a90c7",
-			"fromSide": "bottom",
-			"toNode": "43903fd673b1a80b",
-			"toSide": "top",
-			"color": "2"
-		},
-		{
-			"id": "3fe6c4571346c017",
-			"fromNode": "984cca5608139415",
-			"fromSide": "right",
-			"toNode": "7aae301d71804b3a",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "dc45995cecf55f00",
-			"fromNode": "984cca5608139415",
-			"fromSide": "right",
-			"toNode": "be22c753479731fa",
-			"toSide": "left"
-		},
-		{
-			"id": "0881c66735786d00",
-			"fromNode": "984cca5608139415",
-			"fromSide": "right",
-			"toNode": "db86cca3474043ec",
-			"toSide": "left"
-		},
-		{
-			"id": "e62fb124d9ea656a",
-			"fromNode": "984cca5608139415",
-			"fromSide": "right",
-			"toNode": "8ffce834ddf4de3a",
-			"toSide": "left"
-		},
-		{
-			"id": "2ff96c249a9c8aa3",
-			"fromNode": "7aae301d71804b3a",
-			"fromSide": "right",
-			"toNode": "a47b0220e7b9d5ce",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "1b69373d2a48c35d",
-			"fromNode": "79e9c9f56510d9ab",
-			"fromSide": "right",
-			"toNode": "289c3f6314af1073",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "bfd8f2876b517abc",
-			"fromNode": "5fabd8debeb936ce",
-			"fromSide": "right",
-			"toNode": "5ebd60ce848dfdd5",
-			"toSide": "left"
-		},
-		{
-			"id": "2852b4cd91dfc507",
-			"fromNode": "69110c5e5795df2a",
-			"fromSide": "right",
-			"toNode": "78d2e07cbe37587b",
-			"toSide": "left"
-		},
-		{
-			"id": "602cee5961b6cec8",
-			"fromNode": "9d53f79b3067a646",
-			"fromSide": "right",
-			"toNode": "7ef7069d7ed79b2f",
-			"toSide": "left"
-		},
-		{
-			"id": "e6e97ed1a5e4c61c",
-			"fromNode": "c5f027f6a35a09be",
-			"fromSide": "right",
-			"toNode": "b1f5f0b1e19d54cf",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "7bc10db5af212b90",
-			"fromNode": "3bcdbb7d1cc320da",
-			"fromSide": "right",
-			"toNode": "69110c5e5795df2a",
-			"toSide": "left"
-		},
-		{
-			"id": "2fa343483c3c0d00",
-			"fromNode": "3bcdbb7d1cc320da",
-			"fromSide": "right",
-			"toNode": "9d53f79b3067a646",
-			"toSide": "left"
-		},
-		{
-			"id": "a7a9598a2be0e403",
-			"fromNode": "3bcdbb7d1cc320da",
-			"fromSide": "right",
-			"toNode": "f68c20560c809b00",
-			"toSide": "left"
-		},
-		{
-			"id": "7459bc1f74cd4124",
-			"fromNode": "f68c20560c809b00",
-			"fromSide": "right",
-			"toNode": "41f359d76e02ce64",
-			"toSide": "left"
-		},
-		{
-			"id": "5c7677477277f878",
-			"fromNode": "b8aeb13b1e0c673d",
-			"fromSide": "right",
-			"toNode": "c9715e18e54745a6",
-			"toSide": "left"
-		},
-		{
-			"id": "27946f5ce6e6b176",
-			"fromNode": "c9715e18e54745a6",
-			"fromSide": "right",
-			"toNode": "b9d02e42eb7cfc88",
-			"toSide": "left"
-		},
-		{
-			"id": "37ef45b1ea993765",
-			"fromNode": "c9715e18e54745a6",
-			"fromSide": "bottom",
-			"toNode": "01106ad6512ed342",
-			"toSide": "left"
-		},
-		{
-			"id": "e1c34859d705202f",
-			"fromNode": "b9d02e42eb7cfc88",
-			"fromSide": "bottom",
-			"toNode": "01106ad6512ed342",
-			"toSide": "top"
-		},
-		{
-			"id": "bee563e7ad0d7608",
-			"fromNode": "01106ad6512ed342",
-			"fromSide": "right",
-			"toNode": "bfb2e350bf28f981",
-			"toSide": "left"
-		},
-		{
-			"id": "3e8f4abdd4d790c1",
-			"fromNode": "01106ad6512ed342",
-			"fromSide": "right",
-			"toNode": "7beba18e18025fb4",
-			"toSide": "left"
-		},
-		{
-			"id": "1a47a7b8523e94d2",
-			"fromNode": "01106ad6512ed342",
-			"fromSide": "right",
-			"toNode": "f6ae801bed6b7af3",
-			"toSide": "left"
-		},
-		{
-			"id": "5f26321669c1b479",
-			"fromNode": "01106ad6512ed342",
-			"fromSide": "right",
-			"toNode": "2e99853f441c135a",
-			"toSide": "left"
-		},
-		{
-			"id": "e6c717e7ca67f1be",
-			"fromNode": "0375a949f4a423bb",
-			"fromSide": "right",
-			"toNode": "b1f5f0b1e19d54cf",
-			"toSide": "left"
-		},
-		{
-			"id": "62539f658febe5db",
-			"fromNode": "d08e69d71e606880",
-			"fromSide": "right",
-			"toNode": "65c715f0b896cb5b",
-			"toSide": "left"
-		},
-		{
-			"id": "60d11e8169aca5db",
-			"fromNode": "d08e69d71e606880",
-			"fromSide": "right",
-			"toNode": "99efb82d519f82fb",
-			"toSide": "left"
-		},
-		{
-			"id": "a691c3d778dbd248",
-			"fromNode": "99efb82d519f82fb",
-			"fromSide": "right",
-			"toNode": "7a7c1e6904d12779",
-			"toSide": "left"
-		},
-		{
-			"id": "319160b6d46a01e2",
-			"fromNode": "79e9c9f56510d9ab",
-			"fromSide": "bottom",
-			"toNode": "ee7831ac7b28d596",
-			"toSide": "top",
-			"color": "4"
-		},
-		{
-			"id": "7acfa14f5a1414ff",
-			"fromNode": "9a045b2618cdb430",
-			"fromSide": "right",
-			"toNode": "35c83541ae1a90c7",
-			"toSide": "left",
-			"color": "2"
-		},
-		{
-			"id": "cc6e1a48d4480f46",
-			"fromNode": "c07b718b0d8f8638",
-			"fromSide": "right",
-			"toNode": "1dde586307293ea5",
-			"toSide": "left"
-		},
-		{
-			"id": "4dacc3de4938284f",
-			"fromNode": "4bb87d39d902805e",
-			"fromSide": "right",
-			"toNode": "a9777c773e7708ee",
-			"toSide": "left"
-		},
-		{
-			"id": "30350daba32d5c3e",
-			"fromNode": "4bb87d39d902805e",
-			"fromSide": "bottom",
-			"toNode": "110c3317b933e3a6",
-			"toSide": "top"
-		},
-		{
-			"id": "0c7153bb79b1afc2",
-			"fromNode": "f31e8417ede1aa9c",
-			"fromSide": "bottom",
-			"toNode": "99ed1c562e367dd0",
-			"toSide": "top"
-		},
-		{
-			"id": "88032d61b4aaba87",
-			"fromNode": "99ed1c562e367dd0",
-			"fromSide": "right",
-			"toNode": "465cf84cba814fe8",
-			"toSide": "left",
-			"color": "5"
-		},
-		{
-			"id": "da360f5cdee32b26",
-			"fromNode": "99ed1c562e367dd0",
-			"fromSide": "right",
-			"toNode": "87c1de1f6d720cbf",
-			"toSide": "left",
-			"color": "5"
-		},
-		{
-			"id": "93d8ba7dac77544e",
-			"fromNode": "99ed1c562e367dd0",
-			"fromSide": "bottom",
-			"toNode": "978765f94735b862",
-			"toSide": "top"
-		},
-		{
-			"id": "e11eb804e4445636",
-			"fromNode": "c85480213bec4543",
-			"fromSide": "right",
-			"toNode": "ae492d22f551f7c2",
-			"toSide": "left"
-		},
-		{
-			"id": "cfffc051b3918b85",
-			"fromNode": "c85480213bec4543",
-			"fromSide": "right",
-			"toNode": "b010dfeb09043883",
-			"toSide": "left"
-		},
-		{
-			"id": "f4d47e3f720deb8e",
-			"fromNode": "c85480213bec4543",
-			"fromSide": "right",
-			"toNode": "93e5f512f2f23ad7",
-			"toSide": "left"
-		},
-		{
-			"id": "d291d1e4ce4e919c",
-			"fromNode": "ae492d22f551f7c2",
-			"fromSide": "right",
-			"toNode": "8986a2474f57c371",
-			"toSide": "left"
-		},
-		{
-			"id": "da9824115d9ae4be",
-			"fromNode": "ae492d22f551f7c2",
-			"fromSide": "right",
-			"toNode": "1e4a3b3edaada998",
-			"toSide": "left"
-		},
-		{
-			"id": "d5016d1a74e81628",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "539a137654898f84",
-			"toSide": "left"
-		},
-		{
-			"id": "7bdd0d6ffffd8e6c",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "1455401880dabb67",
-			"toSide": "left"
-		},
-		{
-			"id": "436a906a04ec6853",
-			"fromNode": "539a137654898f84",
-			"fromSide": "right",
-			"toNode": "402a7a01b741ee88",
-			"toSide": "left"
-		},
-		{
-			"id": "e611993b0f6b2777",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "e94c6f1abe8f8d6e",
-			"toSide": "left"
-		},
-		{
-			"id": "11dae964100573ce",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "b62ab4a4f8420061",
-			"toSide": "left"
-		},
-		{
-			"id": "2a3d63e84782205d",
-			"fromNode": "e94c6f1abe8f8d6e",
-			"fromSide": "right",
-			"toNode": "504fb72523566b8b",
-			"toSide": "left"
-		},
-		{
-			"id": "187585d2e7e79778",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "8cb115845bc01792",
-			"toSide": "left"
-		},
-		{
-			"id": "dcd3f2217a7efd8b",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "09c9ec276aecc865",
-			"toSide": "left"
-		},
-		{
-			"id": "53bf7694a5fd9999",
-			"fromNode": "95c264a585d4dfed",
-			"fromSide": "right",
-			"toNode": "09c9ec276aecc865",
-			"toSide": "left"
-		},
-		{
-			"id": "dcee78e5e9c28bb3",
-			"fromNode": "09c9ec276aecc865",
-			"fromSide": "right",
-			"toNode": "7cf51d84f96b6255",
-			"toSide": "left"
-		},
-		{
-			"id": "aec9ff5ed9a7ff33",
-			"fromNode": "7cf51d84f96b6255",
-			"fromSide": "right",
-			"toNode": "425bd5ca6678371f",
-			"toSide": "left"
-		},
-		{
-			"id": "fdffe563bb2822d0",
-			"fromNode": "7cf51d84f96b6255",
-			"fromSide": "right",
-			"toNode": "5cbd6f1d362c7a8d",
-			"toSide": "left"
-		},
-		{
-			"id": "8407700b5bfa8a43",
-			"fromNode": "17946f80d595208e",
-			"fromSide": "right",
-			"toNode": "884f302182944daf",
-			"toSide": "left"
-		},
-		{
-			"id": "c7bba3943a6c878c",
-			"fromNode": "884f302182944daf",
-			"fromSide": "right",
-			"toNode": "ba7f76f60a27e647",
-			"toSide": "left"
-		},
-		{
-			"id": "01c833dc9164a73e",
-			"fromNode": "3de1bfd5cc179c53",
-			"fromSide": "right",
-			"toNode": "3e05ab5ff585e30b",
-			"toSide": "left"
-		},
-		{
-			"id": "dd34f64ad470b4df",
-			"fromNode": "b0ca71ae673c0cbd",
-			"fromSide": "right",
-			"toNode": "d82039d234cc0c4d",
-			"toSide": "left"
-		},
-		{
-			"id": "c8c3f17861191b5a",
-			"fromNode": "1dde586307293ea5",
-			"fromSide": "right",
-			"toNode": "08c6d30acb6dc09a",
-			"toSide": "left"
-		},
-		{
-			"id": "056372d75b9efa22",
-			"fromNode": "21d85a320b1af9b8",
-			"fromSide": "right",
-			"toNode": "2e1a8bdd2e63f745",
-			"toSide": "left"
-		},
-		{
-			"id": "71d65173ccabb334",
-			"fromNode": "533ce5c5cf43944b",
-			"fromSide": "right",
-			"toNode": "6599d5798395cf90",
-			"toSide": "left"
-		},
-		{
-			"id": "0c4c80b86705a382",
-			"fromNode": "0b2d312d0b113757",
-			"fromSide": "right",
-			"toNode": "9614d6261a95a294",
-			"toSide": "left"
-		},
-		{
-			"id": "0805e7b2a5d62f9c",
-			"fromNode": "0b2d312d0b113757",
-			"fromSide": "right",
-			"toNode": "8aedea0c7934af83",
-			"toSide": "left"
-		},
-		{
-			"id": "dc7686447335ce52",
-			"fromNode": "1cf18d5848b550fc",
-			"fromSide": "bottom",
-			"toNode": "425f58a4e8ec9dfa",
-			"toSide": "top"
-		},
-		{
-			"id": "9bdf5b81e0f42f37",
-			"fromNode": "33f30f85f4d13dc0",
-			"fromSide": "right",
-			"toNode": "f148d55192c5d843",
-			"toSide": "left"
-		},
-		{
-			"id": "8d8c12873bcdba76",
-			"fromNode": "9bb98242c50be71f",
-			"fromSide": "right",
-			"toNode": "0b2d312d0b113757",
-			"toSide": "left"
-		},
-		{
-			"id": "411ea72698fb8f94",
-			"fromNode": "59d74f6a3952a109",
-			"fromSide": "right",
-			"toNode": "a9b5f753ff42c59b",
-			"toSide": "left"
-		},
-		{
-			"id": "71ae69123a9c639c",
-			"fromNode": "a9b5f753ff42c59b",
-			"fromSide": "right",
-			"toNode": "e1317b8f5cfee687",
-			"toSide": "left"
-		},
-		{
-			"id": "1d7cb2abcf75ae1e",
-			"fromNode": "a9b5f753ff42c59b",
-			"fromSide": "bottom",
-			"toNode": "7f816f6a77327856",
-			"toSide": "left"
-		},
-		{
-			"id": "c2e66f7c8c47c969",
-			"fromNode": "e1317b8f5cfee687",
-			"fromSide": "bottom",
-			"toNode": "7f816f6a77327856",
-			"toSide": "top"
-		},
-		{
-			"id": "c17714f20858ed0b",
-			"fromNode": "7f816f6a77327856",
-			"fromSide": "right",
-			"toNode": "2a93e0bee6113c3c",
-			"toSide": "left"
-		},
-		{
-			"id": "7f1863b2f381eb94",
-			"fromNode": "7f816f6a77327856",
-			"fromSide": "right",
-			"toNode": "d54ec9e4cd0e062c",
-			"toSide": "left"
-		},
-		{
-			"id": "656aae8d54271d7d",
-			"fromNode": "7f816f6a77327856",
-			"fromSide": "right",
-			"toNode": "2b8a2466e8323e1e",
-			"toSide": "left"
-		},
-		{
-			"id": "1ff62fe92081c796",
-			"fromNode": "7f816f6a77327856",
-			"fromSide": "right",
-			"toNode": "0b2d312d0b113757",
-			"toSide": "top"
-		},
-		{
-			"id": "8bc8e865bf0d39bd",
-			"fromNode": "6599d5798395cf90",
-			"fromSide": "right",
-			"toNode": "9bb98242c50be71f",
-			"toSide": "left"
-		},
-		{
-			"id": "71d2d57539632555",
-			"fromNode": "533ce5c5cf43944b",
-			"fromSide": "right",
-			"toNode": "e91b1063d2431c78",
-			"toSide": "left"
-		},
-		{
-			"id": "9deee27f9d4713c0",
-			"fromNode": "e91b1063d2431c78",
-			"fromSide": "bottom",
-			"toNode": "9fd999f1e3d0e75d",
-			"toSide": "top"
-		},
-		{
-			"id": "fa9c362e970f8af0",
-			"fromNode": "7a7c1e6904d12779",
-			"fromSide": "right",
-			"toNode": "6cdbeda2d3b17544",
-			"toSide": "left"
-		},
-		{
-			"id": "807b680fe60aa771",
-			"fromNode": "f455320be0783586",
-			"fromSide": "right",
-			"toNode": "9d439f7a14045bbc",
-			"toSide": "left"
-		},
-		{
-			"id": "e60dd74490ef4179",
-			"fromNode": "f455320be0783586",
-			"fromSide": "right",
-			"toNode": "0985b32b7409506d",
-			"toSide": "left"
-		},
-		{
-			"id": "0a6359b8ac0bb95c",
-			"fromNode": "f455320be0783586",
-			"fromSide": "right",
-			"toNode": "ac1d9d534edc6973",
-			"toSide": "left"
-		},
-		{
-			"id": "0c1bfbad64b891f3",
-			"fromNode": "aba63b67d6188519",
-			"fromSide": "right",
-			"toNode": "ad2b04ba75c18b46",
-			"toSide": "left"
-		},
-		{
-			"id": "55410f48b03f96e6",
-			"fromNode": "c1208c43df0455b6",
-			"fromSide": "right",
-			"toNode": "aba63b67d6188519",
-			"toSide": "left"
-		},
-		{
-			"id": "e554f0815c0316c8",
-			"fromNode": "713eb0b50ceaf562",
-			"fromSide": "right",
-			"toNode": "3de1bfd5cc179c53",
-			"toSide": "left"
-		},
-		{
-			"id": "d46a633c65881d1c",
-			"fromNode": "3de1bfd5cc179c53",
-			"fromSide": "right",
-			"toNode": "402a7a01b741ee88",
-			"toSide": "left"
-		},
-		{
-			"id": "d80f0113792bcdf6",
-			"fromNode": "d543ef804e32a2ce",
-			"fromSide": "right",
-			"toNode": "043b5ae9d771e836",
-			"toSide": "left"
-		},
-		{
-			"id": "d119e5b138c9488e",
-			"fromNode": "f455320be0783586",
-			"fromSide": "right",
-			"toNode": "b38cd79715b15efe",
-			"toSide": "left"
-		},
-		{
-			"id": "4714564d4b6bae77",
-			"fromNode": "e9fdba2a724f0feb",
-			"fromSide": "right",
-			"toNode": "9b77a6b374794966",
-			"toSide": "left"
-		},
-		{
-			"id": "8105e8d78acc7721",
-			"fromNode": "9b77a6b374794966",
-			"fromSide": "right",
-			"toNode": "408d1bd01e10ca96",
-			"toSide": "left"
-		},
-		{
-			"id": "fc26ac7535403cab",
-			"fromNode": "533ce5c5cf43944b",
-			"fromSide": "right",
-			"toNode": "21576aabb021fd49",
-			"toSide": "left"
-		},
-		{
-			"id": "4b7941057f09358e",
-			"fromNode": "408d1bd01e10ca96",
-			"fromSide": "right",
-			"toNode": "21576aabb021fd49",
-			"toSide": "left"
-		},
-		{
-			"id": "7710f9ced94c6070",
-			"fromNode": "21576aabb021fd49",
-			"fromSide": "right",
-			"toNode": "1eeae3312de7833e",
-			"toSide": "left"
-		},
-		{
-			"id": "b4406d18eef54f1f",
-			"fromNode": "38dd3c9a1b009c09",
-			"fromSide": "bottom",
-			"toNode": "1eeae3312de7833e",
-			"toSide": "left"
-		},
-		{
-			"id": "feec3c7a8a43b67d",
-			"fromNode": "e91b1063d2431c78",
-			"fromSide": "bottom",
-			"toNode": "84f435b486e2a0bd",
-			"toSide": "left"
-		},
-		{
-			"id": "dc6ab2fb6c09898e",
-			"fromNode": "1eeae3312de7833e",
-			"fromSide": "right",
-			"toNode": "84f435b486e2a0bd",
-			"toSide": "left"
-		},
-		{
-			"id": "a141b95e33d993bb",
-			"fromNode": "e2a4077ac916681b",
-			"fromSide": "right",
-			"toNode": "1998a95f46bd669b",
-			"toSide": "left"
-		},
-		{
-			"id": "6e19acefa45bbf61",
-			"fromNode": "e2a4077ac916681b",
-			"fromSide": "right",
-			"toNode": "adb120f590e334db",
-			"toSide": "left"
-		},
-		{
-			"id": "ba000ace90ba1380",
-			"fromNode": "273f65f5dbfed059",
-			"fromSide": "right",
-			"toNode": "a59d9a4afe36c485",
-			"toSide": "left"
-		},
-		{
-			"id": "cfe6f85b784bb5df",
-			"fromNode": "273f65f5dbfed059",
-			"fromSide": "right",
-			"toNode": "049a38ea15bc0562",
-			"toSide": "left"
-		},
-		{
-			"id": "0e06b8dff20ecaae",
-			"fromNode": "273f65f5dbfed059",
-			"fromSide": "right",
-			"toNode": "1766e8835fb63f22",
-			"toSide": "left"
-		},
-		{
-			"id": "c93aa3239668f470",
-			"fromNode": "e5aedd77868bb0cc",
-			"fromSide": "right",
-			"toNode": "538eb43c376cb039",
-			"toSide": "left"
-		},
-		{
-			"id": "300592154ba29977",
-			"fromNode": "9a7ba751d1964596",
-			"fromSide": "right",
-			"toNode": "538eb43c376cb039",
-			"toSide": "left"
-		},
-		{
-			"id": "3cb12460354bb01f",
-			"fromNode": "3e2ff5c1f9add1a3",
-			"fromSide": "right",
-			"toNode": "e705b37b47297fda",
-			"toSide": "left"
-		},
-		{
-			"id": "16d1a10e154878a0",
-			"fromNode": "d4acd0bb83d8b678",
-			"fromSide": "right",
-			"toNode": "e705b37b47297fda",
-			"toSide": "left"
-		},
-		{
-			"id": "3771f188b30b2c06",
-			"fromNode": "681c9d814675f88a",
-			"fromSide": "right",
-			"toNode": "e5aedd77868bb0cc",
-			"toSide": "left"
-		},
-		{
-			"id": "eced2339c4e30ca3",
-			"fromNode": "681c9d814675f88a",
-			"fromSide": "right",
-			"toNode": "9a7ba751d1964596",
-			"toSide": "left"
-		},
-		{
-			"id": "5067f5f30259eda9",
-			"fromNode": "681c9d814675f88a",
-			"fromSide": "right",
-			"toNode": "d4acd0bb83d8b678",
-			"toSide": "left"
-		},
-		{
-			"id": "331bc976afbe7acf",
-			"fromNode": "681c9d814675f88a",
-			"fromSide": "right",
-			"toNode": "3e2ff5c1f9add1a3",
-			"toSide": "left"
-		},
-		{
-			"id": "dc2b70f29cd070d9",
-			"fromNode": "0364ee05ac0c4e46",
-			"fromSide": "right",
-			"toNode": "5f2e96eaeb84f157",
-			"toSide": "left"
-		},
-		{
-			"id": "717ebc190b932988",
-			"fromNode": "0364ee05ac0c4e46",
-			"fromSide": "right",
-			"toNode": "51bdb62b5818e27f",
-			"toSide": "left"
-		},
-		{
-			"id": "a3034ceb39ca624a",
-			"fromNode": "0364ee05ac0c4e46",
-			"fromSide": "right",
-			"toNode": "ac96ac3a749277ed",
-			"toSide": "left"
-		},
-		{
-			"id": "9aaeb0fee283338f",
-			"fromNode": "0364ee05ac0c4e46",
-			"fromSide": "right",
-			"toNode": "ad2d589ad94c1146",
-			"toSide": "left"
-		},
-		{
-			"id": "571e0cac79466ab9",
-			"fromNode": "ac96ac3a749277ed",
-			"fromSide": "right",
-			"toNode": "33abf3f0e70f8aa8",
-			"toSide": "left"
-		},
-		{
-			"id": "5a9e747085a98efc",
-			"fromNode": "37742d0bf6ef1228",
-			"fromSide": "right",
-			"toNode": "3b7774f42647dbb2",
-			"toSide": "top"
-		},
-		{
-			"id": "30c64b1db4050d97",
-			"fromNode": "3b7774f42647dbb2",
-			"fromSide": "right",
-			"toNode": "138f43cc4acb9457",
-			"toSide": "left"
-		},
-		{
-			"id": "c0bf564cff604444",
-			"fromNode": "3b7774f42647dbb2",
-			"fromSide": "right",
-			"toNode": "9ee0ceb384c37ee8",
-			"toSide": "left"
-		},
-		{
-			"id": "5c245aca3debc29d",
-			"fromNode": "9ee0ceb384c37ee8",
-			"fromSide": "right",
-			"toNode": "d663df3097d986c8",
-			"toSide": "left"
-		},
-		{
-			"id": "9db76034f119812f",
-			"fromNode": "d663df3097d986c8",
-			"fromSide": "right",
-			"toNode": "3bf8e1a52783d09c",
-			"toSide": "left"
-		},
-		{
-			"id": "f6818c95f37546ef",
-			"fromNode": "d663df3097d986c8",
-			"fromSide": "right",
-			"toNode": "00814fe9e17a3087",
-			"toSide": "left"
-		},
-		{
-			"id": "e2761981ff609b1b",
-			"fromNode": "3b7774f42647dbb2",
-			"fromSide": "right",
-			"toNode": "072bd86a1505da2e",
-			"toSide": "left"
-		},
-		{
-			"id": "8b94ee0fbd7784d1",
-			"fromNode": "29876c44a5689f5a",
-			"fromSide": "right",
-			"toNode": "b7200b4992a98948",
-			"toSide": "left"
-		},
-		{
-			"id": "5c29b0d73c06ed27",
-			"fromNode": "93c53d329d3c6d7b",
-			"fromSide": "right",
-			"toNode": "c1711d581a653d19",
-			"toSide": "left"
-		},
-		{
-			"id": "db6a7fef637a40a1",
-			"fromNode": "c1711d581a653d19",
-			"fromSide": "right",
-			"toNode": "f5d8674ab4e4e93d",
-			"toSide": "left"
-		},
-		{
-			"id": "26a44bdebf7c8c6f",
-			"fromNode": "3de1bfd5cc179c53",
-			"fromSide": "right",
-			"toNode": "3947299bf6a0249a",
-			"toSide": "left"
-		},
-		{
-			"id": "2f8a4532dcbf6e23",
-			"fromNode": "3947299bf6a0249a",
-			"fromSide": "right",
-			"toNode": "dcc1d5b5f74dc6dc",
-			"toSide": "left"
-		},
-		{
-			"id": "c240fd43e90d70c2",
-			"fromNode": "ad2b04ba75c18b46",
-			"fromSide": "right",
-			"toNode": "dcc1d5b5f74dc6dc",
-			"toSide": "left"
-		},
-		{
-			"id": "1829b46cc183c144",
-			"fromNode": "dcc1d5b5f74dc6dc",
-			"fromSide": "right",
-			"toNode": "827f4c28ef24d9fd",
-			"toSide": "left"
-		},
-		{
-			"id": "4dc63aa74202fdef",
-			"fromNode": "dcc1d5b5f74dc6dc",
-			"fromSide": "right",
-			"toNode": "f92e1c805b63b778",
-			"toSide": "left"
-		},
-		{
-			"id": "4b23d4c35835e7ad",
-			"fromNode": "3e05ab5ff585e30b",
-			"fromSide": "right",
-			"toNode": "f92e1c805b63b778",
-			"toSide": "left"
-		},
-		{
-			"id": "94512c793b96d07b",
-			"fromNode": "dcc1d5b5f74dc6dc",
-			"fromSide": "right",
-			"toNode": "f8a89fa5ea968cf7",
-			"toSide": "left"
-		},
-		{
-			"id": "95487a9cf542a185",
-			"fromNode": "886b719529984ec2",
-			"fromSide": "right",
-			"toNode": "7be0a3f31427a391",
-			"toSide": "left"
-		},
-		{
-			"id": "9ceb2e682f52d576",
-			"fromNode": "886b719529984ec2",
-			"fromSide": "right",
-			"toNode": "71ee42152de6e611",
-			"toSide": "left"
-		},
-		{
-			"id": "e6da1507c930c314",
-			"fromNode": "886b719529984ec2",
-			"fromSide": "right",
-			"toNode": "f3605a4b7ede8c20",
-			"toSide": "left"
-		},
-		{
-			"id": "f7c62c5249f3479f",
-			"fromNode": "886b719529984ec2",
-			"fromSide": "right",
-			"toNode": "45bf52946dbd92fc",
-			"toSide": "left"
-		},
-		{
-			"id": "2de42d58ff6f60d5",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "1f799cf75272036c",
-			"toSide": "left"
-		},
-		{
-			"id": "ea2ded3999a44863",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "e6007b961305d581",
-			"toSide": "left"
-		},
-		{
-			"id": "a9c0ff2ed36bcb45",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "60ba705db0ce9a5d",
-			"toSide": "left"
-		},
-		{
-			"id": "691cadbdb21ec7ce",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "6e8bd978f9aef323",
-			"toSide": "left"
-		},
-		{
-			"id": "4ec8d9e2954b175a",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "1ba230be81e58f33",
-			"toSide": "left"
-		},
-		{
-			"id": "5eee8cc92701a081",
-			"fromNode": "38dd3c9a1b009c09",
-			"fromSide": "right",
-			"toNode": "1ba230be81e58f33",
-			"toSide": "left"
-		},
-		{
-			"id": "e90fad722036dfa7",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "d9827f349f7925da",
-			"toSide": "left"
-		},
-		{
-			"id": "7704ecebfe06cf9a",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "cd5c1a7f6e5b3b5a",
-			"toSide": "left"
-		},
-		{
-			"id": "b05f9e3961940d98",
-			"fromNode": "9abd147db87b1106",
-			"fromSide": "right",
-			"toNode": "ca57dde0ddc991ba",
-			"toSide": "left"
-		},
-		{
-			"id": "f268a4bff7d5a627",
-			"fromNode": "75be7857d8a512bd",
-			"fromSide": "right",
-			"toNode": "5777f1665c0c1482",
-			"toSide": "left"
-		},
-		{
-			"id": "a58384715b129c4c",
-			"fromNode": "75be7857d8a512bd",
-			"fromSide": "right",
-			"toNode": "152906b39ae60aea",
-			"toSide": "left"
-		},
-		{
-			"id": "7edc89254203b3d2",
-			"fromNode": "d3bdf23894885e44",
-			"fromSide": "right",
-			"toNode": "d6ac4ad7f5db24a5",
-			"toSide": "left"
-		},
-		{
-			"id": "3d84c3598bb9e612",
-			"fromNode": "d6ac4ad7f5db24a5",
-			"fromSide": "right",
-			"toNode": "ad871db630b30e75",
-			"toSide": "left"
-		},
-		{
-			"id": "80cff63611ccfff2",
-			"fromNode": "219fc154a8296eaf",
-			"fromSide": "right",
-			"toNode": "660e2d895b3a0439",
-			"toSide": "left"
-		},
-		{
-			"id": "82757421a3a04c6d",
-			"fromNode": "219fc154a8296eaf",
-			"fromSide": "right",
-			"toNode": "fd5ab238aaa04250",
-			"toSide": "left"
-		},
-		{
-			"id": "245d48a2d482ac4c",
-			"fromNode": "08507cf3c6f0a95e",
-			"fromSide": "right",
-			"toNode": "6e1fe11653e5ccfa",
-			"toSide": "left"
-		},
-		{
-			"id": "146c77a5b8923aff",
-			"fromNode": "d3bdf23894885e44",
-			"fromSide": "right",
-			"toNode": "75be7857d8a512bd",
-			"toSide": "left"
-		},
-		{
-			"id": "ef7e800986d653c7",
-			"fromNode": "67bec4a8ac6c7025",
-			"fromSide": "right",
-			"toNode": "a46bc14b09cea247",
-			"toSide": "left"
-		},
-		{
-			"id": "229bf048f295c2fb",
-			"fromNode": "8adca25746507384",
-			"fromSide": "right",
-			"toNode": "bb66850cf7554500",
-			"toSide": "left"
-		},
-		{
-			"id": "5aced2d8d33e8810",
-			"fromNode": "219fc154a8296eaf",
-			"fromSide": "right",
-			"toNode": "08507cf3c6f0a95e",
-			"toSide": "left"
-		},
-		{
-			"id": "5a470094db27f0df",
-			"fromNode": "23c201eb06c2055f",
-			"fromSide": "right",
-			"toNode": "07df4b1d3159410c",
-			"toSide": "left"
-		},
-		{
-			"id": "ae8813310d76e555",
-			"fromNode": "cc05955cd3953e04",
-			"fromSide": "right",
-			"toNode": "740c883e2d5d3657",
-			"toSide": "left"
-		},
-		{
-			"id": "e3058a059b8e11a5",
-			"fromNode": "503a44c4c0b0cbe8",
-			"fromSide": "right",
-			"toNode": "b0f6e55108128ca7",
-			"toSide": "left"
-		},
-		{
-			"id": "9951a058d8feb577",
-			"fromNode": "d5fa213ebbee05f6",
-			"fromSide": "right",
-			"toNode": "2f15ba0087521d18",
-			"toSide": "left"
-		},
-		{
-			"id": "4732af527a4e50e4",
-			"fromNode": "21ae195b9f449a23",
-			"fromSide": "right",
-			"toNode": "9547122013d5a43d",
-			"toSide": "left",
-			"label": "逆定理"
-		},
-		{
-			"id": "659b2597559a1f82",
-			"fromNode": "b1740f3039b0ee4e",
-			"fromSide": "right",
-			"toNode": "8c8ba0e039f53a50",
-			"toSide": "left"
-		},
-		{
-			"id": "f5adb62ad5c05441",
-			"fromNode": "92c28e686b66c4b8",
-			"fromSide": "right",
-			"toNode": "c68d874dc0a5d1ec",
-			"toSide": "left"
-		},
-		{
-			"id": "5c346fd1e6b863b5",
-			"fromNode": "760dc545b4facac8",
-			"fromSide": "right",
-			"toNode": "8415f0f37c53d3da",
-			"toSide": "left"
-		}
+	"edges":[
+		{"id":"0165f7fc0250f00c","fromNode":"3feee49c1c243832","fromSide":"bottom","toNode":"82dbafb6be0dcf4c","toSide":"top"},
+		{"id":"4c0b173662bc7d6d","fromNode":"82dbafb6be0dcf4c","fromSide":"right","toNode":"87107bf7c0ccc10d","toSide":"left"},
+		{"id":"8d1ffe427bb59d60","fromNode":"82dbafb6be0dcf4c","fromSide":"right","toNode":"c07b718b0d8f8638","toSide":"left"},
+		{"id":"a1504ae863b75f69","fromNode":"87107bf7c0ccc10d","fromSide":"right","toNode":"1dde586307293ea5","toSide":"left"},
+		{"id":"0330cd03c6567a1a","fromNode":"1dde586307293ea5","fromSide":"right","toNode":"1f4667e525d4a62f","toSide":"left"},
+		{"id":"a69eadfb2a6f6c34","fromNode":"1dde586307293ea5","fromSide":"right","toNode":"1e7c03b584c2c367","toSide":"left"},
+		{"id":"f8ab7f2a46fce63e","fromNode":"1e7c03b584c2c367","fromSide":"bottom","toNode":"1f4667e525d4a62f","toSide":"top"},
+		{"id":"c1512ff73917b8d7","fromNode":"08c6d30acb6dc09a","fromSide":"right","toNode":"21d85a320b1af9b8","toSide":"left"},
+		{"id":"ef015e9e951721df","fromNode":"1dde586307293ea5","fromSide":"bottom","toNode":"5c0884ec61d3a993","toSide":"top","label":"类比"},
+		{"id":"87b8a5848aad7427","fromNode":"5c0884ec61d3a993","fromSide":"right","toNode":"08c6d30acb6dc09a","toSide":"left"},
+		{"id":"e72833d4f56d85bc","fromNode":"1f4667e525d4a62f","fromSide":"right","toNode":"c76a93ec915cc50e","toSide":"left"},
+		{"id":"f73a663b4bfa51ae","fromNode":"c76a93ec915cc50e","fromSide":"bottom","toNode":"871ce0ce9a5bbe0b","toSide":"top"},
+		{"id":"4089b02ebca86c1b","fromNode":"1dde586307293ea5","fromSide":"right","toNode":"b64c38bfd654c140","toSide":"left"},
+		{"id":"099ad99e69b7317a","fromNode":"b64c38bfd654c140","fromSide":"right","toNode":"8b79127c0ad8ce34","toSide":"left"},
+		{"id":"f9f9c64c772ef3e7","fromNode":"68795baf5072d992","fromSide":"right","toNode":"ddb46ec80d16cca2","toSide":"left"},
+		{"id":"4cf14828f7192d59","fromNode":"8b79127c0ad8ce34","fromSide":"right","toNode":"425f58a4e8ec9dfa","toSide":"left"},
+		{"id":"e909c99ffd5d65fd","fromNode":"425f58a4e8ec9dfa","fromSide":"right","toNode":"ddb46ec80d16cca2","toSide":"left"},
+		{"id":"c643c1b686815dee","fromNode":"68795baf5072d992","fromSide":"right","toNode":"425f58a4e8ec9dfa","toSide":"left"},
+		{"id":"879f02a58442356a","fromNode":"3e05ab5ff585e30b","fromSide":"right","toNode":"2d08ff9c295bbeca","toSide":"left"},
+		{"id":"77b98e36273d4a3c","fromNode":"cdd4c095f3fdda17","fromSide":"right","toNode":"9a045b2618cdb430","toSide":"left","color":"2"},
+		{"id":"31d9318bcec51b77","fromNode":"44cf04ee70c4da83","fromSide":"bottom","toNode":"7a2f53dd5700b822","toSide":"top","color":"6","label":"应用"},
+		{"id":"9a15c737c3c7b6c8","fromNode":"7744fbbec88f2a00","fromSide":"right","toNode":"7a2f53dd5700b822","toSide":"left","color":"5","label":"计算"},
+		{"id":"e2ff441735fcf1f0","fromNode":"fc5a8d5437f0b93d","fromSide":"right","toNode":"7744fbbec88f2a00","toSide":"left","label":"分类"},
+		{"id":"2bc6ef8b6d25e689","fromNode":"9d3f09468d3bcdcc","fromSide":"bottom","toNode":"7744fbbec88f2a00","toSide":"top","color":"2","label":"推理"},
+		{"id":"e326002eb6b31cc8","fromNode":"fc5a8d5437f0b93d","fromSide":"right","toNode":"9d3f09468d3bcdcc","toSide":"left","label":"分类"},
+		{"id":"88ee3b28a01de6f3","fromNode":"9d3f09468d3bcdcc","fromSide":"right","toNode":"44cf04ee70c4da83","toSide":"left","color":"4","label":"启发"},
+		{"id":"27fdbaddc138e3d3","fromNode":"cdd4c095f3fdda17","fromSide":"right","toNode":"6f92c4320befaad9","toSide":"left","color":"2"},
+		{"id":"d020fed67acf4d68","fromNode":"6f92c4320befaad9","fromSide":"right","toNode":"bc8c7445fa69795e","toSide":"left"},
+		{"id":"dc2370890e620534","fromNode":"9a045b2618cdb430","fromSide":"top","toNode":"0253ec13646ea9c7","toSide":"bottom","color":"4"},
+		{"id":"b706ee00842de57a","fromNode":"9a045b2618cdb430","fromSide":"right","toNode":"21d85a320b1af9b8","toSide":"left","color":"4"},
+		{"id":"3d416a3ae374aa51","fromNode":"bc8c7445fa69795e","fromSide":"right","toNode":"ae8955ce2d595ef8","toSide":"left","color":"4"},
+		{"id":"d826e9c098206184","fromNode":"0253ec13646ea9c7","fromSide":"right","toNode":"ae8955ce2d595ef8","toSide":"left","color":"4"},
+		{"id":"29dbf14a3fa43a78","fromNode":"0253ec13646ea9c7","fromSide":"right","toNode":"dbef0466bfbe263d","toSide":"left","color":"6"},
+		{"id":"f685ec8c885dbd29","fromNode":"9a045b2618cdb430","fromSide":"right","toNode":"dbef0466bfbe263d","toSide":"left","color":"5"},
+		{"id":"f63fdd1a0529c4b4","fromNode":"35c83541ae1a90c7","fromSide":"right","toNode":"51779aedfe5623fa","toSide":"left","color":"2"},
+		{"id":"28c73e440ca07cb8","fromNode":"43903fd673b1a80b","fromSide":"right","toNode":"ded25578e6246030","toSide":"left","color":"2"},
+		{"id":"e17881f468e076dc","fromNode":"43903fd673b1a80b","fromSide":"right","toNode":"f9c83f3dd7b8f6cc","toSide":"left","color":"4"},
+		{"id":"c58b9183f26da173","fromNode":"43903fd673b1a80b","fromSide":"right","toNode":"fce051678044a4c9","toSide":"left","color":"4"},
+		{"id":"f181be458074accf","fromNode":"43903fd673b1a80b","fromSide":"right","toNode":"c87d0fc3efb5e9a8","toSide":"left","color":"4"},
+		{"id":"c2bb2060b900a453","fromNode":"43903fd673b1a80b","fromSide":"bottom","toNode":"28935be08062b41a","toSide":"top","color":"2"},
+		{"id":"cd7f5dea6a9f952c","fromNode":"35c83541ae1a90c7","fromSide":"right","toNode":"f9c83f3dd7b8f6cc","toSide":"left","color":"4"},
+		{"id":"a779864274525d3f","fromNode":"35c83541ae1a90c7","fromSide":"right","toNode":"fce051678044a4c9","toSide":"left","color":"4"},
+		{"id":"88b6d8c281c22724","fromNode":"35c83541ae1a90c7","fromSide":"right","toNode":"c87d0fc3efb5e9a8","toSide":"left","color":"4"},
+		{"id":"25d448013792d50f","fromNode":"43903fd673b1a80b","fromSide":"right","toNode":"539546d9233b7300","toSide":"left","color":"2"},
+		{"id":"923de91eeb0e9094","fromNode":"51779aedfe5623fa","fromSide":"right","toNode":"6fc2e144c32363c6","toSide":"left","color":"6"},
+		{"id":"42fe4989940a7000","fromNode":"f9c83f3dd7b8f6cc","fromSide":"right","toNode":"6fc2e144c32363c6","toSide":"left","color":"6"},
+		{"id":"3f632afcc1851149","fromNode":"fce051678044a4c9","fromSide":"right","toNode":"6fc2e144c32363c6","toSide":"left","color":"6"},
+		{"id":"300f578fb7bb74d8","fromNode":"c87d0fc3efb5e9a8","fromSide":"right","toNode":"6fc2e144c32363c6","toSide":"left","color":"6"},
+		{"id":"dbb78ac85bbb7f2d","fromNode":"539546d9233b7300","fromSide":"right","toNode":"6fc2e144c32363c6","toSide":"left","color":"6"},
+		{"id":"799cb3766c45e0f5","fromNode":"289c3f6314af1073","fromSide":"right","toNode":"60394879927341ef","toSide":"left"},
+		{"id":"cbf2150c05ea455e","fromNode":"289c3f6314af1073","fromSide":"right","toNode":"d68f56279a5cbc47","toSide":"left"},
+		{"id":"f3a266cf869820a8","fromNode":"60394879927341ef","fromSide":"right","toNode":"e6c6926e0d595f9f","toSide":"left"},
+		{"id":"6384cc98c34cc305","fromNode":"d68f56279a5cbc47","fromSide":"right","toNode":"e6c6926e0d595f9f","toSide":"left"},
+		{"id":"923202462de3ce62","fromNode":"e6c6926e0d595f9f","fromSide":"right","toNode":"f31e8417ede1aa9c","toSide":"left","color":"6"},
+		{"id":"d1c1334fa95b1494","fromNode":"9d53f79b3067a646","fromSide":"right","toNode":"fd55e9e7d0b9171d","toSide":"left"},
+		{"id":"fe80b1d8291ebb45","fromNode":"35c83541ae1a90c7","fromSide":"bottom","toNode":"43903fd673b1a80b","toSide":"top","color":"2"},
+		{"id":"3fe6c4571346c017","fromNode":"984cca5608139415","fromSide":"right","toNode":"7aae301d71804b3a","toSide":"left","color":"4"},
+		{"id":"dc45995cecf55f00","fromNode":"984cca5608139415","fromSide":"right","toNode":"be22c753479731fa","toSide":"left"},
+		{"id":"0881c66735786d00","fromNode":"984cca5608139415","fromSide":"right","toNode":"db86cca3474043ec","toSide":"left"},
+		{"id":"e62fb124d9ea656a","fromNode":"984cca5608139415","fromSide":"right","toNode":"8ffce834ddf4de3a","toSide":"left"},
+		{"id":"2ff96c249a9c8aa3","fromNode":"7aae301d71804b3a","fromSide":"right","toNode":"a47b0220e7b9d5ce","toSide":"left","color":"4"},
+		{"id":"1b69373d2a48c35d","fromNode":"79e9c9f56510d9ab","fromSide":"right","toNode":"289c3f6314af1073","toSide":"left","color":"4"},
+		{"id":"bfd8f2876b517abc","fromNode":"5fabd8debeb936ce","fromSide":"right","toNode":"5ebd60ce848dfdd5","toSide":"left"},
+		{"id":"2852b4cd91dfc507","fromNode":"69110c5e5795df2a","fromSide":"right","toNode":"78d2e07cbe37587b","toSide":"left"},
+		{"id":"602cee5961b6cec8","fromNode":"9d53f79b3067a646","fromSide":"right","toNode":"7ef7069d7ed79b2f","toSide":"left"},
+		{"id":"e6e97ed1a5e4c61c","fromNode":"c5f027f6a35a09be","fromSide":"right","toNode":"b1f5f0b1e19d54cf","toSide":"left","color":"6"},
+		{"id":"7bc10db5af212b90","fromNode":"3bcdbb7d1cc320da","fromSide":"right","toNode":"69110c5e5795df2a","toSide":"left"},
+		{"id":"2fa343483c3c0d00","fromNode":"3bcdbb7d1cc320da","fromSide":"right","toNode":"9d53f79b3067a646","toSide":"left"},
+		{"id":"a7a9598a2be0e403","fromNode":"3bcdbb7d1cc320da","fromSide":"right","toNode":"f68c20560c809b00","toSide":"left"},
+		{"id":"7459bc1f74cd4124","fromNode":"f68c20560c809b00","fromSide":"right","toNode":"41f359d76e02ce64","toSide":"left"},
+		{"id":"5c7677477277f878","fromNode":"b8aeb13b1e0c673d","fromSide":"right","toNode":"c9715e18e54745a6","toSide":"left"},
+		{"id":"27946f5ce6e6b176","fromNode":"c9715e18e54745a6","fromSide":"right","toNode":"b9d02e42eb7cfc88","toSide":"left"},
+		{"id":"37ef45b1ea993765","fromNode":"c9715e18e54745a6","fromSide":"bottom","toNode":"01106ad6512ed342","toSide":"left"},
+		{"id":"e1c34859d705202f","fromNode":"b9d02e42eb7cfc88","fromSide":"bottom","toNode":"01106ad6512ed342","toSide":"top"},
+		{"id":"bee563e7ad0d7608","fromNode":"01106ad6512ed342","fromSide":"right","toNode":"bfb2e350bf28f981","toSide":"left"},
+		{"id":"3e8f4abdd4d790c1","fromNode":"01106ad6512ed342","fromSide":"right","toNode":"7beba18e18025fb4","toSide":"left"},
+		{"id":"1a47a7b8523e94d2","fromNode":"01106ad6512ed342","fromSide":"right","toNode":"f6ae801bed6b7af3","toSide":"left"},
+		{"id":"5f26321669c1b479","fromNode":"01106ad6512ed342","fromSide":"right","toNode":"2e99853f441c135a","toSide":"left"},
+		{"id":"e6c717e7ca67f1be","fromNode":"0375a949f4a423bb","fromSide":"right","toNode":"b1f5f0b1e19d54cf","toSide":"left"},
+		{"id":"62539f658febe5db","fromNode":"d08e69d71e606880","fromSide":"right","toNode":"65c715f0b896cb5b","toSide":"left"},
+		{"id":"60d11e8169aca5db","fromNode":"d08e69d71e606880","fromSide":"right","toNode":"99efb82d519f82fb","toSide":"left"},
+		{"id":"a691c3d778dbd248","fromNode":"99efb82d519f82fb","fromSide":"right","toNode":"7a7c1e6904d12779","toSide":"left"},
+		{"id":"319160b6d46a01e2","fromNode":"79e9c9f56510d9ab","fromSide":"bottom","toNode":"ee7831ac7b28d596","toSide":"top","color":"4"},
+		{"id":"7acfa14f5a1414ff","fromNode":"9a045b2618cdb430","fromSide":"right","toNode":"35c83541ae1a90c7","toSide":"left","color":"2"},
+		{"id":"cc6e1a48d4480f46","fromNode":"c07b718b0d8f8638","fromSide":"right","toNode":"1dde586307293ea5","toSide":"left"},
+		{"id":"4dacc3de4938284f","fromNode":"4bb87d39d902805e","fromSide":"right","toNode":"a9777c773e7708ee","toSide":"left"},
+		{"id":"30350daba32d5c3e","fromNode":"4bb87d39d902805e","fromSide":"bottom","toNode":"110c3317b933e3a6","toSide":"top"},
+		{"id":"0c7153bb79b1afc2","fromNode":"f31e8417ede1aa9c","fromSide":"bottom","toNode":"99ed1c562e367dd0","toSide":"top"},
+		{"id":"88032d61b4aaba87","fromNode":"99ed1c562e367dd0","fromSide":"right","toNode":"465cf84cba814fe8","toSide":"left","color":"5"},
+		{"id":"da360f5cdee32b26","fromNode":"99ed1c562e367dd0","fromSide":"right","toNode":"87c1de1f6d720cbf","toSide":"left","color":"5"},
+		{"id":"93d8ba7dac77544e","fromNode":"99ed1c562e367dd0","fromSide":"bottom","toNode":"978765f94735b862","toSide":"top"},
+		{"id":"e11eb804e4445636","fromNode":"c85480213bec4543","fromSide":"right","toNode":"ae492d22f551f7c2","toSide":"left"},
+		{"id":"cfffc051b3918b85","fromNode":"c85480213bec4543","fromSide":"right","toNode":"b010dfeb09043883","toSide":"left"},
+		{"id":"f4d47e3f720deb8e","fromNode":"c85480213bec4543","fromSide":"right","toNode":"93e5f512f2f23ad7","toSide":"left"},
+		{"id":"d291d1e4ce4e919c","fromNode":"ae492d22f551f7c2","fromSide":"right","toNode":"8986a2474f57c371","toSide":"left"},
+		{"id":"da9824115d9ae4be","fromNode":"ae492d22f551f7c2","fromSide":"right","toNode":"1e4a3b3edaada998","toSide":"left"},
+		{"id":"d5016d1a74e81628","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"539a137654898f84","toSide":"left"},
+		{"id":"7bdd0d6ffffd8e6c","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"1455401880dabb67","toSide":"left"},
+		{"id":"436a906a04ec6853","fromNode":"539a137654898f84","fromSide":"right","toNode":"402a7a01b741ee88","toSide":"left"},
+		{"id":"e611993b0f6b2777","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"e94c6f1abe8f8d6e","toSide":"left"},
+		{"id":"11dae964100573ce","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"b62ab4a4f8420061","toSide":"left"},
+		{"id":"2a3d63e84782205d","fromNode":"e94c6f1abe8f8d6e","fromSide":"right","toNode":"504fb72523566b8b","toSide":"left"},
+		{"id":"187585d2e7e79778","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"8cb115845bc01792","toSide":"left"},
+		{"id":"dcd3f2217a7efd8b","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"09c9ec276aecc865","toSide":"left"},
+		{"id":"53bf7694a5fd9999","fromNode":"95c264a585d4dfed","fromSide":"right","toNode":"09c9ec276aecc865","toSide":"left"},
+		{"id":"dcee78e5e9c28bb3","fromNode":"09c9ec276aecc865","fromSide":"right","toNode":"7cf51d84f96b6255","toSide":"left"},
+		{"id":"aec9ff5ed9a7ff33","fromNode":"7cf51d84f96b6255","fromSide":"right","toNode":"425bd5ca6678371f","toSide":"left"},
+		{"id":"fdffe563bb2822d0","fromNode":"7cf51d84f96b6255","fromSide":"right","toNode":"5cbd6f1d362c7a8d","toSide":"left"},
+		{"id":"8407700b5bfa8a43","fromNode":"17946f80d595208e","fromSide":"right","toNode":"884f302182944daf","toSide":"left"},
+		{"id":"c7bba3943a6c878c","fromNode":"884f302182944daf","fromSide":"right","toNode":"ba7f76f60a27e647","toSide":"left"},
+		{"id":"01c833dc9164a73e","fromNode":"3de1bfd5cc179c53","fromSide":"right","toNode":"3e05ab5ff585e30b","toSide":"left"},
+		{"id":"dd34f64ad470b4df","fromNode":"b0ca71ae673c0cbd","fromSide":"right","toNode":"d82039d234cc0c4d","toSide":"left"},
+		{"id":"c8c3f17861191b5a","fromNode":"1dde586307293ea5","fromSide":"right","toNode":"08c6d30acb6dc09a","toSide":"left"},
+		{"id":"056372d75b9efa22","fromNode":"21d85a320b1af9b8","fromSide":"right","toNode":"2e1a8bdd2e63f745","toSide":"left"},
+		{"id":"71d65173ccabb334","fromNode":"533ce5c5cf43944b","fromSide":"right","toNode":"6599d5798395cf90","toSide":"left"},
+		{"id":"0c4c80b86705a382","fromNode":"0b2d312d0b113757","fromSide":"right","toNode":"9614d6261a95a294","toSide":"left"},
+		{"id":"0805e7b2a5d62f9c","fromNode":"0b2d312d0b113757","fromSide":"right","toNode":"8aedea0c7934af83","toSide":"left"},
+		{"id":"dc7686447335ce52","fromNode":"1cf18d5848b550fc","fromSide":"bottom","toNode":"425f58a4e8ec9dfa","toSide":"top"},
+		{"id":"9bdf5b81e0f42f37","fromNode":"33f30f85f4d13dc0","fromSide":"right","toNode":"f148d55192c5d843","toSide":"left"},
+		{"id":"8d8c12873bcdba76","fromNode":"9bb98242c50be71f","fromSide":"right","toNode":"0b2d312d0b113757","toSide":"left"},
+		{"id":"411ea72698fb8f94","fromNode":"59d74f6a3952a109","fromSide":"right","toNode":"a9b5f753ff42c59b","toSide":"left"},
+		{"id":"71ae69123a9c639c","fromNode":"a9b5f753ff42c59b","fromSide":"right","toNode":"e1317b8f5cfee687","toSide":"left"},
+		{"id":"1d7cb2abcf75ae1e","fromNode":"a9b5f753ff42c59b","fromSide":"bottom","toNode":"7f816f6a77327856","toSide":"left"},
+		{"id":"c2e66f7c8c47c969","fromNode":"e1317b8f5cfee687","fromSide":"bottom","toNode":"7f816f6a77327856","toSide":"top"},
+		{"id":"c17714f20858ed0b","fromNode":"7f816f6a77327856","fromSide":"right","toNode":"2a93e0bee6113c3c","toSide":"left"},
+		{"id":"7f1863b2f381eb94","fromNode":"7f816f6a77327856","fromSide":"right","toNode":"d54ec9e4cd0e062c","toSide":"left"},
+		{"id":"656aae8d54271d7d","fromNode":"7f816f6a77327856","fromSide":"right","toNode":"2b8a2466e8323e1e","toSide":"left"},
+		{"id":"1ff62fe92081c796","fromNode":"7f816f6a77327856","fromSide":"right","toNode":"0b2d312d0b113757","toSide":"top"},
+		{"id":"8bc8e865bf0d39bd","fromNode":"6599d5798395cf90","fromSide":"right","toNode":"9bb98242c50be71f","toSide":"left"},
+		{"id":"71d2d57539632555","fromNode":"533ce5c5cf43944b","fromSide":"right","toNode":"e91b1063d2431c78","toSide":"left"},
+		{"id":"9deee27f9d4713c0","fromNode":"e91b1063d2431c78","fromSide":"bottom","toNode":"9fd999f1e3d0e75d","toSide":"top"},
+		{"id":"fa9c362e970f8af0","fromNode":"7a7c1e6904d12779","fromSide":"right","toNode":"6cdbeda2d3b17544","toSide":"left"},
+		{"id":"807b680fe60aa771","fromNode":"f455320be0783586","fromSide":"right","toNode":"9d439f7a14045bbc","toSide":"left"},
+		{"id":"e60dd74490ef4179","fromNode":"f455320be0783586","fromSide":"right","toNode":"0985b32b7409506d","toSide":"left"},
+		{"id":"0a6359b8ac0bb95c","fromNode":"f455320be0783586","fromSide":"right","toNode":"ac1d9d534edc6973","toSide":"left"},
+		{"id":"0c1bfbad64b891f3","fromNode":"aba63b67d6188519","fromSide":"right","toNode":"ad2b04ba75c18b46","toSide":"left"},
+		{"id":"55410f48b03f96e6","fromNode":"c1208c43df0455b6","fromSide":"right","toNode":"aba63b67d6188519","toSide":"left"},
+		{"id":"e554f0815c0316c8","fromNode":"713eb0b50ceaf562","fromSide":"right","toNode":"3de1bfd5cc179c53","toSide":"left"},
+		{"id":"d46a633c65881d1c","fromNode":"3de1bfd5cc179c53","fromSide":"right","toNode":"402a7a01b741ee88","toSide":"left"},
+		{"id":"d80f0113792bcdf6","fromNode":"d543ef804e32a2ce","fromSide":"right","toNode":"043b5ae9d771e836","toSide":"left"},
+		{"id":"d119e5b138c9488e","fromNode":"f455320be0783586","fromSide":"right","toNode":"b38cd79715b15efe","toSide":"left"},
+		{"id":"4714564d4b6bae77","fromNode":"e9fdba2a724f0feb","fromSide":"right","toNode":"9b77a6b374794966","toSide":"left"},
+		{"id":"8105e8d78acc7721","fromNode":"9b77a6b374794966","fromSide":"right","toNode":"408d1bd01e10ca96","toSide":"left"},
+		{"id":"fc26ac7535403cab","fromNode":"533ce5c5cf43944b","fromSide":"right","toNode":"21576aabb021fd49","toSide":"left"},
+		{"id":"4b7941057f09358e","fromNode":"408d1bd01e10ca96","fromSide":"right","toNode":"21576aabb021fd49","toSide":"left"},
+		{"id":"7710f9ced94c6070","fromNode":"21576aabb021fd49","fromSide":"right","toNode":"1eeae3312de7833e","toSide":"left"},
+		{"id":"b4406d18eef54f1f","fromNode":"38dd3c9a1b009c09","fromSide":"bottom","toNode":"1eeae3312de7833e","toSide":"left"},
+		{"id":"feec3c7a8a43b67d","fromNode":"e91b1063d2431c78","fromSide":"bottom","toNode":"84f435b486e2a0bd","toSide":"left"},
+		{"id":"dc6ab2fb6c09898e","fromNode":"1eeae3312de7833e","fromSide":"right","toNode":"84f435b486e2a0bd","toSide":"left"},
+		{"id":"a141b95e33d993bb","fromNode":"e2a4077ac916681b","fromSide":"right","toNode":"1998a95f46bd669b","toSide":"left"},
+		{"id":"6e19acefa45bbf61","fromNode":"e2a4077ac916681b","fromSide":"right","toNode":"adb120f590e334db","toSide":"left"},
+		{"id":"ba000ace90ba1380","fromNode":"273f65f5dbfed059","fromSide":"right","toNode":"a59d9a4afe36c485","toSide":"left"},
+		{"id":"cfe6f85b784bb5df","fromNode":"273f65f5dbfed059","fromSide":"right","toNode":"049a38ea15bc0562","toSide":"left"},
+		{"id":"0e06b8dff20ecaae","fromNode":"273f65f5dbfed059","fromSide":"right","toNode":"1766e8835fb63f22","toSide":"left"},
+		{"id":"c93aa3239668f470","fromNode":"e5aedd77868bb0cc","fromSide":"right","toNode":"538eb43c376cb039","toSide":"left"},
+		{"id":"300592154ba29977","fromNode":"9a7ba751d1964596","fromSide":"right","toNode":"538eb43c376cb039","toSide":"left"},
+		{"id":"3cb12460354bb01f","fromNode":"3e2ff5c1f9add1a3","fromSide":"right","toNode":"e705b37b47297fda","toSide":"left"},
+		{"id":"16d1a10e154878a0","fromNode":"d4acd0bb83d8b678","fromSide":"right","toNode":"e705b37b47297fda","toSide":"left"},
+		{"id":"3771f188b30b2c06","fromNode":"681c9d814675f88a","fromSide":"right","toNode":"e5aedd77868bb0cc","toSide":"left"},
+		{"id":"eced2339c4e30ca3","fromNode":"681c9d814675f88a","fromSide":"right","toNode":"9a7ba751d1964596","toSide":"left"},
+		{"id":"5067f5f30259eda9","fromNode":"681c9d814675f88a","fromSide":"right","toNode":"d4acd0bb83d8b678","toSide":"left"},
+		{"id":"331bc976afbe7acf","fromNode":"681c9d814675f88a","fromSide":"right","toNode":"3e2ff5c1f9add1a3","toSide":"left"},
+		{"id":"dc2b70f29cd070d9","fromNode":"0364ee05ac0c4e46","fromSide":"right","toNode":"5f2e96eaeb84f157","toSide":"left"},
+		{"id":"717ebc190b932988","fromNode":"0364ee05ac0c4e46","fromSide":"right","toNode":"51bdb62b5818e27f","toSide":"left"},
+		{"id":"a3034ceb39ca624a","fromNode":"0364ee05ac0c4e46","fromSide":"right","toNode":"ac96ac3a749277ed","toSide":"left"},
+		{"id":"9aaeb0fee283338f","fromNode":"0364ee05ac0c4e46","fromSide":"right","toNode":"ad2d589ad94c1146","toSide":"left"},
+		{"id":"571e0cac79466ab9","fromNode":"ac96ac3a749277ed","fromSide":"right","toNode":"33abf3f0e70f8aa8","toSide":"left"},
+		{"id":"5a9e747085a98efc","fromNode":"37742d0bf6ef1228","fromSide":"right","toNode":"3b7774f42647dbb2","toSide":"top"},
+		{"id":"30c64b1db4050d97","fromNode":"3b7774f42647dbb2","fromSide":"right","toNode":"138f43cc4acb9457","toSide":"left"},
+		{"id":"c0bf564cff604444","fromNode":"3b7774f42647dbb2","fromSide":"right","toNode":"9ee0ceb384c37ee8","toSide":"left"},
+		{"id":"5c245aca3debc29d","fromNode":"9ee0ceb384c37ee8","fromSide":"right","toNode":"d663df3097d986c8","toSide":"left"},
+		{"id":"9db76034f119812f","fromNode":"d663df3097d986c8","fromSide":"right","toNode":"3bf8e1a52783d09c","toSide":"left"},
+		{"id":"f6818c95f37546ef","fromNode":"d663df3097d986c8","fromSide":"right","toNode":"00814fe9e17a3087","toSide":"left"},
+		{"id":"e2761981ff609b1b","fromNode":"3b7774f42647dbb2","fromSide":"right","toNode":"072bd86a1505da2e","toSide":"left"},
+		{"id":"8b94ee0fbd7784d1","fromNode":"29876c44a5689f5a","fromSide":"right","toNode":"b7200b4992a98948","toSide":"left"},
+		{"id":"5c29b0d73c06ed27","fromNode":"93c53d329d3c6d7b","fromSide":"right","toNode":"c1711d581a653d19","toSide":"left"},
+		{"id":"db6a7fef637a40a1","fromNode":"c1711d581a653d19","fromSide":"right","toNode":"f5d8674ab4e4e93d","toSide":"left"},
+		{"id":"26a44bdebf7c8c6f","fromNode":"3de1bfd5cc179c53","fromSide":"right","toNode":"3947299bf6a0249a","toSide":"left"},
+		{"id":"2f8a4532dcbf6e23","fromNode":"3947299bf6a0249a","fromSide":"right","toNode":"dcc1d5b5f74dc6dc","toSide":"left"},
+		{"id":"c240fd43e90d70c2","fromNode":"ad2b04ba75c18b46","fromSide":"right","toNode":"dcc1d5b5f74dc6dc","toSide":"left"},
+		{"id":"1829b46cc183c144","fromNode":"dcc1d5b5f74dc6dc","fromSide":"right","toNode":"827f4c28ef24d9fd","toSide":"left"},
+		{"id":"4dc63aa74202fdef","fromNode":"dcc1d5b5f74dc6dc","fromSide":"right","toNode":"f92e1c805b63b778","toSide":"left"},
+		{"id":"4b23d4c35835e7ad","fromNode":"3e05ab5ff585e30b","fromSide":"right","toNode":"f92e1c805b63b778","toSide":"left"},
+		{"id":"94512c793b96d07b","fromNode":"dcc1d5b5f74dc6dc","fromSide":"right","toNode":"f8a89fa5ea968cf7","toSide":"left"},
+		{"id":"95487a9cf542a185","fromNode":"886b719529984ec2","fromSide":"right","toNode":"7be0a3f31427a391","toSide":"left"},
+		{"id":"9ceb2e682f52d576","fromNode":"886b719529984ec2","fromSide":"right","toNode":"71ee42152de6e611","toSide":"left"},
+		{"id":"e6da1507c930c314","fromNode":"886b719529984ec2","fromSide":"right","toNode":"f3605a4b7ede8c20","toSide":"left"},
+		{"id":"f7c62c5249f3479f","fromNode":"886b719529984ec2","fromSide":"right","toNode":"45bf52946dbd92fc","toSide":"left"},
+		{"id":"2de42d58ff6f60d5","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"1f799cf75272036c","toSide":"left"},
+		{"id":"ea2ded3999a44863","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"e6007b961305d581","toSide":"left"},
+		{"id":"a9c0ff2ed36bcb45","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"60ba705db0ce9a5d","toSide":"left"},
+		{"id":"691cadbdb21ec7ce","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"6e8bd978f9aef323","toSide":"left"},
+		{"id":"4ec8d9e2954b175a","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"1ba230be81e58f33","toSide":"left"},
+		{"id":"5eee8cc92701a081","fromNode":"38dd3c9a1b009c09","fromSide":"right","toNode":"1ba230be81e58f33","toSide":"left"},
+		{"id":"e90fad722036dfa7","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"d9827f349f7925da","toSide":"left"},
+		{"id":"7704ecebfe06cf9a","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"cd5c1a7f6e5b3b5a","toSide":"left"},
+		{"id":"b05f9e3961940d98","fromNode":"9abd147db87b1106","fromSide":"right","toNode":"ca57dde0ddc991ba","toSide":"left"},
+		{"id":"f268a4bff7d5a627","fromNode":"75be7857d8a512bd","fromSide":"right","toNode":"5777f1665c0c1482","toSide":"left"},
+		{"id":"a58384715b129c4c","fromNode":"75be7857d8a512bd","fromSide":"right","toNode":"152906b39ae60aea","toSide":"left"},
+		{"id":"7edc89254203b3d2","fromNode":"d3bdf23894885e44","fromSide":"right","toNode":"d6ac4ad7f5db24a5","toSide":"left"},
+		{"id":"3d84c3598bb9e612","fromNode":"d6ac4ad7f5db24a5","fromSide":"right","toNode":"ad871db630b30e75","toSide":"left"},
+		{"id":"80cff63611ccfff2","fromNode":"219fc154a8296eaf","fromSide":"right","toNode":"660e2d895b3a0439","toSide":"left"},
+		{"id":"82757421a3a04c6d","fromNode":"219fc154a8296eaf","fromSide":"right","toNode":"fd5ab238aaa04250","toSide":"left"},
+		{"id":"245d48a2d482ac4c","fromNode":"08507cf3c6f0a95e","fromSide":"right","toNode":"6e1fe11653e5ccfa","toSide":"left"},
+		{"id":"146c77a5b8923aff","fromNode":"d3bdf23894885e44","fromSide":"right","toNode":"75be7857d8a512bd","toSide":"left"},
+		{"id":"ef7e800986d653c7","fromNode":"67bec4a8ac6c7025","fromSide":"right","toNode":"a46bc14b09cea247","toSide":"left"},
+		{"id":"229bf048f295c2fb","fromNode":"8adca25746507384","fromSide":"right","toNode":"bb66850cf7554500","toSide":"left"},
+		{"id":"5aced2d8d33e8810","fromNode":"219fc154a8296eaf","fromSide":"right","toNode":"08507cf3c6f0a95e","toSide":"left"},
+		{"id":"5a470094db27f0df","fromNode":"23c201eb06c2055f","fromSide":"right","toNode":"07df4b1d3159410c","toSide":"left"},
+		{"id":"ae8813310d76e555","fromNode":"cc05955cd3953e04","fromSide":"right","toNode":"740c883e2d5d3657","toSide":"left"},
+		{"id":"e3058a059b8e11a5","fromNode":"503a44c4c0b0cbe8","fromSide":"right","toNode":"b0f6e55108128ca7","toSide":"left"},
+		{"id":"9951a058d8feb577","fromNode":"d5fa213ebbee05f6","fromSide":"right","toNode":"2f15ba0087521d18","toSide":"left"},
+		{"id":"4732af527a4e50e4","fromNode":"21ae195b9f449a23","fromSide":"right","toNode":"9547122013d5a43d","toSide":"left","label":"逆定理"},
+		{"id":"659b2597559a1f82","fromNode":"b1740f3039b0ee4e","fromSide":"right","toNode":"8c8ba0e039f53a50","toSide":"left"},
+		{"id":"f5adb62ad5c05441","fromNode":"92c28e686b66c4b8","fromSide":"right","toNode":"c68d874dc0a5d1ec","toSide":"left"},
+		{"id":"5c346fd1e6b863b5","fromNode":"760dc545b4facac8","fromSide":"right","toNode":"8415f0f37c53d3da","toSide":"left"}
 	]
 }
