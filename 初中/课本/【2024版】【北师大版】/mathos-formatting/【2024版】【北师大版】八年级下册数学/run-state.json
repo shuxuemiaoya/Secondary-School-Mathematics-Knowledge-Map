@@ -1,0 +1,33 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\【2024版】【北师大版】八年级下册数学.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-chat",
+  "stage": "complete",
+  "status": "candidate-written",
+  "artifacts": {
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\step1_toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\toc_detection_response.md",
+    "toc": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\toc.md",
+    "toc_and_headings": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\toc_and_headings.md",
+    "heading_script": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\heading_processor.py",
+    "heading_expected_result": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\heading_expected_result.md",
+    "stage1_report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\stage1_heading_report.md",
+    "heading_check_input": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\heading_check_input.md",
+    "heading_check_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\step5_heading_validation_prompt.md",
+    "heading_check_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\heading_check_response.json",
+    "h1_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\h1_sample.md",
+    "content_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\step6_content_processor_prompt.md",
+    "content_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\content_processor_response.py",
+    "content_script": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\content_processor.py",
+    "candidate": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\candidate.md",
+    "report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\初中\\课本\\【2024版】【北师大版】\\mathos-formatting\\【2024版】【北师大版】八年级下册数学\\candidate-report.md"
+  },
+  "warnings": [],
+  "errors": [],
+  "approved": false,
+  "toc_start_line": 49,
+  "toc_end_line": 119,
+  "stage1_validated": true
+}
