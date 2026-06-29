@@ -6,7 +6,7 @@
   "deleteUnlinkedAttachments": "always",
   "attachmentFolderPath": "./images",
   "defaultViewMode": "preview",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "promptDelete": false,
   "showInlineTitle": false,
   "pdfExportSettings": {
@@ -14,5 +14,9 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "userIgnoreFilters": [
+    "/.*\\.canvas$/",
+    "/.*\\.(png|jpg|jpeg|gif|webp|svg|bmp|tiff|ico)$/"
+  ]
 }
