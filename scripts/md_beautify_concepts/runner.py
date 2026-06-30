@@ -2,6 +2,7 @@ from pathlib import Path
 
 from .artifacts import ensure_record, write_dry_candidate, write_json
 from .paths import iter_markdown_targets, resolve_concept_path
+from .prompt import build_prompt
 from .provider import Provider
 from .validate import parse_llm_json, validate_result
 
@@ -16,7 +17,7 @@ def run_dry(input_path: Path, record_dir: Path, provider: Provider) -> Path:
     failures = []
     for source_path in targets:
         original = source_path.read_text(encoding="utf-8")
-        raw = provider.complete_file(source_path, original)
+        raw = provider.complete_file(source_path, build_prompt(source_path, original))
         (record_dir / "llm-responses" / f"{source_path.stem}.json").write_text(raw, encoding="utf-8")
         try:
             result = parse_llm_json(raw)
@@ -48,7 +49,7 @@ def run_apply(input_path: Path, record_dir: Path, provider: Provider) -> Path:
     failures = []
     for source_path in targets:
         original = source_path.read_text(encoding="utf-8")
-        raw = provider.complete_file(source_path, original)
+        raw = provider.complete_file(source_path, build_prompt(source_path, original))
         (record_dir / "llm-responses" / f"{source_path.stem}.json").write_text(raw, encoding="utf-8")
         try:
             result = parse_llm_json(raw)

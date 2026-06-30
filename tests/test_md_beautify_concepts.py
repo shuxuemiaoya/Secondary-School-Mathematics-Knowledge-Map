@@ -11,6 +11,7 @@ from scripts.md_beautify_concepts.paths import iter_markdown_targets, resolve_co
 from scripts.md_beautify_concepts.provider import FixtureProvider
 from scripts.md_beautify_concepts.runner import run_apply, run_dry
 from scripts.md_beautify_concepts.console import safe_print
+from scripts.md_beautify_concepts.prompt import build_prompt
 from scripts.md_beautify_concepts.validate import parse_llm_json, validate_result
 
 
@@ -196,3 +197,17 @@ def test_safe_print_ignores_windows_closed_pipe_oserror(monkeypatch: pytest.Monk
     monkeypatch.setattr("builtins.print", raise_closed_pipe)
 
     safe_print("anything")
+
+
+def test_build_prompt_includes_rules_source_path_and_schema(tmp_path: Path) -> None:
+    rules = tmp_path / "beautify-md.md"
+    rules.write_text("核心规则：不要删除有效内容。", encoding="utf-8")
+    source = tmp_path / "lesson.md"
+
+    prompt = build_prompt(source, "# 线段\n", rules_path=rules)
+
+    assert "核心规则：不要删除有效内容。" in prompt
+    assert str(source) in prompt
+    assert "# 线段" in prompt
+    assert "formatted_markdown" in prompt
+    assert "concept_files" in prompt
