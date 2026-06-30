@@ -10,6 +10,10 @@ SKIPPED_DIRS = {
     "agent-memory",
     "docs",
     "images",
+    "scripts",
+    "skills",
+    "test",
+    "tests",
     "概念",
 }
 

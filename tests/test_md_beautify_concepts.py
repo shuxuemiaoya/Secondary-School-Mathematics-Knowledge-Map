@@ -29,6 +29,10 @@ def test_iter_markdown_targets_skips_generated_dirs(tmp_path: Path) -> None:
     write_text(tmp_path / ".claude" / "skills" / "beautify-md.md")
     write_text(tmp_path / ".pytest_cache" / "README.md")
     write_text(tmp_path / "agent-memory" / "records" / "old.md")
+    write_text(tmp_path / "scripts" / "tool.md")
+    write_text(tmp_path / "skills" / "workflow" / "SKILL.md")
+    write_text(tmp_path / "tests" / "fixture.md")
+    write_text(tmp_path / "test" / "fixture.md")
 
     targets = [path.relative_to(tmp_path).as_posix() for path in iter_markdown_targets(tmp_path)]
 
