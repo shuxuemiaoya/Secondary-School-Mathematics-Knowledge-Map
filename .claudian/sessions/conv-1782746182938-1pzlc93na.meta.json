@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782746182938-1pzlc93na",
+  "providerId": "claude",
+  "title": "Beautify markdown content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782746182938,
+  "updatedAt": 1782747104064,
+  "lastResponseAt": 1782747104064,
+  "sessionId": "44c626d7-f527-417c-967e-504941479187",
+  "providerState": {
+    "providerSessionId": "44c626d7-f527-417c-967e-504941479187"
+  },
+  "currentNote": "初中/课本/【2024版】【北师大版】/【2024版】【北师大版】七年级上册数学/1 线段、射线、直线.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 576,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85120,
+    "contextWindow": 200000,
+    "contextTokens": 85696,
+    "percentage": 43
+  }
+}
