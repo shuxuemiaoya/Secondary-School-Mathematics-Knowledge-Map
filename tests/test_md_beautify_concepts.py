@@ -4,6 +4,8 @@ import json
 import pytest
 
 from scripts.md_beautify_concepts.paths import iter_markdown_targets, resolve_concept_path
+from scripts.md_beautify_concepts.provider import FixtureProvider
+from scripts.md_beautify_concepts.runner import run_dry
 from scripts.md_beautify_concepts.validate import parse_llm_json, validate_result
 
 
@@ -109,3 +111,25 @@ def test_validate_result_accepts_matching_concept_file(tmp_path: Path) -> None:
     )
 
     assert validate_result(source, "线段有两个端点。\n", result) == []
+
+
+def test_run_dry_writes_candidate_artifacts_without_modifying_source(tmp_path: Path) -> None:
+    source = tmp_path / "lesson.md"
+    original = "线段有两个端点。\n"
+    write_text(source, original)
+    provider = FixtureProvider(
+        {
+            source.resolve(): {
+                "formatted_markdown": "[[概念/线段]]有两个端点。\n",
+                "concept_files": [{"name": "线段.md", "title": "线段", "body": "# 线段\n\n有两个端点。\n"}],
+                "risk_notes": [],
+            }
+        }
+    )
+
+    record = run_dry(source, tmp_path / "agent-memory" / "records" / "test-run", provider)
+
+    assert source.read_text(encoding="utf-8") == original
+    assert (record / "candidates" / "lesson.md").exists()
+    assert (record / "candidates" / "lesson" / "概念" / "线段.md").exists()
+    assert (record / "result-summary.json").exists()
