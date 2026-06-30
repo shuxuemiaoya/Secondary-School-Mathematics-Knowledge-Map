@@ -1,11 +1,16 @@
 from pathlib import Path
+import io
 import json
+import os
+import subprocess
+import sys
 
 import pytest
 
 from scripts.md_beautify_concepts.paths import iter_markdown_targets, resolve_concept_path
 from scripts.md_beautify_concepts.provider import FixtureProvider
-from scripts.md_beautify_concepts.runner import run_dry
+from scripts.md_beautify_concepts.runner import run_apply, run_dry
+from scripts.md_beautify_concepts.console import safe_print
 from scripts.md_beautify_concepts.validate import parse_llm_json, validate_result
 
 
@@ -21,6 +26,7 @@ def test_iter_markdown_targets_skips_generated_dirs(tmp_path: Path) -> None:
     write_text(tmp_path / "images" / "image.png.md")
     write_text(tmp_path / ".obsidian" / "config.md")
     write_text(tmp_path / ".claude" / "skills" / "beautify-md.md")
+    write_text(tmp_path / ".pytest_cache" / "README.md")
     write_text(tmp_path / "agent-memory" / "records" / "old.md")
 
     targets = [path.relative_to(tmp_path).as_posix() for path in iter_markdown_targets(tmp_path)]
@@ -133,3 +139,60 @@ def test_run_dry_writes_candidate_artifacts_without_modifying_source(tmp_path: P
     assert (record / "candidates" / "lesson.md").exists()
     assert (record / "candidates" / "lesson" / "概念" / "线段.md").exists()
     assert (record / "result-summary.json").exists()
+
+
+def test_run_apply_writes_source_and_concepts_after_validation(tmp_path: Path) -> None:
+    source = tmp_path / "lesson.md"
+    write_text(source, "线段有两个端点。\n")
+    provider = FixtureProvider(
+        {
+            source.resolve(): {
+                "formatted_markdown": "[[概念/线段]]有两个端点。\n",
+                "concept_files": [{"name": "线段.md", "title": "线段", "body": "# 线段\n\n有两个端点。\n"}],
+                "risk_notes": [],
+            }
+        }
+    )
+
+    run_apply(source, tmp_path / "agent-memory" / "records" / "apply-run", provider)
+
+    assert source.read_text(encoding="utf-8") == "[[概念/线段]]有两个端点。\n"
+    assert (source.parent / "概念" / "线段.md").read_text(encoding="utf-8") == "# 线段\n\n有两个端点。\n"
+
+
+def test_cli_plan_prints_paths_when_stdout_encoding_is_gbk(tmp_path: Path) -> None:
+    source = tmp_path / "lesson • special.md"
+    write_text(source)
+    env = os.environ.copy()
+    env["PYTHONIOENCODING"] = "gbk"
+
+    result = subprocess.run(
+        [sys.executable, "scripts/md_beautify_concepts.py", "plan", str(tmp_path)],
+        cwd=Path(__file__).resolve().parents[1],
+        env=env,
+        text=True,
+        capture_output=True,
+    )
+
+    assert result.returncode == 0, result.stderr
+    assert "lesson" in result.stdout
+
+
+def test_safe_print_ignores_broken_pipe(monkeypatch: pytest.MonkeyPatch) -> None:
+    def raise_broken_pipe(value: str) -> None:
+        raise BrokenPipeError
+
+    monkeypatch.setattr(sys, "stdout", io.StringIO())
+    monkeypatch.setattr("builtins.print", raise_broken_pipe)
+
+    safe_print("anything")
+
+
+def test_safe_print_ignores_windows_closed_pipe_oserror(monkeypatch: pytest.MonkeyPatch) -> None:
+    def raise_closed_pipe(value: str) -> None:
+        raise OSError(22, "Invalid argument")
+
+    monkeypatch.setattr(sys, "stdout", io.StringIO())
+    monkeypatch.setattr("builtins.print", raise_closed_pipe)
+
+    safe_print("anything")

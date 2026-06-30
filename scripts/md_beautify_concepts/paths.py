@@ -6,6 +6,7 @@ SKIPPED_DIRS = {
     ".obsidian",
     ".claude",
     ".claudian",
+    ".pytest_cache",
     "agent-memory",
     "docs",
     "images",
