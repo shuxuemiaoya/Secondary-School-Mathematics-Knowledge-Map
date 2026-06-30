@@ -9,6 +9,8 @@ Use this workflow for mathematical Markdown files in this repository. Treat all 
 
 ## Commands
 
+Set `MD_BEAUTIFY_LLM_COMMAND` to a command that reads the prompt from stdin and writes valid JSON to stdout, or pass `--provider-command "<LLM command>"` on each run command.
+
 Plan without calling the LLM:
 
 ```powershell
@@ -18,13 +20,13 @@ python scripts/md_beautify_concepts.py plan "path\to\file-or-folder"
 Dry run:
 
 ```powershell
-python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --dry-run
+python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --dry-run --provider-command "<LLM command>"
 ```
 
 Apply:
 
 ```powershell
-python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --apply
+python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --apply --provider-command "<LLM command>"
 ```
 
 ## Contract

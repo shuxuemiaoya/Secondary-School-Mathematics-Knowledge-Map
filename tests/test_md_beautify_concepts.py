@@ -8,7 +8,7 @@ import sys
 import pytest
 
 from scripts.md_beautify_concepts.paths import iter_markdown_targets, resolve_concept_path
-from scripts.md_beautify_concepts.provider import FixtureProvider
+from scripts.md_beautify_concepts.provider import CommandProvider, FixtureProvider
 from scripts.md_beautify_concepts.runner import run_apply, run_dry
 from scripts.md_beautify_concepts.console import safe_print
 from scripts.md_beautify_concepts.prompt import build_prompt
@@ -211,3 +211,24 @@ def test_build_prompt_includes_rules_source_path_and_schema(tmp_path: Path) -> N
     assert "# 线段" in prompt
     assert "formatted_markdown" in prompt
     assert "concept_files" in prompt
+
+
+def test_command_provider_sends_prompt_to_external_command(tmp_path: Path) -> None:
+    command_script = tmp_path / "provider.py"
+    command_script.write_text(
+        "\n".join(
+            [
+                "import json",
+                "import sys",
+                "prompt = sys.stdin.read()",
+                "assert 'SOURCE MARKDOWN' in prompt",
+                "print(json.dumps({'formatted_markdown': 'ok', 'concept_files': [], 'risk_notes': []}))",
+            ]
+        ),
+        encoding="utf-8",
+    )
+    provider = CommandProvider(f'"{sys.executable}" "{command_script}"')
+
+    result = provider.complete_file(tmp_path / "lesson.md", "SOURCE MARKDOWN")
+
+    assert json.loads(result)["formatted_markdown"] == "ok"

@@ -1,9 +1,10 @@
 import argparse
 import json
+import os
 from pathlib import Path
 
 from md_beautify_concepts.console import safe_print
-from md_beautify_concepts.provider import FixtureProvider
+from md_beautify_concepts.provider import CommandProvider, FixtureProvider
 from md_beautify_concepts.runner import run_apply, run_dry
 
 
@@ -21,6 +22,7 @@ def main() -> int:
     mode.add_argument("--apply", action="store_true")
     run_parser.add_argument("--record-dir", type=Path, default=Path("agent-memory/records/manual-md-beautify-concepts"))
     run_parser.add_argument("--fixture-response", type=Path)
+    run_parser.add_argument("--provider-command")
 
     args = parser.parse_args()
     if args.command == "plan":
@@ -30,11 +32,14 @@ def main() -> int:
             safe_print(target)
         return 0
 
-    if args.fixture_response is None:
-        raise SystemExit("--fixture-response is required until the real LLM provider is configured")
-
-    response = json.loads(args.fixture_response.read_text(encoding="utf-8"))
-    provider = FixtureProvider({Path(args.path).resolve(): response})
+    if args.fixture_response is not None:
+        response = json.loads(args.fixture_response.read_text(encoding="utf-8"))
+        provider = FixtureProvider({Path(args.path).resolve(): response})
+    else:
+        command = args.provider_command or os.environ.get("MD_BEAUTIFY_LLM_COMMAND")
+        if not command:
+            raise SystemExit("--provider-command or MD_BEAUTIFY_LLM_COMMAND is required")
+        provider = CommandProvider(command)
     if args.dry_run:
         record = run_dry(args.path, args.record_dir, provider)
     else:

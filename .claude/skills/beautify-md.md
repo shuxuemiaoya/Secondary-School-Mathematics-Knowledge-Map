@@ -7,9 +7,11 @@
 
 ```powershell
 python scripts/md_beautify_concepts.py plan "path\to\file-or-folder"
-python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --dry-run
-python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --apply
+python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --dry-run --provider-command "<LLM command>"
+python scripts/md_beautify_concepts.py run "path\to\file-or-folder" --apply --provider-command "<LLM command>"
 ```
+
+也可以设置环境变量 `MD_BEAUTIFY_LLM_COMMAND`，省略命令行里的 `--provider-command`。
 
 规则：一次 LLM 调用同时完成排版美化和概念提取；原文定义位置替换为 `[[概念/概念名]]`；概念文件直接写入源文件同目录的 `概念/`。
 
