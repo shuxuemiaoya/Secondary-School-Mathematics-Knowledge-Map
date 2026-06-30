@@ -1,3 +1,0 @@
-display_name: Markdown Beautify Concepts
-short_description: Batch beautify math Markdown and extract concept files.
-default_prompt: Plan or run Markdown beautification and concept extraction for the provided file or folder.
