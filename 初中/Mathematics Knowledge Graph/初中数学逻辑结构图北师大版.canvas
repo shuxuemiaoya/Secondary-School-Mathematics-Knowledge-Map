@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"d088897fe888b88d","type":"group","x":-260,"y":0,"width":2100,"height":460,"label":"七上第一章丰富的图形世界"},
 		{"id":"3b7e24cae59e1aa4","type":"group","x":-240,"y":60,"width":1200,"height":380,"label":"生活中的立体图形"},
+		{"id":"e19f3f2ef5b91618","x":-160,"y":680,"width":860,"height":380,"type":"group","label":"1 认识有理数"},
 		{"id":"ce5f6f284919f9e2","type":"group","x":-220,"y":120,"width":611,"height":320,"label":"常见的几何体"},
 		{"id":"b19381417092f642","type":"group","x":540,"y":120,"width":380,"height":320,"label":"点线面视角"},
 		{"id":"37cac7600ff5f2d7","type":"group","x":1560,"y":77,"width":260,"height":347,"label":"从立体图形到平面图形"},
-		{"id":"67317467832e3914","type":"text","text":"[常见的几何体](初中/课本/【2024版】【北师大版】/【2024版】【北师大版】七年级上册数学/常见的几何体.md)","x":-220,"y":120,"width":157,"height":50},
 		{"id":"a72d27da4311dc97","type":"text","text":"圆柱 \n圆锥\n正方体  \n长方体\n棱柱  \n球  ","x":-212,"y":186,"width":100,"height":200},
 		{"id":"30d244de1b9db4ba","type":"text","text":"三棱柱\n四棱柱\n五棱柱\n六棱柱\n直棱柱\n斜棱柱 ","x":-63,"y":186,"width":101,"height":200},
 		{"id":"b348bb5b77b4656c","type":"text","text":"![](images/【2024版】【北师大版】七年级上册数学/part-001/96b050dde6e31a25f3164a70726cb0cce5836d0f989487a788d8e74c504fa722.jpg)\n顶点\n侧棱\n侧面\n底面","x":121,"y":145,"width":250,"height":282},
@@ -15,16 +15,23 @@
 		{"id":"0a6ea0cbe43b82f5","type":"text","text":"发展几何直观和空间观念","x":420,"y":-287,"width":250,"height":60},
 		{"id":"a9c2d815def6baa5","type":"text","text":"感知几何体与其展开图、截面图、不同方向的形状图之间的联系","x":80,"y":-287,"width":250,"height":60},
 		{"id":"1edf1567a32b951a","type":"text","text":"感悟点、线、面、体之间的关系","x":-253,"y":-287,"width":250,"height":60},
+		{"id":"67317467832e3914","type":"text","text":"[常见的几何体](初中/课本/【2024版】【北师大版】/【2024版】【北师大版】七年级上册数学/常见的几何体.md)","x":-220,"y":120,"width":157,"height":50},
 		{"id":"8ac0dcfe284b0665","type":"text","text":"[点线面视角](../../点线面视角.md)","x":540,"y":120,"width":145,"height":50},
 		{"id":"52f62fa30ecc2b85","type":"text","text":"[[第一章丰富的图形世界]]","x":-300,"y":0,"width":50,"height":460},
-		{"id":"a1f2f03080d92c6e","type":"text","text":"[[生活中的立体图形 习题1.1]]","x":1100,"y":60,"width":284,"height":60},
-		{"id":"dc17c9667a8cf262","type":"text","text":"[[2 从立体图形到平面图形]]","x":1560,"y":77,"width":260,"height":50},
 		{"id":"647fb341430eb2a5","type":"text","text":"[展开图](展开图.md)","x":1640,"y":160,"width":100,"height":60},
 		{"id":"3579c2bfe5f17dd4","type":"text","text":"[截面](截面.md)","x":1640,"y":247,"width":100,"height":60},
 		{"id":"df4e759738409065","type":"text","text":"\n[[三视图]]","x":1640,"y":348,"width":100,"height":60},
+		{"id":"a1f2f03080d92c6e","type":"text","text":"[[生活中的立体图形 习题1.1]]","x":1100,"y":60,"width":284,"height":60},
+		{"id":"dc17c9667a8cf262","type":"text","text":"[[2 从立体图形到平面图形]]","x":1560,"y":77,"width":260,"height":50},
 		{"id":"e89ddee4200a2a02","type":"text","text":"[[丰富的图形世界 复习题]]","x":2014,"y":126,"width":250,"height":60},
 		{"id":"c80e82d87c7f5138","type":"text","text":"[[丰富的图形世界 回顾与思考]]","x":2014,"y":0,"width":286,"height":60},
-		{"id":"cf0457806b44d98b","type":"text","text":"[[第二章有理数及其运算]]","x":-237,"y":680,"width":250,"height":60}
+		{"id":"cf0457806b44d98b","type":"text","text":"[[第二章有理数及其运算]]","x":-300,"y":660,"width":50,"height":360},
+		{"id":"08da2ef6573c0e6b","x":431,"y":692,"width":260,"height":120,"type":"text","text":"[[绝对值与相反数]]\n正数的绝对值是它本身；\n负数的绝对值是它的相反数；\n$0$ 的绝对值是 $0$。"},
+		{"id":"e2f01bfec562c071","x":431,"y":907,"width":262,"height":145,"type":"text","text":"[[认识数轴]]\n任何一个有理数都可以用数轴上的一个点来表示。\n一个数的绝对值就是这个数所对应的点到原点的距离。"},
+		{"id":"00b557ef7e59bb51","x":790,"y":692,"width":250,"height":60,"type":"text","text":"[[认识有理数 习题 2.1]]"},
+		{"id":"3b4b37f0938ba51b","x":-160,"y":680,"width":140,"height":50,"type":"text","text":"[[1 认识有理数]]"},
+		{"id":"6225cffa2e228dc4","x":-133,"y":812,"width":439,"height":163,"type":"text","text":"整数（integer） $\\left\\{\\begin{array}{l}\\text {正整数：如 }1,2,3,\\cdots\\\\ \\text {零：0}\\\\ \\text {负整数：如 }-1,-2,-3,\\cdots\\end{array}\\right.$ \n分数（fraction） $\\left\\{\\begin{array}{l}\\text {正分数：如 }\\frac{1}{2},\\frac{1}{3},5.2,\\cdots\\\\ \\text {负分数：如 }-\\frac{1}{5},-3.5,-\\frac{5}{6},\\cdots\\end{array}\\right.$\n整数与分数统称[[有理数]]（rational number）。"},
+		{"id":"204b4b978ff94f0f","x":547,"y":1242,"width":250,"height":60,"type":"text","text":"[[2 有理数的加减运算]]"}
 	],
 	"edges":[
 		{"id":"410fecfaae170ba3","fromNode":"30d244de1b9db4ba","fromSide":"right","toNode":"b348bb5b77b4656c","toSide":"left"},
@@ -33,6 +40,9 @@
 		{"id":"2870b1cf464ff65e","fromNode":"ce5f6f284919f9e2","fromSide":"right","toNode":"b19381417092f642","toSide":"left"},
 		{"id":"7bb6ddc546a9563a","fromNode":"3b7e24cae59e1aa4","fromSide":"right","toNode":"a1f2f03080d92c6e","toSide":"left"},
 		{"id":"03c159ed3115caf2","fromNode":"d088897fe888b88d","fromSide":"right","toNode":"c80e82d87c7f5138","toSide":"left"},
-		{"id":"76207fabcc5de0b8","fromNode":"d088897fe888b88d","fromSide":"right","toNode":"e89ddee4200a2a02","toSide":"left"}
+		{"id":"76207fabcc5de0b8","fromNode":"d088897fe888b88d","fromSide":"right","toNode":"e89ddee4200a2a02","toSide":"left"},
+		{"id":"2828a892df88b87b","fromNode":"6225cffa2e228dc4","fromSide":"right","toNode":"08da2ef6573c0e6b","toSide":"left"},
+		{"id":"cd9f9ecaed335a68","fromNode":"6225cffa2e228dc4","fromSide":"right","toNode":"e2f01bfec562c071","toSide":"left"},
+		{"id":"eb661dea3d7d44c9","fromNode":"e19f3f2ef5b91618","fromSide":"right","toNode":"00b557ef7e59bb51","toSide":"left"}
 	]
 }
