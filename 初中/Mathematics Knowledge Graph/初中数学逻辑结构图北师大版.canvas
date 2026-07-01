@@ -1,18 +1,38 @@
 {
 	"nodes":[
+		{"id":"d088897fe888b88d","type":"group","x":-260,"y":0,"width":2100,"height":460,"label":"七上第一章丰富的图形世界"},
+		{"id":"3b7e24cae59e1aa4","type":"group","x":-240,"y":60,"width":1200,"height":380,"label":"生活中的立体图形"},
+		{"id":"ce5f6f284919f9e2","type":"group","x":-220,"y":120,"width":611,"height":320,"label":"常见的几何体"},
+		{"id":"b19381417092f642","type":"group","x":540,"y":120,"width":380,"height":320,"label":"点线面视角"},
+		{"id":"37cac7600ff5f2d7","type":"group","x":1560,"y":77,"width":260,"height":347,"label":"从立体图形到平面图形"},
+		{"id":"67317467832e3914","type":"text","text":"[常见的几何体](初中/课本/【2024版】【北师大版】/【2024版】【北师大版】七年级上册数学/常见的几何体.md)","x":-220,"y":120,"width":157,"height":50},
+		{"id":"a72d27da4311dc97","type":"text","text":"圆柱 \n圆锥\n正方体  \n长方体\n棱柱  \n球  ","x":-212,"y":186,"width":100,"height":200},
+		{"id":"30d244de1b9db4ba","type":"text","text":"三棱柱\n四棱柱\n五棱柱\n六棱柱\n直棱柱\n斜棱柱 ","x":-63,"y":186,"width":101,"height":200},
+		{"id":"b348bb5b77b4656c","type":"text","text":"![](images/【2024版】【北师大版】七年级上册数学/part-001/96b050dde6e31a25f3164a70726cb0cce5836d0f989487a788d8e74c504fa722.jpg)\n顶点\n侧棱\n侧面\n底面","x":121,"y":145,"width":250,"height":282},
+		{"id":"0bde8ccc791af886","type":"text","text":"点动成线，线动成面，面动成体。","x":560,"y":340,"width":340,"height":60},
+		{"id":"72d1254bb13ffadc","type":"text","text":"图形是由点（point）、线（line）、面（plane）构成的。面与面相交得到线，线与线相交得到点。  ","x":560,"y":200,"width":340,"height":113},
 		{"id":"441640980f350e49","type":"text","text":"亲爱的同学，祝贺你步入新的学习起点，开启新的数学学习旅程！\n\n你将很快发现：生活中处处都有数学的身影——家中、教室里许多物体的形状，生产、消费过程中的各种数字，报刊、电视中呈现的各种数据信息……学习数学会让你不断感受到它的多姿多彩——在丰富的图形世界里，你会见到许多美丽的图形，还能够用它们设计自己喜爱的图案；在抽象的“代数”世界里，奇妙的字母 a 既可以帮助你方便地表达无数多的研究对象，也会让你遭遇令人“烦恼”的运算；在整理各种各样统计数据的过程中，你会发现许多有趣的现象和有用的信息……\n\n学好数学会让自己变得越来越聪明——学习完“整式”和“方程”，你会揭开许多奇妙游戏的谜底，还能够体验成为一位小魔术师的感受；关注人口老龄化、亲手设计一个尽可能大的长方体形收纳盒，你会发现自己越来越有本领，许多以前不会做的事情、不能求解的问题，现在都能解决了，当然，你还会发现新的、奇妙的问题。\n\n学数学是一项智力活动，思考是最基本的学习方式。面对新的情境时，你要独立地“观察并思考”；寻找解决问题思路时，你要积极地“尝试并思考”；实施解决问题方案的过程中，你要不断地“操作并思考”……更重要的是，学习过程中你要与老师、同伴一起“思考并交流”。\n\n学好数学不仅需要付出努力，还需要掌握有效的方法。而有效方法的获得更多依赖于你在经过一段学习活动之后，有意识地“回顾并反思”。\n\n你可能曾经因为品尝到成功的喜悦而喜爱数学，因为遭遇到失败而畏惧数学，甚至因为面临智力的挑战而对数学爱恨交加……实际上，这些是每一个学习数学的人都会经历的过程，包括那些成功的数学家。\n\n相信即将开始的数学学习会给你带来全新的体验，让你得到不同以往的感受。让我们一起走进数学新天地！","x":-253,"y":-800,"width":1913,"height":440},
-		{"id":"5d069cabeab6212a","type":"text","text":"[[2 从立体图形到平面图形]]","x":704,"y":-181,"width":250,"height":60},
-		{"id":"da7ec66d33aa3f60","type":"text","text":"[[1 生活中的立体图形]]","x":-253,"y":-180,"width":250,"height":60},
-		{"id":"1edf1567a32b951a","type":"text","text":"感悟点、线、面、体之间的关系","x":-253,"y":-287,"width":250,"height":60},
-		{"id":"a9c2d815def6baa5","type":"text","text":"感知几何体与其展开图、截面图、不同方向的形状图之间的联系","x":80,"y":-287,"width":250,"height":60},
 		{"id":"0a6ea0cbe43b82f5","type":"text","text":"发展几何直观和空间观念","x":420,"y":-287,"width":250,"height":60},
-		{"id":"a72d27da4311dc97","type":"text","text":"圆柱 \n圆锥\n正方体  \n长方体\n棱柱  \n球  ","x":-253,"y":-40,"width":100,"height":200},
-		{"id":"30d244de1b9db4ba","type":"text","text":"三棱柱\n四棱柱\n五棱柱\n六棱柱","x":-104,"y":-40,"width":101,"height":200},
-		{"id":"b348bb5b77b4656c","type":"text","text":"![](images/【2024版】【北师大版】七年级上册数学/part-001/96b050dde6e31a25f3164a70726cb0cce5836d0f989487a788d8e74c504fa722.jpg)\n顶点\n侧棱\n侧面\n底面","x":80,"y":-81,"width":250,"height":282},
-		{"id":"303ca38089a956cd","type":"text","text":"直棱柱\n斜棱柱 ","x":-253,"y":300,"width":250,"height":111}
+		{"id":"a9c2d815def6baa5","type":"text","text":"感知几何体与其展开图、截面图、不同方向的形状图之间的联系","x":80,"y":-287,"width":250,"height":60},
+		{"id":"1edf1567a32b951a","type":"text","text":"感悟点、线、面、体之间的关系","x":-253,"y":-287,"width":250,"height":60},
+		{"id":"8ac0dcfe284b0665","type":"text","text":"[点线面视角](../../点线面视角.md)","x":540,"y":120,"width":145,"height":50},
+		{"id":"52f62fa30ecc2b85","type":"text","text":"[[第一章丰富的图形世界]]","x":-300,"y":0,"width":50,"height":460},
+		{"id":"a1f2f03080d92c6e","type":"text","text":"[[生活中的立体图形 习题1.1]]","x":1100,"y":60,"width":284,"height":60},
+		{"id":"dc17c9667a8cf262","type":"text","text":"[[2 从立体图形到平面图形]]","x":1560,"y":77,"width":260,"height":50},
+		{"id":"647fb341430eb2a5","type":"text","text":"[展开图](展开图.md)","x":1640,"y":160,"width":100,"height":60},
+		{"id":"3579c2bfe5f17dd4","type":"text","text":"[截面](截面.md)","x":1640,"y":247,"width":100,"height":60},
+		{"id":"df4e759738409065","type":"text","text":"\n[[三视图]]","x":1640,"y":348,"width":100,"height":60},
+		{"id":"e89ddee4200a2a02","type":"text","text":"[[丰富的图形世界 复习题]]","x":2014,"y":126,"width":250,"height":60},
+		{"id":"c80e82d87c7f5138","type":"text","text":"[[丰富的图形世界 回顾与思考]]","x":2014,"y":0,"width":286,"height":60},
+		{"id":"cf0457806b44d98b","type":"text","text":"[[第二章有理数及其运算]]","x":-237,"y":680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"410fecfaae170ba3","fromNode":"30d244de1b9db4ba","fromSide":"right","toNode":"b348bb5b77b4656c","toSide":"left"},
-		{"id":"bfb507870c3065ed","fromNode":"da7ec66d33aa3f60","fromSide":"right","toNode":"5d069cabeab6212a","toSide":"left","label":"展开、截开"}
+		{"id":"bfb507870c3065ed","fromNode":"3b7e24cae59e1aa4","fromSide":"right","toNode":"37cac7600ff5f2d7","toSide":"left","label":"展开、截开"},
+		{"id":"1536d2b6c3beddf0","fromNode":"a72d27da4311dc97","fromSide":"right","toNode":"30d244de1b9db4ba","toSide":"left"},
+		{"id":"2870b1cf464ff65e","fromNode":"ce5f6f284919f9e2","fromSide":"right","toNode":"b19381417092f642","toSide":"left"},
+		{"id":"7bb6ddc546a9563a","fromNode":"3b7e24cae59e1aa4","fromSide":"right","toNode":"a1f2f03080d92c6e","toSide":"left"},
+		{"id":"03c159ed3115caf2","fromNode":"d088897fe888b88d","fromSide":"right","toNode":"c80e82d87c7f5138","toSide":"left"},
+		{"id":"76207fabcc5de0b8","fromNode":"d088897fe888b88d","fromSide":"right","toNode":"e89ddee4200a2a02","toSide":"left"}
 	]
 }
