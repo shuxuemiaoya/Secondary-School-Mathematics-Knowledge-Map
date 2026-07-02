@@ -3,5 +3,7 @@
   "attachmentFolderPath": "./images",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "defaultViewMode": "source"
 }
