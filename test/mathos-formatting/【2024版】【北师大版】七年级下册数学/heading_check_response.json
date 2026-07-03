@@ -1,0 +1,7 @@
+{
+  "valid": false,
+  "checked_heading_count": 41,
+  "errors": [
+    "Heading validation mismatch: At entry 6: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 7: expected level 3 '复习题', got level 2 '复习题'; At entry 12: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 13: expected level 3 '复习题', got level 2 '复习题'; At entry 18: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 19: expected level 3 '复习题', got level 2 '复习题'; At entry 24: expected level 3 '☆ 问题解决策略：特殊化', got level 2 '☆ 问题解决策略：特殊化'; At entry 25: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 26: expected level 3 '复习题', got level 2 '复习题'; At entry 30: expected level 3 '☆ 问题解决策略：转化', got level 2 '☆ 问题解决策略：转化'; At entry 31: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 32: expected level 3 '复习题', got level 2 '复习题'; At entry 33: expected level 1 '第六章', got level 2 '1 现实中的变量'; At entry 34: expected level 1 '变量之间的关系', got level 2 '2 用表格表示变量之间的关系'; At entry 35: expected level 2 '1 现实中的变量', got level 2 '3 用关系式表示变量之间的关系'; At entry 36: expected level 2 '2 用表格表示变量之间的关系', got level 2 '4 用图象表示变量之间的关系'; At entry 37: expected level 2 '3 用关系式表示变量之间的关系', got level 2 '回顾与思考'; At entry 38: expected level 2 '4 用图象表示变量之间的关系', got level 2 '复习题'; At entry 39: expected level 3 '回顾与思考', got level 1 '综合与实践'; At entry 40: expected level 3 '复习题', got level 2 '设计自己的运算程序'; At entry 41: expected level 1 '综合与实践', got level 2 '制作万花筒'; Missing expected headings: [(3, '设计自己的运算程序'), (3, '制作万花筒')]"
+  ]
+}

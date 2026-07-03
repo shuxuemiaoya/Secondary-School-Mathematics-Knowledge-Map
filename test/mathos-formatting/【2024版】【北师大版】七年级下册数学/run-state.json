@@ -1,0 +1,31 @@
+{
+  "source_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\【2024版】【北师大版】七年级下册数学.md",
+  "candidate_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\candidate.md",
+  "provider_base_url": "https://api.deepseek.com",
+  "provider_model": "deepseek-v4-flash",
+  "stage": "step5-heading-validation",
+  "status": "failed",
+  "artifacts": {
+    "toc_detection_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\step1_toc_detection_prompt.md",
+    "toc_detection_sample": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\toc_detection_sample.md",
+    "toc_detection_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\toc_detection_response.md",
+    "toc": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\toc.md",
+    "toc_and_headings": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\toc_and_headings.md",
+    "heading_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\step3_heading_processor_prompt.md",
+    "heading_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\heading_processor_response.py",
+    "heading_script": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\heading_processor.py",
+    "heading_expected_result": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\heading_expected_result.md",
+    "stage1_report": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\stage1_heading_report.md",
+    "heading_check_input": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\heading_check_input.md",
+    "heading_check_prompt": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\step5_heading_validation_prompt.md",
+    "heading_check_response": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\test\\mathos-formatting\\【2024版】【北师大版】七年级下册数学\\heading_check_response.json"
+  },
+  "warnings": [],
+  "errors": [
+    "DeepSeek heading validation rejected the candidate: Heading validation mismatch: At entry 6: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 7: expected level 3 '复习题', got level 2 '复习题'; At entry 12: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 13: expected level 3 '复习题', got level 2 '复习题'; At entry 18: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 19: expected level 3 '复习题', got level 2 '复习题'; At entry 24: expected level 3 '☆ 问题解决策略：特殊化', got level 2 '☆ 问题解决策略：特殊化'; At entry 25: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 26: expected level 3 '复习题', got level 2 '复习题'; At entry 30: expected level 3 '☆ 问题解决策略：转化', got level 2 '☆ 问题解决策略：转化'; At entry 31: expected level 3 '回顾与思考', got level 2 '回顾与思考'; At entry 32: expected level 3 '复习题', got level 2 '复习题'; At entry 33: expected level 1 '第六章', got level 2 '1 现实中的变量'; At entry 34: expected level 1 '变量之间的关系', got level 2 '2 用表格表示变量之间的关系'; At entry 35: expected level 2 '1 现实中的变量', got level 2 '3 用关系式表示变量之间的关系'; At entry 36: expected level 2 '2 用表格表示变量之间的关系', got level 2 '4 用图象表示变量之间的关系'; At entry 37: expected level 2 '3 用关系式表示变量之间的关系', got level 2 '回顾与思考'; At entry 38: expected level 2 '4 用图象表示变量之间的关系', got level 2 '复习题'; At entry 39: expected level 3 '回顾与思考', got level 1 '综合与实践'; At entry 40: expected level 3 '复习题', got level 2 '设计自己的运算程序'; At entry 41: expected level 1 '综合与实践', got level 2 '制作万花筒'; Missing expected headings: [(3, '设计自己的运算程序'), (3, '制作万花筒')]"
+  ],
+  "approved": false,
+  "toc_start_line": 43,
+  "toc_end_line": 115,
+  "stage1_validated": false
+}
