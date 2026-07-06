@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./images",
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "defaultViewMode": "source"
