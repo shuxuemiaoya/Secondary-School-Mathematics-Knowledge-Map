@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "80e7341b4e6a3b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f548c38f9c9e79ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c29227dbaf8d76",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
+                "viewState": {
+                  "x": -10999.909115200939,
+                  "y": -5583.082287552157,
+                  "zoom": -0.6666666666666663
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "高中数学逻辑结构图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c3abb2a2242267f",
+    "type": "split",
+    "children": [
+      {
+        "id": "973fe7aade5d3a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2137c301e87f30e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9fb0cb4e0a8f1b44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0e4727b084f5d294",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "right": {
+    "id": "b494e6951445f78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "41cace901587c8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0abf4f758772fb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【人教版】高中选择性必修 第一册数学电子课本 的反向链接列表"
+            }
+          },
+          {
+            "id": "a3d5fafe491783cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【人教版】高中选择性必修 第一册数学电子课本 的出链列表"
+            }
+          },
+          {
+            "id": "4dec8ebb7967c1d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bf8d1f5c10ccda0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f1a1b70e13230015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【人教版】高中选择性必修 第一册数学电子课本 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d6c29227dbaf8d76",
+  "lastOpenFiles": [
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/10.1 随机事件与概率.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/10.1.1 有限样本空间与随机事件.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/第十章 概率.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/统计 小结.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/3.1.1 椭圆及其标准方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/3.1.2 椭圆的简单几何性质.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/3.1 椭圆.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.5.2 圆与圆的位置关系.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.5.1 直线与圆的位置关系.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.5 直线与圆、圆与圆的位置关系.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.4.2 圆的一般方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.4.1 圆的标准方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.4 圆的方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.3.4 两条平行直线间的距离.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.3.3 点到直线的距离公式.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.3.2 两点间的距离公式.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.3.1 两条直线的交点坐标.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.3 直线的交点坐标与距离公式.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.2.3 直线的一般式方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.2.2 直线的两点式方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.2.1 直线的点斜式方程.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/2.1.2 两条直线平行和垂直的判定.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/1.4.2 用空间向量研究距离、夹角问题.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/1.3.1 空间直角坐标系.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/1.3 空间向量及其运算的坐标表示.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/1.2 空间向量基本定理.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/images",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/images",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/images",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/思维或方法/images",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/趣味阅读/images",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/趣味阅读/images",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/习题/images",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/images",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/习题/images",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/趣味阅读/images",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/知识点/images/c8ba870f5769d455ac52c113b7205f13a6237a74ef0bb4ae4125349288df1ce4.jpg",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/趣味阅读/images/9c3701709a7102fa3fba180621e128030b2bf6a9758970c80fa4b88dd57f1541.jpg"
+  ]
+}
