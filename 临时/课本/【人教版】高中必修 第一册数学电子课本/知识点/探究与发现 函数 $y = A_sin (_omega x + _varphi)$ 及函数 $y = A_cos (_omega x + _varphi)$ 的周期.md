@@ -42,9 +42,11 @@ $\sin x$ 的值的变化情况如表5.4-2所示：
 
 根据三角函数的周期性，只要把握了它一个周期内的规律，就把握了整个三角函数的规律.
 
-![](课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/21caae7d707db024ab694ef5162717060e90b3929a02682238438791e127d89a.jpg)
-
-图5.4-8
+<div align="center">
+  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/21caae7d707db024ab694ef5162717060e90b3929a02682238438791e127d89a.jpg" width="55%" />
+  <br />
+  图5.4-8
+</div>
 
 表5.4-2
 
@@ -75,53 +77,63 @@ $\sin x$ 的值的变化情况如表5.4-2所示：
 正弦函数当且仅当 $x =$ \_\_\_\_时取得最大值1，当且仅当 $x =$ \_\_\_\_时取得最小值-1；
 余弦函数当且仅当 $x =$ \_\_\_\_时取得最大值1，当且仅当 $x =$ \_\_\_\_时取得最小值-1.
 
-> [!example]- 例 3 下列函数有最大值、最小值吗？如果有，请写出取最大值、最小值时自变量 x 的集合，并求出最大值、最小值.  
-（1） $y=\cos x+1,\quad x\in R;$   
-（2） $y = -3\sin 2x, x \in \mathbf{R}.$
-解：容易知道，这两个函数都有最大值、最小值.  
-（1）使函数 $y = \cos x + 1$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合，就是使函数 $y = \cos x$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合
-$\{x \mid x = 2 k \pi , k \in \mathbf {Z} \};$
+> [!example]- 例 3 下列函数有最大值、最小值吗？如果有，请写出取最大值、最小值时自变量 x 的集合，并求出最大值、最小值.
+> （1） $y=\cos x+1,\quad x\in R;$
+> （2） $y = -3\sin 2x, x \in \mathbf{R}.$
+>
+> > [!success]- 解：
+> > 容易知道，这两个函数都有最大值、最小值.
+> > （1）使函数 $y = \cos x + 1$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合，就是使函数 $y = \cos x$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合
+> > $\{x \mid x = 2 k \pi , k \in \mathbf {Z} \};$
+> >
+> > 使函数 $y=\cos x+1,\quad x\in R$ 取得最小值的 x 的集合，就是使函数 $y=\cos x,\quad x\in R$ 取得最小值的 x 的集合
+> > $\{x \mid x = (2 k + 1) \pi , k \in \mathbf {Z} \}.$
+> >
+> > 函数 $y=\cos x+1,\quad x\in R$ 的最大值是 $1+1=2$ ；最小值是 $-1+1=0$ .
+> > （2）令 $z = 2x$ ，使函数 $y = -3\sin z$ ， $z \in \mathbf{R}$ 取得最大值的 $z$ 的集合，就是使 $y = \sin z$ ， $z \in \mathbf{R}$ 取得最小值的 $z$ 的集合
+> > $\{z \mid z = - \frac {\pi}{2} + 2 k \pi , k \in \mathbf {Z} \}.$
+> > 由 $2x = z = -\frac{\pi}{2} + 2k\pi$ ，得 $x = -\frac{\pi}{4} + k\pi$ 。所以，使函数 $y = -3\sin 2x$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合是
+> > $\{x \mid x = - \frac {\pi}{4} + k \pi , k \in \mathbf {Z} \}.$
+> > 同理，使函数 $y = -3\sin 2x$ ， $x \in \mathbf{R}$ 取得最小值的 $x$ 的集合是
+> > $\{x \mid x = \frac {\pi}{4} + k \pi , k \in \mathbf {Z} \}.$
+> >
+> > 函数 $y = -3 \sin 2x$ ， $x \in R$ 的最大值是 3，最小值是 -3.
 
-使函数 $y=\cos x+1,\quad x\in R$ 取得最小值的 x 的集合，就是使函数 $y=\cos x,\quad x\in R$ 取得最小值的 x 的集合
-$\{x \mid x = (2 k + 1) \pi , k \in \mathbf {Z} \}.$
-
-函数 $y=\cos x+1,\quad x\in R$ 的最大值是 $1+1=2$ ；最小值是 $-1+1=0$ .  
-（2）令 $z = 2x$ ，使函数 $y = -3\sin z$ ， $z \in \mathbf{R}$ 取得最大值的 $z$ 的集合，就是使 $y = \sin z$ ， $z \in \mathbf{R}$ 取得最小值的 $z$ 的集合
-$\{z \mid z = - \frac {\pi}{2} + 2 k \pi , k \in \mathbf {Z} \}.$
-由 $2x = z = -\frac{\pi}{2} + 2k\pi$ ，得 $x = -\frac{\pi}{4} + k\pi$ 。所以，使函数 $y = -3\sin 2x$ ， $x \in \mathbf{R}$ 取得最大值的 $x$ 的集合是
-$\{x \mid x = - \frac {\pi}{4} + k \pi , k \in \mathbf {Z} \}.$
-同理，使函数 $y = -3\sin 2x$ ， $x \in \mathbf{R}$ 取得最小值的 $x$ 的集合是
-$\{x \mid x = \frac {\pi}{4} + k \pi , k \in \mathbf {Z} \}.$
-
-函数 $y = -3 \sin 2x$ ， $x \in R$ 的最大值是 3，最小值是 -3.
-
-> [!example]- 例4 不通过求值，比较下列各组数的大小：  
-（1） $\sin \left(-\frac{\pi}{18}\right)$ 与 $\sin \left(-\frac{\pi}{10}\right)$ ;  
-（2） $\cos \left(-\frac{23\pi}{5}\right)$ 与 $\cos \left(-\frac{17\pi}{4}\right)$ .
-分析：可利用三角函数的单调性比较两个同名三角函数值的大小．为此，先用诱导公式将已知角化为同一单调区间内的角，然后再比较大小.
-解：（1）因为
-$- \frac {\pi}{2} <   - \frac {\pi}{1 0} <   - \frac {\pi}{1 8} <   0,$
-
-正弦函数 $y = \sin x$ 在区间 $\left[-\frac{\pi}{2}, 0\right]$ 上单调递增，所以
-$\sin \left(- \frac {\pi}{1 8}\right) > \sin \left(- \frac {\pi}{1 0}\right).$  
-（2） $\cos \left(-\frac{23\pi}{5}\right) = \cos \frac{23\pi}{5} = \cos \frac{3\pi}{5},$
-$\cos \left(- \frac {1 7 \pi}{4}\right) = \cos \frac {1 7 \pi}{4} = \cos \frac {\pi}{4}.$
-因为 $0 < \frac{\pi}{4} < \frac{3\pi}{5} < \pi$ ，且函数 $y = \cos x$ 在区间 $[0, \pi]$ 上单调递减，所以
-$\cos \frac {\pi}{4} > \cos \frac {3 \pi}{5},$
-即
-$\cos \left(- \frac {1 7 \pi}{4}\right) > \cos \left(- \frac {2 3 \pi}{5}\right).$
-
-你能借助单位圆直观地比较上述两对函数值的大小吗？试一试.
+> [!example]- 例4 不通过求值，比较下列各组数的大小：
+> （1） $\sin \left(-\frac{\pi}{18}\right)$ 与 $\sin \left(-\frac{\pi}{10}\right)$ ;
+> （2） $\cos \left(-\frac{23\pi}{5}\right)$ 与 $\cos \left(-\frac{17\pi}{4}\right)$ .
+>
+> > [!tip]- 分析：
+> > 可利用三角函数的单调性比较两个同名三角函数值的大小．为此，先用诱导公式将已知角化为同一单调区间内的角，然后再比较大小.
+>
+> > [!success]- 解：
+> > （1）因为
+> > $- \frac {\pi}{2} <   - \frac {\pi}{1 0} <   - \frac {\pi}{1 8} <   0,$
+> >
+> > 正弦函数 $y = \sin x$ 在区间 $\left[-\frac{\pi}{2}, 0\right]$ 上单调递增，所以
+> > $\sin \left(- \frac {\pi}{1 8}\right) > \sin \left(- \frac {\pi}{1 0}\right).$
+> > （2） $\cos \left(-\frac{23\pi}{5}\right) = \cos \frac{23\pi}{5} = \cos \frac{3\pi}{5},$
+> > $\cos \left(- \frac {1 7 \pi}{4}\right) = \cos \frac {1 7 \pi}{4} = \cos \frac {\pi}{4}.$
+> > 因为 $0 < \frac{\pi}{4} < \frac{3\pi}{5} < \pi$ ，且函数 $y = \cos x$ 在区间 $[0, \pi]$ 上单调递减，所以
+> > $\cos \frac {\pi}{4} > \cos \frac {3 \pi}{5},$
+> > 即
+> > $\cos \left(- \frac {1 7 \pi}{4}\right) > \cos \left(- \frac {2 3 \pi}{5}\right).$
+> >
+> > 你能借助单位圆直观地比较上述两对函数值的大小吗？试一试.
 
 > [!example]- 例 5 求函数 $y=\sin\left(\frac{1}{2}x+\frac{\pi}{3}\right)$ ， $x\in[-2\pi,2\pi]$ 的单调递增区间.
-分析：令 $z = \frac{1}{2} x + \frac{\pi}{3}$ ， $x \in [-2\pi, 2\pi]$ ，当自变量 $x$ 的值增大时， $z$ 的值也随之增大，因此若函数 $y = \sin z$ 在某个区间上单调递增，则函数 $y = \sin \left(\frac{1}{2} x + \frac{\pi}{3}\right)$ 在相应的区间上也一定单调递增.
-解：令 $z = \frac{1}{2} x + \frac{\pi}{3}, x \in [-2\pi, 2\pi]$ ，则 $z \in \left[-\frac{2}{3}\pi, \frac{4}{3}\pi\right]$ .
-因为 $y = \sin z, z \in \left[-\frac{2\pi}{3}, \frac{4\pi}{3}\right]$ 的单调递增区间是 $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$ ，且由
-$- \frac {\pi}{2} \leqslant \frac {1}{2} x + \frac {\pi}{3} \leqslant \frac {\pi}{2},$
-得 $-\frac{5\pi}{3} \leqslant x \leqslant \frac{\pi}{3}$ .
-所以，函数 $y = \sin \left(\frac{1}{2} x + \frac{\pi}{3}\right), x \in [-2\pi, 2\pi]$ 的单调递增区间是 $\left[-\frac{5\pi}{3}, \frac{\pi}{3}\right]$ .
+>
+> > [!tip]- 分析：
+> > 令 $z = \frac{1}{2} x + \frac{\pi}{3}$ ， $x \in [-2\pi, 2\pi]$ ，当自变量 $x$ 的值增大时， $z$ 的值也随之增大，因此若函数 $y = \sin z$ 在某个区间上单调递增，则函数 $y = \sin \left(\frac{1}{2} x + \frac{\pi}{3}\right)$ 在相应的区间上也一定单调递增.
+>
+> > [!success]- 解：
+> > 令 $z = \frac{1}{2} x + \frac{\pi}{3}, x \in [-2\pi, 2\pi]$ ，则 $z \in \left[-\frac{2}{3}\pi, \frac{4}{3}\pi\right]$ .
+> > 因为 $y = \sin z, z \in \left[-\frac{2\pi}{3}, \frac{4\pi}{3}\right]$ 的单调递增区间是 $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$ ，且由
+> > $- \frac {\pi}{2} \leqslant \frac {1}{2} x + \frac {\pi}{3} \leqslant \frac {\pi}{2},$
+> > 得 $-\frac{5\pi}{3} \leqslant x \leqslant \frac{\pi}{3}$ .
+> > 所以，函数 $y = \sin \left(\frac{1}{2} x + \frac{\pi}{3}\right), x \in [-2\pi, 2\pi]$ 的单调递增区间是 $\left[-\frac{5\pi}{3}, \frac{\pi}{3}\right]$ .
 
-> [!think] 思考
+> [!question] 思考
 你能求出函数 $y = \sin \left(-\frac{1}{2} x + \frac{\pi}{3}\right)$ ， $x \in [-2\pi, 2\pi]$ 的单调递增区间吗？
 
 #### 练习
@@ -149,7 +161,8 @@ $- \frac {\pi}{2} \leqslant \frac {1}{2} x + \frac {\pi}{3} \leqslant \frac {\pi
 
 5. 求函数 $y = 3\sin \left(2x + \frac{\pi}{4}\right)$ ， $x \in [0, \pi]$ 的单调递减区间.
 
-![](课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/dbfa7678e4320cc27cebb6b4d1890fae68bbaa36bea576b84749aa751110feee.jpg)
+<div align="center">
+  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/dbfa7678e4320cc27cebb6b4d1890fae68bbaa36bea576b84749aa751110feee.jpg" width="55%" />
+</div>
 
 ##### 探究与发现
-

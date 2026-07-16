@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "a750a842915bcc7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03eb1872a2f08865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f376645c1cafcbc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第五章/第二节 解三角形大题篇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二节 解三角形大题篇"
+            }
+          },
+          {
+            "id": "2b166a328f3bf989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高一下期末复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高一下期末复习"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f67cc840bbb92bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e27e57441ee2539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aad88ae991a157e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ebc85f301ebe3586",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c076f1ee8099c47c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "410ead777252e27f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4449be00410b8c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499f09e1316515c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高一下期末复习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "高一下期末复习 的反向链接列表"
+            }
+          },
+          {
+            "id": "9b8bb306e9359027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高一下期末复习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "高一下期末复习 的出链列表"
+            }
+          },
+          {
+            "id": "72cf67fae96aec86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c17fd2e093f0abfb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8ab6532731a7df3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高一下期末复习.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "高一下期末复习 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "2b166a328f3bf989",
+  "lastOpenFiles": [
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第五章/第二节 解三角形大题篇.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第三节 图像性质.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第三节 跟踪训练.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第二节 恒等变换.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第一节 基本公式.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第一节 跟踪训练.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第七章/第一节 立体几何小题篇.md",
+    "高一下期末复习.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第七章/第二节 立体几何大题篇.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第六章/第二节 数量积.md",
+    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第六章/第一节 线性运算.md"
+  ]
+}
