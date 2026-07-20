@@ -1,87 +1,23 @@
 {
   "main": {
-    "id": "80e7341b4e6a3b5a",
+    "id": "0809b50f1f606884",
     "type": "split",
     "children": [
       {
-        "id": "b291488c9fdcf22e",
+        "id": "96b350048f451f6c",
         "type": "tabs",
-        "dimension": 51.29740518962076,
         "children": [
           {
-            "id": "1d012182a519e5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课本/【人教版】高中必修 第一册数学电子课本/知识点/4.1.1 $n$ 次方根与分数指数幂.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1.1 $n$ 次方根与分数指数幂"
-            }
-          },
-          {
-            "id": "ee92926ecb74feb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课本/【人教版】高中必修 第一册数学电子课本/知识点/最大值与最小值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最大值与最小值"
-            }
-          },
-          {
-            "id": "566d233410b7d9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课本/【人教版】高中必修 第一册数学电子课本/知识点/选择恰当的方法表示问题中的函数关系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "选择恰当的方法表示问题中的函数关系"
-            }
-          },
-          {
-            "id": "ad1aa8e99e800f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课本/【人教版】高中必修 第一册数学电子课本/知识点/进一步理解函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "进一步理解函数"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b410c8573194df17",
-        "type": "tabs",
-        "dimension": 48.70259481037924,
-        "children": [
-          {
-            "id": "9fa66e533645c5fb",
+            "id": "4ff6f234f24245b6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "viewState": {
-                  "x": -6993.643548434395,
-                  "y": -4605.717623419825,
-                  "zoom": -3
+                  "x": -7753.42335963321,
+                  "y": -11615.762760622612,
+                  "zoom": 0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -94,20 +30,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c3abb2a2242267f",
+    "id": "9163d6671e5d9704",
     "type": "split",
     "children": [
       {
-        "id": "973fe7aade5d3a3c",
+        "id": "160f430e5041ab78",
         "type": "tabs",
         "children": [
           {
-            "id": "2137c301e87f30e1",
+            "id": "4cedcef5dcd87fe9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -115,7 +51,7 @@
             }
           },
           {
-            "id": "9fb0cb4e0a8f1b44",
+            "id": "468690b3c1aac951",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -132,7 +68,7 @@
             }
           },
           {
-            "id": "0e4727b084f5d294",
+            "id": "496dad63b100c519",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -145,24 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "b494e6951445f78b",
+    "id": "7b016666981e287a",
     "type": "split",
     "children": [
       {
-        "id": "41cace901587c8c1",
+        "id": "0aed55daaecf0aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "c0abf4f758772fb9",
+            "id": "80804cb951bbfd74",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【人教版】高中选择性必修 第一册数学电子课本 的反向链接列表"
+              "title": "高中数学逻辑结构图 的反向链接列表"
             }
           },
           {
-            "id": "a3d5fafe491783cc",
+            "id": "7adb2fcc6087a473",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "【人教版】高中选择性必修 第一册数学电子课本 的出链列表"
+              "title": "高中数学逻辑结构图 的出链列表"
             }
           },
           {
-            "id": "4dec8ebb7967c1d5",
+            "id": "ccf4e00c75000399",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -205,7 +140,7 @@
             }
           },
           {
-            "id": "bf8d1f5c10ccda0d",
+            "id": "a44db14df0655063",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -219,18 +154,18 @@
             }
           },
           {
-            "id": "f1a1b70e13230015",
+            "id": "e9b47bf73cd46967",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+                "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【人教版】高中选择性必修 第一册数学电子课本 的大纲"
+              "title": "高中数学逻辑结构图 的大纲"
             }
           }
         ]
@@ -251,54 +186,6 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1d012182a519e5c1",
-  "lastOpenFiles": [
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/4.1 指数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/4.1.2 无理数指数幂及其运算性质.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/4.1.1 $n$ 次方根与分数指数幂.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/第四章 指数函数与对数函数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/【人教版】高中必修 第一册数学电子课本.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/第三章 函数的概念与性质.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/3.4 函数的应用（一）.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/文献阅读与数学写作 函数的形成与发展.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/习题/习题3.4 函数的应用（一）.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/3.3 幂函数.md",
-    "Mathematics Knowledge Graph/images/Pasted image 20260716221013.jpg",
-    "Mathematics Knowledge Graph/images",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/探究与发现 探究函数 y = x +1➗x 的图象与性质.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/习题/习题3.3 幂函数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/3.2 函数的基本性质.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/3.1 函数的概念及其表示.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/信息技术应用 用计算机绘制函数图象.md",
-    "高中/Mathematics Knowledge Graph/高中数学逻辑结构/知识点/解与零点.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/奇偶性.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/最大值与最小值.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/概念/最大值.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/概念/零点.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/单调性.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/习题/习题3.2 函数的基本性质.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/images/5f17e8c16c299eb503c6af43ac23a0c6e590ff393539f3d4b81c708a81f35749.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/images",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/3.1.1 函数的概念.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/阅读与思考 函数概念的发展历程.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/阅读与思考 振幅、周期、频率、相位.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/阅读与思考 集合中元素的个数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/f7c95d404ed9685ca13e10dd8a5260cfb1522489a2abfe4096884a89b0d6bfa6.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/e18281418dfef8963b2e62a9cead619a4689f70eef3e175b9afa4402330b972e.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/c7ac998db44c630bddb87e7ee8a12571018be3fa343dfbd815b2aec4600cb904.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/c4eacec7c20d4535857ebc2f2cede735fa4e825da17912049aa7279a715d6a35.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/93854c8e49a42908f02ac17705af70dead71e4d7e89a40e52ba29de467cddcdc.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/7b27a4770dea9a722cee0208e09ccee072d849d052a0ebba6bd95bb2bf303b00.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/2c221c60b4d753d5f7d21c30bf9669bf8725e7f4337fe47a8e61d2bdc45fc377.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images/577e84f3f7f2339a963c10ee2b62f6cd096eb2a73f1224427b2aba73f8b8652e.jpg",
-    "课本/【人教版】高中必修 第一册数学电子课本/趣味阅读/images",
-    "高中/Mathematics Knowledge Graph/高中数学逻辑结构/知识点",
-    "高中/Mathematics Knowledge Graph/高中数学逻辑结构",
-    "高中/Mathematics Knowledge Graph",
-    "高中",
-    "课本/【人教版】高中必修 第一册数学电子课本/拓展知识点",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/images",
-    "课本/【人教版】高中必修 第一册数学电子课本/思维或方法/images"
-  ]
+  "active": "4ff6f234f24245b6",
+  "lastOpenFiles": []
 }

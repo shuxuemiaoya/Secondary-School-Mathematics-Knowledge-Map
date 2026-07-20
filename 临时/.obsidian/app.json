@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./images",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "livePreview": true
 }
