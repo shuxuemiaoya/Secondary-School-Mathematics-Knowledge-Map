@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"6a4cc4ccc4d68f60","type":"text","text":"思想方法","x":52,"y":-238,"width":250,"height":60,"color":"4"},
+		{"id":"dd5142222d2d6293","type":"text","text":"知识点","x":-368,"y":-38,"width":250,"height":60,"color":"2"},
+		{"id":"b0c98c57fd2048b7","type":"text","text":"知识点","x":-368,"y":-238,"width":250,"height":60,"color":"2"},
+		{"id":"137ca59b0a403051","type":"text","text":"章节","x":-628,"y":-138,"width":190,"height":60,"color":"1"},
+		{"id":"102b6d345aafae80","type":"text","text":"题型","x":52,"y":-38,"width":250,"height":60,"color":"6"},
+		{"id":"4e382ed497589f09","type":"text","text":"交叉学科","x":-628,"y":69,"width":165,"height":60,"color":"3"},
+		{"id":"62f784451cb979c7","type":"text","text":"课外故事","x":-325,"y":159,"width":165,"height":60,"color":"5"},
+		{"id":"f98687c10a41a642","type":"text","text":"概念","x":52,"y":129,"width":99,"height":60},
+		{"id":"e981dd3c1eec1096","type":"text","text":"公式","x":52,"y":260,"width":99,"height":60},
+		{"id":"e2835cf525fa7cf8","type":"text","text":"二次认识，哲学思考","x":462,"y":-400,"width":250,"height":60,"color":"4"},
+		{"id":"43faa174614c3321","type":"text","text":"题型","x":462,"y":78,"width":250,"height":60,"color":"6"},
+		{"id":"49ec4e433680b753","type":"text","text":"启发应用","x":462,"y":-38,"width":250,"height":60,"color":"6"},
+		{"id":"e57bc9cfbaa4dd1f","type":"text","text":"数学工具","x":422,"y":-178,"width":165,"height":60,"color":"#c800ff"},
+		{"id":"91ff79e33eba6afd","type":"text","text":"解决问题","x":780,"y":-178,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"10bdc1c9a76f759f","fromNode":"6a4cc4ccc4d68f60","fromSide":"bottom","toNode":"102b6d345aafae80","toSide":"top","color":"6","label":"应用"},
+		{"id":"7c919f28f82dc8e1","fromNode":"b0c98c57fd2048b7","fromSide":"right","toNode":"6a4cc4ccc4d68f60","toSide":"left","color":"4","label":"启发"},
+		{"id":"32630bc27b727f83","fromNode":"dd5142222d2d6293","fromSide":"right","toNode":"102b6d345aafae80","toSide":"left","color":"5","label":"计算"},
+		{"id":"05778cfc76e76f5e","fromNode":"dd5142222d2d6293","fromSide":"bottom","toNode":"62f784451cb979c7","toSide":"top","label":"阅读"},
+		{"id":"94406bd3c54e1bc9","fromNode":"dd5142222d2d6293","fromSide":"right","toNode":"f98687c10a41a642","toSide":"left"},
+		{"id":"270c1a79262053b3","fromNode":"dd5142222d2d6293","fromSide":"right","toNode":"e981dd3c1eec1096","toSide":"left"},
+		{"id":"0097a377ff073241","fromNode":"137ca59b0a403051","fromSide":"right","toNode":"dd5142222d2d6293","toSide":"left","label":"分类"},
+		{"id":"fbb0bce9f75732a9","fromNode":"b0c98c57fd2048b7","fromSide":"bottom","toNode":"dd5142222d2d6293","toSide":"top","color":"2","label":"推理"},
+		{"id":"8c2d7ed89ac4a302","fromNode":"4e382ed497589f09","fromSide":"right","toNode":"dd5142222d2d6293","toSide":"left","color":"4","label":"启发"},
+		{"id":"4b2d6bcab06aabbc","fromNode":"137ca59b0a403051","fromSide":"right","toNode":"b0c98c57fd2048b7","toSide":"left","label":"分类"},
+		{"id":"1f44fc955f0e686f","fromNode":"e57bc9cfbaa4dd1f","fromSide":"bottom","toNode":"102b6d345aafae80","toSide":"top","color":"6","label":"应用"},
+		{"id":"805237c229dd615b","fromNode":"102b6d345aafae80","fromSide":"right","toNode":"43faa174614c3321","toSide":"left","color":"4","label":"升级"},
+		{"id":"18ba65564b7ae0af","fromNode":"102b6d345aafae80","fromSide":"right","toNode":"49ec4e433680b753","toSide":"left","color":"4"},
+		{"id":"ba61ab2aa1c7eed1","fromNode":"6a4cc4ccc4d68f60","fromSide":"right","toNode":"e2835cf525fa7cf8","toSide":"left","color":"4"},
+		{"id":"c0156a8356a88511","fromNode":"e57bc9cfbaa4dd1f","fromSide":"right","toNode":"91ff79e33eba6afd","toSide":"left","color":"6"}
+	]
+}
