@@ -3,7 +3,7 @@
   "attachmentFolderPath": "./images",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "livePreview": true,
   "userIgnoreFilters": [
     "**/*.canvas",
