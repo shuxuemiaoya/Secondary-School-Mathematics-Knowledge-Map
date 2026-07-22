@@ -6,6 +6,7 @@
       {
         "id": "a2efd7c917d43d04",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8cb3ccb067bc8a03",
@@ -25,12 +26,14 @@
             "id": "971bc85b8cdda98f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "新建文件夹 (2)/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.jpg"
+                "file": "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc"
+              "icon": "lucide-file",
+              "title": "2025-2026学年高二下学期期末数学（原卷版）"
             }
           }
         ],
@@ -39,6 +42,7 @@
       {
         "id": "e500f74ef8c3f9db",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "28229da21b268f51",
@@ -49,7 +53,7 @@
                 "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "viewState": {
                   "x": -7477.408877342194,
-                  "y": 2446.59920650522,
+                  "y": 3037.11239783739,
                   "zoom": -2.666666666666666
                 }
               },
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "新建文件夹 (2)/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.jpg",
+                "file": "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc 的反向链接列表"
+              "title": "2025-2026学年高二下学期期末数学（原卷版） 的反向链接列表"
             }
           },
           {
@@ -149,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "新建文件夹 (2)/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.jpg",
+                "file": "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc 的出链列表"
+              "title": "2025-2026学年高二下学期期末数学（原卷版） 的出链列表"
             }
           },
           {
@@ -198,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "新建文件夹 (2)/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.jpg",
+                "file": "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc 的大纲"
+              "title": "2025-2026学年高二下学期期末数学（原卷版） 的大纲"
             }
           }
         ]
@@ -227,21 +231,29 @@
   },
   "active": "971bc85b8cdda98f",
   "lastOpenFiles": [
+    "新建文件夹/full.md",
+    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）.md",
+    "新建文件夹 (2)/images-cleaned",
+    "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md",
+    "新建文件夹/2025-2026学年高一下学期期末数学卷.pdf",
+    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）（题解整合版）.md",
+    "新建文件夹 (2)/2025-2026学年高二下学期期末数学（原卷版）.md.md",
+    "新建文件夹 (2)/full.md",
+    "新建文件夹 (2)/images/b6e7758f933388e11d8029cdc24e3154a00c374edb9d4a78c8ad0d5342df3afd.jpg",
+    "新建文件夹 (2)/images/65cc2935ceea6efd236f015efc8d3c9744e38f4fa51f8e825f8ef97d83b9301c.jpg",
+    "新建文件夹 (2)/images/6351f3f11ca38ff0b2fd31908714b961f3bab2eb31cfdc33b5a69bb708f975cd.jpg",
+    "新建文件夹 (2)/images/4a9eb6ac34ccbef48d752b747a94b80483b43a7809107c2f8a3a795e35f45a31.jpg",
+    "新建文件夹 (2)/images/28f0e67f48aa19baa471ffaa90777e68a933b6a387b351a8ea78a97364a46d64.jpg",
+    "新建文件夹 (2)/images",
+    "新建文件夹 (2)-cleaned-v2/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.png",
+    "新建文件夹 (2)-cleaned-v2/8a442534f3da4250cbf911df0e739a6447ec92c0aa440fbca1bc7018823f99e4.png",
+    "新建文件夹 (2)-cleaned-v2/8291547476ca9663389a8469a3843e7ac3bde1551ecd03d6762fc5be8a22d6be.png",
+    "新建文件夹 (2)-cleaned-v2/1c215f7b083a7b390a584b0a79fc4c4561495a24b66d24cf079dccc9ee485df6.png",
+    "新建文件夹 (2)-cleaned-v2",
+    "新建文件夹 (2)-cleaned/1c215f7b083a7b390a584b0a79fc4c4561495a24b66d24cf079dccc9ee485df6.png",
     "新建文件夹 (2)-cleaned/batch-manifest.json",
     "新建文件夹 (2)-cleaned",
-    "新建文件夹 (2)/1c215f7b083a7b390a584b0a79fc4c4561495a24b66d24cf079dccc9ee485df6.jpg",
-    "新建文件夹 (2)/8a442534f3da4250cbf911df0e739a6447ec92c0aa440fbca1bc7018823f99e4.jpg",
-    "新建文件夹 (2)/8291547476ca9663389a8469a3843e7ac3bde1551ecd03d6762fc5be8a22d6be.jpg",
-    "新建文件夹/images/8354b32916e364e605af4b0799d78eb6a4ae298bc3f82580391946337ed5600a.jpg",
-    "新建文件夹 (2)/b05ae6e0715489ab3cfff982b3676e39a159a766d0787642030dcfeac1ac8ffc.jpg",
     "新建文件夹 (2)",
-    "新建文件夹/images/760035ac236eba260800dc1192d1b4e9b66ed5141ce395be472c587f6242c748.jpg",
-    "新建文件夹/images/2bf851bfc1407cdb21be7e67c5ac7576f471ec03e867a91a3dac8ea813eb4f96.jpg",
-    "新建文件夹/images/940973d1002287c4f9a71a576538e0065002e9c72976bcc6e4013f03909ea226.jpg",
-    "新建文件夹/images/c1a8957032b9a2fedcef2cd0a311ff0d34be25c0fe9824b144462dfd6a8c19b6.jpg",
-    "新建文件夹/images/83aadbc25733749b2445e84ae443a136b7bbe27105ffdbea9463cbc66f9fec52.jpg",
-    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）（题解整合版）.md",
-    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）.md",
     "课本/【人教版】高中必修 第一册数学电子课本/知识点/描述法.md",
     "课本/【人教版】高中必修 第一册数学电子课本/概念/描述法.md",
     "课本/【人教版】高中必修 第一册数学电子课本/知识点/1.1 集合的概念.md",
@@ -259,12 +271,6 @@
     "~$25—2026 学年度第二学期高一年级期末教学质量监测试卷.docx",
     "2025—2026 学年度第二学期高一年级期末教学质量监测试卷.docx",
     "~$2025.docx",
-    "~WRL1663.tmp",
-    "~WRD1643.tmp",
-    "2025.docx",
-    "新建文件夹/~$25-2026学年高一下学期期末数学卷（原卷版）.docx",
-    "新建文件夹/2025-2026学年高一下学期期末数学（解析版）大题答案.docx",
-    "新建文件夹/full.md",
     "Mathematics Knowledge Graph/高中数学逻辑结构习题图.canvas",
     "新建文件夹/未命名.md",
     "新建文件夹/2025—2026 学年度第二学期高一年级期末教学质量监测试卷.md",
@@ -272,9 +278,6 @@
     "新建文件夹/full4.md",
     "新建文件夹/full2.md",
     "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/反三角函数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/拓展知识点/反三角函数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/第五章 三角函数.md",
-    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.6 函数 y = A sin(ωx + φ).md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
