@@ -31,3 +31,7 @@ $y = A \cos (\omega x + \varphi), x \in \mathbf {R}$
 根据这个结论，我们可以由这类函数的解析式直接写出函数的周期.
 
 想一想：上述求函数 $y = A\sin (\omega x + \varphi)$ ， $x \in \mathbf{R}$ 及函数 $y = A\cos (\omega x + \varphi)$ ， $x \in \mathbf{R}$ 周期的方法是否能推广到求一般周期函数的周期？即命题“如果函数 $y = f(x)$ 的周期是 $T$ ，那么函数 $y = f(\omega x) (\omega > 0)$ 的周期是 $\frac{T}{\omega}$ ”是否成立？
+
+
+---
+[正弦函数、余弦函数的周期性](课本/【人教版】高中必修%20第一册数学电子课本/知识点/正弦函数、余弦函数的周期性.md)

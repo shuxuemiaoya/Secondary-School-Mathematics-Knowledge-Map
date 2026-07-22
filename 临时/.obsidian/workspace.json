@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "96b350048f451f6c",
+        "id": "a2efd7c917d43d04",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff6f234f24245b6",
+            "id": "0031779045d200ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-2026学年高一下学期期末数学（原卷版）"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e500f74ef8c3f9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28229da21b268f51",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "viewState": {
-                  "x": -906.5924369748554,
-                  "y": 6189.053773350604,
+                  "x": -6596.780932524029,
+                  "y": 1401.6789826440831,
                   "zoom": -4
                 }
               },
@@ -43,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -56,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "函数  $y = A\\sin (\\omega x + \\varphi)$  及函数  $y = A\\cos (\\omega x + \\varphi)$  的周期",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +138,7 @@
               "state": {
                 "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "高中数学逻辑结构图 的出链列表"
@@ -168,7 +188,8 @@
               "title": "高中数学逻辑结构图 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,37 +207,57 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4ff6f234f24245b6",
+  "active": "4cedcef5dcd87fe9",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）（题解整合版）.md",
+    "新建文件夹/images/Gemini_Generated_Image_48lxix48lxix48lx 1.png",
+    "新建文件夹/images/Gemini_Generated_Image_48lxix48lxix48lx.png",
+    "新建文件夹/images/Gemini_Generated_Image_kv7expkv7expkv7e.png",
+    "新建文件夹/images/Gemini_Generated_Image_61oajn61oajn61oa.png",
+    "新建文件夹/images/Gemini_Generated_Image_chbhwachbhwachbh.png",
+    "新建文件夹/images/ChatGPT Image 2026年7月21日 下午10_09_36.png",
+    "新建文件夹/images/Gemini_Generated_Image_6ktlz46ktlz46ktl.png",
+    "新建文件夹/images/Gemini_Generated_Image_ly6gzvly6gzvly6g.png",
     "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
+    "新建文件夹/2025-2026学年高一下学期期末数学（原卷版）.md",
+    "~$25—2026 学年度第二学期高一年级期末教学质量监测试卷.docx",
+    "2025—2026 学年度第二学期高一年级期末教学质量监测试卷.docx",
+    "~$2025.docx",
+    "~WRL1663.tmp",
+    "~WRD1643.tmp",
+    "2025.docx",
+    "新建文件夹/~$25-2026学年高一下学期期末数学卷（原卷版）.docx",
+    "新建文件夹/2025-2026学年高一下学期期末数学（解析版）大题答案.docx",
+    "新建文件夹/~WRL0001.tmp",
+    "新建文件夹/~WRD0000.tmp",
+    "新建文件夹/full.md",
     "Mathematics Knowledge Graph/高中数学逻辑结构习题图.canvas",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/平面向量的概念.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/用平面向量表示复数.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/共轭复数.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/阿尔冈图.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/代数基本定理.md",
-    "未命名.md",
-    "未命名 1.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/半角公式.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/33 借助数轴.md",
+    "新建文件夹/images/83aadbc25733749b2445e84ae443a136b7bbe27105ffdbea9463cbc66f9fec52.jpg",
+    "新建文件夹/images/6a92a32c5ebf0d94e75ab836f2eeecf240210c95cfc855f46ea2a73085b998fa.jpg",
+    "新建文件夹/未命名.md",
+    "新建文件夹/2025—2026 学年度第二学期高一年级期末教学质量监测试卷.md",
+    "新建文件夹/2026—2027 学年度第二学期高一年级期末教学质量监测试卷.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/【人教版】高中必修 第二册数学电子课本.md",
+    "新建文件夹/full4.md",
+    "新建文件夹/full2.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/【人教版】高中必修 第一册数学电子课本.md",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/反三角函数.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/拓展知识点/反三角函数.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/第五章 三角函数.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.6 函数 y = A sin(ωx + φ).md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/匀速圆周运动的数学模型.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.7 三角函数的应用.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.4 三角函数的图象与性质.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/探究与发现 函数 y = A sin(ωx+φ) 和 y = A cos(ωx+φ) 的周期性。.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.2 三角函数的概念.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/5.1 任意角和弧度制.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/探究与发现 互为反函数的两个函数图象间的关系.md",
     "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/y=Asin(ωx+φ)的周期.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/y=Asin(ωx+φ).md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/i 的 $n$ 次方根.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/i.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/任意位置向量的坐标.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/任意角.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/全概率公式.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/球的体积.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/images",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/平面向量基本定理.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/平面向量的正交分解.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/平面几何中的向量方法.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/立体几何习题8.3.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/两角和与差的正弦、余弦、正切公式.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/零向量.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/简单组合体.md",
-    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/基本事实2.md",
-    "高中/Mathematics Knowledge Graph/高中数学逻辑结构/题"
+    "Mathematics Knowledge Graph/高中数学逻辑结构/题/导数中含有三角函数形式的处理策略.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/通过图象变换得到 y = A sin(ωx + φ)的图象.md",
+    "课本/【人教版】高中必修 第一册数学电子课本/知识点/探索 ω (ω ＞ 0) 对 y = sin(ωx + φ) 图象的影响.md",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/振幅、周期、频率、相位.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
   ]
 }
