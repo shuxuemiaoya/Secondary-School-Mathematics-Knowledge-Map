@@ -1,0 +1,1097 @@
+\documentclass[UTF8,12pt,a4paper]{ctexart}
+
+\usepackage[margin=2.15cm,headheight=16pt,headsep=0.7cm,footskip=1.15cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{longtable,array}
+\usepackage{eso-pic}
+\usepackage{hyperref}
+
+\definecolor{SolutionTeal}{HTML}{176B75}
+\definecolor{SolutionBlue}{HTML}{2E5FA7}
+\definecolor{SolutionInk}{HTML}{20303C}
+\definecolor{SolutionMuted}{HTML}{667784}
+\definecolor{SolutionPanel}{HTML}{EEF7F7}
+\definecolor{SolutionRule}{HTML}{8CC7C9}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=SolutionBlue,
+  urlcolor=SolutionTeal,
+  citecolor=SolutionBlue,
+  pdfborder={0 0 0}
+}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\setlength{\emergencystretch}{3em}
+\renewcommand{\arraystretch}{1.24}
+\linespread{1.2}
+\setcounter{secnumdepth}{0}
+
+\setlength{\leftmargini}{2.4em}
+\setlength{\leftmarginii}{2.15em}
+\renewcommand{\labelenumi}{\arabic{enumi}.}
+\providecommand{\toprule}{\hline}
+\providecommand{\midrule}{\hline}
+\providecommand{\bottomrule}{\hline}
+
+\ctexset{
+  section={format=\Large\bfseries\color{SolutionBlue},beforeskip=1.4em,afterskip=0.8em},
+  subsection={format=\large\bfseries\color{SolutionTeal},beforeskip=1.05em,afterskip=0.5em},
+  subsubsection={format=\normalsize\bfseries\color{SolutionInk},beforeskip=0.85em,afterskip=0.4em}
+}
+
+\newcommand{\SolutionPageOverlay}{%
+  \AtPageUpperLeft{%
+    \raisebox{-1.18cm}[0pt][0pt]{\hspace*{2.15cm}%
+      \makebox[0pt][l]{\small\bfseries\color{SolutionBlue}试题解析}}}%
+  \AtPageUpperLeft{%
+    \raisebox{-1.18cm}[0pt][0pt]{\hspace*{\dimexpr\paperwidth-2.15cm\relax}%
+      \makebox[0pt][r]{\small\normalfont\color{SolutionTeal}Worked Solutions}}}%
+  \AtPageUpperLeft{%
+    \raisebox{-1.72cm}[0pt][0pt]{\hspace*{2.15cm}%
+      \textcolor{SolutionRule}{\rule{\dimexpr\paperwidth-4.3cm\relax}{0.7pt}}}}%
+  \AtPageLowerLeft{%
+    \raisebox{0.82cm}[0pt][0pt]{\hspace*{2.15cm}%
+      \makebox[\dimexpr\paperwidth-4.3cm\relax][c]{\small\color{SolutionMuted}\thepage}}}%
+}
+\AddToShipoutPictureFG{\SolutionPageOverlay}
+\pagestyle{empty}
+\makeatletter
+\let\ps@plain\ps@empty
+\makeatother
+\newcommand{\useExamPageStyle}{\AddToShipoutPictureFG*{\SolutionPageOverlay}}
+
+\newenvironment{examSolutionBox}{%
+  \par\medskip\begingroup
+  \setlength{\leftskip}{1.0em}\setlength{\rightskip}{0.9em}%
+  \noindent\textcolor{SolutionTeal}{\bfseries\large 解析}\par
+  \smallskip\noindent\textcolor{SolutionRule}{\rule{\dimexpr\linewidth-\leftskip-\rightskip\relax}{0.8pt}}\par
+  \smallskip\color{SolutionInk}%
+}{%
+  \par\smallskip\noindent\textcolor{SolutionRule}{\rule{\dimexpr\linewidth-\leftskip-\rightskip\relax}{0.8pt}}\par
+  \endgroup\medskip
+}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>0.8\textheight 0.8\textheight\else\Gin@nat@height\fi}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\providecommand{\pandocbounded}[1]{#1}
+\makeatother
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+\begin{document}
+\color{SolutionInk}
+
+\begin{center}
+  {\LARGE\bfseries\color{SolutionBlue}2025---2026 学年度第二学期高二年级期末教学质量监测试卷\par}
+  \vspace{0.35em}
+  {\color{SolutionTeal}\rule{0.32\textwidth}{1.4pt}}
+\end{center}
+\vspace{0.85em}
+
+
+\section{2025---2026 学年度第二学期高二年级期末教学质量监测试卷}\label{ux5b66ux5e74ux5ea6ux7b2cux4e8cux5b66ux671fux9ad8ux4e8cux5e74ux7ea7ux671fux672bux6559ux5b66ux8d28ux91cfux76d1ux6d4bux8bd5ux5377}
+
+\subsection{注意事项}\label{ux6ce8ux610fux4e8bux9879}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  考生答卷前,务必将自己的姓名、座位号写在答题卡上。将条形码粘贴在规定区域。本试卷满分 150 分,考试时间 120 分钟。
+\item
+  做选择题时, 选出每小题答案后, 用铅笔把答题卡上对应题目的答案标号涂黑。如需改动, 用橡皮擦干净后, 再选涂其他答案标号。写在本试卷上无效。
+\item
+  回答非选择题时, 将答案写在答题卡的规定区域内, 写在本试卷上无效。
+\item
+  考试结束后, 将答题卡交回。
+\end{enumerate}
+
+\subsection{一、选择题:本题共8小题,每小题5分,共40分.在每小题给出的四个选项中,只有一项是符合题目要求的.}\label{ux4e00ux9009ux62e9ux9898ux672cux9898ux51718ux5c0fux9898ux6bcfux5c0fux98985ux5206ux517140ux5206.ux5728ux6bcfux5c0fux9898ux7ed9ux51faux7684ux56dbux4e2aux9009ux9879ux4e2dux53eaux6709ux4e00ux9879ux662fux7b26ux5408ux9898ux76eeux8981ux6c42ux7684.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  在复平面内, 复数 \(z\) 对应的点的坐标是 \((-1, -\sqrt{3})\) , 则 \(z\) 的共轭复数 \(z =\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(1 + \sqrt{3}\mathrm{i}\)
+  \item
+    B. \(1 - \sqrt{3}\mathrm{i}\)
+  \item
+    C. \(-1 + \sqrt{3}\mathrm{i}\)
+  \item
+    D. \(-1 - \sqrt{3}\mathrm{i}\)
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} C　\textbf{Analysis:} 由复平面内点的坐标先写出复数，再改变虚部符号求共轭复数。
+
+  \textbf{Detailed explanation:} 点 \((-1,-\sqrt3)\) 对应 \(z=-1-\sqrt3\mathrm i\)，故 \(\overline z=-1+\sqrt3\mathrm i\)，选择 C。
+
+  \end{examSolutionBox}
+\item
+  已知集合 \(A = \{-1, 0, 1, 2, 8\}, B = \{x \mid \sqrt[3]{x} = x\}\) , 则 \(A \cap B =\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(\{0, 1\}\)
+  \item
+    B. \(\{-1, 0, 1\}\)
+  \item
+    C. \(\{0, 2, 8\}\)
+  \item
+    D. \(\{0, 1, 2, 8\}\)
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} B　\textbf{Analysis:} 解集合 \(B\) 的方程，再与有限集 \(A\) 取交集。
+
+  \textbf{Detailed explanation:} \(\sqrt[3]x=x\iff x=x^3\iff x(x-1)(x+1)=0\)，所以 \(B=\{-1,0,1\}\)，从而 \(A\cap B=\{-1,0,1\}\)。
+
+  \end{examSolutionBox}
+\item
+  设 \(\vec{a}, \vec{b}\) 为单位向量，且 \(|\vec{a} - \vec{b}| = \sqrt{2}\) ，则 \(|\vec{a} + \vec{b}| =\) A. 1
+
+  \begin{itemize}
+  \tightlist
+  \item
+    B. \(\sqrt{2}\)
+  \item
+    C. \(\sqrt{3}\)
+  \item
+    D. 2
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} B　\textbf{Analysis:} 分别展开两向量和、差的模的平方。
+
+  \textbf{Detailed explanation:} 由 \(|\vec a-\vec b|^2=|\vec a|^2+|\vec b|^2-2\vec a\cdot\vec b=2\) 得 \(\vec a\cdot\vec b=0\)，故 \(|\vec a+\vec b|^2=2\)，即 \(|\vec a+\vec b|=\sqrt2\)。
+
+  \end{examSolutionBox}
+\item
+  已知 \(\dfrac{\sin(\alpha+\beta)}{\sin(\alpha-\beta)}=3\) ，则 \(\dfrac{\tan\alpha}{\tan\beta}=\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(\dfrac{1}{3}\)
+  \item
+    B. \(\dfrac{1}{2}\)
+  \item
+    C. 2
+  \item
+    D. 3
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} C　\textbf{Analysis:} 展开和差角正弦并移项，化为正切之比。
+
+  \textbf{Detailed explanation:} \(\sin(\alpha+\beta)=3\sin(\alpha-\beta)\) 给出
+  \(\sin\alpha\cos\beta+\cos\alpha\sin\beta=3\sin\alpha\cos\beta-3\cos\alpha\sin\beta\)，故 \(\sin\alpha\cos\beta=2\cos\alpha\sin\beta\)，所以 \(\dfrac{\tan\alpha}{\tan\beta}=2\)。
+
+  \end{examSolutionBox}
+\item
+  某中学举办田径运动会, 某班从甲、乙等 6 名学生中选 4 名学生代表班级参加学校 \(4 \times 1\) 米接力赛, 其中甲只能跑第 1 棒或第 2 棒, 乙只能跑第 2 棒或第 4 棒, 那么甲、乙都参加不同棒次安排方案总数为
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. 12
+  \item
+    B. 24
+  \item
+    C. 30
+  \item
+    D. 36
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} D　\textbf{Analysis:} 先安排甲、乙允许的不同棒次，再安排其余两棒。
+
+  \textbf{Detailed explanation:} 甲、乙的棒次组合为 \((1,2),(1,4),(2,4)\)，共 \(3\) 种。余下两棒从其余 \(4\) 人中有序选取，方法数为 \(A_4^2=12\)，总数 \(3\times12=36\)。
+
+  \end{examSolutionBox}
+\item
+  长方体的一条体对角线与它在一个顶点处的三个面所成的角分别为 \(\alpha, \beta, \gamma\) , 则
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(\sin^{2}\alpha + \sin^{2}\beta + \sin^{2}\gamma = 1\)
+  \item
+    B. \(\sin^{2}\alpha + \sin^{2}\beta + \sin^{2}\gamma = 2\)
+  \item
+    C. \(\cos^{2}\alpha + \cos^{2}\beta + \cos^{2}\gamma = 3\)
+  \item
+    D. \(\cos^{2}\alpha + \cos^{2}\beta + \cos^{2}\gamma = 1\)
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} A　\textbf{Analysis:} 线与三个面的夹角之正弦分别等于体对角线在三条互相垂直法向上的方向余弦。
+
+  \textbf{Detailed explanation:} 设长方体三条棱长为 \(a,b,c\)，体对角线长为 \(d=\sqrt{a^2+b^2+c^2}\)，则三个夹角的正弦依次为 \(\dfrac a d,\dfrac b d,\dfrac c d\)（次序不影响结论），故 \(\sin^2\alpha+\sin^2\beta+\sin^2\gamma=1\)。
+
+  \end{examSolutionBox}
+\item
+  设 P, Q 分别为 \(x^{2} + (y - 6)^{2} = 2\) 和椭圆 \(\dfrac{x^{2}}{10} + y^{2} = 1\) 上的点，则 P, Q 两点间的最大距离是
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(5\sqrt{2}\)
+  \item
+    B. \(\sqrt{46} + \sqrt{2}\)
+  \item
+    C. \(7 + \sqrt{2}\)
+  \item
+    D. \(\sqrt{2}\)
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} \(6\sqrt2\)（题面选项无匹配项）
+
+  \textbf{Analysis:} 先求椭圆上一点到圆心 \((0,6)\) 的最大距离，再加圆的半径 \(\sqrt2\)。
+
+  \textbf{Detailed explanation:} 在椭圆上令 \(x^2=10(1-y^2)\)，则点 \(Q\) 到圆心 \(O_1(0,6)\) 的距离平方为
+  \[
+  O_1Q^2=x^2+(y-6)^2=46-9y^2-12y=50-9\left(y+\frac23\right)^2.
+  \]
+  当 \(y=-\dfrac23\) 时取最大值 \(50\)，故 \(\max O_1Q=5\sqrt2\)。对该 \(Q\)，圆上可取反向共线的 \(P\)，所以 \(\max PQ=5\sqrt2+\sqrt2=6\sqrt2\)。
+
+  \textbf{Caution:} 按题面现有方程计算，结果不在 A--D 中；可能存在原题或 OCR 缺损，因此不强行改选项。
+
+  \end{examSolutionBox}
+\item
+  若存在 \(a \in R\) 且 \(a \neq 0\) , 对任意的 \(x \in R\) , 均有 \(f(x + a) < f(x) + f(a)\) 恒成立, 则称函数 \(f(x)\) 具有性质 \(P\) . 已知: \(q_{1}: f(x)\) 单调递减, 且 \(f(x) > 0\) 恒成立; \(q_{2}: f(x)\) 单调递增, 存在 \(x_{0} < 0\) 使得 \(f(x_{0}) = 0\) , 则是 \(f(x)\) 具有性质 \(P\) 的充分条件是
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. \(q_{1}\) 和 \(q_{2}\)
+  \item
+    B. 只有 \(q_{1}\)
+  \item
+    C. 只有 \(q_{2}\)
+  \item
+    D. \(q_{1}\) 和 \(q_{2}\) 都不是
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} A　\textbf{Analysis:} 对两个条件分别构造满足定义的非零平移量 \(a\)。
+
+  \textbf{Detailed explanation:} 若 \(q_1\) 成立，任取 \(a>0\)，单调递减给出 \(f(x+a)<f(x)\)，又 \(f(a)>0\)，故 \(f(x+a)<f(x)+f(a)\)。若 \(q_2\) 成立，取 \(a=x_0<0\)，则 \(f(a)=0\)，且单调递增给出 \(f(x+a)<f(x)=f(x)+f(a)\)。两者均为充分条件。
+
+  \end{examSolutionBox}
+\end{enumerate}
+
+\subsection{二、选择题:大题共3小题,每小题6分,共18分.在每小题给出的四个选项中,有多项是符合题目要求的,全部选对的得6分,部分选对的得部分分,有选错的得0分.}\label{ux4e8cux9009ux62e9ux9898ux5927ux9898ux51713ux5c0fux9898ux6bcfux5c0fux98986ux5206ux517118ux5206.ux5728ux6bcfux5c0fux9898ux7ed9ux51faux7684ux56dbux4e2aux9009ux9879ux4e2dux6709ux591aux9879ux662fux7b26ux5408ux9898ux76eeux8981ux6c42ux7684ux5168ux90e8ux9009ux5bf9ux7684ux5f976ux5206ux90e8ux5206ux9009ux5bf9ux7684ux5f97ux90e8ux5206ux5206ux6709ux9009ux9519ux7684ux5f970ux5206.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\item
+  已知曲线 \(C: mx^{2} + ny^{2} = 1\) ，下列说法正确的是
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A. 若 \(m > n > 0\) ，则 \(C\) 是椭圆，其焦点在 \(y\) 轴上
+  \item
+    B. 若 \(m = n > 0\) ，则 \(C\) 是圆，其半径为 \(\sqrt{n}\)
+  \item
+    C. 若 \(mn < 0\) ，则 \(C\) 是双曲线，其渐近线方程为 \(y = \pm \sqrt{-\dfrac{m}{n}} x\)
+  \item
+    D. 若 \(m = 0, n > 0\) ，则 \(C\) 是两条直线
+  \end{itemize}
+
+  \begin{examSolutionBox}
+
+  \textbf{Answer:} ACD　\textbf{Analysis:} 按 \(m,n\) 的符号与大小逐项化为圆锥曲线标准形式。
+
+  \textbf{Detailed explanation:} \(m>n>0\) 时，\(x\) 轴半轴为 \(1/\sqrt m\)、\(y\) 轴半轴为 \(1/\sqrt n\)，长轴在 \(y\) 轴，A 正确；\(m=n>0\) 时半径为 \(1/\sqrt n\)，B 错误；\(mn<0\) 时为双曲线，令右端为 \(0\) 得渐近线 \(y=\pm\sqrt{-m/n}\,x\)，C 正确；\(m=0,n>0\) 时 \(y=\pm1/\sqrt n\)，为两条直线，D 正确。
+
+  \end{examSolutionBox}
+\item
+  一组样本数据 \((x_{i},y_{i}), i\in\{1,2,3\cdots,100\}\) . 其中 \(\sum_{i=1}^{100}x_{i}=2\times10^{5},\sum_{i=1}^{100}y_{i}=970\) , 求得其经验回归方程为: \(\hat{y}=-0.02x+\hat{a}_{1}\) , 残差为 \(\hat{e}_{i}\) . 对样本数据进行处理: \(x_{i}^{\prime}=\ln x_{i}\) , 得到新的数据 \((x_{i}^{\prime},y_{i})\) , 求得其经验回归方程为: \(\hat{y}=-0.42x+\hat{a}_{2}\) , 其残差为 \(\hat{u}_{i}\cdot\hat{e}_{i}\cdot\hat{u}_{i}\) 分布如图所示, 且 \(\hat{e}\sim N(0,\sigma_{1}^{2}),\hat{u}\sim N(0,\sigma_{2}^{2})\) 则
+\end{enumerate}
+
+图1 图2
+
+\pandocbounded{\includegraphics[keepaspectratio]{images/65cc2935ceea6efd236f015efc8d3c9744e38f4fa51f8e825f8ef97d83b9301c.jpg}}
+\pandocbounded{\includegraphics[keepaspectratio]{images/4a9eb6ac34ccbef48d752b747a94b80483b43a7809107c2f8a3a795e35f45a31.jpg}}
+
+\begin{itemize}
+\tightlist
+\item
+  A. 梯牢 \((x_{i}, y_{i})\) 负相关
+\item
+  B. \(\stackrel{\wedge}{a}_{1}=49.7\)
+\item
+  C. \(\sigma_{1}^{2}<\sigma_{2}^{2}\)
+\item
+  D. 处理后的决定系数变大
+\end{itemize}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} ABD　\textbf{Analysis:} 用回归直线过样本中心求截距，并比较两幅残差图的离散程度。
+
+\textbf{Detailed explanation:} 斜率为负，故 \(x_i,y_i\) 负相关，A 正确。\(\bar x=2000,\bar y=9.7\)，由 \(9.7=-0.02\times2000+\hat a_1\) 得 \(\hat a_1=49.7\)，B 正确。图 1 的残差离散程度明显大于图 2，故 \(\sigma_1^2>\sigma_2^2\)，C 错误；因因变量总离差平方和不变而处理后残差平方和更小，决定系数变大，D 正确。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{10}
+\tightlist
+\item
+  已知函数 \(f(x) = \ln x - \cos x\) ，将 \(f(x)\) 的所有极值点按照由小到大的顺序排列，得到数列 \(\{x_n\}\) ，对于正整数 \(n\) ，则下列说法中正确的有
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  A. \((n - \dfrac{1}{2})\pi < x_n < (n + \dfrac{1}{2})\pi\)
+\item
+  B. \(x_{n+1} - x_n < \pi\)
+\item
+  C. \(\{ |x_n - n\pi | \}\) 为递减数列
+\item
+  D. \(f(x_{2n-1}) > \ln \dfrac{(4n-1)\pi}{2}\)
+\end{itemize}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} ACD　\textbf{Analysis:} 极值点满足 \(\sin x=-1/x\)；在每个正弦为负的半周期考察交点位置与偏离整数倍 \(\pi\) 的量。
+
+\textbf{Detailed explanation:} \(f'(x)=\dfrac1x+\sin x\)。每个区间 \(((2k-1)\pi,2k\pi)\) 内恰有两个零点：一个位于 \(((2k-1)\pi,(4k-1)\pi/2)\)，另一个位于 \(((4k-1)\pi/2,2k\pi)\)，由此得到 A。相邻负半波之间的两个极值点间距大于 \(\pi\)，故 B 错。写成 \(x_n=n\pi+(-1)^{n+1}\delta_n\)，其中 \(\sin\delta_n=1/x_n\)；随 \(n\) 增大，右端减小，故 \(\delta_n\) 递减，C 正确。对奇数号点 \(x_{2n-1}<(4n-1)\pi/2\)，且 \(-\cos x_{2n-1}=\cos\delta_{2n-1}>0\)，比较可得 \(f(x_{2n-1})>\ln((4n-1)\pi/2)\)，D 正确。
+
+\end{examSolutionBox}
+
+\subsection{三、填空题：本题共3小题，每小题5分，共15分.}\label{ux4e09ux586bux7a7aux9898ux672cux9898ux51713ux5c0fux9898ux6bcfux5c0fux98985ux5206ux517115ux5206.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{11}
+\tightlist
+\item
+  记 \(S_{n}\) 为等差数列 \(\{a_{n}\}\) 的前 \(n\) 项和, 若 \(a_{1} = -3, a_{5} = 5\) , 则 \(S_{6} =\) \_\_\_\_.
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} \(12\)　\textbf{Analysis:} 先由第 1、5 项求公差，再用等差数列求和公式。
+
+\textbf{Detailed explanation:} \(-3+4d=5\)，得 \(d=2\)，于是 \(a_6=7\)，\(S_6=\dfrac{6(a_1+a_6)}2=12\)。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{12}
+\tightlist
+\item
+  袋中有 2 个红球、5 个白球, 现随机不放回地逐个摸出. 设 \(X\) 为``首次出现某一种颜色的球被全部摸出''时所需的摸球次数, 则 \(X = 3\) 的概率为 \_\_\_\_.
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} \(\dfrac{2}{21}\)　\textbf{Analysis:} 第 3 次时不可能摸完 5 个白球，只可能恰在第 3 次摸完 2 个红球。
+
+\textbf{Detailed explanation:} 在 7 个抽取位置中，两个红球的位置等可能。要使 \(X=3\)，第二个红球必须位于第 3 位，另一个红球位于第 1、2 位之一，因此概率为 \(\dfrac{\binom21}{\binom72}=\dfrac2{21}\)。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{13}
+\tightlist
+\item
+  一个底面边长和侧棱长均为 4 的正三棱柱密闭容器 ABC - \(A_{1}B_{1}C_{1}\) ，其中盛有一定体积的水，当底面 ABC 水平放置时，水面高为 \(\dfrac{15}{4}\) 。当侧面 \(AA_{1}B_{1}B\) 水平放置时（如图），容器内的水形成新的几何体。若该几何体的所有顶点均在同一个球面上，则该球的表面积为 \_\_\_\_。
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{images/6351f3f11ca38ff0b2fd31908714b961f3bab2eb31cfdc33b5a69bb708f975cd.jpg}}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} \(\dfrac{100\pi}{3}\)　\textbf{Analysis:} 先用水体积确定侧放后的截面梯形，再求梯形外接圆半径，最后合成立体外接球半径。
+
+\textbf{Detailed explanation:} 正三角形底面积为 \(4\sqrt3\)，水体积为 \(4\sqrt3\cdot\dfrac{15}{4}=15\sqrt3\)，故顶部空余体积为 \(\sqrt3\)。侧放后空余部分是沿侧棱方向长为 \(4\) 的三棱柱，其截面面积为 \(\sqrt3/4\)，是原三角形面积的 \(1/16\)，所以小三角形线性比为 \(1/4\)，水面到侧面 \(AA_1B_1B\) 的高度为 \(3\sqrt3/2\)。
+
+水体截面为等腰梯形。取其四点为 \((-2,0),(2,0),(-1/2,3\sqrt3/2),(1/2,3\sqrt3/2)\)，外接圆圆心为 \((0,1/\sqrt3)\)，截面外接圆半径平方为 \(13/3\)。棱柱长度为 \(4\)，故外接球半径平方
+\[
+   R^2=\frac{13}{3}+\left(\frac42\right)^2=\frac{25}{3}.
+   \]
+球表面积为 \(4\pi R^2=\dfrac{100\pi}{3}\)。
+
+\end{examSolutionBox}
+
+\subsection{四、解答题:本题共5小题,共77分. 解答应写出文字说明、证明过程或演算步骤.}\label{ux56dbux89e3ux7b54ux9898ux672cux9898ux51715ux5c0fux9898ux517177ux5206.-ux89e3ux7b54ux5e94ux5199ux51faux6587ux5b57ux8bf4ux660eux8bc1ux660eux8fc7ux7a0bux6216ux6f14ux7b97ux6b65ux9aa4.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{14}
+\tightlist
+\item
+  (13分)
+\end{enumerate}
+
+某沙漠地区经过治理,生态系统得到很大改善,野生动物数量有所增加.为调查该地区某种野生动物的数量,将其分成面积相近的200个地块,从这些地块中用简单随机抽样的方法抽取40个作为样区,工作人员将区域内的地块按植被情况分为高覆盖地块、低覆盖地块两类,统计每块样区野生动物数量为``较多''或``较少'',统计结果如下
+
+\begin{longtable}[]{@{}lrrr@{}}
+\toprule\noalign{}
+& 高覆盖地块 & 低覆盖地块 & 合计 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+野生动物数量较多 & 14 & 6 & 20 \\
+野生动物数量较少 & 8 & 12 & 20 \\
+合计 & 22 & 18 & 40 \\
+\end{longtable}
+
+(1)依据小概率值 \(\alpha = 0.05\) 的独立性检验, 判断是否有充分证据认为 ``该地区此种野生动物数量多少与地块植物覆盖面积高低存在关联'';
+
+(2)根据现有统计资料,各地块间植物覆盖面积差异很大.为提高样本的代表性以获得该地区这种野生动物数量更准确的估计,请给出一种你认为更合理的抽样方法,并说明理由.
+
+(注: \(\chi^{2}=\dfrac{n(ad-bc)^{2}}{(a+b)(c+d)(a+c)(b+d)}\) ,其中 \(n=a+b+c+d\) )
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1304}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1739}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1739}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1739}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1739}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1739}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\(P(\chi^{2} \geqslant k_{\alpha})\)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+0.100
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+0.050
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+0.010
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+0.005
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+0.001
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\(k_{\alpha}\) & 2.706 & 3.841 & 6.635 & 7.879 & 10.828 \\
+\end{longtable}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} （1）没有充分证据认为两者存在关联；（2）采用按植物覆盖程度分层的分层随机抽样。
+
+\textbf{Analysis:} 第（1）问计算列联表的 \(\chi^2\) 并与 \(k_{0.05}\) 比较；第（2）问依据总体内部覆盖程度差异大的特点选择分层抽样。
+
+\textbf{Detailed explanation:}
+
+（1）由列联表可得
+
+\[
+   \chi^2=\dfrac{40(14\times12-6\times8)^2}{20\times20\times22\times18}
+   =\dfrac{40}{11}\approx3.636.
+   \]
+
+因为 \(3.636<3.841\)，所以依据小概率值 \(\alpha=0.05\) 的独立性检验，没有充分证据认为该地区此种野生动物数量多少与地块植物覆盖面积高低存在关联。
+
+（2）可采用分层随机抽样：先按植物覆盖程度将全部地块分为高覆盖、低覆盖等层，再按各层地块数占总体的比例，在每层内进行简单随机抽样。这样能使覆盖状况不同的地块都得到合理代表，并在层内差异较小时降低估计量的方差，从而提高估计精度。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  (15分)
+\end{enumerate}
+
+已知函数 \(f(x)=\dfrac{a\cdot3^{x}+2}{3^{x}+1}+x^{3},a\in R.\)
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  当 a = -2 时, 求证: 函数 \(f(x)\) 是奇函数;
+\item
+  当 \(a > -2\) 时, 求 \(f(1) + \dfrac{1}{f(-1)}\) 的最小值.
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} （1）\(f(x)\) 为奇函数；（2）最小值为 \(2\sqrt3\)。
+
+\textbf{Analysis:} 第（1）问直接验证 \(f(-x)=-f(x)\)；第（2）问令 \(t=a+2>0\)，把目标式化为 \(\dfrac{3t}{4}+\dfrac4t\) 后用基本不等式。
+
+\textbf{Detailed explanation:}
+
+（1）当 \(a=-2\) 时，
+
+\[
+   f(x)=\dfrac{2(1-3^x)}{3^x+1}+x^3.
+   \]
+
+于是
+
+\[
+   f(-x)=\dfrac{2(1-3^{-x})}{3^{-x}+1}-x^3
+   =\dfrac{2(3^x-1)}{3^x+1}-x^3=-f(x).
+   \]
+
+函数的定义域为 \(\mathbb R\)，关于原点对称，故 \(f(x)\) 是奇函数。
+
+（2）令 \(t=a+2>0\)。直接计算得
+
+\[
+   f(1)=\dfrac{3a+2}{4}+1=\dfrac{3(a+2)}4=\dfrac{3t}{4},
+   \qquad
+   f(-1)=\dfrac{a+6}{4}-1=\dfrac{a+2}{4}=\dfrac t4.
+   \]
+
+所以
+
+\[
+   f(1)+\dfrac1{f(-1)}=\dfrac{3t}{4}+\dfrac4t
+   \ge 2\sqrt{\dfrac{3t}{4}\cdot\dfrac4t}=2\sqrt3.
+   \]
+
+当且仅当 \(\dfrac{3t}{4}=\dfrac4t\)，即 \(t=\dfrac4{\sqrt3}\)（\(a=\dfrac4{\sqrt3}-2\)）时取等号。因此最小值为 \(2\sqrt3\)。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{16}
+\tightlist
+\item
+  (15分)
+\end{enumerate}
+
+在 \(\triangle ABC\) 中，角A、B、C的对边分别为a、b、c，已知 \(c=b\tan C\) .
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  若 B 为锐角, 试判断 \(\triangle ABC\) 的形状;
+\item
+  若 B 为钝角, 求 \(\sin A + \sin C\) 的最大值.
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} （1）以 \(A\) 为直角的直角三角形；（2）最大值为 \(\dfrac98\)。
+
+\textbf{Analysis:} 用正弦定理把边关系转为 \(\cos C=\sin B\)，再分别讨论 \(B\) 为锐角、钝角。
+
+\textbf{Detailed explanation:}
+
+由正弦定理及 \(c=b\tan C\)，有
+
+\[
+   \sin C=\sin B\tan C.
+   \]
+
+因为 \(\sin C>0\)，所以 \(\cos C=\sin B\)，从而 \(C\) 为锐角。
+
+（1）若 \(B\) 为锐角，则 \(\sin B=\cos\left(\dfrac\pi2-B\right)\)，且 \(B,C\in\left(0,\dfrac\pi2\right)\)，故
+
+\[
+   C=\dfrac\pi2-B,
+   \]
+
+于是 \(A=\dfrac\pi2\)。因此 \(\triangle ABC\) 是以 \(A\) 为直角的直角三角形。
+
+（2）若 \(B\) 为钝角，则
+
+\[
+   C=B-\dfrac\pi2,
+   \qquad
+   A=\pi-B-C=\dfrac\pi2-2C,
+   \]
+
+其中 \(0<C<\dfrac\pi4\)。令 \(u=\sin C\)，则 \(0<u<\dfrac{\sqrt2}{2}\)，并且
+
+\[
+   \sin A+\sin C=\cos2C+\sin C
+   =1-2u^2+u
+   =\dfrac98-2\left(u-\dfrac14\right)^2\le\dfrac98.
+   \]
+
+当 \(\sin C=\dfrac14\) 时等号成立，故最大值为 \(\dfrac98\)。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{17}
+\tightlist
+\item
+  (17分)
+\end{enumerate}
+
+已知函数 \(f(x)=a^{2}x^{2}-3ax\ln x,a>0.\)
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  当 \(a = 1\) 时, 求曲线 \(y = f(x)\) 在 \((1, f(1))\) 处的切线方程;
+\item
+  讨论 \(f(x)\) 的零点个数；
+\item
+  当 a \textgreater{} 2 时, 证明: \(f(x) > 2x\) .
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} （1）\(y=-x+2\)；（2）\(0<a<3/e\) 时有两个零点，\(a=3/e\) 时有一个零点，\(a>3/e\) 时无零点；（3）结论成立。
+
+\textbf{Analysis:} 第（1）问求导得切线；第（2）问研究 \(g(x)=3\ln x/x\) 的最大值；第（3）问求 \(a^2x-3a\ln x\) 关于 \(x\) 的最小值。
+
+\textbf{Detailed explanation:}
+
+函数定义域为 \((0,+\infty)\)。
+
+（1）当 \(a=1\) 时，\(f(x)=x^2-3x\ln x\)，
+
+\[
+   f'(x)=2x-3(\ln x+1).
+   \]
+
+所以 \(f(1)=1\)，\(f'(1)=-1\)，切线方程为 \(y-1=-(x-1)\)，即 \(y=-x+2\)。
+
+（2）因为 \(x>0\) 且 \(a>0\)，所以
+
+\[
+   f(x)=0\iff ax=3\ln x\iff a=\dfrac{3\ln x}{x}.
+   \]
+
+设 \(g(x)=\dfrac{3\ln x}{x}\)，则
+
+\[
+   g'(x)=\dfrac{3(1-\ln x)}{x^2}.
+   \]
+
+函数 \(g\) 在 \((0,e)\) 上单调递增，在 \((e,+\infty)\) 上单调递减，且 \(g(e)=\dfrac3e\)；又因 \(a>0\)，零点只能位于 \(x>1\)。因此：当 \(0<a<\dfrac3e\) 时，\(f(x)\) 有两个零点；当 \(a=\dfrac3e\) 时，\(f(x)\) 有一个零点 \(x=e\)；当 \(a>\dfrac3e\) 时，\(f(x)\) 没有零点。
+
+（3）要证 \(f(x)>2x\)，只需证 \(a^2x-3a\ln x>2\)。对固定的 \(a>2\)，令 \(h(x)=a^2x-3a\ln x\)，则
+
+\[
+   h'(x)=a^2-\dfrac{3a}{x},
+   \]
+
+故 \(h\) 在 \(x=\dfrac3a\) 处取得最小值
+
+\[
+   h_{\min}=3a-3a\ln\dfrac3a=3a\left(1+\ln\dfrac a3\right).
+   \]
+
+设 \(H(a)=3a\left(1+\ln\dfrac a3\right)\)。当 \(a>2\) 时，
+
+\[
+   H'(a)=3\left(2+\ln\dfrac a3\right)>0,
+   \]
+
+所以 \(H(a)>H(2)=6\left(1+\ln\dfrac23\right)>2\)。因此对任意 \(x>0\)，均有 \(f(x)>2x\)。
+
+\end{examSolutionBox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{18}
+\tightlist
+\item
+  (17分)
+\end{enumerate}
+
+某款游戏预推出一项皮肤抽卡活动,玩家每次抽卡需要花费10元,现有以下两种方案.方案一:没有保底机制,每次抽卡抽中新皮肤的概率为 \(p_{1}\) ;方案二:每次抽卡抽中新皮肤的概率为 \(p_{2}\) ,若连续9次未抽中,则第10次必中新皮肤.已知 \(0<p_{2}<p_{1}<1\) ,玩家按照一、二两种方案进行抽卡,首次抽中新皮肤时的累计花费为X,Y(元).
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  按照方案一, 小明先抽取三次, 没有抽中皮肤, 则他第四次抽中皮肤的概率是多少?
+\item
+  设第 k 次首次抽中皮肤, 求 \(P(X=10k)\) , \(P(Y=10k)\) ;
+\item
+  若 \(P_{1} = 2P_{2} = 0.1\) , 根据花费的均值从游戏策划角度选择收益较高的方案. (参考数据: \(0.95^{9} \approx 0.63, 0.95^{10} \approx 0.60\) .)
+\end{enumerate}
+
+\begin{examSolutionBox}
+
+\textbf{Answer:} （1）\(p_1\)；（2）\(P(X=10k)=(1-p_1)^{k-1}p_1\)，而 \(P(Y=10k)\) 见分段式；（3）选择方案一。
+
+\textbf{Analysis:} 方案一使用几何分布；方案二的首次成功次数是截断到第 10 次的几何分布，用尾和公式计算均值。
+
+\textbf{Detailed explanation:}
+
+（1）方案一中每次抽卡相互独立。前三次未抽中不改变第四次抽中的概率，因此所求概率为 \(p_1\)。
+
+（2）对方案一，当 \(k\ge1\) 时，前 \(k-1\) 次均未抽中且第 \(k\) 次抽中，故
+
+\[
+   P(X=10k)=(1-p_1)^{k-1}p_1.
+   \]
+
+对方案二，首次抽中最迟发生在第 \(10\) 次，因此
+
+\[
+   P(Y=10k)=
+   \begin{cases}
+   (1-p_2)^{k-1}p_2,&1\le k\le9,\\
+   (1-p_2)^9,&k=10,\\
+   0,&k>10.
+   \end{cases}
+   \]
+
+（3）由 \(p_1=0.1\)，方案一首次抽中所需次数服从几何分布，故
+
+\[
+   E(X)=10\cdot\dfrac1{p_1}=100.
+   \]
+
+由 \(p_2=0.05\)，记方案二首次抽中所需次数为 \(N\)，则
+
+\[
+   E(N)=\sum_{k=1}^{10}P(N\ge k)
+   =\sum_{k=1}^{10}0.95^{k-1}
+   =\dfrac{1-0.95^{10}}{0.05}\approx8,
+   \]
+
+所以 \(E(Y)=10E(N)\approx80\)。从游戏策划角度，平均收入较高的是方案一，应选择方案一。
+
+\end{examSolutionBox}
+
+\clearpage
+
+\section{数学参考答案}\label{ux6570ux5b66ux53c2ux8003ux7b54ux6848}
+
+\useExamPageStyle
+
+\subsection{一、选择题}\label{ux4e00ux9009ux62e9ux9898}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  C　2. B　3. B　4. C　5. D　6. A　7. \(6\sqrt{2}\)（题面给出的四个选项中无匹配项）　8. A
+\end{enumerate}
+
+\subsection{二、选择题}\label{ux4e8cux9009ux62e9ux9898}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  ACD　10. ABD　11. ACD
+\end{enumerate}
+
+\subsection{三、填空题}\label{ux4e09ux586bux7a7aux9898}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{11}
+\tightlist
+\item
+  \(12\)　13. \(\dfrac{2}{21}\)　14. \(\dfrac{100\pi}{3}\)
+\end{enumerate}
+
+\subsection{四、解答题}\label{ux56dbux89e3ux7b54ux9898}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{14}
+\tightlist
+\item
+  （13 分）
+\end{enumerate}
+
+（1）由列联表可得
+
+\[
+   \chi^2=\dfrac{40(14\times12-6\times8)^2}{20\times20\times22\times18}
+   =\dfrac{40}{11}\approx3.636.
+   \]
+
+因为 \(3.636<3.841\)，
+
+所以依据小概率值 \(\alpha=0.05\) 的独立性检验，没有充分证据认为该地区此种野生动物数量多少与地块植物覆盖面积高低存在关联。
+
+（2）可采用分层随机抽样：先按植物覆盖程度将全部地块分为高覆盖、低覆盖等层，再按各层地块数占总体的比例，在每层内进行简单随机抽样。这样能使覆盖状况不同的地块都得到合理代表，并在层内差异较小时降低估计量的方差，
+
+从而提高估计精度。
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  （15 分）
+\end{enumerate}
+
+（1）当 \(a=-2\) 时，
+
+\[
+   f(x)=\dfrac{2(1-3^x)}{3^x+1}+x^3.
+   \]
+
+于是
+
+\[
+   f(-x)=\dfrac{2(1-3^{-x})}{3^{-x}+1}-x^3
+   =\dfrac{2(3^x-1)}{3^x+1}-x^3=-f(x).
+   \]
+
+函数的定义域为 \(\mathbb R\)，关于原点对称，
+
+故 \(f(x)\) 是奇函数。
+
+（2）令 \(t=a+2>0\)。直接计算得
+
+\[
+   f(1)=\dfrac{3a+2}{4}+1=\dfrac{3(a+2)}4=\dfrac{3t}{4},
+   \qquad
+   f(-1)=\dfrac{a+6}{4}-1=\dfrac{a+2}{4}=\frac t4.
+   \]
+
+所以
+
+\[
+   f(1)+\frac1{f(-1)}=\dfrac{3t}{4}+\frac4t
+   \ge 2\sqrt{\dfrac{3t}{4}\cdot\frac4t}=2\sqrt3.
+   \]
+
+当且仅当 \(\dfrac{3t}{4}=\dfrac4t\)，
+
+即 \(t=\dfrac4{\sqrt3}\)（\(a=\dfrac4{\sqrt3}-2\)）时取等号。
+
+因此最小值为 \(2\sqrt3\)。
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{16}
+\tightlist
+\item
+  （15 分）
+\end{enumerate}
+
+由正弦定理及 \(c=b\tan C\)，有
+
+\[
+   \sin C=\sin B\tan C.
+   \]
+
+因为 \(\sin C>0\)，
+
+所以 \(\cos C=\sin B\)，
+
+从而 \(C\) 为锐角。
+
+（1）若 \(B\) 为锐角，
+
+则 \(\sin B=\cos\left(\dfrac\pi2-B\right)\)，且 \(B,C\in\left(0,\dfrac\pi2\right)\)，
+
+故
+
+\[
+   C=\frac\pi2-B,
+   \]
+
+于是 \(A=\dfrac\pi2\)。
+
+因此 \(\triangle ABC\) 是以 \(A\) 为直角的直角三角形。
+
+（2）若 \(B\) 为钝角，
+
+则
+
+\[
+   C=B-\frac\pi2,
+   \qquad
+   A=\pi-B-C=\frac\pi2-2C,
+   \]
+
+其中 \(0<C<\dfrac\pi4\)。令 \(u=\sin C\)，
+
+则 \(0<u<\dfrac{\sqrt2}{2}\)，并且
+
+\[
+   \sin A+\sin C=\cos2C+\sin C
+   =1-2\sin^2C+\sin C
+   =1-2u^2+u
+   =\frac98-2\left(u-\frac14\right)^2\le\frac98.
+   \]
+
+当 \(\sin C=\dfrac14\) 时等号成立，
+
+故最大值为 \(\dfrac98\)。
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{17}
+\tightlist
+\item
+  （17 分）
+\end{enumerate}
+
+函数定义域为 \((0,+\infty)\)。
+
+（1）当 \(a=1\) 时，\(f(x)=x^2-3x\ln x\)，
+
+\[
+   f'(x)=2x-3(\ln x+1).
+   \]
+
+所以 \(f(1)=1\)，\(f'(1)=-1\)，切线方程为
+
+\[
+   y-1=-(x-1),
+   \]
+
+即 \(y=-x+2\)。
+
+（2）因为 \(x>0\) 且 \(a>0\)，
+
+所以
+
+\[
+   f(x)=0\iff ax=3\ln x\iff a=\dfrac{3\ln x}{x}.
+   \]
+
+设 \(g(x)=\dfrac{3\ln x}{x}\)，
+
+则
+
+\[
+   g'(x)=\dfrac{3(1-\ln x)}{x^2}.
+   \]
+
+函数 \(g\) 在 \((0,e)\) 上单调递增，在 \((e,+\infty)\) 上单调递减，且 \(g(e)=\dfrac3e\)；
+
+又因 \(a>0\)，零点只能位于 \(x>1\)。
+
+因此：
+
+当 \(0<a<\dfrac3e\) 时，\(f(x)\) 有两个零点；
+
+当 \(a=\dfrac3e\) 时，\(f(x)\) 有一个零点 \(x=e\)；
+
+当 \(a>\dfrac3e\) 时，\(f(x)\) 没有零点。
+
+（3）要证 \(f(x)>2x\)，只需证
+
+\[
+   a^2x-3a\ln x>2.
+   \]
+
+对固定的 \(a>2\)，令 \(h(x)=a^2x-3a\ln x\)。
+
+则
+
+\[
+   h'(x)=a^2-\dfrac{3a}{x},
+   \]
+
+故 \(h\) 在 \(x=\dfrac3a\) 处取得最小值
+
+\[
+   h_{\min}=3a-3a\ln\frac3a=3a\left(1+\ln\frac a3\right).
+   \]
+
+设 \(H(a)=3a\left(1+\ln\dfrac a3\right)\)。
+
+当 \(a>2\) 时，
+
+\[
+   H'(a)=3\left(2+\ln\frac a3\right)>0,
+   \]
+
+所以
+
+\[
+   H(a)>H(2)=6\left(1+\ln\frac23\right)>2.
+   \]
+
+因此对任意 \(x>0\)，均有 \(f(x)>2x\)。
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{18}
+\tightlist
+\item
+  （17 分）
+\end{enumerate}
+
+（1）方案一中每次抽卡相互独立。前三次未抽中不改变第四次抽中的概率，
+
+因此所求概率为 \(p_1\)。
+
+（2）对方案一，
+
+当 \(k\ge1\) 时，前 \(k-1\) 次均未抽中且第 \(k\) 次抽中，
+
+故
+
+\[
+   P(X=10k)=(1-p_1)^{k-1}p_1.
+   \]
+
+对方案二，首次抽中最迟发生在第 \(10\) 次，
+
+因此
+
+\[
+   P(Y=10k)=
+   \begin{cases}
+   (1-p_2)^{k-1}p_2,&1\le k\le9,\\
+   (1-p_2)^9,&k=10,\\
+   0,&k>10.
+   \end{cases}
+   \]
+
+（3）由 \(p_1=0.1\)，方案一首次抽中所需次数服从几何分布，
+
+故
+
+\[
+   E(X)=10\cdot\frac1{p_1}=100.
+   \]
+
+由 \(p_2=0.05\)，
+
+记方案二首次抽中所需次数为 \(N\)，
+
+则
+
+\[
+   E(N)=\sum_{k=1}^{10}P(N\ge k)
+   =\sum_{k=1}^{10}0.95^{k-1}
+   =\dfrac{1-0.95^{10}}{0.05}\approx8,
+   \]
+
+所以 \(E(Y)=10E(N)\approx80\)。从游戏策划角度，平均收入较高的是方案一，应选择方案一。
+
+
+\end{document}

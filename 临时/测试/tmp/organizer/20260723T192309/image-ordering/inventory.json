@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-07-23T11:23:09.908830+00:00",
+  "source_dir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试",
+  "recursive": false,
+  "image_count": 4,
+  "images": [
+    {
+      "image_id": "IMG-0001",
+      "relative_path": "微信图片_20260722132151_121_119.jpg",
+      "sha256": "34d3f3d2b790157c5cc06a5cd50dbda03310d92b9f844a528750eecd233c8588",
+      "bytes": 578919,
+      "original_width": 1080,
+      "original_height": 2340,
+      "width": 1080,
+      "height": 2340,
+      "mode": "RGB",
+      "format": "JPEG",
+      "exif_orientation": 0,
+      "exif_capture_time": null,
+      "filesystem_modified_utc": "2026-07-22T05:23:58.403900+00:00",
+      "filename_number_tokens": [
+        "20260722132151",
+        "121",
+        "119"
+      ]
+    },
+    {
+      "image_id": "IMG-0002",
+      "relative_path": "微信图片_20260722132153_122_119.jpg",
+      "sha256": "d6d76662a22d1702f27e1ae2bc2e5f75fd179eda2591ed24ea1e8be082ab50ce",
+      "bytes": 600329,
+      "original_width": 1080,
+      "original_height": 2340,
+      "width": 1080,
+      "height": 2340,
+      "mode": "RGB",
+      "format": "JPEG",
+      "exif_orientation": 0,
+      "exif_capture_time": null,
+      "filesystem_modified_utc": "2026-07-22T05:24:02.837220+00:00",
+      "filename_number_tokens": [
+        "20260722132153",
+        "122",
+        "119"
+      ]
+    },
+    {
+      "image_id": "IMG-0003",
+      "relative_path": "微信图片_20260722132155_123_119.jpg",
+      "sha256": "baa05181a1d4ee2664dc9b323baba548c0260fd7b3c585f11e4aa92634dea300",
+      "bytes": 651783,
+      "original_width": 1080,
+      "original_height": 2340,
+      "width": 1080,
+      "height": 2340,
+      "mode": "RGB",
+      "format": "JPEG",
+      "exif_orientation": 0,
+      "exif_capture_time": null,
+      "filesystem_modified_utc": "2026-07-22T05:24:05.882438+00:00",
+      "filename_number_tokens": [
+        "20260722132155",
+        "123",
+        "119"
+      ]
+    },
+    {
+      "image_id": "IMG-0004",
+      "relative_path": "微信图片_20260722132158_124_119.jpg",
+      "sha256": "94845a8b71902727d01eef9cccfde2c17a1f0be87181f0a7886acf0664201b6e",
+      "bytes": 477662,
+      "original_width": 1080,
+      "original_height": 2340,
+      "width": 1080,
+      "height": 2340,
+      "mode": "RGB",
+      "format": "JPEG",
+      "exif_orientation": 0,
+      "exif_capture_time": null,
+      "filesystem_modified_utc": "2026-07-22T05:24:08.444644+00:00",
+      "filename_number_tokens": [
+        "20260722132158",
+        "124",
+        "119"
+      ]
+    }
+  ],
+  "exact_duplicate_groups": [],
+  "contact_sheets": [
+    "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试\\tmp\\organizer\\20260723T192309\\image-ordering\\inventory-contact-sheet-001.png"
+  ],
+  "warning": "Inventory and contact-sheet order are inspection aids only, not final page order."
+}

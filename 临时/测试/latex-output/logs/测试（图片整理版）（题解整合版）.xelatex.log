@@ -1,0 +1,398 @@
+COMMAND
+C:\Users\Oven\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE -enable-installer -interaction=nonstopmode -halt-on-error -file-line-error -synctex=0 -output-directory=C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\latex-output\.latex-build-008nj9wf C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\latex-output\测试（图片整理版）（题解整合版）.tex
+
+OUTPUT
+PASS 1
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+
+(C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/测试/late
+x-output/测试（图片整理版）（题解整合版）.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexbackend.
+cfg) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine-
+xetex.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xte
+mplate.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.c
+fg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-
+chinese-article.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex-name-ut
+f8.cfg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fontse
+t-windows.def))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def))
+) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+ (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.
+sty) 
+)) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty)
+)) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty)))
+No file 测试（图片整理版）（题解整合版）.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+Missing character: There is no ★ in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/SimHei(0)/b/n' undefined
+(Font)              using `TU/SimHei(0)/m/n' instead on input line 181.
+
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1] [2]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+357.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+2.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+4.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 37
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+2.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+4.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 40
+8.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 433.
+
+[3] [4] [5] [1] [2] [3] [4] [5] [6] [7] [8]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[9] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+
+(C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\late
+x-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `测试（图片整理版）（题解整合版）.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 1051.
+
+
+ )
+Output written on C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowled
+ge-Map\临时\测试\latex-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.pdf (14 pages)
+.
+Transcript written on C:\Mathematics-Knowledge\Secondary-School-Mathematics-Kno
+wledge-Map\临时\测试\latex-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.log.
+
+
+PASS 2
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+
+(C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/测试/late
+x-output/测试（图片整理版）（题解整合版）.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexbackend.
+cfg) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine-
+xetex.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xte
+mplate.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.c
+fg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-
+chinese-article.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex-name-ut
+f8.cfg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fontse
+t-windows.def))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def))
+) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+ (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.
+sty) 
+)) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty)
+
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty)
+)) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y) (C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty)))
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty)))
+(C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\late
+x-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+
+(C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\late
+x-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.out)
+(C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\late
+x-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.out)
+Missing character: There is no ★ in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/SimHei(0)/b/n' undefined
+(Font)              using `TU/SimHei(0)/m/n' instead on input line 181.
+
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\Oven\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1] [2]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+357.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+2.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+4.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 36
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 37
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+2.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+4.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 38
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 40
+8.
+
+[3] [4] [5] [1] [2] [3] [4] [5] [6] [7] [8] [9]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+
+(C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\测试\late
+x-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+Output written on C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowled
+ge-Map\临时\测试\latex-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.pdf (14 pages)
+.
+Transcript written on C:\Mathematics-Knowledge\Secondary-School-Mathematics-Kno
+wledge-Map\临时\测试\latex-output\.latex-build-008nj9wf\测试（图片整理版）（题解整合版）.log.

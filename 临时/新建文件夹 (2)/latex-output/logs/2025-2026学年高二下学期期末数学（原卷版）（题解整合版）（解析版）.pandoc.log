@@ -1,0 +1,9 @@
+COMMAND
+C:\Users\Oven\anaconda3\Library\bin\pandoc.EXE "C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\新建文件夹 (2)\2025-2026学年高二下学期期末数学（原卷版）（题解整合版）（解析版）.md" --from=markdown+raw_html+raw_tex+tex_math_dollars+fenced_divs+link_attributes --to=latex --standalone "--template=C:\Mathematics-Knowledge\Mathematics-Knowledge-code\Exam Paper Organizer\skills\render-exam-latex-pdfs\assets\exam-solutions-template.tex" "--lua-filter=C:\Mathematics-Knowledge\Mathematics-Knowledge-code\Exam Paper Organizer\skills\render-exam-latex-pdfs\scripts\exam_layout.lua" "--resource-path=C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\新建文件夹 (2);C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\新建文件夹 (2);C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\新建文件夹 (2)\images" --wrap=preserve "--output=C:\Mathematics-Knowledge\Secondary-School-Mathematics-Knowledge-Map\临时\新建文件夹 (2)\latex-output\2025-2026学年高二下学期期末数学（原卷版）（题解整合版）（解析版）.tex"
+
+OUTPUT
+Error running filter C:\Mathematics-Knowledge\Mathematics-Knowledge-code\Exam Paper Organizer\skills\render-exam-latex-pdfs\scripts\exam_layout.lua:
+...er\skills\render-exam-latex-pdfs\scripts\exam_layout.lua:50: Inline exam-solution end marker without a start marker
+stack traceback:
+	...er\skills\render-exam-latex-pdfs\scripts\exam_layout.lua:50: in function <...er\skills\render-exam-latex-pdfs\scripts\exam_layout.lua:16>
+	(...tail calls...)

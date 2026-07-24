@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "status": "merged_pending_visual_verification",
+  "created_at_utc": "2026-07-23T11:23:52.161906+00:00",
+  "source_dir": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试",
+  "inventory": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试\\tmp\\organizer\\20260723T192309\\image-ordering\\inventory.json",
+  "order_manifest": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试\\tmp\\organizer\\20260723T192309\\image-ordering\\order-manifest.json",
+  "output_pdf": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试\\测试（图片整理版）.pdf",
+  "output_sha256": "506fda42c38a92797da8cceca6f100ef8514260f1b56026855439b3a569045d5",
+  "ordered_image_count": 4,
+  "page_count": 4,
+  "dpi": 144.0,
+  "ordered_images": [
+    {
+      "sequence": 1,
+      "image_id": "IMG-0001",
+      "relative_path": "微信图片_20260722132151_121_119.jpg",
+      "sha256": "34d3f3d2b790157c5cc06a5cd50dbda03310d92b9f844a528750eecd233c8588",
+      "confidence": "high",
+      "reason": "Unique opening page with title, instructions, section one, and questions 1-6."
+    },
+    {
+      "sequence": 2,
+      "image_id": "IMG-0002",
+      "relative_path": "微信图片_20260722132153_122_119.jpg",
+      "sha256": "d6d76662a22d1702f27e1ae2bc2e5f75fd179eda2591ed24ea1e8be082ab50ce",
+      "confidence": "high",
+      "reason": "Continues with questions 7-8, begins section two, and proceeds through question 11."
+    },
+    {
+      "sequence": 3,
+      "image_id": "IMG-0003",
+      "relative_path": "微信图片_20260722132155_123_119.jpg",
+      "sha256": "baa05181a1d4ee2664dc9b323baba548c0260fd7b3c585f11e4aa92634dea300",
+      "confidence": "high",
+      "reason": "Begins section three with questions 12-14, then section four with question 15."
+    },
+    {
+      "sequence": 4,
+      "image_id": "IMG-0004",
+      "relative_path": "微信图片_20260722132158_124_119.jpg",
+      "sha256": "94845a8b71902727d01eef9cccfde2c17a1f0be87181f0a7886acf0664201b6e",
+      "confidence": "high",
+      "reason": "Continues the written-response section with questions 16-19 and ends the paper."
+    }
+  ],
+  "ordered_previews": [
+    "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试\\tmp\\organizer\\20260723T192309\\image-ordering\\ordered-preview-001.png"
+  ],
+  "source_hashes_verified": true,
+  "visual_verification_required": true
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "document_pattern": "questions-only",
+  "content_evidence": [
+    "IMG-0001 contains the title, instructions, first section, and questions 1-6.",
+    "Question numbering progresses continuously through questions 7-11 on IMG-0002, 12-15 on IMG-0003, and 16-19 on IMG-0004.",
+    "The section sequence progresses from single-choice to multiple-choice, fill-in, and written-response questions.",
+    "Visible page labels corroborate pages 1 through 4 of 4."
+  ],
+  "ambiguities": [],
+  "ordered_images": [
+    {
+      "image_id": "IMG-0001",
+      "confidence": "high",
+      "reason": "Unique opening page with title, instructions, section one, and questions 1-6."
+    },
+    {
+      "image_id": "IMG-0002",
+      "confidence": "high",
+      "reason": "Continues with questions 7-8, begins section two, and proceeds through question 11."
+    },
+    {
+      "image_id": "IMG-0003",
+      "confidence": "high",
+      "reason": "Begins section three with questions 12-14, then section four with question 15."
+    },
+    {
+      "image_id": "IMG-0004",
+      "confidence": "high",
+      "reason": "Continues the written-response section with questions 16-19 and ends the paper."
+    }
+  ]
+}

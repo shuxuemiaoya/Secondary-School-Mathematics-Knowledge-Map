@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "run_id": "20260723T192309",
+  "target_directory": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\临时\\测试",
+  "terminal_status": "blocked_at_render_visual_qa",
+  "eligible_to_render": true,
+  "publishing_complete": false,
+  "stages": {
+    "stage_zero_order_images": {
+      "status": "completed",
+      "source_image_count": 4,
+      "inventory": "tmp\\organizer\\20260723T192309\\image-ordering\\inventory.json",
+      "order_manifest": "tmp\\organizer\\20260723T192309\\image-ordering\\order-manifest.json",
+      "ordered_pdf": "测试（图片整理版）.pdf",
+      "ordered_pdf_sha256": "506fda42c38a92797da8cceca6f100ef8514260f1b56026855439b3a569045d5",
+      "page_count": 4,
+      "visual_qa": {
+        "status": "passed",
+        "rendered_page_count": 4,
+        "page_order_correct": true,
+        "missing_or_duplicate_pages": false,
+        "clipping_detected": false
+      }
+    },
+    "forced_ocr_conversion": {
+      "status": "completed_after_retry",
+      "ocr_forced": true,
+      "backend": "vlm",
+      "language": "ch",
+      "formula_recognition": true,
+      "table_recognition": true,
+      "first_attempt": {
+        "status": "failed",
+        "error_type": "ProxyError",
+        "detail": "RemoteDisconnected: remote end closed connection without response",
+        "output_committed": false
+      },
+      "retry": {
+        "status": "completed",
+        "page_range": "1-4",
+        "target_markdown": "测试（图片整理版）.md",
+        "reported_asset_count": 5
+      }
+    },
+    "post_conversion_ocr_audit": {
+      "status": "completed_with_repairs",
+      "raw_markdown_sha256": "745d5f948be5ab45193e8802e64c362bbcb5eec003a1b5adeb65e0ee797a85a6",
+      "frozen_markdown_sha256": "13fac22e8dd141d6b6f916d25a621d0c14c9be1820b278f456a236aa7da4dec5",
+      "repairs": [
+        {
+          "type": "question_number",
+          "original": "1.",
+          "replacement": "11.",
+          "evidence": "The item occurs between questions 10 and 12 in the ordered source pages."
+        },
+        {
+          "type": "image_link_prefix",
+          "count": 3,
+          "original_prefix": "测试/images/",
+          "replacement_prefix": "images/",
+          "evidence": "The original targets did not exist; all three repaired repository-relative targets exist."
+        }
+      ],
+      "validation": {
+        "question_sequence": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "question_sequence_contiguous": true,
+        "redundant_test_images_prefix_count": 0,
+        "missing_local_image_target_count": 0
+      }
+    },
+    "reformat_exam_markdown": {
+      "status": "completed",
+      "source": "测试（图片整理版）.md",
+      "answer_source": "tmp\\organizer\\20260723T192309\\generated-answers\\generated-answer-source.md",
+      "answer_source_sha256": "c5f447d299b99b3a5b4414607956417336d2a6758aaebeddeed4d6fd19f61609",
+      "candidate": "测试（图片整理版）（题解整合版）.md",
+      "candidate_sha256": "b5ed86b7c462cef448a6aad1e877ffdf9ebebe4f9bd12cc01d51289590c4e06a",
+      "question_count": 19,
+      "short_answer_count": 14,
+      "worked_solution_count": 5,
+      "missing_answers": [],
+      "extra_answers": [],
+      "image_reference_count": 3,
+      "unresolved_image_targets": [],
+      "source_unchanged": true,
+      "presentation_repairs": [
+        "Separated Question 3 option A from the stem.",
+        "Converted both Question 15 HTML tables to Markdown tables.",
+        "Restored the third and fourth question-section headings.",
+        "Restored the third and fourth answer-section headings.",
+        "Normalized balanced generated inline-math delimiters from \\(...\\) to $...$ and display-math delimiters from \\[...\\] to $$...$$ for Pandoc/XeLaTeX compatibility."
+      ]
+    },
+    "supplement_exam_solutions": {
+      "status": "completed",
+      "source": "测试（图片整理版）（题解整合版）.md",
+      "source_sha256": "b5ed86b7c462cef448a6aad1e877ffdf9ebebe4f9bd12cc01d51289590c4e06a",
+      "output": "测试（图片整理版）（题解整合版）（解析版）.md",
+      "output_sha256": "332fc4725259e43492051abce3ef0064c6757f09afdc03a0e23c8ddd00316be0",
+      "total_questions": 19,
+      "fully_generated_solutions": 19,
+      "fully_sourced_solutions": 0,
+      "sourced_answers_with_generated_explanations": 0,
+      "unresolved_questions": [],
+      "answer_conflicts": [],
+      "model": "gpt-5.6-sol",
+      "solution_block_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "source_unchanged": true
+    },
+    "batch_clean_images": {
+      "status": "completed",
+      "mode": "sequential_in_place",
+      "discovered": 5,
+      "backed_up": 5,
+      "replaced": 5,
+      "failed": 0,
+      "timeouts": 0,
+      "backup_directory": "images\\original-images-backup-20260723-193146",
+      "mappings": [
+        {
+          "backup": "images\\original-images-backup-20260723-193146\\1a27997d8ff938c2fb5ae7fb1e48354dc3ab0601ca101650d3cf8f6f930a9724.jpg",
+          "live": "images\\1a27997d8ff938c2fb5ae7fb1e48354dc3ab0601ca101650d3cf8f6f930a9724.jpg"
+        },
+        {
+          "backup": "images\\original-images-backup-20260723-193146\\测试（图片整理版）\\ce461d4d517b372061036285f522cb296b7edd9f2d08edbaff1fa2f97fb616cb.jpg",
+          "live": "images\\测试（图片整理版）\\ce461d4d517b372061036285f522cb296b7edd9f2d08edbaff1fa2f97fb616cb.jpg"
+        },
+        {
+          "backup": "images\\original-images-backup-20260723-193146\\测试（图片整理版）\\d95ed0a4e8336f7ced00c2969aa5d4243f56a9f3013707527af1bea73120f2cf.jpg",
+          "live": "images\\测试（图片整理版）\\d95ed0a4e8336f7ced00c2969aa5d4243f56a9f3013707527af1bea73120f2cf.jpg"
+        },
+        {
+          "backup": "images\\original-images-backup-20260723-193146\\bcff41cabc8fa738fe173ab60329a2ec398780960e7c1c31f85bb6b00e41a9d2.jpg",
+          "live": "images\\bcff41cabc8fa738fe173ab60329a2ec398780960e7c1c31f85bb6b00e41a9d2.jpg"
+        },
+        {
+          "backup": "images\\original-images-backup-20260723-193146\\deba050e6a83a3892e9afd0f848718dfa08f2adf2b35ac2680b17e5ac17c0749.jpg",
+          "live": "images\\deba050e6a83a3892e9afd0f848718dfa08f2adf2b35ac2680b17e5ac17c0749.jpg"
+        }
+      ]
+    },
+    "pre_publish_barrier": {
+      "status": "passed",
+      "eligible_to_render": true,
+      "question_sequence_contiguous": true,
+      "choice_groups_complete": true,
+      "markdown_table_count": 2,
+      "html_table_count": 0,
+      "solution_block_count": 19,
+      "solution_labels_localized": true,
+      "placeholder_count": 0,
+      "referenced_image_count": 3,
+      "missing_image_count": 0,
+      "referenced_images_have_original_backups": true,
+      "batch_image_failure_count": 0,
+      "remaining_notes": [
+        "Question 7 option D contains damaged OCR text; the generated solution derives the value independently.",
+        "Question 10 residual-symbol OCR concatenation is documented in its generated explanation.",
+        "Question 14 unlabeled figure endpoints are documented without modifying the source.",
+        "Question 19 uppercase/lowercase probability notation is documented and interpreted explicitly."
+      ]
+    },
+    "render_exam_latex_pdfs": {
+      "status": "failed_visual_qa",
+      "pipeline_state": "tmp\\organizer\\20260723T192309\\pipeline-state.json",
+      "pandoc_status": "completed",
+      "xelatex_status": "completed",
+      "pdfs_created": 2,
+      "paper": {
+        "template": "C:\\Mathematics-Knowledge\\Mathematics-Knowledge-code\\Exam Paper Organizer\\skills\\render-exam-latex-pdfs\\assets\\期末试卷最简版.tex",
+        "tex": "latex-output\\测试（图片整理版）（题解整合版）.tex",
+        "pdf": "latex-output\\测试（图片整理版）（题解整合版）.pdf",
+        "log": "latex-output\\logs\\测试（图片整理版）（题解整合版）.xelatex.log",
+        "page_count": 14,
+        "pdf_bytes": 2787473,
+        "pdf_sha256": "795c5ff8ce5b9da4a25db2376297756615b7985a07691ed5a4ce8194b44a658c",
+        "inspected_pages": "1-14"
+      },
+      "solutions": {
+        "template": "C:\\Mathematics-Knowledge\\Mathematics-Knowledge-code\\Exam Paper Organizer\\skills\\render-exam-latex-pdfs\\assets\\exam-solutions-template.tex",
+        "tex": "latex-output\\测试（图片整理版）（题解整合版）（解析版）.tex",
+        "pdf": "latex-output\\测试（图片整理版）（题解整合版）（解析版）.pdf",
+        "log": "latex-output\\logs\\测试（图片整理版）（题解整合版）（解析版）.xelatex.log",
+        "page_count": 30,
+        "pdf_bytes": 2839868,
+        "pdf_sha256": "0362f042f66eda332983d2916d9511afca3c4fb23590b87831417cf6ed5770f1",
+        "inspected_pages": "1-30"
+      },
+      "visual_qa": {
+        "status": "failed",
+        "corrected_defects": [
+          "Added missing Pandoc table-width helpers to both templates.",
+          "Added missing title and answer-section macros to the solutions template.",
+          "Prevented the answer-booklet subpart normalizer from splitting f'(1).",
+          "Removed duplicate YAML/H1 title rendering.",
+          "Corrected paper-booklet footer totals to 5 question pages and 9 answer pages.",
+          "Moved the paper watermark behind page content.",
+          "Converted ideographic answer separators to visible LaTeX spacing."
+        ],
+        "remaining_blocker": "All three cleaned figures contain a visible baked checkerboard background rather than true transparency or a clean white background.",
+        "affected_pages": [
+          "paper:3",
+          "solutions:8",
+          "solutions:11"
+        ],
+        "provisional_outputs_preserved": true
+      }
+    }
+  },
+  "preservation": {
+    "source_page_images_unchanged": true,
+    "ordered_pdf_unchanged_after_creation": true,
+    "ocr_markdown_changed_only_by_authorized_post_conversion_repairs": true,
+    "original_ocr_attachments_preserved_in_backup": true
+  }
+}

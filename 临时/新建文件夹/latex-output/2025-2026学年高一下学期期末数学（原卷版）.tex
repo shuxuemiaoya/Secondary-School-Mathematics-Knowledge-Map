@@ -1,0 +1,482 @@
+\documentclass[UTF8,11pt,a4paper]{ctexart}
+
+\usepackage[top=1.35cm,bottom=1.35cm,left=1.7cm,right=1.7cm,footskip=0.78cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{longtable,array,tabularx}
+\usepackage{enumitem}
+\usepackage{eso-pic}
+\usepackage{lastpage,refcount}
+\usepackage{hyperref}
+
+\definecolor{ExamInk}{HTML}{111111}
+\definecolor{ExamMuted}{HTML}{4B5563}
+\definecolor{ExamWatermark}{HTML}{FAFAFA}
+
+\hypersetup{hidelinks,pdfborder={0 0 0}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.18em}
+\setlength{\emergencystretch}{3em}
+\renewcommand{\arraystretch}{1.12}
+\linespread{1.14}
+\setcounter{secnumdepth}{0}
+
+\setlist[enumerate,1]{
+  label=\arabic*.,
+  leftmargin=2.15em,
+  labelsep=0.55em,
+  itemsep=0.46em,
+  topsep=0.32em,
+  parsep=0.08em,
+  partopsep=0pt
+}
+\setlist[enumerate,2]{leftmargin=2.1em,itemsep=0.2em,topsep=0.2em}
+
+\providecommand{\toprule}{\hline}
+\providecommand{\midrule}{\hline}
+\providecommand{\bottomrule}{\hline}
+
+\ctexset{
+  section={format=\centering\heiti\bfseries\fontsize{16pt}{22pt}\selectfont,beforeskip=0.7em,afterskip=0.55em},
+  subsection={format=\heiti\bfseries\fontsize{12.5pt}{18pt}\selectfont,beforeskip=0.7em,afterskip=0.35em},
+  subsubsection={format=\heiti\bfseries\normalsize,beforeskip=0.55em,afterskip=0.25em}
+}
+
+\newif\ifExamAnswers
+\ExamAnswersfalse
+
+\newcommand{\ExamMainTitle}[1]{%
+  \begin{center}
+    {\heiti\bfseries\fontsize{16pt}{23pt}\selectfont #1\par}
+  \end{center}
+  \vspace{0.15em}%
+}
+\newcommand{\ExamSubjectTitle}[1]{%
+  \begin{center}
+    {\heiti\bfseries\fontsize{22pt}{28pt}\selectfont #1\par}
+  \end{center}
+  \vspace{0.45em}%
+}
+\newcommand{\ExamAnswerMainTitle}[1]{%
+  \vspace*{0.65cm}%
+  \begin{center}
+    {\heiti\bfseries\fontsize{15pt}{22pt}\selectfont #1\par}
+  \end{center}
+  \vspace{0.1em}%
+}
+\newcommand{\ExamAnswerSubjectTitle}[1]{%
+  \begin{center}
+    {\heiti\bfseries\fontsize{19pt}{26pt}\selectfont #1\par}
+  \end{center}
+  \vspace{0.7em}%
+}
+
+\newcommand{\beginExamAnswers}{%
+  \label{ExamPaperLastPage}%
+  \clearpage
+  \global\ExamAnswerstrue
+  \setcounter{page}{1}%
+  \fontsize{10.5pt}{21pt}\selectfont
+  \setlength{\parskip}{0.24em}%
+  \setlength{\emergencystretch}{6em}%
+  \AddToShipoutPictureFG*{\ExamPageOverlay}%
+}
+\newcommand{\ExamQuestionPageBreak}{\clearpage\useExamPageStyle}
+\newcommand{\ExamAnswerPageBreak}{\clearpage\useExamPageStyle}
+
+\newcommand{\ExamFooterText}{%
+  \ifExamAnswers
+    第\ \thepage\ 页\quad（共\ \getpagerefnumber{LastPage}\ 页）%
+  \else
+    数学试卷\quad 第\ \thepage\ 页（共\ \getpagerefnumber{ExamPaperLastPage}\ 页）%
+  \fi
+}
+\newcommand{\ExamPageOverlay}{%
+  \AtPageCenter{%
+    \makebox(0,0){\rotatebox{42}{\textcolor{ExamWatermark}{\heiti\bfseries\fontsize{48pt}{54pt}\selectfont 数学试卷}}}}%
+  \AtPageLowerLeft{%
+    \raisebox{0.62cm}[0pt][0pt]{\hspace*{1.7cm}%
+      \makebox[\dimexpr\paperwidth-3.4cm\relax][c]{\small\color{ExamMuted}\ExamFooterText}}}%
+}
+\AddToShipoutPictureFG{\ExamPageOverlay}
+\pagestyle{empty}
+\makeatletter
+\let\ps@plain\ps@empty
+\makeatother
+\newcommand{\useExamPageStyle}{\AddToShipoutPictureFG*{\ExamPageOverlay}}
+
+\newcommand{\ExamChoicesFour}[4]{%
+  \par\smallskip\noindent
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+    #1 & #2 & #3 & #4
+  \end{tabularx}\par\smallskip
+}
+\newcommand{\ExamChoicesTwo}[4]{%
+  \par\smallskip\noindent
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+    #1 & #2 \\
+    #3 & #4
+  \end{tabularx}\par\smallskip
+}
+\newcommand{\ExamChoicesOne}[4]{%
+  \par\smallskip\noindent #1\par
+  \noindent #2\par
+  \noindent #3\par
+  \noindent #4\par\smallskip
+}
+\newcommand{\ExamChoicesFigure}[4]{%
+  \par\smallskip\noindent
+  \begin{minipage}[t]{0.70\linewidth}
+    \noindent #1\par
+    \noindent #2\par
+    \noindent #3\par
+    \noindent #4
+  \end{minipage}\par\smallskip
+}
+\newcommand{\ExamScore}[1]{%
+  \unskip\allowbreak\hfill\makebox[0.26\linewidth][r]{\dotfill\ #1\ 分}\par
+}
+
+\newenvironment{examSolutionBox}{%
+  \par\smallskip\begingroup
+  \setlength{\leftskip}{0.5em}\setlength{\rightskip}{0.5em}%
+  \noindent\heiti\bfseries 解析\par\smallskip\normalfont
+}{%
+  \par\endgroup\smallskip
+}
+
+\makeatletter
+\def\maxwidth{\linewidth}
+\def\maxheight{0.12\textheight}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\providecommand{\pandocbounded}[1]{%
+  \begin{wrapfigure}{r}{0.25\textwidth}
+    \vspace{-1.15em}\centering #1\vspace{-1.0em}
+  \end{wrapfigure}%
+}
+\makeatother
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+\begin{document}
+\color{ExamInk}
+
+
+
+\ExamMainTitle{2025---2026 学年度第二学期高一年级期末教学质量监测试卷}
+
+\ExamSubjectTitle{数学}
+
+注意事项：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  考生答卷前,务必将自己的姓名、座位号写在答题卡上。将条形码粘贴在规定区域本试卷满分 150 分,考试时间 120 分钟。
+\item
+  做选择题时, 选出每小题答案后, 用铅笔把答题卡上对应题目的答案标号涂黑。如改动, 用橡皮擦干净后, 再选涂其他答案标号。写在本试卷上无效。
+\item
+  回答非选择题时，将答案写在答题卡的规定区域内，写在本试卷上无效。
+\item
+  考试结束后，将答题卡交回。
+\end{enumerate}
+
+\subsection{一、选择题:本题共8小题,每小题5分,共40分.在每小题给出的四个选项中,只有一项是合题目要求的.}\label{ux4e00ux9009ux62e9ux9898ux672cux9898ux51718ux5c0fux9898ux6bcfux5c0fux98985ux5206ux517140ux5206.ux5728ux6bcfux5c0fux9898ux7ed9ux51faux7684ux56dbux4e2aux9009ux9879ux4e2dux53eaux6709ux4e00ux9879ux662fux5408ux9898ux76eeux8981ux6c42ux7684.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  已知复数 z 满足 \(z = \frac{3 - i}{1 + i}\) (其中 i 为虚数单位)，则 \(|z| =\)
+
+  \ExamChoicesFour{A. \(\sqrt{2}\)}{B. 2}{C. \(\sqrt{5}\)}{D. \(\sqrt{10}\)}
+\item
+  已知向量 \(\vec{a} = (4, 2), \vec{b} = (x, 1)\) , 且 \(\vec{a} // \vec{b}\) , 则 \(\vec{a} \cdot \vec{b} =\)
+
+  \ExamChoicesFour{A. 12}{B. 10}{C. 8}{D. 4}
+\item
+  某校从 500 名同学中用随机数法抽取 30 人参加一项调查. 将这 500 名同学编号为 00
+  002, \ldots500, 假设从第 1 行第 4 列的数字开始, 则第 5 个被抽到的同学的编号为
+  3484 4217 5572 1754 5560 8331
+  0474 4767 2176 3350 2583 9212
+  0676 6301 6378 5916 9555 6719
+
+  \ExamChoicesFour{A. 331}{B. 047}{C. 455}{D. 447}
+\item
+  已知 \(\alpha, \beta\) 是两个不重合的平面, \(m, n\) 是两条不同的直线, 则下列命题中错误的是
+
+  \ExamChoicesOne{A. 若 \(m \parallel n, n \subset \alpha\) , 则 \(m \parallel \alpha\)}{B. 若 \(m \parallel \alpha, m \parallel \beta, \alpha \cap \beta = n\) , 则 \(m \parallel n\)}{C. 若 \(m \perp \alpha, m \perp \beta\) , 则 \(\alpha \parallel \beta\)}{D. 若 \(\alpha \perp \beta, m \perp \alpha, n \perp \beta\) , 则 \(m \perp n\)}
+\end{enumerate}
+
+\ExamQuestionPageBreak
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\item
+  甲、乙两人每次射击命中目标的概率分别为 \(\frac{1}{3}\) 与 \(\frac{2}{3}\) , 且每次射击命中与否互不影响. 两人约定如下: 每次由一人射击, 若命中, 下一次由另一人射击; 若没有命中, 则继续射击, 若约定甲先射击, 则前 4 次中甲恰好射击 3 次的概率为
+
+  \ExamChoicesFour{A. \(\frac{1}{9}\)}{B. \(\frac{4}{27}\)}{C. \(\frac{2}{9}\)}{D. \(\frac{4}{9}\)}
+\item
+  已知 \(\cos(\alpha - \beta) = \frac{1}{5}\) , \(\cos\alpha\cos\beta = \frac{2}{5}\) , 则 \(\cos(2\alpha + 2\beta) =\)
+
+  \ExamChoicesFour{A. \(\frac{23}{25}\)}{B. \(-\frac{23}{25}\)}{C. \(\frac{7}{25}\)}{D. \(-\frac{7}{25}\)}
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_ly6gzvly6gzvly6g.png}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\item
+  如图, 在测量河对岸的塔高 \(AB\) 时, 测量者选取了与塔底 \(B\) 在同一水平面内的两个测量基点 \(C\) 与 \(D\) , 并测得 \(\angle BDC = 120^{\circ}, \angle BCD = 15^{\circ}, CD = 20\) 米, 在点 \(C\) 处测得塔顶 \(A\) 的仰角为 \(30^{\circ}\) , 则塔高 \(AB =\)
+
+  \ExamChoicesFigure{A. \(10\sqrt{2}\) 米}{B. 10 米}{C. \(10\sqrt{6}\) 米}{D. 11 米}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\tightlist
+\item
+  已知三棱锥 \(P - ABC\) 的顶点均在球 \(O\) 的球面上, 且球心 \(O\) 在棱 \(AB\) 上, 若球 \(O\) 的表面积为 \(16 \pi\) , 则三棱锥 \(P - ABC\) 的体积最大值为
+
+  \ExamChoicesFour{A. \(\frac{4}{3}\)}{B. 2}{C. \(\frac{8}{3}\)}{D. \(\frac{16}{3}\)}
+\end{enumerate}
+
+\subsection{二、选择题:本题共3小题,每小题6分,共18分.在每小题给出的四个选项中,有多项符合题目要求.全部选对的得6分,部分选对的得部分分,有选错的得0分.}\label{ux4e8cux9009ux62e9ux9898ux672cux9898ux51713ux5c0fux9898ux6bcfux5c0fux98986ux5206ux517118ux5206.ux5728ux6bcfux5c0fux9898ux7ed9ux51faux7684ux56dbux4e2aux9009ux9879ux4e2dux6709ux591aux9879ux7b26ux5408ux9898ux76eeux8981ux6c42.ux5168ux90e8ux9009ux5bf9ux7684ux5f976ux5206ux90e8ux5206ux9009ux5bf9ux7684ux5f97ux90e8ux5206ux5206ux6709ux9009ux9519ux7684ux5f970ux5206.}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_6ktlz46ktlz46ktl.png}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  某超市在两周内的蓝莓每日促销量如图所示, 根据此折线图, 下面结论正确的是
+
+  \ExamChoicesFigure{A. 这 14 天日促销量的中位数是 196}{B. 这 14 天日促销量的众数是 214}{C. 这 14 天日促销量的第 80 百分位数是 260}{D. 这 14 天日促销量的极差为 194}
+\end{enumerate}
+
+\ExamQuestionPageBreak
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{9}
+\item
+  已知函数 \(f(x) = \cos \left(2x - \frac{\pi}{4}\right)\) ，下列说法正确的是
+
+  \ExamChoicesOne{A. \(f(x)\) 的最小正周期是 \(\pi\)}{B. \(f(x)\) 可由函数 \(y = \cos 2x\) 向右平移 \(\frac{\pi}{4}\) 个单位（纵坐标不变）得到}{C. \(f(x)\) 的图象关于 \(x = -\frac{3\pi}{8}\) 对称}{D. \(f(x)\) 图象的一个对称中心是 \((\frac{7\pi}{8}, 0)\)}
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_61oajn61oajn61oa.png}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{10}
+\item
+  如图, 正方体 \(ABCD - A_{1}B_{1}C_{1}D_{1}\) 棱长为 2, E, F, G 分别为棱 \(AD, AB, BB_{1}\) 的中点, P 是正体表面上的动点,则下列说法正确的是
+
+  \ExamChoicesFigure{A. \(B_{1}D_{1}\) // 平面 EFG}{B. 若 P 为线段 \(B_{1}D_{1}\) 上一点, 则三棱锥 F-EGP 的体积为定值}{C. 若 AP = 2, 则点 P 的轨迹长度为 \(\pi\)}{D. 过 E、F、G 三点的平面截正方体所得截面的面积为 \(3\sqrt{3}\)}
+\end{enumerate}
+
+\subsection{三、填空题：本题共3小题，每小题5分，共15分.}\label{ux4e09ux586bux7a7aux9898ux672cux9898ux51713ux5c0fux9898ux6bcfux5c0fux98985ux5206ux517115ux5206.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{11}
+\item
+  已知向量 \(\vec{a}, \vec{b}\) 的夹角为 \(\frac{5\pi}{6}\) ， \(|\vec{a}| = \sqrt{3}\) ， \(|\vec{b}| = 1\) ，则 \(|2\vec{a} + \vec{b}| =\) \_\_\_\_.
+\item
+  在正方体 \(ABCD - A_{1}B_{1}C_{1}D_{1}\) 中，E 是 AD 的中点，F 是 \(A_{1}D_{1}\) 的中点，则异面直线 \(D_{1}E\) 为 \(C_{1}F\) 所成角的正弦值为 \_\_\_\_。
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_kv7expkv7expkv7e.png}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{13}
+\item
+  如图, 三个全等的三角形 \(\triangle ABF\) , \(\triangle BCD\) , \(\triangle CAE\) 拼成一个等边三角形 \(ABC\) , 且 \(\triangle DEF\) 为等边三角形, 若 \(EF = 2AE\) , 则 \(\tan \angle ACE\) 的值为 \_\_\_\_.
+\end{enumerate}
+
+\subsection{四、解答题：本题共5小题，共77分. 解答应写出文字说明、证明过程或演算步骤.}\label{ux56dbux89e3ux7b54ux9898ux672cux9898ux51715ux5c0fux9898ux517177ux5206.-ux89e3ux7b54ux5e94ux5199ux51faux6587ux5b57ux8bf4ux660eux8bc1ux660eux8fc7ux7a0bux6216ux6f14ux7b97ux6b65ux9aa4.}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_48lxix48lxix48lx 1.png}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{14}
+\tightlist
+\item
+  (13分)如图,在四棱锥S-ABCD中,底面ABCD是边长为1的正方形,E、F分别是SC、BD的中点.
+  
+\par\smallskip\noindent（1）求证:EF//平面SAB;
+  
+\par\smallskip\noindent（2）若SA\(\perp\)平面ABCD,且SA=2,求点A到平面SDB的距离.
+\end{enumerate}
+
+\ExamQuestionPageBreak
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  (15 分) 已知函数 \(f(x) = \sin^2 x + \sin x \cos x - \frac{1}{2}, x \in R\) .
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  求 \(f(x)\) 在 \([0, \pi]\) 的单调递减区间；
+\item
+  若 \(f(\alpha) = \frac{\sqrt{2}}{6}, \alpha \in (-\frac{\pi}{8}, \frac{3\pi}{8})\) ，求 \(\sin 2\alpha\) 的值.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{16}
+\tightlist
+\item
+  (15分)包头市举行``高一年级\(\pi\)节数学竞赛'',竞赛分为初赛和决赛两个阶段.为了解初赛情况,现从某中学高一年级随机抽取了200名学生,记录他们的初赛成绩,将数据按照{[}50,60), {[}60,70), {[}70,80), {[}80,90), {[}90,100{]}分成5组,制成了如图所示的频率分布直方图.
+\end{enumerate}
+
+
+\par\smallskip\noindent（1）求频率分布直方图中 a 的值,并估计高一年级初赛成绩的众数和平均成绩(同一组中的数据用该组区间的中点值代替);
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  按照分层抽样从 \([60,70)\) 和 \([70,80)\) 两组中随机抽取了 5 名学生, 现从已抽取的 5 名学生中随机抽取 2 名, 求至少有 1 名学生的成绩在 \([60,70)\) 内的概率.
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/ChatGPT Image 2026年7月21日 下午10_09_36.png}}
+18. (17分)在\(\triangle\)ABC中,角A,B,C的对边分别为a,b,c,已知向量 \(\vec{m}=(\sin A,\sin B)\) , \(\vec{n}=(\cos B,\cos A)\) ，且 \(\vec{m}\cdot\vec{n}=\sin2C.\)
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  求角 C 的大小；
+\item
+  若 \(\triangle ABC\) 为锐角三角形, \(c = \sqrt{3}\) , 求 \(a + b\) 的取值范围;
+\item
+  设 \(\triangle ABC\) 的面积为 \(\sqrt{3}\) ，AB 边上的中线 CD 长为 2，求 c 的长.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{18}
+\tightlist
+\item
+  (17分)如图,在直四棱柱 \(ABCD - A_{1}B_{1}C_{1}D_{1}\) 中, \(BA = BC = BB_{1} = 2\) , \(AC = CD\) , \(AC \perp BD\) .
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  证明: \(A_{1}C \perp BD\) ;
+\item
+  若 AC = 2，求二面角 \(A_{1} - AC - D_{1}\) 的平面角的余弦值；
+\end{enumerate}
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/Gemini_Generated_Image_chbhwachbhwachbh.png}}
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\setcounter{enumi}{2}
+\item
+  求直四棱柱 \(ABCD-A_{1}B_{1}C_{1}D_{1}\) 体积的最大值.
+\end{enumerate}
+
+\beginExamAnswers
+\ExamAnswerMainTitle{2025-2026 学年度第二学期高一年级期末教学质量监测试卷}
+
+\ExamAnswerSubjectTitle{数学参考答案}
+
+一、选择题：本题共8小题，每小题5分，共40分.\\
+1.C 2.B 3.B 4.A 5.D 6.D 7.A 8.C
+
+二、选择题：本题共3小题，每小题6分，共18分.\\
+9.BC 10.ACD 11.ABD
+
+三、填空题：本题共3小题，每小题5分，共15分. 12. \(\sqrt{7}\) 13. \(\frac{2\sqrt{6}}{5}\) 14. \(\frac{\sqrt{3}}{7}\)
+
+\subsection{四、解答题：本题共5小题，共77分.}\label{ux56dbux89e3ux7b54ux9898ux672cux9898ux51715ux5c0fux9898ux517177ux5206.}
+
+
+\par\medskip\noindent\textbf{15.（13 分）}\par
+
+
+
+\par\smallskip\noindent（1）证明：取线段 SB、AB 的中点分别为 H、G，连接 EH, HG, FG，则 \(EH \parallel BC, EH = \frac{1}{2} BC, \quad FG \parallel AD, FG = \frac{1}{2} AD\) ，又底面 ABCD 是正方形，即 BC // AD, BC = AD，则 EH // FG, EH = FG，即四边形 EFGH 为平行四边形，\ExamScore{4}则 EF // HG，又 \(EF \notin\) 平面 SAB， \(HG \subset\) 平面 SAB，故 EF // 平面 SAB.
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/6a92a32c5ebf0d94e75ab836f2eeecf240210c95cfc855f46ea2a73085b998fa.jpg}}
+
+
+\par\smallskip\noindent（2）解：设点 A 到平面 SDB 的距离为 h，
+由 \(V_{A-SBD} = V_{S-ABD}\) \ExamScore{8}
+得 \(h = \frac{S_{\Delta ABD} \cdot SA}{S_{\Delta SBD}} = \frac{\frac{1}{2} AB \cdot AD \cdot SA}{\frac{1}{2} BD \cdot SF} = \frac{2}{\sqrt{2} \times \sqrt{SB^{2} - BF^{2}}} = \frac{2}{\sqrt{2} \times \sqrt{5 - \frac{1}{2}}} = \frac{2}{3}.\) 即点 A 到平面 SDB 的距离为 \(\frac{2}{3}\) . \ExamScore{13}
+
+\par\medskip\noindent\textbf{16.（15 分）}\par
+
+解：
+\par\smallskip\noindent（1） \(f(x)=\sin^{2}x+\sin x\cos x-\frac{1}{2}=\frac{1-\cos 2x}{2}+\frac{1}{2}\sin 2x-\frac{1}{2}\) \ExamScore{2} \(=\frac{1}{2}\sin 2x-\frac{1}{2}\cos 2x=\frac{\sqrt{2}}{2}\sin(2x-\frac{\pi}{4})\) \ExamScore{4}
+由 \(\frac{\pi}{2}+2k\pi\leq2x-\frac{\pi}{4}\leq\frac{3\pi}{2}+2k\pi,k\in Z\) ，解得 \(\frac{3\pi}{8}+k\pi\leq x\leq\frac{7\pi}{8}+k\pi,k\in Z\) ，\ExamScore{6}
+\ExamAnswerPageBreak
+又 \(x \in [0, \pi]\) ，所以 \(f(x)\) 的单调递减区间为 \(\left[\frac{3\pi}{8}, \frac{7\pi}{8}\right]\) . \ExamScore{7}
+
+\par\smallskip\noindent（2）由 \(f(\alpha) = \frac{\sqrt{2}}{6}\) ，所以 \(\frac{\sqrt{2}}{2} \sin(2\alpha - \frac{\pi}{4}) = \frac{\sqrt{2}}{6}\) ，所以 \(\sin(2\alpha - \frac{\pi}{4}) = \frac{1}{3}\) ，\ExamScore{9}
+又 \(\alpha \in \left(-\frac{\pi}{8}, \frac{3\pi}{8}\right)\) ，所以 \(2\alpha - \frac{\pi}{4} \in \left(-\frac{\pi}{2}, \frac{\pi}{2}\right)\) ，\ExamScore{10}
+所以 \(\cos(2\alpha - \frac{\pi}{4}) = \sqrt{1 - \sin^2(2\alpha - \frac{\pi}{4})} = \frac{2\sqrt{2}}{3}\) ，\ExamScore{12}
+所以 \(\sin 2\alpha = \sin(2\alpha - \frac{\pi}{4} + \frac{\pi}{4}) = \sin(2\alpha - \frac{\pi}{4}) \cos \frac{\pi}{4} + \cos(2\alpha - \frac{\pi}{4}) \sin \frac{\pi}{4}\) \(= \frac{1}{3} \times \frac{\sqrt{2}}{2} + \frac{2\sqrt{2}}{3} \times \frac{\sqrt{2}}{2} = \frac{\sqrt{2} + 4}{6}\) .
+
+\ExamScore{15}
+
+\par\medskip\noindent\textbf{17.（15 分）}\par
+
+解：
+\par\smallskip\noindent（1）由频率分布直方图得， \(10 \times (0.005 + a + 0.030 + 0.035 + 0.010) = 1\) ，
+解得 \(a = 0.020\) ．\ExamScore{2}
+由频率分布直方图可知初赛成绩的众数为 \(\frac{80 + 90}{2} = 85\) ，\ExamScore{4}
+估计初赛成绩的平均数为： \(\bar{x} = 55 \times 0.05 + 65 \times 0.2 + 75 \times 0.3 + 85 \times 0.35 + 95 \times 0.1 = 77.5\) ．
+所以 \(a = 0.020\) ，众数为 85，平均成绩为 77.5．\ExamScore{7}
+
+\par\smallskip\noindent（2）由
+\par\smallskip\noindent（1）知，成绩在{[}60,70)，{[}70,80)的频率之比为 \(0.2:0.3 = 2:3\) ，\ExamScore{8}
+则在{[}60,70)中随机抽取了 \(5 \times \frac{2}{5} = 2\) 人，记为 \(a\) ， \(b\) ，
+在{[}70,80)中随机抽取了 \(5 \times \frac{3}{5} = 3\) 人，记为 \(c\) ， \(d\) ， \(e\) ，\ExamScore{10}
+从 5 人中随机抽取 2 人的样本空间为： \(\Omega = \{ab, ac, ad, ae, bc, bd, be, cd, ce, de\}\) ，共 10 个样本点，\ExamScore{12}
+设事件 \(D =\) ``至少有 1 名学生的成绩在{[}60,70)内''，
+则 \(D = \{ab, ac, ad, ae, bc, bd, be\}\) ，有 7 个样本点，\ExamScore{14}
+因此 \(P(D) = \frac{7}{10}\) ，所以至少有 1 名学生的成绩在{[}60,70)内的概率为 \(\frac{7}{10}\) ．\ExamScore{15}
+
+\par\medskip\noindent\textbf{18.（17 分）}\par
+
+解：
+\par\smallskip\noindent（1）由题意 \(\vec{m} \cdot \vec{n} = \sin A \cos B + \sin B \cos A = \sin(A + B) = \sin C\) ，
+又 \(\vec{m} \cdot \vec{n} = \sin 2C\) ，所以 \(\sin C = \sin 2C\) ．\ExamScore{2}
+又 \(C \in (0, \pi)\) ，所以 \(C = 2C\) 或 \(C + 2C = \pi\) ，所以 \(C = \frac{\pi}{3}\) ．\ExamScore{4}
+\ExamAnswerPageBreak
+
+\par\smallskip\noindent（2）因为 \(C = \frac{\pi}{3}\) ， \(c = \sqrt{3}\) ，由正弦定理得： \(\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} = \frac{\sqrt{3}}{\sin \frac{\pi}{3}} = \frac{\sqrt{3}}{\frac{\sqrt{3}}{2}} = 2\) 则 \(a = 2\sin A\) ， \(b = 2\sin B\) . \ExamScore{5}易知 \(B = \pi -A - \frac{\pi}{3} = \frac{2\pi}{3} -A\) 所以 \(a + b = 2\sin A + 2\sin \left(\frac{2\pi}{3} -A\right) = 3\sin A + \sqrt{3}\cos A = 2\sqrt{3}\sin \left(A + \frac{\pi}{6}\right)\) . \ExamScore{8}因为\(\triangle\)ABC为锐角三角形，所以 \(\left\{ \begin{array}{l}0 < A <   \frac{\pi}{2}\\ 0 <   \frac{2\pi}{3} -A <   \frac{\pi}{2} \end{array} \right.\) ，解得 \(\frac{\pi}{6} <  A <   \frac{\pi}{2}\) . \ExamScore{9}所以 \(\frac{\pi}{3} <  A + \frac{\pi}{6} <   \frac{2\pi}{3}\) ，所以 \(\frac{\sqrt{3}}{2} <  \sin \left(A + \frac{\pi}{6}\right)\leq 1\) ，则 \(3 <   2\sqrt{3}\sin \left(A + \frac{\pi}{6}\right)\leq 2\sqrt{3}\) 所以 \(a + b\) 的取值范围是 \((3,2\sqrt{3} ]\) . \ExamScore{11}
+\par\smallskip\noindent（3）由题意知， \(S = \frac{1}{2} ab\sin C = \frac{\sqrt{3}}{4} ab = \sqrt{3}\) ，所以 \(ab = 4\) . \ExamScore{12}因为D为AB中点，所以 \(\overline{CD} = \frac{1}{2}\left(\overline{CA} +\overline{CB}\right)\) ，两边平方得： \(4 = \frac{1}{4}\left(b^{2} + a^{2} + 2ab\cos C\right)\) 代入并整理： \(a^2 +b^2 = 12\) ， \ExamScore{15}由余弦定理： \(c^2 = a^2 +b^2 -2ab\cos \frac{\pi}{3} = a^2 +b^2 -ab = 8\) ，所以 \(c = 2\sqrt{2}\) . \ExamScore{17}
+\par\medskip\noindent\textbf{19.（17 分）}\par
+
+\par\smallskip\noindent（1）证明：在直四棱柱ABCD- \(A_{1}B_{1}C_{1}D_{1}\) 中，因为 \(AA_{1}\bot\) 平面ABCD， \(BD\subset\) 平面ABCD，所以 \(AA_{1}\bot BD\) ， \ExamScore{1}又因为AC\(\perp\)BD, \(AA_{1}\cap AC = A\) ， \(AC,AA_{1}\subset\) 平面 \(A_{1}AC\) ，所以BD\(\perp\)平面 \(A_{1}AC\) ， \ExamScore{3}又 \(A_{1}C\subset\) 平面 \(A_{1}AC\) ，所以BD\(\perp\) \(A_{1}C\) . \ExamScore{4}
+\par\smallskip\noindent（2）解：连接 \(A_{1}C_{1},B_{1}D_{1}\) ，记 \(AC\cap BD = O,A_{1}C_{1}\cap B_{1}D_{1} = O_{1}\) ，连接 \(OO_{1},OD_{1}\) 易得 \(OO_{1}//BB_{1},BB_{1}\bot\) 平面ABCD，则 \(OO_{1}\bot\) 平面ABCD，又AC\(\subset\)平面ABCD，故 \(OO_{1}\bot AC\) ， \ExamScore{6}
+\ExamAnswerPageBreak
+又因BA=BC,AC\(\perp\)BD，所以BD是AC的中垂线，得AD=CD=AC=2，
+
+\pandocbounded{\includegraphics[keepaspectratio]{C:/Mathematics-Knowledge/Secondary-School-Mathematics-Knowledge-Map/临时/新建文件夹/images/83aadbc25733749b2445e84ae443a136b7bbe27105ffdbea9463cbc66f9fec52.jpg}}
+
+因 \(DD_{1} \perp\) 平面ABCD，易得 \(AD_{1} = CD_{1}\) ，又因 \(O\) 是 \(AC\) 中点，所以 \(OD_{1} \perp AC\) ，\ExamScore{7}故 \(\angle O_{1}OD_{1}\) 就是二面角 \(A_{1} - AC - D_{1}\) 的平面角，\ExamScore{8}又因 \(OO_{1} = BB_{1} = 2\) ，则 \(OD_{1} = \sqrt{\left(\frac{\sqrt{3}}{2} \times 2\right)^{2} + 2^{2}} = \sqrt{7}\) ，则 \(\cos \angle O_{1}OD_{1} = \frac{OO_{1}}{OD_{1}} = \frac{2}{\sqrt{7}} = \frac{2\sqrt{7}}{7}\) 。即二面角 \(A_{1} - AC - D_{1}\) 的平面角的余弦值是 \(\frac{2\sqrt{7}}{7}\) 。\ExamScore{10}
+\par\smallskip\noindent（3）解：设 \(\angle ABC = \theta\) ， \(0 < \theta < \pi\) ，因 \(AB = AC = 2\) ，由余弦定理， \(AC^{2} = AB^{2} + BC^{2} - 2AB \cdot BC\cos \theta = 4 + 4 - 2 \times 2 \times 2\cos \theta = 8 - 8\cos \theta\) ， \(S_{\text{四边形}ABCD} = S_{\Delta ABC} + S_{\Delta ACD} = \frac{1}{2} \times 2 \times 2\sin \theta + \frac{\sqrt{3}}{4}(8 - 8\cos \theta) = 2\sin \theta - 2\sqrt{3}\cos \theta + 2\sqrt{3} = 4\left(\frac{1}{2}\sin \theta - \frac{\sqrt{3}}{2}\cos \theta\right) + 2\sqrt{3} = 4\sin \left(\theta - \frac{\pi}{3}\right) + 2\sqrt{3}\) ，\ExamScore{14}因 \(0 < \theta < \pi\) ，则 \(-\frac{\pi}{3} < \theta - \frac{\pi}{3} < \frac{2}{3}\pi\) ，故当 \(\theta - \frac{\pi}{3} = \frac{\pi}{2}\) ，即 \(\theta = \frac{5\pi}{6}\) 时， \(\sin \left(\theta - \frac{\pi}{3}\right)\) 取得最大值1，此时 \(S_{\text{四边形}ABCD}\) 的最大值为 \(S_{\max} = 4 + 2\sqrt{3}\) ，\ExamScore{16}故直四棱柱 \(ABCD - A_{1}B_{1}C_{1}D_{1}\) 体积的最大值 \(V_{\max} = S_{\max}h = (4 + 2\sqrt{3}) \times 2 = 8 + 4\sqrt{3}\) 。\ExamScore{17}
+
+
+\end{document}
