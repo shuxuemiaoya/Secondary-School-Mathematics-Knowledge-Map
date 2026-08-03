@@ -1,0 +1,42 @@
+{
+  "status": "approved",
+  "reviewed": true,
+  "concepts": [
+    {"name":"数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":7,"definition_end_line":7,"anchor_text":"称为数列（sequence of number）","link_text":"数列","confidence":"high","reviewed":true},
+    {"name":"数列的项","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":7,"definition_end_line":7,"anchor_text":"叫做这个数列的项","link_text":"数列的项","confidence":"high","reviewed":true},
+    {"name":"首项","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":7,"definition_end_line":7,"anchor_text":"也叫做首项","link_text":"首项","confidence":"high","reviewed":true},
+    {"name":"有穷数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":9,"definition_end_line":9,"anchor_text":"叫做有穷数列","link_text":"有穷数列","confidence":"high","reviewed":true},
+    {"name":"无穷数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":9,"definition_end_line":9,"anchor_text":"叫做无穷数列","link_text":"无穷数列","confidence":"high","reviewed":true},
+    {"name":"递增数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":50,"definition_end_line":50,"anchor_text":"叫做递增数列","link_text":"递增数列","confidence":"high","reviewed":true},
+    {"name":"递减数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":50,"definition_end_line":50,"anchor_text":"叫做递减数列","link_text":"递减数列","confidence":"high","reviewed":true},
+    {"name":"常数列","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":50,"definition_end_line":50,"anchor_text":"叫做常数列","link_text":"常数列","confidence":"high","reviewed":true},
+    {"name":"通项公式","definition_source":"知识点/数列、函数表示与通项公式.md","definition_start_line":52,"definition_end_line":52,"anchor_text":"叫做这个数列的通项公式","link_text":"通项公式","confidence":"high","reviewed":true},
+    {"name":"递推公式","definition_source":"知识点/数列的递推公式.md","definition_start_line":5,"definition_end_line":7,"anchor_text":"叫做这个数列的递推公式","link_text":"递推公式","confidence":"high","reviewed":true},
+    {"name":"数列的前 n 项和","definition_source":"知识点/数列的前 n 项和.md","definition_segments":[{"start_line":3,"end_line":3},{"start_line":7,"end_line":9}],"anchor_text":"称为数列 $\\{a_{n}\\}$ 的前 $n$ 项和","link_text":"前 $n$ 项和","confidence":"high","reviewed":true},
+    {"name":"等差数列","definition_source":"知识点/4.2.1 等差数列的概念.md","definition_start_line":63,"definition_end_line":63,"anchor_text":"叫做等差数列（arithmetic progression）","link_text":"等差数列","confidence":"high","reviewed":true},
+    {"name":"等差数列的公差","definition_source":"知识点/4.2.1 等差数列的概念.md","definition_start_line":63,"definition_end_line":63,"anchor_text":"叫做等差数列的公差（common difference）","link_text":"等差数列的公差","confidence":"high","reviewed":true},
+    {"name":"等差中项","definition_source":"知识点/4.2.1 等差数列的概念.md","definition_start_line":65,"definition_end_line":65,"anchor_text":"叫做 $a$ 与 $b$ 的等差中项","link_text":"等差中项","confidence":"high","reviewed":true},
+    {"name":"等比数列","definition_source":"知识点/4.3.1 等比数列的概念.md","definition_start_line":67,"definition_end_line":67,"anchor_text":"叫做等比数列（geometric progression）","link_text":"等比数列","confidence":"high","reviewed":true},
+    {"name":"等比数列的公比","definition_source":"知识点/4.3.1 等比数列的概念.md","definition_start_line":67,"definition_end_line":67,"anchor_text":"叫做等比数列的公比（common ratio）","link_text":"等比数列的公比","confidence":"high","reviewed":true},
+    {"name":"等比中项","definition_source":"知识点/4.3.1 等比数列的概念.md","definition_start_line":69,"definition_end_line":69,"anchor_text":"叫做 $a$ 与 $b$ 的等比中项","link_text":"等比中项","confidence":"high","reviewed":true},
+    {"name":"数学归纳法","definition_source":"知识点/4.4 数学归纳法.md","definition_start_line":81,"definition_end_line":87,"anchor_text":"称为数学归纳法（mathematical induction)","link_text":"数学归纳法","confidence":"high","reviewed":true},
+    {"name":"瞬时速度","definition_source":"知识点/5.1.1 变化率问题.md","definition_start_line":39,"definition_end_line":39,"anchor_text":"称为瞬时速度（instantaneous velocity）","link_text":"瞬时速度","confidence":"high","reviewed":true},
+    {"name":"平均变化率","definition_source":"知识点/5.1.2 导数的概念及其几何意义.md","definition_start_line":11,"definition_end_line":17,"anchor_text":"的平均变化率","link_text":"平均变化率","confidence":"high","reviewed":true},
+    {"name":"函数在一点处可导","definition_source":"知识点/5.1.2 导数的概念及其几何意义.md","definition_start_line":19,"definition_end_line":23,"anchor_text":"称 $y = f(x)$ 在 $x = x_0$ 处可导","link_text":"可导","confidence":"high","reviewed":true},
+    {"name":"导数","definition_source":"知识点/5.1.2 导数的概念及其几何意义.md","definition_start_line":19,"definition_end_line":23,"anchor_text":"叫做 $y = f(x)$ 在 $x = x_0$ 处的导数","link_text":"导数","confidence":"high","reviewed":true},
+    {"name":"瞬时变化率","definition_source":"知识点/5.1.2 导数的概念及其几何意义.md","definition_start_line":19,"definition_end_line":23,"anchor_text":"称为瞬时变化率","link_text":"瞬时变化率","confidence":"high","reviewed":true},
+    {"name":"曲线的切线","definition_source":"知识点/5.1.2 导数的概念及其几何意义.md","definition_start_line":135,"definition_end_line":135,"anchor_text":"称为曲线 $y = f(x)$ 在点 $P_{0}$ 处的切线","link_text":"切线","confidence":"high","reviewed":true},
+    {"name":"极小值点","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"叫做函数 $y = f(x)$ 的极小值点","link_text":"极小值点","confidence":"high","reviewed":true},
+    {"name":"极小值","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"叫做函数 $y = f(x)$ 的极小值","link_text":"极小值","confidence":"high","reviewed":true},
+    {"name":"极大值点","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"叫做函数 $y = f(x)$ 的极大值点","link_text":"极大值点","confidence":"high","reviewed":true},
+    {"name":"极大值","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"叫做函数 $y = f(x)$ 的极大值","link_text":"极大值","confidence":"high","reviewed":true},
+    {"name":"极值点","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"统称为极值点","link_text":"极值点","confidence":"high","reviewed":true},
+    {"name":"极值","definition_source":"知识点/5.3.2 函数的极值与最大（小）值.md","definition_start_line":29,"definition_end_line":29,"anchor_text":"统称为极值（extremum）","link_text":"极值","confidence":"high","reviewed":true}
+  ],
+  "rejected": [
+    {"name":"前 n 项和公式","reason":"Reviewed naming sentence contains no complete defining equation in a compact source range."},
+    {"name":"极限","reason":"The located occurrences define only the limit in two concrete examples, not the general concept."},
+    {"name":"第二数学归纳法","reason":"The only defining occurrence is embedded in a review exercise rather than the lesson definition flow."},
+    {"name":"斐波那契数列","reason":"The located occurrence is a reading/example label and does not provide a complete formal definition in the same compact range."}
+  ]
+}

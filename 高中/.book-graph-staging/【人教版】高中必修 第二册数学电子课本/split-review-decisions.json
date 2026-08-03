@@ -1,0 +1,13 @@
+{
+  "promote_headings": [
+    {"line": 4279, "source_title": "1. 棱柱", "parent_key": "node-toc-020", "filename": "1. 棱柱.md", "end_line": 4317, "reason": "The complete prism definition, classification, notation, and examples form an independently reusable teaching arc."},
+    {"line": 4318, "source_title": "2. 棱锥", "parent_key": "node-toc-020", "filename": "2. 棱锥.md", "end_line": 4330, "reason": "The complete pyramid definition, elements, notation, and classification form an independently reusable teaching arc."},
+    {"line": 4331, "source_title": "3. 棱台", "parent_key": "node-toc-020", "filename": "3. 棱台.md", "end_line": 4383, "reason": "The complete frustum definition, notation, comparison, example, and local practice form an independently reusable teaching arc."},
+    {"line": 4384, "source_title": "4. 圆柱", "parent_key": "node-toc-020", "filename": "4. 圆柱.md", "end_line": 4394, "reason": "The complete cylinder construction and element definitions form an independently reusable teaching arc."},
+    {"line": 4395, "source_title": "5. 圆锥", "parent_key": "node-toc-020", "filename": "5. 圆锥.md", "end_line": 4405, "reason": "The complete cone construction and element definitions form an independently reusable teaching arc."},
+    {"line": 4406, "source_title": "6. 圆台", "parent_key": "node-toc-020", "filename": "6. 圆台.md", "end_line": 4418, "reason": "The complete circular-frustum construction and comparison form an independently reusable teaching arc."},
+    {"line": 4419, "source_title": "7. 球", "parent_key": "node-toc-020", "filename": "7. 球.md", "end_line": 4433, "reason": "The complete sphere construction, named elements, and solid classification form an independently reusable teaching arc."},
+    {"line": 4434, "source_title": "8. 简单组合体", "parent_key": "node-toc-020", "filename": "8. 简单组合体.md", "end_line": 4504, "reason": "The complete composition and decomposition treatment with worked examples and practice forms an independently reusable teaching arc."}
+  ],
+  "add_ranges": []
+}

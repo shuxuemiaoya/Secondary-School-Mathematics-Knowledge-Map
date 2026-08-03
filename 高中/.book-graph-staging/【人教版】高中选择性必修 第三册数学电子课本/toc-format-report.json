@@ -1,0 +1,1630 @@
+{
+  "schema_version": 1,
+  "stage": "book-toc-formatting",
+  "status": "passed",
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "input_markdown": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\【人教版】高中选择性必修 第三册数学电子课本.raw.md",
+  "input_markdown_sha256": "aea8951938622139d1741fb4ff75610ec01ec2cd2c12eca8a5a499af4880c6ce",
+  "candidate_markdown": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\【人教版】高中选择性必修 第三册数学电子课本.toc-formatted.md",
+  "candidate_markdown_sha256": "7ad84afe009e68253590492b8bec2d16bd6dd3366e6290e1556ef52a3a42e6f2",
+  "toc_entries": 29,
+  "matched_toc_headings": 29,
+  "composite_toc_headings": 7,
+  "demoted_non_toc_headings": 224,
+  "matched": [
+    {
+      "key": "toc-001",
+      "title": "第六章 计数原理",
+      "line": 129,
+      "source_lines": [
+        129,
+        131
+      ],
+      "old_level": 2,
+      "new_level": 1,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-002",
+      "title": "6.1 分类加法计数原理与分步乘法计数原理",
+      "source_title": "6.1 分类加法计数原理与分步乘法计数原理",
+      "line": 141,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-003",
+      "title": "探究与发现 子集的个数有多少",
+      "line": 588,
+      "source_lines": [
+        588,
+        590
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-004",
+      "title": "6.2 排列与组合",
+      "source_title": "6.2 排列与组合",
+      "line": 652,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-005",
+      "title": "探究与发现 组合数的两个性质",
+      "line": 1341,
+      "source_lines": [
+        1341,
+        1343
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-006",
+      "title": "6.3 二项式定理",
+      "source_title": "6.3 二项式定理",
+      "line": 1387,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-007",
+      "title": "小结",
+      "source_title": "小结",
+      "line": 1757,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-008",
+      "title": "复习参考题6",
+      "source_title": "复习参考题6",
+      "line": 1791,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-009",
+      "title": "数学探究 杨辉三角的性质与应用",
+      "source_title": "杨辉三角的性质与应用",
+      "line": 1873,
+      "old_level": 2,
+      "new_level": 1
+    },
+    {
+      "key": "toc-010",
+      "title": "第七章 随机变量及其分布",
+      "source_title": "第七章随机变量及其分布",
+      "line": 1994,
+      "old_level": 2,
+      "new_level": 1
+    },
+    {
+      "key": "toc-011",
+      "title": "7.1 条件概率与全概率公式",
+      "source_title": "7.1 条件概率与全概率公式",
+      "line": 2002,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-012",
+      "title": "阅读与思考 贝叶斯公式与人工智能",
+      "line": 2437,
+      "source_lines": [
+        2437,
+        2439
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-013",
+      "title": "7.2 离散型随机变量及其分布列",
+      "source_title": "7.2 离散型随机变量及其分布列",
+      "line": 2487,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-014",
+      "title": "7.3 离散型随机变量的数字特征",
+      "source_title": "7.3 离散型随机变量的数字特征",
+      "line": 2730,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-015",
+      "title": "7.4 二项分布与超几何分布",
+      "source_title": "7.4 二项分布与超几何分布",
+      "line": 3212,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-016",
+      "title": "探究与发现 二项分布的性质",
+      "line": 3644,
+      "source_lines": [
+        3644,
+        3646
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-017",
+      "title": "7.5 正态分布",
+      "source_title": "7.5 正态分布",
+      "line": 3688,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-018",
+      "title": "信息技术应用 概率分布图及概率计算",
+      "line": 3843,
+      "source_lines": [
+        3843,
+        3845
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-019",
+      "title": "小结",
+      "source_title": "小结",
+      "line": 3892,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-020",
+      "title": "复习参考题7",
+      "source_title": "复习参考题7",
+      "line": 3922,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-021",
+      "title": "第八章 成对数据的统计分析",
+      "source_title": "第八章成对数据的统计分析",
+      "line": 3984,
+      "old_level": 2,
+      "new_level": 1
+    },
+    {
+      "key": "toc-022",
+      "title": "8.1 成对数据的统计相关性",
+      "source_title": "8.1 成对数据的统计相关性",
+      "line": 3992,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-023",
+      "title": "8.2 一元线性回归模型及其应用",
+      "source_title": "8.2 一元线性回归模型及其应用",
+      "line": 4389,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-024",
+      "title": "阅读与思考 回归与相关",
+      "line": 4941,
+      "source_lines": [
+        4941,
+        4943
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-025",
+      "title": "8.3 列联表与独立性检验",
+      "source_title": "8.3 列联表与独立性检验",
+      "line": 4965,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-026",
+      "title": "小结",
+      "source_title": "小结",
+      "line": 5442,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-027",
+      "title": "复习参考题8",
+      "source_title": "复习参考题8",
+      "line": 5494,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-028",
+      "title": "数学建模 建立统计模型进行预测",
+      "source_title": "建立统计模型进行预测",
+      "line": 5572,
+      "old_level": 2,
+      "new_level": 1
+    },
+    {
+      "key": "toc-029",
+      "title": "部分中英文词汇索引",
+      "source_title": "部分中英文词汇索引",
+      "line": 5737,
+      "old_level": 2,
+      "new_level": 1
+    }
+  ],
+  "demoted": [
+    {
+      "title": "数学",
+      "line": 15,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "选择性必修",
+      "line": 29,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "第三册",
+      "line": 31,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "本册导引",
+      "line": 75,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 145,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 157,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 177,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 203,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 209,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 230,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 260,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 286,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 填空题",
+      "line": 288,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 374,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 388,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 444,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "归纳",
+      "line": 504,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 512,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 516,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题6.1",
+      "line": 530,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 534,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 558,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 582,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6.2.1 排列",
+      "line": 656,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 701,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 770,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 808,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6.2.2 排列数",
+      "line": 824,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 844,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 936,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 965,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 988,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6.2.3 组合",
+      "line": 999,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1001,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1017,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1028,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1062,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1066,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6.2.4 组合数",
+      "line": 1082,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1090,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1094,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1176,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1218,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题6.2",
+      "line": 1234,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 1238,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 1272,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 1322,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "上一节学习了排列数公式和组合数公式，本节我们用它们解决一个在数学上有着广泛应用的 $(a + b)^n$ 展开的问题.",
+      "line": 1389,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "6.3.1 二项式定理",
+      "line": 1391,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1393,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 1433,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1435,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1511,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6.3.2 二项式系数的性质",
+      "line": 1523,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1533,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1549,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1574,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 对称性",
+      "line": 1582,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1586,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "2. 增减性与最大值",
+      "line": 1592,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "3. 各二项式系数的和",
+      "line": 1608,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1634,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1676,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题6.3",
+      "line": 1690,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 1694,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 1726,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 1744,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、本章知识结构",
+      "line": 1759,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、回顾与思考",
+      "line": 1763,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 1795,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 填空题",
+      "line": 1797,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "3. 填空题",
+      "line": 1819,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 1837,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 1867,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1886,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、探究的内容：杨辉三角的性质与应用",
+      "line": 1894,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "（一）杨辉三角的性质",
+      "line": 1896,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1943,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "（二）杨辉三角的应用",
+      "line": 1947,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、对探究活动的要求",
+      "line": 1976,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "三、研究报告的参考形式",
+      "line": 1988,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.1.1 条件概率",
+      "line": 2012,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 2092,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2094,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2116,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2228,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.1.2 全概率公式",
+      "line": 2240,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2244,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2330,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2338,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2381,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题7.1",
+      "line": 2391,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 2395,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 2423,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 2433,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2505,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2545,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2671,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题7.2",
+      "line": 2687,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 2691,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 2715,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.3.1 离散型随机变量的均值",
+      "line": 2734,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 2822,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2837,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2963,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.3.2 离散型随机变量的方差",
+      "line": 2988,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3020,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3062,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 3118,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3144,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3152,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题7.3",
+      "line": 3174,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3178,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3192,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 3206,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.4.1 二项分布",
+      "line": 3216,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3228,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3240,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3273,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "归纳",
+      "line": 3365,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3377,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3433,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "7.4.2 超几何分布",
+      "line": 3457,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3463,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3495,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3525,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3588,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题7.4",
+      "line": 3596,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3600,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "(第3题)",
+      "line": 3612,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3622,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 3640,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3734,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3738,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 3744,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3756,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3817,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题7.5",
+      "line": 3825,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3829,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3839,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 二项分布",
+      "line": 3851,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "2. 超几何分布",
+      "line": 3865,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "3. 正态分布",
+      "line": 3873,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、本章知识结构",
+      "line": 3894,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、回顾与思考",
+      "line": 3898,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3926,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3958,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 3972,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.1.1 变量的相关关系",
+      "line": 3996,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 4012,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 4027,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4039,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4061,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.1.2 样本相关系数",
+      "line": 4084,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4110,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4122,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4212,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 4224,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4322,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题8.1",
+      "line": 4344,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 4348,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 4369,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 4385,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.2.1 一元线性回归模型",
+      "line": 4395,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4408,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 4412,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4430,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4442,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.2.2 一元线性回归模型参数的最小二乘估计",
+      "line": 4450,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 4454,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 4556,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 4560,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4564,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 4580,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4623,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4642,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 4731,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 4733,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4739,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4850,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4864,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题8.2",
+      "line": 4886,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 4890,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 4916,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 4935,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.3.1 分类变量与列联表",
+      "line": 4973,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 5040,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 5080,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 5086,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 5092,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "8.3.2 独立性检验",
+      "line": 5114,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 5186,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 5270,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 5303,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 5358,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 5360,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 5368,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题8.3",
+      "line": 5390,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 5394,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 5406,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 5438,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、本章知识结构",
+      "line": 5444,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、回顾与思考",
+      "line": 5462,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 5498,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 5540,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 5562,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、问题背景分析",
+      "line": 5593,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、建立统计模型",
+      "line": 5607,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 绘制散点图",
+      "line": 5609,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "2. 建立线性回归方程",
+      "line": 5626,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "3. 回归结果分析",
+      "line": 5642,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "(1) 回归系数估计的输出结果如下:",
+      "line": 5644,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "(2) 线性关系显著性检验的输出结果如下:",
+      "line": 5652,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "（3）决定系数和调整的决定系数的输出结果如下：",
+      "line": 5661,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "三、模型的应用",
+      "line": 5669,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "144 数学建模 建立统计模型进行预测",
+      "line": 5673,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "四、数学建模活动的选题",
+      "line": 5681,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "五、数学建模活动的要求",
+      "line": 5693,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 组建合作团队",
+      "line": 5695,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "2. 开展研究活动",
+      "line": 5699,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "3. 撰写研究报告",
+      "line": 5703,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "4. 交流展示",
+      "line": 5707,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "六、数学建模活动研究报告的参考形式",
+      "line": 5715,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "后记",
+      "line": 5741,
+      "old_level": 2,
+      "new_level": 4
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "高中数学选择性必修第三册",
+    "edition": "人教A版",
+    "language": "zh-CN",
+    "kind": "textbook"
+  },
+  "source": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本.pdf",
+    "kind": "pdf",
+    "sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1"
+  },
+  "paths": {
+    "vault_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中",
+    "book_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本",
+    "staging_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本"
+  },
+  "categories": [
+    {
+      "role": "knowledge",
+      "directory": "知识点",
+      "enabled": true,
+      "flat": false
+    },
+    {
+      "role": "concept",
+      "directory": "概念",
+      "enabled": true,
+      "flat": true
+    },
+    {
+      "role": "exercise",
+      "directory": "习题",
+      "enabled": true,
+      "flat": false
+    },
+    {
+      "role": "reading",
+      "directory": "趣味阅读",
+      "enabled": true,
+      "flat": false
+    },
+    {
+      "role": "method",
+      "directory": "思维或方法",
+      "enabled": true,
+      "flat": false
+    },
+    {
+      "role": "tool",
+      "directory": "工具",
+      "enabled": true,
+      "flat": false
+    }
+  ],
+  "links": {
+    "note_mode": "vault-root",
+    "canvas_mode": "vault-root",
+    "asset_mode": "vault-root",
+    "asset_base": "/课本/【人教版】高中选择性必修 第三册数学电子课本",
+    "encode_spaces": true,
+    "markdown_only": true
+  },
+  "formatting": {
+    "blank_before_top_level_callout": true,
+    "callout_body_mode": "quoted-body",
+    "callouts": {
+      "lead_in": "info",
+      "question": "question",
+      "observe": "question",
+      "think": "question",
+      "explore": "question",
+      "example": "example",
+      "hint": "tip",
+      "solution": "success",
+      "warning": "warning",
+      "conclusion": "summary",
+      "quotation": "quote"
+    }
+  },
+  "decomposition": {
+    "preserve_source_order": true,
+    "preserve_complete_source_blocks": true,
+    "lesson_entry_is_ordered_index": true,
+    "require_lesson_flow_manifest": true,
+    "non_toc_split_default": "retain",
+    "semantic_split_confidence_threshold": 0.9,
+    "max_retained_teaching_block_nonblank_lines": 40
+  },
+  "canvas": {
+    "enabled": true,
+    "node_colors": {
+      "super_core": "1",
+      "knowledge_or_concept": "2",
+      "cross_domain": "3",
+      "method": "4",
+      "reading": "5",
+      "question_type": "6",
+      "tool": "#c800ff"
+    },
+    "edge_colors": {
+      "reasoning": "2",
+      "method_transfer": "4",
+      "calculation": "5",
+      "application": "6"
+    }
+  },
+  "workspace": {
+    "backup_policy": "none"
+  }
+}

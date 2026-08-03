@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "source": {
+    "kind": "pdf",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本.pdf",
+    "size_bytes": 24499904,
+    "sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+    "pages": 154,
+    "encrypted": false,
+    "first_page_points": { "width": 595.275, "height": 841.89 }
+  },
+  "target": {
+    "kind": "target",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本",
+    "exists": false
+  }
+}

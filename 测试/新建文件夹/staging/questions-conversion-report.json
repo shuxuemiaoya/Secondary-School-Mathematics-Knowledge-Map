@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "stage": "question-type-pdf-to-markdown",
+  "status": "completed",
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\question-type-profile.json",
+  "role": "questions",
+  "source_pdf": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\2026版 高中必刷题数学必修第一册.pdf",
+  "source_sha256": "6742b8d50285794d344fda0743ec42b29cbac6d22b6dc28082ac811ce9e074c9",
+  "target_md": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\raw\\questions.raw.md",
+  "target_sha256": "3dd80ded34d534dc084da540b199c69d8c0ebf5d31ca2e947fe403bb63ac0886",
+  "page_count": 158,
+  "part_count": 2,
+  "parts": [
+    {
+      "index": 1,
+      "start_page": 1,
+      "end_page": 79
+    },
+    {
+      "index": 2,
+      "start_page": 80,
+      "end_page": 158
+    }
+  ],
+  "asset_count": 298,
+  "ocr_forced": true,
+  "model_version": "vlm",
+  "language": "ch",
+  "enable_formula": true,
+  "enable_table": true,
+  "validation": {
+    "source_hash_unchanged": true,
+    "page_coverage_complete": true,
+    "target_nonempty": true
+  }
+}

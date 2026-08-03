@@ -5,7 +5,7 @@
 		{"id":"b0c98c57fd2048b7","type":"text","text":"知识点","x":-368,"y":-238,"width":250,"height":60,"color":"2"},
 		{"id":"137ca59b0a403051","type":"text","text":"章节","x":-628,"y":-138,"width":190,"height":60,"color":"1"},
 		{"id":"102b6d345aafae80","type":"text","text":"题型","x":52,"y":-38,"width":250,"height":60,"color":"6"},
-		{"id":"4e382ed497589f09","type":"text","text":"交叉学科","x":-628,"y":69,"width":165,"height":60,"color":"3"},
+		{"id":"4e382ed497589f09","type":"text","text":"章节外知识点","x":-628,"y":69,"width":165,"height":60,"color":"3"},
 		{"id":"62f784451cb979c7","type":"text","text":"课外故事","x":-325,"y":159,"width":165,"height":60,"color":"5"},
 		{"id":"f98687c10a41a642","type":"text","text":"概念","x":52,"y":129,"width":99,"height":60},
 		{"id":"e981dd3c1eec1096","type":"text","text":"公式","x":52,"y":260,"width":99,"height":60},

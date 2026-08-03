@@ -1,0 +1,8 @@
+{
+  "promote_headings": [],
+  "add_ranges": [
+    {"key": "reviewed-range-00147", "title": "数列、函数表示与通项公式", "parent_key": "node-toc-002", "filename": "数列、函数表示与通项公式.md", "start_line": 147, "end_line": 238, "reason": "The definition of a sequence, its function and graphical representations, monotonicity, and general-term formula form one complete reusable teaching arc before local practice."},
+    {"key": "reviewed-range-00306", "title": "数列的递推公式", "parent_key": "node-toc-002", "filename": "数列的递推公式.md", "start_line": 306, "end_line": 341, "reason": "The source introduces recursive determination, defines the recurrence formula, and completes it with a worked example as one independent arc."},
+    {"key": "reviewed-range-00342", "title": "数列的前 n 项和", "parent_key": "node-toc-002", "filename": "数列的前 n 项和.md", "start_line": 342, "end_line": 373, "reason": "The definition and formula for the first n-term sum, together with its deduction prompt, form a complete independent teaching arc."}
+  ]
+}

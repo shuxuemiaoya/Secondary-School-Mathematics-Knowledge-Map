@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "review_status": "agent-reviewed",
+  "review_basis": "教材章节结构、拆分清单、概念定义来源与正文支持的数学关系",
+  "domains": [
+    {
+      "key": "vector-geometry",
+      "label": "向量方法与空间几何",
+      "chapters": ["node-toc-001", "node-toc-019"],
+      "extras": ["node-toc-010"]
+    },
+    {
+      "key": "complex-algebra",
+      "label": "复数与代数扩展",
+      "chapters": ["node-toc-011"]
+    },
+    {
+      "key": "data-randomness",
+      "label": "数据分析与随机性",
+      "chapters": ["node-toc-032", "node-toc-042"]
+    }
+  ],
+  "relations": [
+    {"key": "vector-operation-to-application", "from": "node-toc-004", "to": "node-toc-006", "label": "运算支持应用", "color": "application"},
+    {"key": "vector-application-to-triangle-research", "from": "node-toc-006", "to": "node-toc-010", "label": "向量方法迁移", "color": "method_transfer"},
+    {"key": "solid-forms-to-measurement", "from": "node-toc-020", "to": "node-toc-023", "label": "由形到量", "color": "calculation"},
+    {"key": "spatial-relations-to-parallel", "from": "node-toc-025", "to": "node-toc-026", "label": "关系推演", "color": "reasoning"},
+    {"key": "spatial-relations-to-perpendicular", "from": "node-toc-025", "to": "node-toc-027", "label": "关系推演", "color": "reasoning"},
+    {"key": "sampling-to-estimation", "from": "node-toc-033", "to": "node-toc-036", "label": "样本估计总体", "color": "application"},
+    {"key": "event-to-independence", "from": "node-toc-043", "to": "node-toc-044", "label": "事件关系", "color": "reasoning"},
+    {"key": "frequency-to-probability", "from": "node-toc-045", "to": "node-toc-043", "label": "频率估计概率", "color": "application"}
+  ]
+}

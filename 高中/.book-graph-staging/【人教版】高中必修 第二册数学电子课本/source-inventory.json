@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "source": {
+    "kind": "pdf",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中必修 第二册数学电子课本.pdf",
+    "size_bytes": 24757433,
+    "sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+    "pages": 282,
+    "encrypted": false,
+    "first_page_points": { "width": 595.275, "height": 841.89 }
+  },
+  "target": {
+    "kind": "target",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中必修 第二册数学电子课本",
+    "exists": false
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\book-profile.json",
+  "profile_sha256": "30a5b36cd9e1aa80bf56823099783099e5ff9c0d5c862dbb48b3023c0a40c552",
+  "source": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本.pdf",
+    "sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384"
+  },
+  "staging_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本",
+  "status": "completed",
+  "created_at": "2026-08-01T09:20:56.873809+00:00",
+  "updated_at": "2026-08-01T10:18:00.181739+00:00",
+  "stages": [
+    {
+      "name": "intake",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "kind": "book-profile",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\book-profile.json",
+          "sha256": "30a5b36cd9e1aa80bf56823099783099e5ff9c0d5c862dbb48b3023c0a40c552"
+        },
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\source-inventory.json",
+          "sha256": "aba2be0b27eee60386d8ebe9cf427584efb6afc730e371f2291fc9d27b3f57f3"
+        }
+      ],
+      "report": null,
+      "review_queue": null,
+      "started_at": "2026-08-01T09:20:56.873789+00:00",
+      "completed_at": "2026-08-01T09:20:56.873804+00:00",
+      "duration_seconds": 0.0,
+      "error": null
+    },
+    {
+      "name": "pdf-conversion",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本.pdf",
+          "sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384"
+        }
+      ],
+      "outputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.raw.md",
+          "sha256": "3a312673836c4c187836497dd25a646e3f0b6e8820400bc40e056d117d0c9d4f"
+        }
+      ],
+      "report": null,
+      "review_queue": null,
+      "started_at": "2026-08-01T09:22:00.369816+00:00",
+      "completed_at": "2026-08-01T09:23:56.394660+00:00",
+      "duration_seconds": 116.024844,
+      "error": null
+    },
+    {
+      "name": "toc-formatting",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.raw.md",
+          "sha256": "3a312673836c4c187836497dd25a646e3f0b6e8820400bc40e056d117d0c9d4f"
+        }
+      ],
+      "outputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.toc-formatted.md",
+          "sha256": "47cdf78989845158b0e811550b6ea8bc33ea3c2f894661be1d2c3dc75f14d23b"
+        },
+        {
+          "kind": "toc-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\toc-manifest.json",
+          "sha256": "aaff09dca0f7a4f13d037c39b92a24ea2670c87147d00e659789d43fed4056c6"
+        }
+      ],
+      "report": {
+        "kind": "toc-format-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\toc-format-report.json",
+        "sha256": "1688e448d1ce716afef208564b8153e6943a183dddd9c3f66c63581bf51f4cd5"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T09:24:27.930052+00:00",
+      "completed_at": "2026-08-01T09:29:30.758347+00:00",
+      "duration_seconds": 302.828295,
+      "error": null
+    },
+    {
+      "name": "toc-splitting",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.toc-formatted.md",
+          "sha256": "47cdf78989845158b0e811550b6ea8bc33ea3c2f894661be1d2c3dc75f14d23b"
+        },
+        {
+          "kind": "toc-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\toc-manifest.json",
+          "sha256": "aaff09dca0f7a4f13d037c39b92a24ea2670c87147d00e659789d43fed4056c6"
+        }
+      ],
+      "outputs": [
+        {
+          "kind": "directory",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本",
+          "sha256": "accfa747e012efa16199b90718bbb393242bd91324581a91d3359237a5c79944"
+        },
+        {
+          "kind": "split-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\split-manifest.json",
+          "sha256": "0dff3d768a3cafa9537e534acd9fa2aeb2c93465df04c55b2e29a71e79566e4c"
+        },
+        {
+          "kind": "lesson-flow-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\lesson-flow-manifest.json",
+          "sha256": "d205eca9355d70380c1297ac999c335aaf7bf0a27b37e310fb69a0b98327dfae"
+        },
+        {
+          "kind": "coverage-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\coverage-manifest.json",
+          "sha256": "f52e4c83f64227475e4efb30307174d3283e16a8de25bed46beb7b979de17070"
+        }
+      ],
+      "report": {
+        "kind": "audit-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\split-audit-report.json",
+        "sha256": "081b9266e6b7e18e12693c558ff3dd754beb9bef5401bfb8ec2d1a009eba4a96"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T09:31:09.060772+00:00",
+      "completed_at": "2026-08-01T09:41:45.832416+00:00",
+      "duration_seconds": 636.771644,
+      "error": null
+    },
+    {
+      "name": "concepts",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "kind": "concept-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\concept-manifest.json",
+          "sha256": "73081448077fd5b3eac5626becc4031128ff1e39db8ae5b67042ac9655a70d1f"
+        }
+      ],
+      "report": {
+        "kind": "audit-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\concept-audit-report.json",
+        "sha256": "66dae5cc3d43de270bc7f58a4b6842599435137de518c5abae3ec744ff478f7a"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T09:55:16.746641+00:00",
+      "completed_at": "2026-08-01T09:55:16.894217+00:00",
+      "duration_seconds": 0.147576,
+      "error": null
+    },
+    {
+      "name": "markdown-standardization",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "kind": "markdown-report",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\markdown-standardization-report.json",
+          "sha256": "3fed954754771c8f12f0e6884fd5943d906d40e57c899ee181c5e4e67e0bce19"
+        }
+      ],
+      "report": {
+        "kind": "audit-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\formatting-audit-report.json",
+        "sha256": "c31b384475fd7382aaf1bd8ef6eccae516e361f75e56bf0eb0d7088c31f624d5"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T09:55:39.791176+00:00",
+      "completed_at": "2026-08-01T10:11:16.583142+00:00",
+      "duration_seconds": 936.791966,
+      "error": null
+    },
+    {
+      "name": "pre-canvas-audit",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [],
+      "report": {
+        "kind": "audit-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\pre-canvas-audit-report.json",
+        "sha256": "c520bff62b7edd7dd7ce2223c8e69975c1b680bbc95604b2352e991c4a9b453c"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T10:11:16.714077+00:00",
+      "completed_at": "2026-08-01T10:11:17.115277+00:00",
+      "duration_seconds": 0.4012,
+      "error": null
+    },
+    {
+      "name": "canvas",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "kind": "file",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.canvas",
+          "sha256": "3ac698413c146cf28329a964c4ba5c8ebc4f7638232b68efc43a86d3f211d78a"
+        },
+        {
+          "kind": "graph-manifest",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\graph-manifest.json",
+          "sha256": "6b5eb757e5a68624f54275418ed1dd8e94d4591357b0436062b4bcf22529e332"
+        }
+      ],
+      "report": null,
+      "review_queue": null,
+      "started_at": "2026-08-01T10:17:43.506611+00:00",
+      "completed_at": "2026-08-01T10:17:43.763293+00:00",
+      "duration_seconds": 0.256682,
+      "error": null
+    },
+    {
+      "name": "final-audit",
+      "status": "completed",
+      "attempts": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "kind": "tree",
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本",
+          "sha256": "080d52007dd0bfc5309e9bfb1a30734ab3b166a740d68e501a5e471238f1053e"
+        }
+      ],
+      "report": {
+        "kind": "audit-report",
+        "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\final-audit-report.json",
+        "sha256": "391c2ecda94026919995ad0e403dd31530b838816e32b86165171bf31627c81b"
+      },
+      "review_queue": null,
+      "started_at": "2026-08-01T10:17:59.702180+00:00",
+      "completed_at": "2026-08-01T10:18:00.181739+00:00",
+      "duration_seconds": 0.479559,
+      "error": null
+    }
+  ],
+  "telemetry": {
+    "stage_attempts": {
+      "intake": 1,
+      "pdf-conversion": 1,
+      "toc-formatting": 1,
+      "toc-splitting": 1,
+      "concepts": 1,
+      "markdown-standardization": 1,
+      "pre-canvas-audit": 1,
+      "canvas": 1,
+      "final-audit": 1
+    },
+    "stage_duration_seconds": {
+      "intake": 0.0,
+      "pdf-conversion": 116.024844,
+      "toc-formatting": 302.828295,
+      "toc-splitting": 636.771644,
+      "concepts": 0.147576,
+      "markdown-standardization": 936.791966,
+      "pre-canvas-audit": 0.4012,
+      "canvas": 0.256682,
+      "final-audit": 0.479559
+    },
+    "review_items": 0,
+    "manual_review_items": 0,
+    "parallel_note_jobs": 0,
+    "failures": []
+  },
+  "reuse_policy": "same-run-only",
+  "test_options": {
+    "preserve_stage_artifacts": false,
+    "config": null,
+    "config_sha256": null,
+    "checkpoint_root": null,
+    "run_id": null,
+    "latest_checkpoint": null
+  }
+}

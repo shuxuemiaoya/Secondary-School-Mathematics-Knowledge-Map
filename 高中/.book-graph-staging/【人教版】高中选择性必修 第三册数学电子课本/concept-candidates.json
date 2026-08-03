@@ -1,0 +1,761 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "review_basis": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\reviewed-terms",
+  "concepts": [
+    {
+      "name": "2×2 列联表",
+      "definition_source": "知识点/8.3.1 分类变量与列联表.md",
+      "definition_start_line": 70,
+      "definition_end_line": 72,
+      "anchor_text": "称为 $2 \\times 2$ 列联表",
+      "link_text": "$2 \\times 2$ 列联表",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "3σ 原则",
+      "definition_source": "知识点/7.5 正态分布.md",
+      "definition_start_line": 126,
+      "definition_end_line": 126,
+      "anchor_text": "称为 $3\\sigma$ 原则",
+      "link_text": "$3\\sigma$ 原则",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "n 重伯努利试验",
+      "definition_source": "知识点/7.4.1 二项分布.md",
+      "definition_start_line": 5,
+      "definition_end_line": 5,
+      "anchor_text": "称为 $n$ 重伯努利试验",
+      "link_text": "$n$ 重伯努利试验",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "χ² 独立性检验",
+      "definition_source": "知识点/8.3.2 独立性检验.md",
+      "definition_start_line": 128,
+      "definition_end_line": 128,
+      "anchor_text": "称为 $\\chi^2$ 独立性检验",
+      "link_text": "$\\chi^2$ 独立性检验",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "一元线性回归模型",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "一元线性回归模型",
+      "link_text": "一元线性回归模型",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "二项分布",
+      "definition_source": "知识点/7.4.1 二项分布.md",
+      "definition_start_line": 59,
+      "definition_end_line": 67,
+      "anchor_text": "称随机变量 X 服从二项分布",
+      "link_text": "二项分布",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "二项展开式",
+      "definition_source": "知识点/6.3.1 二项式定理.md",
+      "definition_start_line": 59,
+      "definition_end_line": 59,
+      "anchor_text": "二项展开式",
+      "link_text": "二项展开式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "二项展开式的通项",
+      "definition_source": "知识点/6.3.1 二项式定理.md",
+      "definition_start_line": 59,
+      "definition_end_line": 59,
+      "anchor_text": "二项展开式的通项",
+      "link_text": "二项展开式的通项",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "二项式定理",
+      "definition_source": "知识点/6.3.1 二项式定理.md",
+      "definition_start_line": 59,
+      "definition_end_line": 59,
+      "anchor_text": "二项式定理",
+      "link_text": "二项式定理",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "二项式系数",
+      "definition_source": "知识点/6.3.1 二项式定理.md",
+      "definition_start_line": 59,
+      "definition_end_line": 59,
+      "anchor_text": "二项式系数",
+      "link_text": "二项式系数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "伯努利试验",
+      "definition_source": "知识点/7.4.1 二项分布.md",
+      "definition_start_line": 3,
+      "definition_end_line": 3,
+      "anchor_text": "伯努利试验",
+      "link_text": "伯努利试验",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "先验概率",
+      "definition_source": "知识点/7.1.2 全概率公式.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "先验概率",
+      "link_text": "先验概率",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "全排列",
+      "definition_source": "知识点/6.2.2 排列数.md",
+      "definition_start_line": 86,
+      "definition_end_line": 86,
+      "anchor_text": "全排列",
+      "link_text": "全排列",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "全概率公式",
+      "definition_source": "知识点/7.1.2 全概率公式.md",
+      "definition_segments": [
+        {
+          "start_line": 26,
+          "end_line": 30
+        },
+        {
+          "start_line": 32,
+          "end_line": 32
+        }
+      ],
+      "anchor_text": "全概率公式",
+      "link_text": "全概率公式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "分布列",
+      "definition_source": "知识点/离散型随机变量的分布列.md",
+      "definition_start_line": 3,
+      "definition_end_line": 9,
+      "anchor_text": "简称分布列",
+      "link_text": "分布列",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "分类变量",
+      "definition_source": "知识点/8.3 列联表与独立性检验.md",
+      "definition_start_line": 7,
+      "definition_end_line": 7,
+      "anchor_text": "分类变量",
+      "link_text": "分类变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "后验概率",
+      "definition_source": "知识点/7.1.2 全概率公式.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "后验概率",
+      "link_text": "后验概率",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "响应变量",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "响应变量",
+      "link_text": "响应变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "回归分析",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 131,
+      "definition_end_line": 131,
+      "anchor_text": "回归分析",
+      "link_text": "回归分析",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "回归现象",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 131,
+      "definition_end_line": 131,
+      "anchor_text": "回归现象",
+      "link_text": "回归现象",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "因变量",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "因变量",
+      "link_text": "因变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "均值",
+      "definition_source": "知识点/7.3.1 离散型随机变量的均值.md",
+      "definition_start_line": 35,
+      "definition_end_line": 47,
+      "anchor_text": "为随机变量 X 的均值",
+      "link_text": "均值",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "截距参数",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "截距参数",
+      "link_text": "截距参数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "排列",
+      "definition_source": "知识点/6.2.1 排列.md",
+      "definition_start_line": 120,
+      "definition_end_line": 120,
+      "anchor_text": "排列",
+      "link_text": "排列",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "排列数",
+      "definition_source": "知识点/6.2.2 排列数.md",
+      "definition_start_line": 5,
+      "definition_end_line": 5,
+      "anchor_text": "排列数",
+      "link_text": "排列数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "排列数公式",
+      "definition_source": "知识点/6.2.2 排列数.md",
+      "definition_segments": [
+        {
+          "start_line": 72,
+          "end_line": 74
+        },
+        {
+          "start_line": 78,
+          "end_line": 78
+        }
+      ],
+      "anchor_text": "排列数公式",
+      "link_text": "排列数公式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "散点图",
+      "definition_source": "知识点/8.1.1 变量的相关关系.md",
+      "definition_start_line": 26,
+      "definition_end_line": 26,
+      "anchor_text": "散点图",
+      "link_text": "散点图",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "数学期望",
+      "definition_source": "知识点/7.3.1 离散型随机变量的均值.md",
+      "definition_start_line": 35,
+      "definition_end_line": 47,
+      "anchor_text": "或数学期望",
+      "link_text": "数学期望",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "斜率参数",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "斜率参数",
+      "link_text": "斜率参数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "方差",
+      "definition_source": "知识点/7.3.2 离散型随机变量的方差.md",
+      "definition_start_line": 38,
+      "definition_end_line": 50,
+      "anchor_text": "为随机变量 X 的方差",
+      "link_text": "方差",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "最小二乘估计",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "叫做 b, a 的最小二乘估计",
+      "link_text": "最小二乘估计",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "最小二乘法",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "最小二乘法",
+      "link_text": "最小二乘法",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "期望",
+      "definition_source": "知识点/7.3.1 离散型随机变量的均值.md",
+      "definition_start_line": 35,
+      "definition_end_line": 47,
+      "anchor_text": "简称期望",
+      "link_text": "期望",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "条件概率",
+      "definition_source": "知识点/7.1.1 条件概率.md",
+      "definition_start_line": 73,
+      "definition_end_line": 79,
+      "anchor_text": "简称条件概率（conditional probability）",
+      "link_text": "条件概率",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "标准差",
+      "definition_source": "知识点/7.3.2 离散型随机变量的方差.md",
+      "definition_start_line": 50,
+      "definition_end_line": 50,
+      "anchor_text": "标准差",
+      "link_text": "标准差",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "标准正态分布",
+      "definition_source": "知识点/7.5 正态分布.md",
+      "definition_start_line": 34,
+      "definition_end_line": 40,
+      "anchor_text": "称随机变量 X 服从标准正态分布",
+      "link_text": "标准正态分布",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "样本相关系数",
+      "definition_source": "知识点/8.1.2 样本相关系数.md",
+      "definition_start_line": 71,
+      "definition_end_line": 71,
+      "anchor_text": "样本相关系数",
+      "link_text": "样本相关系数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "概率分布列",
+      "definition_source": "知识点/离散型随机变量的分布列.md",
+      "definition_start_line": 3,
+      "definition_end_line": 9,
+      "anchor_text": "为 $X$ 的概率分布列",
+      "link_text": "概率分布列",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "概率分布图",
+      "definition_source": "知识点/离散型随机变量的分布列.md",
+      "definition_start_line": 11,
+      "definition_end_line": 11,
+      "anchor_text": "概率分布图",
+      "link_text": "概率分布图",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "正态分布",
+      "definition_source": "知识点/7.5 正态分布.md",
+      "definition_start_line": 34,
+      "definition_end_line": 40,
+      "anchor_text": "称随机变量 X 服从正态分布",
+      "link_text": "正态分布",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "正态密度函数",
+      "definition_source": "知识点/7.5 正态分布.md",
+      "definition_start_line": 34,
+      "definition_end_line": 40,
+      "anchor_text": "称 $f(x)$ 为正态密度函数",
+      "link_text": "正态密度函数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "正态密度曲线",
+      "definition_source": "知识点/7.5 正态分布.md",
+      "definition_start_line": 40,
+      "definition_end_line": 40,
+      "anchor_text": "正态密度曲线",
+      "link_text": "正态密度曲线",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "正相关",
+      "definition_source": "知识点/8.1.1 变量的相关关系.md",
+      "definition_start_line": 39,
+      "definition_end_line": 39,
+      "anchor_text": "称这两个变量正相关",
+      "link_text": "正相关",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "残差",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 137,
+      "definition_end_line": 137,
+      "anchor_text": "残差",
+      "link_text": "残差",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "残差分析",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 137,
+      "definition_end_line": 137,
+      "anchor_text": "残差分析",
+      "link_text": "残差分析",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "独立性检验",
+      "definition_source": "知识点/8.3.2 独立性检验.md",
+      "definition_start_line": 128,
+      "definition_end_line": 128,
+      "anchor_text": "独立性检验",
+      "link_text": "独立性检验",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "相关关系",
+      "definition_source": "知识点/8.1.1 变量的相关关系.md",
+      "definition_start_line": 3,
+      "definition_end_line": 3,
+      "anchor_text": "相关关系",
+      "link_text": "相关关系",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "离散型随机变量",
+      "definition_source": "知识点/离散型随机变量.md",
+      "definition_start_line": 39,
+      "definition_end_line": 39,
+      "anchor_text": "离散型随机变量",
+      "link_text": "离散型随机变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "组合",
+      "definition_source": "知识点/6.2.3 组合.md",
+      "definition_start_line": 16,
+      "definition_end_line": 16,
+      "anchor_text": "组合",
+      "link_text": "组合",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "组合数",
+      "definition_source": "知识点/6.2.4 组合数.md",
+      "definition_start_line": 5,
+      "definition_end_line": 5,
+      "anchor_text": "组合数",
+      "link_text": "组合数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "组合数公式",
+      "definition_source": "知识点/6.2.4 组合数.md",
+      "definition_segments": [
+        {
+          "start_line": 62,
+          "end_line": 64
+        },
+        {
+          "start_line": 66,
+          "end_line": 66
+        }
+      ],
+      "anchor_text": "组合数公式",
+      "link_text": "组合数公式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "经验回归公式",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "或经验回归公式",
+      "link_text": "经验回归公式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "经验回归函数",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "也称经验回归函数",
+      "link_text": "经验回归函数",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "经验回归方程",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "经验回归方程",
+      "link_text": "经验回归方程",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "经验回归直线",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 93,
+      "definition_end_line": 93,
+      "anchor_text": "经验回归直线",
+      "link_text": "经验回归直线",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "自变量",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "自变量",
+      "link_text": "自变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "观测值",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 137,
+      "definition_end_line": 137,
+      "anchor_text": "观测值",
+      "link_text": "观测值",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "解释变量",
+      "definition_source": "知识点/8.2.1 一元线性回归模型.md",
+      "definition_start_line": 31,
+      "definition_end_line": 31,
+      "anchor_text": "解释变量",
+      "link_text": "解释变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "贝叶斯公式",
+      "definition_source": "知识点/7.1.2 全概率公式.md",
+      "definition_segments": [
+        {
+          "start_line": 101,
+          "end_line": 101
+        },
+        {
+          "start_line": 105,
+          "end_line": 107
+        }
+      ],
+      "anchor_text": "贝叶斯公式(Bayes formula)",
+      "link_text": "贝叶斯公式",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "负相关",
+      "definition_source": "知识点/8.1.1 变量的相关关系.md",
+      "definition_start_line": 39,
+      "definition_end_line": 39,
+      "anchor_text": "称这两个变量负相关",
+      "link_text": "负相关",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "超几何分布",
+      "definition_source": "知识点/7.4.2 超几何分布.md",
+      "definition_start_line": 28,
+      "definition_end_line": 34,
+      "anchor_text": "称随机变量 $X$ 服从超几何分布",
+      "link_text": "超几何分布",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "阶乘",
+      "definition_source": "知识点/6.2.2 排列数.md",
+      "definition_start_line": 92,
+      "definition_end_line": 92,
+      "anchor_text": "阶乘",
+      "link_text": "阶乘",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "随机变量",
+      "definition_source": "知识点/离散型随机变量.md",
+      "definition_start_line": 39,
+      "definition_end_line": 39,
+      "anchor_text": "随机变量",
+      "link_text": "随机变量",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "随机变量的数字特征",
+      "definition_source": "知识点/7.3 离散型随机变量的数字特征.md",
+      "definition_start_line": 3,
+      "definition_end_line": 3,
+      "anchor_text": "随机变量的数字特征",
+      "link_text": "随机变量的数字特征",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    },
+    {
+      "name": "预测值",
+      "definition_source": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "definition_start_line": 137,
+      "definition_end_line": 137,
+      "anchor_text": "预测值",
+      "link_text": "预测值",
+      "confidence": "high",
+      "reviewed": true,
+      "review_flags": []
+    }
+  ],
+  "rejected": [
+    {
+      "name": "成对样本数据",
+      "reason": "The current text uses the term descriptively but does not contain a compact formal naming definition."
+    }
+  ],
+  "reviewed": true
+}

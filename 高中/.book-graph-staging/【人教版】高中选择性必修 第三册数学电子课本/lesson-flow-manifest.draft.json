@@ -1,0 +1,3100 @@
+{
+  "schema_version": 1,
+  "stage": "lesson-flow-planning",
+  "status": "review_required",
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "formatted_markdown": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\【人教版】高中选择性必修 第三册数学电子课本.toc-formatted.md",
+  "input_markdown_sha256": "7ad84afe009e68253590492b8bec2d16bd6dd3366e6290e1556ef52a3a42e6f2",
+  "split_manifest": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\split-manifest.json",
+  "split_manifest_sha256": "4abd5eb9407630bb260ccf4e69ff718e698dca2bc24920f09eb527af3f96e820",
+  "lessons": [
+    {
+      "node_key": "node-toc-002",
+      "title": "6.1 分类加法计数原理与分步乘法计数原理",
+      "start_line": 139,
+      "end_line": 585,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-002-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 139,
+          "end_line": 142,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-002-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 143,
+          "end_line": 206,
+          "child_node_key": "reviewed-range-00143",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-002-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 207,
+          "end_line": 283,
+          "child_node_key": "reviewed-range-00207",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-002-block-004",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 284,
+          "end_line": 305,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-002-block-005",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 306,
+          "end_line": 527,
+          "child_node_key": "reviewed-range-00306",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-002-block-006",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 528,
+          "end_line": 585,
+          "child_node_key": "semantic-00528",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-004",
+      "title": "6.2 排列与组合",
+      "start_line": 648,
+      "end_line": 1336,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-004-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 648,
+          "end_line": 651,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-004-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 652,
+          "end_line": 819,
+          "child_node_key": "semantic-00652",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-004-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 820,
+          "end_line": 994,
+          "child_node_key": "semantic-00820",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-004-block-004",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 995,
+          "end_line": 1077,
+          "child_node_key": "semantic-00995",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-004-block-005",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 1078,
+          "end_line": 1229,
+          "child_node_key": "semantic-01078",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-004-block-006",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 1230,
+          "end_line": 1336,
+          "child_node_key": "semantic-01230",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-00652",
+      "title": "6.2.1 排列",
+      "start_line": 652,
+      "end_line": 819,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-00652-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 652,
+          "end_line": 672,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 673,
+          "end_line": 765,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '如果把上面问题中被取出的对象叫做元素，那么问题可叙述为：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 766,
+          "end_line": 771,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 772,
+          "end_line": 775,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，从 $n$ 个不同元素中取出 $m(m \\\\leqslant n)$ 个元素，并按照一定的顺序排成一列，叫做从 $n$ 个不同元素中取出 $m$ 个元素的'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 776,
+          "end_line": 785,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 786,
+          "end_line": 803,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00652-block-007",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 804,
+          "end_line": 819,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            673,
+            765
+          ],
+          "nonblank_lines": 59,
+          "maximum": 40
+        }
+      ],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-00820",
+      "title": "6.2.2 排列数",
+      "start_line": 820,
+      "end_line": 994,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-00820-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 820,
+          "end_line": 823,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 824,
+          "end_line": 839,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '我们把从 $n$ 个不同元素中取出 $m(m \\\\leqslant n)$ 个元素的所有不同排列的个数，叫做从 $n$ 个不同元素中取出 $m$ 个元素的排列数，'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 840,
+          "end_line": 868,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 869,
+          "end_line": 897,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，求排列数 $\\\\mathrm{A}_n^m$ 可以按依次填 $m$ 个空位来考虑：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-005",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 898,
+          "end_line": 905,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '这里， $m$ ， $n\\\\in \\\\mathbf{N}^*$ ，并且 $m\\\\leqslant n$ .这个公式叫做排列数公式'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-006",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 906,
+          "end_line": 911,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '特别地，我们把 $n$ 个不同的元素全部取出的一个排列，叫做 $n$ 个元素的一个全排列。这时，排列数公式中 $m = n$ ，即有'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 912,
+          "end_line": 917,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '也就是说，将 $n$ 个不同的元素全部取出的排列数，等于正整数1到 $n$ 的连乘积。正整数1到 $n$ 的连乘积，叫做 $n$ 的阶乘，用 $n!$ 表示。于'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-008",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 918,
+          "end_line": 919,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '另外，我们规定，0!=1.'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-009",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 920,
+          "end_line": 931,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-010",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 932,
+          "end_line": 947,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-011",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 948,
+          "end_line": 983,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 4'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00820-block-012",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 984,
+          "end_line": 994,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-00995",
+      "title": "6.2.3 组合",
+      "start_line": 995,
+      "end_line": 1077,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-00995-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 995,
+          "end_line": 996,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 997,
+          "end_line": 1010,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1011,
+          "end_line": 1012,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，从 $n$ 个不同元素中取出 $m(m \\\\leqslant n)$ 个元素作为一组，叫做从 $n$ 个不同元素中取出 $m$ 个元素的一个组合（comb'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1013,
+          "end_line": 1023,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-005",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1024,
+          "end_line": 1031,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1032,
+          "end_line": 1057,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 5'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-007",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1058,
+          "end_line": 1061,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-00995-block-008",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 1062,
+          "end_line": 1077,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-01078",
+      "title": "6.2.4 组合数",
+      "start_line": 1078,
+      "end_line": 1229,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-01078-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 1078,
+          "end_line": 1081,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1082,
+          "end_line": 1089,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '从 n 个不同元素中取出 $m(m \\\\leqslant n)$ 个元素的所有不同组合的个数，叫做从 n 个不同元素中取出 m 个元素的组合数，用符号 $C_{n'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1090,
+          "end_line": 1143,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1144,
+          "end_line": 1157,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '这里 $n$ ， $m\\\\in \\\\mathbf{N}^*$ ，并且 $m\\\\leqslant n$ .这个公式叫做组合数公式'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-005",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1158,
+          "end_line": 1159,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '另外，我们规定 $C_{n}^{0}=1$ .'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1160,
+          "end_line": 1171,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例6'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-007",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1172,
+          "end_line": 1175,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-008",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1176,
+          "end_line": 1213,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 7'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01078-block-009",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 1214,
+          "end_line": 1229,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-006",
+      "title": "6.3 二项式定理",
+      "start_line": 1381,
+      "end_line": 1750,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-006-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 1381,
+          "end_line": 1384,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-006-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 1385,
+          "end_line": 1516,
+          "child_node_key": "semantic-01385",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-006-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 1517,
+          "end_line": 1683,
+          "child_node_key": "semantic-01517",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-006-block-004",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 1684,
+          "end_line": 1750,
+          "child_node_key": "semantic-01684",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-01385",
+      "title": "6.3.1 二项式定理",
+      "start_line": 1385,
+      "end_line": 1516,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-01385-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 1385,
+          "end_line": 1386,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1387,
+          "end_line": 1420,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1421,
+          "end_line": 1428,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '由上述分析可以得到'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1429,
+          "end_line": 1444,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-005",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 1445,
+          "end_line": 1456,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '公式（1）叫做二项式定理（binomial theorem），右边的多项式叫做 $(a+b)^{n}$ 的二项展开式，其中各项的系数 $C_{n}^{k}(k='; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1457,
+          "end_line": 1464,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-007",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1465,
+          "end_line": 1504,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01385-block-008",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 1505,
+          "end_line": 1516,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-01517",
+      "title": "6.3.2 二项式系数的性质",
+      "start_line": 1517,
+      "end_line": 1683,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-01517-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 1517,
+          "end_line": 1526,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01517-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1527,
+          "end_line": 1567,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01517-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 1568,
+          "end_line": 1617,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01517-block-004",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 1618,
+          "end_line": 1669,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-01517-block-005",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 1670,
+          "end_line": 1683,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-011",
+      "title": "7.1 条件概率与全概率公式",
+      "start_line": 1996,
+      "end_line": 2430,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-011-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 1996,
+          "end_line": 2005,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-011-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2006,
+          "end_line": 2233,
+          "child_node_key": "semantic-02006",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-011-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2234,
+          "end_line": 2384,
+          "child_node_key": "semantic-02234",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-011-block-004",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 2385,
+          "end_line": 2430,
+          "child_node_key": "semantic-02385",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-02006",
+      "title": "7.1.1 条件概率",
+      "start_line": 2006,
+      "end_line": 2233,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-02006-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2006,
+          "end_line": 2077,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2078,
+          "end_line": 2087,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，设 A，B 为两个随机事件，且 $P(A) > 0$ ，我们称'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2088,
+          "end_line": 2109,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2110,
+          "end_line": 2121,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2122,
+          "end_line": 2157,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2158,
+          "end_line": 2169,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-007",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2170,
+          "end_line": 2191,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-008",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2192,
+          "end_line": 2221,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02006-block-009",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 2222,
+          "end_line": 2233,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            2006,
+            2077
+          ],
+          "nonblank_lines": 44,
+          "maximum": 40
+        }
+      ],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-02234",
+      "title": "7.1.2 全概率公式",
+      "start_line": 2234,
+      "end_line": 2384,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-02234-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2234,
+          "end_line": 2237,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2238,
+          "end_line": 2259,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2260,
+          "end_line": 2267,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，设 $A_{1}, A_{2}, \\\\cdots, A_{n}$ 是一组两两互斥的事件， $A_{1} \\\\cup A_{2} \\\\cup \\\\cdots \\\\c'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-004",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2268,
+          "end_line": 2285,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 4'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2286,
+          "end_line": 2323,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 5'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-006",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2324,
+          "end_line": 2327,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2328,
+          "end_line": 2343,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '$P(A_{i})$ 是试验之前就已知的概率，它是第i台车床加工的零件所占的比例，称为先验概率。当已知抽到的零件是次品(B发生)， $P(A_{i}|B)$ 是'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-008",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2344,
+          "end_line": 2374,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例6'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02234-block-009",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 2375,
+          "end_line": 2384,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-013",
+      "title": "7.2 离散型随机变量及其分布列",
+      "start_line": 2479,
+      "end_line": 2721,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-013-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2479,
+          "end_line": 2496,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2497,
+          "end_line": 2561,
+          "child_node_key": "reviewed-range-02497",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-003",
+          "role": "unclassified",
+          "ownership": "retain-parent",
+          "start_line": 2562,
+          "end_line": 2562,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Classify this retained source range by teaching function.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-004",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2563,
+          "end_line": 2662,
+          "child_node_key": "reviewed-range-02563",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-005",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 2663,
+          "end_line": 2672,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-006",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2673,
+          "end_line": 2678,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '（3）任意抽取一瓶标有 $1500 \\\\, mL$ 的饮料，其实际含量与规定含量之差.'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-013-block-007",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 2679,
+          "end_line": 2721,
+          "child_node_key": "semantic-02679",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-014",
+      "title": "7.3 离散型随机变量的数字特征",
+      "start_line": 2722,
+      "end_line": 3203,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-014-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2722,
+          "end_line": 2723,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-014-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2724,
+          "end_line": 2725,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '离散型随机变量的分布列全面地刻画了这个随机变量的取值规律。但在解决有些实际问题时，直接使用分布列并不方便。例如，要比较不同班级某次考试成绩，通常会比较平均成绩；'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-014-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2726,
+          "end_line": 2979,
+          "child_node_key": "semantic-02726",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-014-block-004",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 2980,
+          "end_line": 3165,
+          "child_node_key": "semantic-02980",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-014-block-005",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 3166,
+          "end_line": 3203,
+          "child_node_key": "semantic-03166",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-02726",
+      "title": "7.3.1 离散型随机变量的均值",
+      "start_line": 2726,
+      "end_line": 2979,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-02726-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2726,
+          "end_line": 2759,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2760,
+          "end_line": 2773,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，若离散型随机变量 $X$ 的分布列如表7.3-2所示，'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-003",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2774,
+          "end_line": 2791,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2792,
+          "end_line": 2797,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，如果随机变量 $X$ 服从两点分布，那么'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2798,
+          "end_line": 2813,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-006",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2814,
+          "end_line": 2828,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '观察'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-007",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 2829,
+          "end_line": 2852,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-008",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2853,
+          "end_line": 2858,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，下面的结论成立：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-009",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2859,
+          "end_line": 2900,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-010",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 2901,
+          "end_line": 2954,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 4'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-011",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 2955,
+          "end_line": 2966,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02726-block-012",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 2967,
+          "end_line": 2979,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '2. 抛掷一枚硬币，规定正面向上得 1 分，反面向上得 -1 分，求得分 X 的均值.'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-02980",
+      "title": "7.3.2 离散型随机变量的方差",
+      "start_line": 2980,
+      "end_line": 3165,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-02980-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 2980,
+          "end_line": 3011,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3012,
+          "end_line": 3053,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3054,
+          "end_line": 3069,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3070,
+          "end_line": 3075,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，可以证明下面的结论成立：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3076,
+          "end_line": 3095,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例5'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3096,
+          "end_line": 3143,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 6'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-02980-block-007",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 3144,
+          "end_line": 3165,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-015",
+      "title": "7.4 二项分布与超几何分布",
+      "start_line": 3204,
+      "end_line": 3635,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-015-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3204,
+          "end_line": 3207,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-015-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 3208,
+          "end_line": 3448,
+          "child_node_key": "semantic-03208",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-015-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 3449,
+          "end_line": 3587,
+          "child_node_key": "semantic-03449",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-015-block-004",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 3588,
+          "end_line": 3635,
+          "child_node_key": "semantic-03588",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-03208",
+      "title": "7.4.1 二项分布",
+      "start_line": 3208,
+      "end_line": 3448,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-03208-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3208,
+          "end_line": 3209,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3210,
+          "end_line": 3211,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '在实际问题中，有许多随机试验与掷硬币试验具有相同的特征，它们只包含两个可能结果。例如，检验一件产品结果为合格或不合格，飞碟射击时中靶或脱靶，医学检验结果为阳性或'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3212,
+          "end_line": 3219,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '我们将一个伯努利试验独立地重复进行 $n$ 次所组成的随机试验称为 $n$ 重伯努利试验。显然， $n$ 重伯努利试验具有如下共同特征：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3220,
+          "end_line": 3231,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-005",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3232,
+          "end_line": 3264,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-006",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3265,
+          "end_line": 3268,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3269,
+          "end_line": 3276,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，在 n 重伯努利试验中，设每次试验中事件 A 发生的概率为 $p(0 < p < 1)$ ，用 X 表示事件 A 发生的次数，则 X 的分布列为'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-008",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3277,
+          "end_line": 3284,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '如果随机变量 X 的分布列具有上式的形式，则称随机变量 X 服从二项分布（binomial distribution），记作 $X \\\\sim B(n, p)$ '; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-009",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3285,
+          "end_line": 3306,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-010",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3307,
+          "end_line": 3324,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-011",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3325,
+          "end_line": 3356,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-012",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3357,
+          "end_line": 3358,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '归纳'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-013",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3359,
+          "end_line": 3368,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，确定一个二项分布模型的步骤如下：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-014",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3369,
+          "end_line": 3404,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-015",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3405,
+          "end_line": 3424,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，可以证明：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03208-block-016",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 3425,
+          "end_line": 3448,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-03449",
+      "title": "7.4.2 超几何分布",
+      "start_line": 3449,
+      "end_line": 3587,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-03449-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3449,
+          "end_line": 3454,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3455,
+          "end_line": 3476,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3477,
+          "end_line": 3484,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，假设一批产品共有 $N$ 件，其中有 $M$ 件次品。从 $N$ 件产品中随机抽取 $n$ 件（不放回），用 $X$ 表示抽取的 $n$ 件产品中的次品'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-004",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3485,
+          "end_line": 3496,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例4'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-005",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3497,
+          "end_line": 3516,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例5'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-006",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3517,
+          "end_line": 3538,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-007",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 3539,
+          "end_line": 3579,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例6'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03449-block-008",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 3580,
+          "end_line": 3587,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-017",
+      "title": "7.5 正态分布",
+      "start_line": 3678,
+      "end_line": 3832,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-017-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3678,
+          "end_line": 3733,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-017-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3734,
+          "end_line": 3745,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '观察'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-017-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 3746,
+          "end_line": 3804,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-017-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3805,
+          "end_line": 3806,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '在实际应用中，通常认为服从于正态分布 $N(\\\\mu, \\\\sigma^2)$ 的随机变量 $X$ 只取 $[\\\\mu - 3\\\\sigma, \\\\mu + 3\\\\sigm'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-017-block-005",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 3807,
+          "end_line": 3814,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-017-block-006",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 3815,
+          "end_line": 3832,
+          "child_node_key": "semantic-03815",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-022",
+      "title": "8.1 成对数据的统计相关性",
+      "start_line": 3980,
+      "end_line": 4376,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-022-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3980,
+          "end_line": 3983,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-022-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 3984,
+          "end_line": 4071,
+          "child_node_key": "semantic-03984",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-022-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 4072,
+          "end_line": 4331,
+          "child_node_key": "semantic-04072",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-022-block-004",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 4332,
+          "end_line": 4376,
+          "child_node_key": "semantic-04332",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-03984",
+      "title": "8.1.1 变量的相关关系",
+      "start_line": 3984,
+      "end_line": 4071,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-03984-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 3984,
+          "end_line": 3985,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 3986,
+          "end_line": 3999,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '我们知道，一个人的体重与他的身高有关系。一般而言，个子高的人往往体重值较大，个子矮的人往往体重值较小。但身高并不是决定体重的唯一因素，例如生活中的饮食习惯、体育'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4000,
+          "end_line": 4009,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4010,
+          "end_line": 4026,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '为了更加直观地描述上述成对样本数据中脂肪含量与年龄之间的关系，类似于用直方图描述单个变量样本数据的分布特征，我们用图形展示成对样本数据的变化特征。用横轴表示年龄'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-005",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4027,
+          "end_line": 4046,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-006",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4047,
+          "end_line": 4048,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，如果两个变量具有相关性，但不是线性相关，那么我们就称这两个变量非线性相关或曲线相关.'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-03984-block-007",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 4049,
+          "end_line": 4071,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-04072",
+      "title": "8.1.2 样本相关系数",
+      "start_line": 4072,
+      "end_line": 4331,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-04072-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4072,
+          "end_line": 4088,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4089,
+          "end_line": 4097,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，如果变量 $x$ 和 $y$ 正相关，那么关于均值平移后的大多数散点将分布在第一象限、第三象限，对应的成对数据同号的居多，如图8.1-4（1）所示；如果'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-003",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4098,
+          "end_line": 4109,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4110,
+          "end_line": 4153,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-005",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4154,
+          "end_line": 4199,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '观察 $r$ 的结构，联想到二维（平面）向量、三维（空间）向量数量积的坐标表示，我们将向量的维数推广到 $n$ 维， $n$ 维向量 $\\\\mathbf{a}$ '; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-006",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4200,
+          "end_line": 4219,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4220,
+          "end_line": 4242,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '由此可见，样本相关系数 r 的取值范围为 $[-1, 1]$ . 样本相关系数 r 的绝对值大小可以反映成对样本数据之间线性相关的程度：'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-008",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4243,
+          "end_line": 4248,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '综上可知，两个随机变量的相关性可以通过成对样本数据进行分析，而样本相关系数 $r$ 可以反映两个随机变量之间的线性相关程度： $r$ 的符号反映了相关关系的正负'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-009",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 4249,
+          "end_line": 4276,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-010",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 4277,
+          "end_line": 4291,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-011",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 4292,
+          "end_line": 4309,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04072-block-012",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 4310,
+          "end_line": 4331,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-023",
+      "title": "8.2 一元线性回归模型及其应用",
+      "start_line": 4377,
+      "end_line": 4928,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-023-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4377,
+          "end_line": 4382,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-023-block-002",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 4383,
+          "end_line": 4437,
+          "child_node_key": "semantic-04383",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-023-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 4438,
+          "end_line": 4873,
+          "child_node_key": "semantic-04438",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-023-block-004",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 4874,
+          "end_line": 4928,
+          "child_node_key": "semantic-04874",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-04383",
+      "title": "8.2.1 一元线性回归模型",
+      "start_line": 4383,
+      "end_line": 4437,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-04383-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4383,
+          "end_line": 4395,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04383-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4396,
+          "end_line": 4413,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04383-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4414,
+          "end_line": 4417,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '我们称（1）式为 $Y$ 关于 $x$ 的一元线性回归模型（simple linear regression model）。其中， $Y$ 称为因变量或响应变量'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04383-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4418,
+          "end_line": 4429,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04383-block-005",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 4430,
+          "end_line": 4437,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-04438",
+      "title": "8.2.2 一元线性回归模型参数的最小二乘估计",
+      "start_line": 4438,
+      "end_line": 4873,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-04438-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4438,
+          "end_line": 4441,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4442,
+          "end_line": 4522,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '探究'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4523,
+          "end_line": 4530,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '综上，当 $a, b$ 的取值为'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-004",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4531,
+          "end_line": 4551,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '我们将 $\\\\hat{y}=\\\\hat{b}x+\\\\hat{a}$ 称为 Y 关于 x 的经验回归方程，也称经验回归函数或经验回归公式，其图形称为经验回归直线。这种求'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-005",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4552,
+          "end_line": 4569,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-006",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4570,
+          "end_line": 4575,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '英国著名统计学家高尔顿（F. Galton，1822—1911）把这种后代的身高向中间值靠近的趋势称为“回归现象”。后来，人们把由一个或多个变量的变化去推测另一'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4576,
+          "end_line": 4608,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '对于响应变量 $Y$ ，通过观测得到的数据称为观测值，通过经验回归方程得到的 $\\\\hat{y}$ 称为预测值，观测值减去预测值所得的差称为残差。残差是随机误差的'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-008",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4609,
+          "end_line": 4610,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '一般地，建立经验回归方程后，通常需要对模型刻画数据的效果进行分析。借助残差分析还可以对模型进行改进，使我们能根据改进模型作出更符合实际的预测与决策。'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-009",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4611,
+          "end_line": 4629,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-010",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 4630,
+          "end_line": 4688,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-011",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4689,
+          "end_line": 4720,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '问题 人们常将男子短跑 $100\\\\mathrm{m}$ 的高水平运动员称为“百米飞人”。表8.2-5给出了1968年之前男子短跑 $100\\\\mathrm{m}$'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-012",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4721,
+          "end_line": 4726,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '观察'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-013",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4727,
+          "end_line": 4837,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-014",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 4838,
+          "end_line": 4851,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04438-block-015",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 4852,
+          "end_line": 4873,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            4442,
+            4522
+          ],
+          "nonblank_lines": 50,
+          "maximum": 40
+        },
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            4727,
+            4837
+          ],
+          "nonblank_lines": 67,
+          "maximum": 40
+        }
+      ],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "node-toc-025",
+      "title": "8.3 列联表与独立性检验",
+      "start_line": 4951,
+      "end_line": 5427,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "node-toc-025-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4951,
+          "end_line": 4956,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-025-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 4957,
+          "end_line": 4958,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '在讨论上述问题时，为了表述方便，我们经常会使用一种特殊的随机变量，以区别不同的现象或性质，这类随机变量称为分类变量。分类变量的取值可以用实数表示，例如，学生所在'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-025-block-003",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 4959,
+          "end_line": 5099,
+          "child_node_key": "semantic-04959",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-025-block-004",
+          "role": "topic",
+          "ownership": "move-child",
+          "start_line": 5100,
+          "end_line": 5375,
+          "child_node_key": "semantic-05100",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        },
+        {
+          "id": "node-toc-025-block-005",
+          "role": "practice",
+          "ownership": "move-child",
+          "start_line": 5376,
+          "end_line": 5427,
+          "child_node_key": "semantic-05376",
+          "representative_anchor": false,
+          "reason": "Existing direct child range; review its teaching boundary.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-04959",
+      "title": "8.3.1 分类变量与列联表",
+      "start_line": 4959,
+      "end_line": 5099,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-04959-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 4959,
+          "end_line": 5027,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04959-block-002",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 5028,
+          "end_line": 5035,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '在实践中，由于保存原始数据的成本较高，人们经常按研究问题的需要，将数据分类统计，并做成表格加以保存。我们将如表8.3-1这种形式的数据统计表称为 $2 \\\\tim'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04959-block-003",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 5036,
+          "end_line": 5071,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04959-block-004",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 5072,
+          "end_line": 5077,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04959-block-005",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 5078,
+          "end_line": 5083,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-04959-block-006",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 5084,
+          "end_line": 5099,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '3. 根据有关规定，香烟盒上必须印上“吸烟有害健康”的警示语。那么'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            4959,
+            5027
+          ],
+          "nonblank_lines": 43,
+          "maximum": 40
+        }
+      ],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    },
+    {
+      "node_key": "semantic-05100",
+      "title": "8.3.2 独立性检验",
+      "start_line": 5100,
+      "end_line": 5375,
+      "reviewed_entire_lesson": false,
+      "reason": "Review the complete lesson as an ordered teaching flow, then classify and adjust every block.",
+      "confidence": 0.0,
+      "blocks": [
+        {
+          "id": "semantic-05100-block-001",
+          "role": "entry-context",
+          "ownership": "retain-parent",
+          "start_line": 5100,
+          "end_line": 5171,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Lesson heading and opening preview before the first functional boundary; review the retained context.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-002",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 5172,
+          "end_line": 5227,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-003",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 5228,
+          "end_line": 5241,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '这种利用 $\\\\chi^2$ 的取值推断分类变量 $X$ 和 $Y$ 是否独立的方法称为 $\\\\chi^2$ 独立性检验，读作“卡方独立性检验”，简称独立性检验（t'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-004",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 5242,
+          "end_line": 5255,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例2'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-005",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 5256,
+          "end_line": 5257,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-006",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 5258,
+          "end_line": 5263,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 1'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-007",
+          "role": "exposition",
+          "ownership": "retain-parent",
+          "start_line": 5264,
+          "end_line": 5267,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '由此可见，相对于简单比较两个频率的推断，用 $\\\\chi^2$ 独立性检验得到的结果更理性、更全面，理论依据也更充分.'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-008",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 5268,
+          "end_line": 5288,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例3'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-009",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 5289,
+          "end_line": 5292,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '观察'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-010",
+          "role": "worked-example",
+          "ownership": "retain-parent",
+          "start_line": 5293,
+          "end_line": 5345,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '例 4'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-011",
+          "role": "question",
+          "ownership": "retain-parent",
+          "start_line": 5346,
+          "end_line": 5353,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '思考'; review this complete source block.",
+          "confidence": 0.0
+        },
+        {
+          "id": "semantic-05100-block-012",
+          "role": "practice",
+          "ownership": "retain-parent",
+          "start_line": 5354,
+          "end_line": 5375,
+          "child_node_key": null,
+          "representative_anchor": false,
+          "reason": "Deterministic functional boundary '练习'; review this complete source block.",
+          "confidence": 0.0
+        }
+      ],
+      "draft_findings": [
+        {
+          "code": "retained-block-too-large",
+          "message": "Review this retained range for an independent topic child or smaller teaching-function blocks.",
+          "range": [
+            5100,
+            5171
+          ],
+          "nonblank_lines": 44,
+          "maximum": 40
+        }
+      ],
+      "checks": {
+        "complete_source_coverage": "review_required",
+        "exercises_retained_or_routed": "review_required",
+        "independent_topics_split": "review_required",
+        "introduction_preserved": "review_required",
+        "source_order_preserved": "review_required",
+        "transitions_preserved": "review_required"
+      }
+    }
+  ]
+}

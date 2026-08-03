@@ -1,0 +1,711 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "units": [
+    {
+      "source_key": "book-root",
+      "source_order": 1,
+      "role": "root",
+      "target": "高中数学选择性必修第三册.md",
+      "status": "assigned",
+      "line_range": [
+        1,
+        5753
+      ]
+    },
+    {
+      "source_key": "node-toc-001",
+      "source_order": 2,
+      "role": "knowledge",
+      "target": "知识点/第六章 计数原理.md",
+      "status": "assigned",
+      "line_range": [
+        129,
+        1866
+      ]
+    },
+    {
+      "source_key": "node-toc-002",
+      "source_order": 3,
+      "role": "knowledge",
+      "target": "知识点/6.1 分类加法计数原理与分步乘法计数原理.md",
+      "status": "assigned",
+      "line_range": [
+        139,
+        585
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00143",
+      "source_order": 4,
+      "role": "knowledge",
+      "target": "知识点/分类加法计数原理.md",
+      "status": "assigned",
+      "line_range": [
+        143,
+        206
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00207",
+      "source_order": 5,
+      "role": "knowledge",
+      "target": "知识点/分步乘法计数原理.md",
+      "status": "assigned",
+      "line_range": [
+        207,
+        283
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00306",
+      "source_order": 6,
+      "role": "knowledge",
+      "target": "知识点/两个计数原理的综合应用.md",
+      "status": "assigned",
+      "line_range": [
+        306,
+        527
+      ]
+    },
+    {
+      "source_key": "semantic-00528",
+      "source_order": 7,
+      "role": "exercise",
+      "target": "习题/习题6.1.md",
+      "status": "assigned",
+      "line_range": [
+        528,
+        585
+      ]
+    },
+    {
+      "source_key": "node-toc-003",
+      "source_order": 8,
+      "role": "method",
+      "target": "思维或方法/探究与发现 子集的个数有多少.md",
+      "status": "assigned",
+      "line_range": [
+        586,
+        647
+      ]
+    },
+    {
+      "source_key": "node-toc-004",
+      "source_order": 9,
+      "role": "knowledge",
+      "target": "知识点/6.2 排列与组合.md",
+      "status": "assigned",
+      "line_range": [
+        648,
+        1336
+      ]
+    },
+    {
+      "source_key": "semantic-00652",
+      "source_order": 10,
+      "role": "knowledge",
+      "target": "知识点/6.2.1 排列.md",
+      "status": "assigned",
+      "line_range": [
+        652,
+        819
+      ]
+    },
+    {
+      "source_key": "semantic-00820",
+      "source_order": 11,
+      "role": "knowledge",
+      "target": "知识点/6.2.2 排列数.md",
+      "status": "assigned",
+      "line_range": [
+        820,
+        994
+      ]
+    },
+    {
+      "source_key": "semantic-00995",
+      "source_order": 12,
+      "role": "knowledge",
+      "target": "知识点/6.2.3 组合.md",
+      "status": "assigned",
+      "line_range": [
+        995,
+        1077
+      ]
+    },
+    {
+      "source_key": "semantic-01078",
+      "source_order": 13,
+      "role": "knowledge",
+      "target": "知识点/6.2.4 组合数.md",
+      "status": "assigned",
+      "line_range": [
+        1078,
+        1229
+      ]
+    },
+    {
+      "source_key": "semantic-01230",
+      "source_order": 14,
+      "role": "exercise",
+      "target": "习题/习题6.2.md",
+      "status": "assigned",
+      "line_range": [
+        1230,
+        1336
+      ]
+    },
+    {
+      "source_key": "node-toc-005",
+      "source_order": 15,
+      "role": "method",
+      "target": "思维或方法/探究与发现 组合数的两个性质.md",
+      "status": "assigned",
+      "line_range": [
+        1337,
+        1380
+      ]
+    },
+    {
+      "source_key": "node-toc-006",
+      "source_order": 16,
+      "role": "knowledge",
+      "target": "知识点/6.3 二项式定理.md",
+      "status": "assigned",
+      "line_range": [
+        1381,
+        1750
+      ]
+    },
+    {
+      "source_key": "semantic-01385",
+      "source_order": 17,
+      "role": "knowledge",
+      "target": "知识点/6.3.1 二项式定理.md",
+      "status": "assigned",
+      "line_range": [
+        1385,
+        1516
+      ]
+    },
+    {
+      "source_key": "semantic-01517",
+      "source_order": 18,
+      "role": "knowledge",
+      "target": "知识点/6.3.2 二项式系数的性质.md",
+      "status": "assigned",
+      "line_range": [
+        1517,
+        1683
+      ]
+    },
+    {
+      "source_key": "semantic-01684",
+      "source_order": 19,
+      "role": "exercise",
+      "target": "习题/习题6.3.md",
+      "status": "assigned",
+      "line_range": [
+        1684,
+        1750
+      ]
+    },
+    {
+      "source_key": "node-toc-007",
+      "source_order": 20,
+      "role": "knowledge",
+      "target": "知识点/第六章 计数原理 小结.md",
+      "status": "assigned",
+      "line_range": [
+        1751,
+        1784
+      ]
+    },
+    {
+      "source_key": "node-toc-008",
+      "source_order": 21,
+      "role": "exercise",
+      "target": "习题/第六章 计数原理 复习参考题6.md",
+      "status": "assigned",
+      "line_range": [
+        1785,
+        1866
+      ]
+    },
+    {
+      "source_key": "node-toc-009",
+      "source_order": 22,
+      "role": "method",
+      "target": "思维或方法/数学探究 杨辉三角的性质与应用.md",
+      "status": "assigned",
+      "line_range": [
+        1867,
+        1987
+      ]
+    },
+    {
+      "source_key": "node-toc-010",
+      "source_order": 23,
+      "role": "knowledge",
+      "target": "知识点/第七章 随机变量及其分布.md",
+      "status": "assigned",
+      "line_range": [
+        1988,
+        3971
+      ]
+    },
+    {
+      "source_key": "node-toc-011",
+      "source_order": 24,
+      "role": "knowledge",
+      "target": "知识点/7.1 条件概率与全概率公式.md",
+      "status": "assigned",
+      "line_range": [
+        1996,
+        2430
+      ]
+    },
+    {
+      "source_key": "semantic-02006",
+      "source_order": 25,
+      "role": "knowledge",
+      "target": "知识点/7.1.1 条件概率.md",
+      "status": "assigned",
+      "line_range": [
+        2006,
+        2233
+      ]
+    },
+    {
+      "source_key": "semantic-02234",
+      "source_order": 26,
+      "role": "knowledge",
+      "target": "知识点/7.1.2 全概率公式.md",
+      "status": "assigned",
+      "line_range": [
+        2234,
+        2384
+      ]
+    },
+    {
+      "source_key": "semantic-02385",
+      "source_order": 27,
+      "role": "exercise",
+      "target": "习题/习题7.1.md",
+      "status": "assigned",
+      "line_range": [
+        2385,
+        2430
+      ]
+    },
+    {
+      "source_key": "node-toc-012",
+      "source_order": 28,
+      "role": "reading",
+      "target": "趣味阅读/阅读与思考 贝叶斯公式与人工智能.md",
+      "status": "assigned",
+      "line_range": [
+        2431,
+        2478
+      ]
+    },
+    {
+      "source_key": "node-toc-013",
+      "source_order": 29,
+      "role": "knowledge",
+      "target": "知识点/7.2 离散型随机变量及其分布列.md",
+      "status": "assigned",
+      "line_range": [
+        2479,
+        2721
+      ]
+    },
+    {
+      "source_key": "reviewed-range-02497",
+      "source_order": 30,
+      "role": "knowledge",
+      "target": "知识点/离散型随机变量.md",
+      "status": "assigned",
+      "line_range": [
+        2497,
+        2561
+      ]
+    },
+    {
+      "source_key": "reviewed-range-02563",
+      "source_order": 31,
+      "role": "knowledge",
+      "target": "知识点/离散型随机变量的分布列.md",
+      "status": "assigned",
+      "line_range": [
+        2563,
+        2662
+      ]
+    },
+    {
+      "source_key": "semantic-02679",
+      "source_order": 32,
+      "role": "exercise",
+      "target": "习题/习题7.2.md",
+      "status": "assigned",
+      "line_range": [
+        2679,
+        2721
+      ]
+    },
+    {
+      "source_key": "node-toc-014",
+      "source_order": 33,
+      "role": "knowledge",
+      "target": "知识点/7.3 离散型随机变量的数字特征.md",
+      "status": "assigned",
+      "line_range": [
+        2722,
+        3203
+      ]
+    },
+    {
+      "source_key": "semantic-02726",
+      "source_order": 34,
+      "role": "knowledge",
+      "target": "知识点/7.3.1 离散型随机变量的均值.md",
+      "status": "assigned",
+      "line_range": [
+        2726,
+        2979
+      ]
+    },
+    {
+      "source_key": "semantic-02980",
+      "source_order": 35,
+      "role": "knowledge",
+      "target": "知识点/7.3.2 离散型随机变量的方差.md",
+      "status": "assigned",
+      "line_range": [
+        2980,
+        3165
+      ]
+    },
+    {
+      "source_key": "semantic-03166",
+      "source_order": 36,
+      "role": "exercise",
+      "target": "习题/习题7.3.md",
+      "status": "assigned",
+      "line_range": [
+        3166,
+        3203
+      ]
+    },
+    {
+      "source_key": "node-toc-015",
+      "source_order": 37,
+      "role": "knowledge",
+      "target": "知识点/7.4 二项分布与超几何分布.md",
+      "status": "assigned",
+      "line_range": [
+        3204,
+        3635
+      ]
+    },
+    {
+      "source_key": "semantic-03208",
+      "source_order": 38,
+      "role": "knowledge",
+      "target": "知识点/7.4.1 二项分布.md",
+      "status": "assigned",
+      "line_range": [
+        3208,
+        3448
+      ]
+    },
+    {
+      "source_key": "semantic-03449",
+      "source_order": 39,
+      "role": "knowledge",
+      "target": "知识点/7.4.2 超几何分布.md",
+      "status": "assigned",
+      "line_range": [
+        3449,
+        3587
+      ]
+    },
+    {
+      "source_key": "semantic-03588",
+      "source_order": 40,
+      "role": "exercise",
+      "target": "习题/习题7.4.md",
+      "status": "assigned",
+      "line_range": [
+        3588,
+        3635
+      ]
+    },
+    {
+      "source_key": "node-toc-016",
+      "source_order": 41,
+      "role": "method",
+      "target": "思维或方法/探究与发现 二项分布的性质.md",
+      "status": "assigned",
+      "line_range": [
+        3636,
+        3677
+      ]
+    },
+    {
+      "source_key": "node-toc-017",
+      "source_order": 42,
+      "role": "knowledge",
+      "target": "知识点/7.5 正态分布.md",
+      "status": "assigned",
+      "line_range": [
+        3678,
+        3832
+      ]
+    },
+    {
+      "source_key": "semantic-03815",
+      "source_order": 43,
+      "role": "exercise",
+      "target": "习题/习题7.5.md",
+      "status": "assigned",
+      "line_range": [
+        3815,
+        3832
+      ]
+    },
+    {
+      "source_key": "node-toc-018",
+      "source_order": 44,
+      "role": "tool",
+      "target": "工具/信息技术应用 概率分布图及概率计算.md",
+      "status": "assigned",
+      "line_range": [
+        3833,
+        3879
+      ]
+    },
+    {
+      "source_key": "node-toc-019",
+      "source_order": 45,
+      "role": "knowledge",
+      "target": "知识点/第七章 随机变量及其分布 小结.md",
+      "status": "assigned",
+      "line_range": [
+        3880,
+        3909
+      ]
+    },
+    {
+      "source_key": "node-toc-020",
+      "source_order": 46,
+      "role": "exercise",
+      "target": "习题/第七章 随机变量及其分布 复习参考题7.md",
+      "status": "assigned",
+      "line_range": [
+        3910,
+        3971
+      ]
+    },
+    {
+      "source_key": "node-toc-021",
+      "source_order": 47,
+      "role": "knowledge",
+      "target": "知识点/第八章 成对数据的统计分析.md",
+      "status": "assigned",
+      "line_range": [
+        3972,
+        5557
+      ]
+    },
+    {
+      "source_key": "node-toc-022",
+      "source_order": 48,
+      "role": "knowledge",
+      "target": "知识点/8.1 成对数据的统计相关性.md",
+      "status": "assigned",
+      "line_range": [
+        3980,
+        4376
+      ]
+    },
+    {
+      "source_key": "semantic-03984",
+      "source_order": 49,
+      "role": "knowledge",
+      "target": "知识点/8.1.1 变量的相关关系.md",
+      "status": "assigned",
+      "line_range": [
+        3984,
+        4071
+      ]
+    },
+    {
+      "source_key": "semantic-04072",
+      "source_order": 50,
+      "role": "knowledge",
+      "target": "知识点/8.1.2 样本相关系数.md",
+      "status": "assigned",
+      "line_range": [
+        4072,
+        4331
+      ]
+    },
+    {
+      "source_key": "semantic-04332",
+      "source_order": 51,
+      "role": "exercise",
+      "target": "习题/习题8.1.md",
+      "status": "assigned",
+      "line_range": [
+        4332,
+        4376
+      ]
+    },
+    {
+      "source_key": "node-toc-023",
+      "source_order": 52,
+      "role": "knowledge",
+      "target": "知识点/8.2 一元线性回归模型及其应用.md",
+      "status": "assigned",
+      "line_range": [
+        4377,
+        4928
+      ]
+    },
+    {
+      "source_key": "semantic-04383",
+      "source_order": 53,
+      "role": "knowledge",
+      "target": "知识点/8.2.1 一元线性回归模型.md",
+      "status": "assigned",
+      "line_range": [
+        4383,
+        4437
+      ]
+    },
+    {
+      "source_key": "semantic-04438",
+      "source_order": 54,
+      "role": "knowledge",
+      "target": "知识点/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "status": "assigned",
+      "line_range": [
+        4438,
+        4873
+      ]
+    },
+    {
+      "source_key": "semantic-04874",
+      "source_order": 55,
+      "role": "exercise",
+      "target": "习题/习题8.2.md",
+      "status": "assigned",
+      "line_range": [
+        4874,
+        4928
+      ]
+    },
+    {
+      "source_key": "node-toc-024",
+      "source_order": 56,
+      "role": "reading",
+      "target": "趣味阅读/阅读与思考 回归与相关.md",
+      "status": "assigned",
+      "line_range": [
+        4929,
+        4950
+      ]
+    },
+    {
+      "source_key": "node-toc-025",
+      "source_order": 57,
+      "role": "knowledge",
+      "target": "知识点/8.3 列联表与独立性检验.md",
+      "status": "assigned",
+      "line_range": [
+        4951,
+        5427
+      ]
+    },
+    {
+      "source_key": "semantic-04959",
+      "source_order": 58,
+      "role": "knowledge",
+      "target": "知识点/8.3.1 分类变量与列联表.md",
+      "status": "assigned",
+      "line_range": [
+        4959,
+        5099
+      ]
+    },
+    {
+      "source_key": "semantic-05100",
+      "source_order": 59,
+      "role": "knowledge",
+      "target": "知识点/8.3.2 独立性检验.md",
+      "status": "assigned",
+      "line_range": [
+        5100,
+        5375
+      ]
+    },
+    {
+      "source_key": "semantic-05376",
+      "source_order": 60,
+      "role": "exercise",
+      "target": "习题/习题8.3.md",
+      "status": "assigned",
+      "line_range": [
+        5376,
+        5427
+      ]
+    },
+    {
+      "source_key": "node-toc-026",
+      "source_order": 61,
+      "role": "knowledge",
+      "target": "知识点/第八章 成对数据的统计分析 小结.md",
+      "status": "assigned",
+      "line_range": [
+        5428,
+        5479
+      ]
+    },
+    {
+      "source_key": "node-toc-027",
+      "source_order": 62,
+      "role": "exercise",
+      "target": "习题/第八章 成对数据的统计分析 复习参考题8.md",
+      "status": "assigned",
+      "line_range": [
+        5480,
+        5557
+      ]
+    },
+    {
+      "source_key": "node-toc-028",
+      "source_order": 63,
+      "role": "method",
+      "target": "思维或方法/数学建模 建立统计模型进行预测.md",
+      "status": "assigned",
+      "line_range": [
+        5558,
+        5722
+      ]
+    },
+    {
+      "source_key": "node-toc-029",
+      "source_order": 64,
+      "role": "root",
+      "target": "部分中英文词汇索引.md",
+      "status": "assigned",
+      "line_range": [
+        5723,
+        5753
+      ]
+    }
+  ]
+}

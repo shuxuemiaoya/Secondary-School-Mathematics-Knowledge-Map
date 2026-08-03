@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "review_status": "agent-reviewed",
+  "review_basis": "教材章节结构、拆分清单、概念定义来源与正文支持的数学关系",
+  "domains": [
+    {
+      "key": "combinatorics",
+      "label": "组合计数与二项式结构",
+      "chapters": ["node-toc-001"],
+      "extras": ["node-toc-009"]
+    },
+    {
+      "key": "probability-distributions",
+      "label": "条件概率、随机变量与分布",
+      "chapters": ["node-toc-010"]
+    },
+    {
+      "key": "statistical-inference",
+      "label": "相关、回归与独立性检验",
+      "chapters": ["node-toc-021"],
+      "extras": ["node-toc-028"]
+    }
+  ],
+  "relations": [
+    {"key": "counting-to-permutation-combination", "from": "node-toc-002", "to": "node-toc-004", "label": "计数原理支持排列组合", "color": "reasoning"},
+    {"key": "combination-to-binomial", "from": "node-toc-004", "to": "node-toc-006", "label": "组合数进入展开", "color": "calculation"},
+    {"key": "binomial-to-yanghui", "from": "node-toc-006", "to": "node-toc-009", "label": "杨辉三角揭示系数结构", "color": "method_transfer"},
+    {"key": "binomial-theorem-to-distribution", "from": "node-toc-006", "to": "node-toc-015", "label": "二项式结构迁移到分布", "color": "application"},
+    {"key": "conditional-to-random-variable", "from": "node-toc-011", "to": "node-toc-013", "label": "概率基础", "color": "reasoning"},
+    {"key": "random-variable-to-characteristics", "from": "node-toc-013", "to": "node-toc-014", "label": "分布刻画数字特征", "color": "calculation"},
+    {"key": "random-variable-to-discrete-distributions", "from": "node-toc-013", "to": "node-toc-015", "label": "典型离散分布", "color": "reasoning"},
+    {"key": "discrete-distribution-to-properties", "from": "node-toc-015", "to": "node-toc-016", "label": "性质探究", "color": "method_transfer"},
+    {"key": "correlation-to-regression", "from": "node-toc-022", "to": "node-toc-023", "label": "相关走向建模", "color": "application"},
+    {"key": "regression-to-modeling", "from": "node-toc-023", "to": "node-toc-028", "label": "回归用于预测", "color": "application"},
+    {"key": "independence-test-to-modeling", "from": "node-toc-025", "to": "node-toc-028", "label": "检验支持模型判断", "color": "application"}
+  ]
+}

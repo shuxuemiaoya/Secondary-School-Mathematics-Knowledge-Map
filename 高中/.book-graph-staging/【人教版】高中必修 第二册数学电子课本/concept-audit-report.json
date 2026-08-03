@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "stage": "concepts",
+  "status": "passed",
+  "book_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中必修 第二册数学电子课本",
+  "vault_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中",
+  "source": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中必修 第二册数学电子课本.pdf",
+    "sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+    "unchanged": true
+  },
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+  "coverage": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\coverage-manifest.json",
+    "units": 120,
+    "assigned": 120,
+    "retained": 0,
+    "unresolved": 0
+  },
+  "concept_manifest": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\concept-manifest.json",
+    "concepts": 111,
+    "unique_targets": 111
+  },
+  "lesson_flow": {
+    "status": "passed",
+    "lesson_count": 62,
+    "logical_block_count": 524,
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\lesson-flow-manifest.json"
+  },
+  "counts": {
+    "markdown_files": 231,
+    "category_files": {
+      "<root>": 2,
+      "习题": 23,
+      "工具": 1,
+      "思维或方法": 3,
+      "概念": 111,
+      "知识点": 81,
+      "趣味阅读": 10
+    },
+    "concept_files": 111,
+    "images": 550,
+    "standard_links": 348,
+    "wikilinks": 0,
+    "image_references": 550,
+    "missing_markdown_links": 0,
+    "missing_images": 0,
+    "empty_notes": 0,
+    "empty_concepts": 0,
+    "invalid_entry_headings": 0,
+    "malformed_concept_notes": 0,
+    "concept_definition_boundary_violations": 0,
+    "non_vault_root_note_links": 0,
+    "residual_artifact_headings": 0,
+    "plain_running_headers": 0,
+    "suspicious_ocr_math_fragments": 0,
+    "malformed_table_blocks": 0,
+    "content_consistency_violations": 0,
+    "malformed_callouts": 0,
+    "callouts_without_blank": 0,
+    "callout_body_violations": 0,
+    "callout_semantic_scope_violations": 0,
+    "callouts": 103,
+    "unstandardized_functional_blocks": 0,
+    "unreferenced_images": 0
+  },
+  "transitions": {
+    "<root>-><root>": 1,
+    "<root>->思维或方法": 1,
+    "<root>->知识点": 5,
+    "思维或方法->概念": 1,
+    "概念->思维或方法": 1,
+    "概念->知识点": 110,
+    "知识点->习题": 21,
+    "知识点->工具": 1,
+    "知识点->思维或方法": 2,
+    "知识点->概念": 110,
+    "知识点->知识点": 81,
+    "知识点->趣味阅读": 10,
+    "趣味阅读->习题": 2,
+    "趣味阅读->知识点": 2
+  },
+  "canvases": [],
+  "errors": [],
+  "warnings": []
+}

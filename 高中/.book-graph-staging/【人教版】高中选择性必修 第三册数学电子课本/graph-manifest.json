@@ -1,0 +1,2391 @@
+{
+  "version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "planning_basis": {
+    "split_manifest": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\split-manifest.json",
+    "concept_manifest": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\concept-manifest.json",
+    "reviewed_canvas_plan": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\canvas-plan.json",
+    "domain_count": 3,
+    "placed_split_notes": 62,
+    "placed_concepts": 65,
+    "semantic_relations": 11
+  },
+  "nodes": [
+    {
+      "key": "book-overview",
+      "type": "text",
+      "text": "[高中数学选择性必修第三册](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C.md)",
+      "x": -430,
+      "y": 40,
+      "width": 300,
+      "height": 92,
+      "color": "1"
+    },
+    {
+      "key": "domain-combinatorics",
+      "type": "group",
+      "label": "组合计数与二项式结构",
+      "x": 0,
+      "y": 0,
+      "width": 2340,
+      "height": 1138
+    },
+    {
+      "key": "group-node-toc-001",
+      "type": "group",
+      "label": "第六章 计数原理",
+      "x": 100,
+      "y": 120,
+      "width": 2140,
+      "height": 892
+    },
+    {
+      "key": "note-node-toc-001",
+      "type": "text",
+      "text": "[第六章 计数原理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "x": 180,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "1"
+    },
+    {
+      "key": "note-node-toc-002",
+      "type": "text",
+      "text": "[6.1 分类加法计数原理与分步乘法计数原理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "x": 516,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-reviewed-range-00143",
+      "type": "text",
+      "text": "[分类加法计数原理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "x": 852,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-reviewed-range-00207",
+      "type": "text",
+      "text": "[分步乘法计数原理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "x": 1188,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-reviewed-range-00306",
+      "type": "text",
+      "text": "[两个计数原理的综合应用](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E4%B8%AA%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 1524,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-00528",
+      "type": "text",
+      "text": "[习题6.1](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%986.1.md)",
+      "x": 1860,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-003",
+      "type": "text",
+      "text": "[探究与发现 子集的个数有多少](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%80%9D%E7%BB%B4%E6%88%96%E6%96%B9%E6%B3%95/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E5%AD%90%E9%9B%86%E7%9A%84%E4%B8%AA%E6%95%B0%E6%9C%89%E5%A4%9A%E5%B0%91.md)",
+      "x": 180,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "4"
+    },
+    {
+      "key": "note-node-toc-004",
+      "type": "text",
+      "text": "[6.2 排列与组合](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.2%20%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88.md)",
+      "x": 516,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-00652",
+      "type": "text",
+      "text": "[6.2.1 排列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.2.1%20%E6%8E%92%E5%88%97.md)",
+      "x": 852,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-00820",
+      "type": "text",
+      "text": "[6.2.2 排列数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.2.2%20%E6%8E%92%E5%88%97%E6%95%B0.md)",
+      "x": 1188,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-00995",
+      "type": "text",
+      "text": "[6.2.3 组合](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.2.3%20%E7%BB%84%E5%90%88.md)",
+      "x": 1524,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-01078",
+      "type": "text",
+      "text": "[6.2.4 组合数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.2.4%20%E7%BB%84%E5%90%88%E6%95%B0.md)",
+      "x": 1860,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-01230",
+      "type": "text",
+      "text": "[习题6.2](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%986.2.md)",
+      "x": 180,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-005",
+      "type": "text",
+      "text": "[探究与发现 组合数的两个性质](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%80%9D%E7%BB%B4%E6%88%96%E6%96%B9%E6%B3%95/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8.md)",
+      "x": 516,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "4"
+    },
+    {
+      "key": "note-node-toc-006",
+      "type": "text",
+      "text": "[6.3 二项式定理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.3%20%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86.md)",
+      "x": 852,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-01385",
+      "type": "text",
+      "text": "[6.3.1 二项式定理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.3.1%20%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86.md)",
+      "x": 1188,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-01517",
+      "type": "text",
+      "text": "[6.3.2 二项式系数的性质](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/6.3.2%20%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1524,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-01684",
+      "type": "text",
+      "text": "[习题6.3](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%986.3.md)",
+      "x": 1860,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-007",
+      "type": "text",
+      "text": "[第六章 计数原理 小结](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%20%E5%B0%8F%E7%BB%93.md)",
+      "x": 180,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-node-toc-008",
+      "type": "text",
+      "text": "[第六章 计数原理 复习参考题6](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%20%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%986.md)",
+      "x": 516,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97.md",
+      "type": "text",
+      "text": "[排列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%8E%92%E5%88%97.md)",
+      "x": 852,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_8E_92_E5_88_97.md",
+      "type": "text",
+      "text": "[全排列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%85%A8%E6%8E%92%E5%88%97.md)",
+      "x": 1188,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0.md",
+      "type": "text",
+      "text": "[排列数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%8E%92%E5%88%97%E6%95%B0.md)",
+      "x": 1524,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "type": "text",
+      "text": "[排列数公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F.md)",
+      "x": 1860,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E9_98_B6_E4_B9_98.md",
+      "type": "text",
+      "text": "[阶乘](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E9%98%B6%E4%B9%98.md)",
+      "x": 180,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88.md",
+      "type": "text",
+      "text": "[组合](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%84%E5%90%88.md)",
+      "x": 516,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0.md",
+      "type": "text",
+      "text": "[组合数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%84%E5%90%88%E6%95%B0.md)",
+      "x": 852,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "type": "text",
+      "text": "[组合数公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%84%E5%90%88%E6%95%B0%E5%85%AC%E5%BC%8F.md)",
+      "x": 1188,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F.md",
+      "type": "text",
+      "text": "[二项展开式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BA%8C%E9%A1%B9%E5%B1%95%E5%BC%80%E5%BC%8F.md)",
+      "x": 1524,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F_E7_9A_84_E9_80_9A_E9_A1_B9.md",
+      "type": "text",
+      "text": "[二项展开式的通项](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BA%8C%E9%A1%B9%E5%B1%95%E5%BC%80%E5%BC%8F%E7%9A%84%E9%80%9A%E9%A1%B9.md)",
+      "x": 1860,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E5_AE_9A_E7_90_86.md",
+      "type": "text",
+      "text": "[二项式定理](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86.md)",
+      "x": 180,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E7_B3_BB_E6_95_B0.md",
+      "type": "text",
+      "text": "[二项式系数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0.md)",
+      "x": 516,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-node-toc-009",
+      "type": "text",
+      "text": "[数学探究 杨辉三角的性质与应用](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%80%9D%E7%BB%B4%E6%88%96%E6%96%B9%E6%B3%95/%E6%95%B0%E5%AD%A6%E6%8E%A2%E7%A9%B6%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "x": 100,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "4"
+    },
+    {
+      "key": "domain-probability-distributions",
+      "type": "group",
+      "label": "条件概率、随机变量与分布",
+      "x": 2600,
+      "y": 0,
+      "width": 2340,
+      "height": 1390
+    },
+    {
+      "key": "group-node-toc-010",
+      "type": "group",
+      "label": "第七章 随机变量及其分布",
+      "x": 2700,
+      "y": 120,
+      "width": 2140,
+      "height": 1270
+    },
+    {
+      "key": "note-node-toc-010",
+      "type": "text",
+      "text": "[第七章 随机变量及其分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.md)",
+      "x": 2780,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "1"
+    },
+    {
+      "key": "note-node-toc-011",
+      "type": "text",
+      "text": "[7.1 条件概率与全概率公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 3116,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02006",
+      "type": "text",
+      "text": "[7.1.1 条件概率](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.1.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "x": 3452,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02234",
+      "type": "text",
+      "text": "[7.1.2 全概率公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.1.2%20%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 3788,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02385",
+      "type": "text",
+      "text": "[习题7.1](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%987.1.md)",
+      "x": 4124,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-012",
+      "type": "text",
+      "text": "[阅读与思考 贝叶斯公式与人工智能](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E8%B6%A3%E5%91%B3%E9%98%85%E8%AF%BB/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)",
+      "x": 4460,
+      "y": 230,
+      "width": 300,
+      "height": 92,
+      "color": "5"
+    },
+    {
+      "key": "note-node-toc-013",
+      "type": "text",
+      "text": "[7.2 离散型随机变量及其分布列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.2%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 2780,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-reviewed-range-02497",
+      "type": "text",
+      "text": "[离散型随机变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 3116,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-reviewed-range-02563",
+      "type": "text",
+      "text": "[离散型随机变量的分布列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 3452,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02679",
+      "type": "text",
+      "text": "[习题7.2](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%987.2.md)",
+      "x": 3788,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-014",
+      "type": "text",
+      "text": "[7.3 离散型随机变量的数字特征](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.3%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81.md)",
+      "x": 4124,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02726",
+      "type": "text",
+      "text": "[7.3.1 离散型随机变量的均值](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.3.1%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "x": 4460,
+      "y": 356,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-02980",
+      "type": "text",
+      "text": "[7.3.2 离散型随机变量的方差](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.3.2%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE.md)",
+      "x": 2780,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03166",
+      "type": "text",
+      "text": "[习题7.3](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%987.3.md)",
+      "x": 3116,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-015",
+      "type": "text",
+      "text": "[7.4 二项分布与超几何分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.4%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83.md)",
+      "x": 3452,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03208",
+      "type": "text",
+      "text": "[7.4.1 二项分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.4.1%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83.md)",
+      "x": 3788,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03449",
+      "type": "text",
+      "text": "[7.4.2 超几何分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.4.2%20%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83.md)",
+      "x": 4124,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03588",
+      "type": "text",
+      "text": "[习题7.4](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%987.4.md)",
+      "x": 4460,
+      "y": 482,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-016",
+      "type": "text",
+      "text": "[探究与发现 二项分布的性质](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%80%9D%E7%BB%B4%E6%88%96%E6%96%B9%E6%B3%95/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 2780,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "4"
+    },
+    {
+      "key": "note-node-toc-017",
+      "type": "text",
+      "text": "[7.5 正态分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/7.5%20%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83.md)",
+      "x": 3116,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03815",
+      "type": "text",
+      "text": "[习题7.5](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%987.5.md)",
+      "x": 3452,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-018",
+      "type": "text",
+      "text": "[信息技术应用 概率分布图及概率计算](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B7%A5%E5%85%B7/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%9B%BE%E5%8F%8A%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97.md)",
+      "x": 3788,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "#c800ff"
+    },
+    {
+      "key": "note-node-toc-019",
+      "type": "text",
+      "text": "[第七章 随机变量及其分布 小结](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%20%E5%B0%8F%E7%BB%93.md)",
+      "x": 4124,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-node-toc-020",
+      "type": "text",
+      "text": "[第七章 随机变量及其分布 复习参考题7](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%20%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%987.md)",
+      "x": 4460,
+      "y": 608,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9D_A1_E4_BB_B6_E6_A6_82_E7_8E_87.md",
+      "type": "text",
+      "text": "[条件概率](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "x": 2780,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_88_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "type": "text",
+      "text": "[先验概率](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%85%88%E9%AA%8C%E6%A6%82%E7%8E%87.md)",
+      "x": 3116,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_A6_82_E7_8E_87_E5_85_AC_E5_BC_8F.md",
+      "type": "text",
+      "text": "[全概率公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 3452,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_90_8E_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "type": "text",
+      "text": "[后验概率](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%90%8E%E9%AA%8C%E6%A6%82%E7%8E%87.md)",
+      "x": 3788,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9D_E5_8F_B6_E6_96_AF_E5_85_AC_E5_BC_8F.md",
+      "type": "text",
+      "text": "[贝叶斯公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F.md)",
+      "x": 4124,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_A6_BB_E6_95_A3_E5_9E_8B_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[离散型随机变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 4460,
+      "y": 734,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[随机变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 2780,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E5_B8_83_E5_88_97.md",
+      "type": "text",
+      "text": "[分布列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 3116,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_88_97.md",
+      "type": "text",
+      "text": "[概率分布列](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 3452,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_9B_BE.md",
+      "type": "text",
+      "text": "[概率分布图](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%9B%BE.md)",
+      "x": 3788,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F_E7_9A_84_E6_95_B0_E5_AD_97_E7_89_B9_E5_BE_81.md",
+      "type": "text",
+      "text": "[随机变量的数字特征](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81.md)",
+      "x": 4124,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9D_87_E5_80_BC.md",
+      "type": "text",
+      "text": "[均值](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%9D%87%E5%80%BC.md)",
+      "x": 4460,
+      "y": 860,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_95_B0_E5_AD_A6_E6_9C_9F_E6_9C_9B.md",
+      "type": "text",
+      "text": "[数学期望](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%9B.md)",
+      "x": 2780,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_9F_E6_9C_9B.md",
+      "type": "text",
+      "text": "[期望](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%9C%9F%E6%9C%9B.md)",
+      "x": 3116,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_96_B9_E5_B7_AE.md",
+      "type": "text",
+      "text": "[方差](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%96%B9%E5%B7%AE.md)",
+      "x": 3452,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E5_B7_AE.md",
+      "type": "text",
+      "text": "[标准差](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%A0%87%E5%87%86%E5%B7%AE.md)",
+      "x": 3788,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2Fn_20_E9_87_8D_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "type": "text",
+      "text": "[n 重伯努利试验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/n%20%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C.md)",
+      "x": 4124,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_88_86_E5_B8_83.md",
+      "type": "text",
+      "text": "[二项分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83.md)",
+      "x": 4460,
+      "y": 986,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "type": "text",
+      "text": "[伯努利试验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C.md)",
+      "x": 2780,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B6_85_E5_87_A0_E4_BD_95_E5_88_86_E5_B8_83.md",
+      "type": "text",
+      "text": "[超几何分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83.md)",
+      "x": 3116,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F3_CF_83_20_E5_8E_9F_E5_88_99.md",
+      "type": "text",
+      "text": "[3σ 原则](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/3%CF%83%20%E5%8E%9F%E5%88%99.md)",
+      "x": 3452,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "type": "text",
+      "text": "[标准正态分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%A0%87%E5%87%86%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83.md)",
+      "x": 3788,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "type": "text",
+      "text": "[正态分布](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83.md)",
+      "x": 4124,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E5_87_BD_E6_95_B0.md",
+      "type": "text",
+      "text": "[正态密度函数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AD%A3%E6%80%81%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0.md)",
+      "x": 4460,
+      "y": 1112,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E6_9B_B2_E7_BA_BF.md",
+      "type": "text",
+      "text": "[正态密度曲线](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AD%A3%E6%80%81%E5%AF%86%E5%BA%A6%E6%9B%B2%E7%BA%BF.md)",
+      "x": 2780,
+      "y": 1238,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "domain-statistical-inference",
+      "type": "group",
+      "label": "相关、回归与独立性检验",
+      "x": 0,
+      "y": 1318,
+      "width": 2340,
+      "height": 1390
+    },
+    {
+      "key": "group-node-toc-021",
+      "type": "group",
+      "label": "第八章 成对数据的统计分析",
+      "x": 100,
+      "y": 1438,
+      "width": 2140,
+      "height": 1144
+    },
+    {
+      "key": "note-node-toc-021",
+      "type": "text",
+      "text": "[第八章 成对数据的统计分析](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90.md)",
+      "x": 180,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "1"
+    },
+    {
+      "key": "note-node-toc-022",
+      "type": "text",
+      "text": "[8.1 成对数据的统计相关性](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.1%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7.md)",
+      "x": 516,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-03984",
+      "type": "text",
+      "text": "[8.1.1 变量的相关关系](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.1.1%20%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "x": 852,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04072",
+      "type": "text",
+      "text": "[8.1.2 样本相关系数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.1.2%20%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.md)",
+      "x": 1188,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04332",
+      "type": "text",
+      "text": "[习题8.1](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%988.1.md)",
+      "x": 1524,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-023",
+      "type": "text",
+      "text": "[8.2 一元线性回归模型及其应用](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "x": 1860,
+      "y": 1548,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04383",
+      "type": "text",
+      "text": "[8.2.1 一元线性回归模型](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.2.1%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "x": 180,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04438",
+      "type": "text",
+      "text": "[8.2.2 一元线性回归模型参数的最小二乘估计](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.2.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "x": 516,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04874",
+      "type": "text",
+      "text": "[习题8.2](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%988.2.md)",
+      "x": 852,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-024",
+      "type": "text",
+      "text": "[阅读与思考 回归与相关](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E8%B6%A3%E5%91%B3%E9%98%85%E8%AF%BB/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9B%9E%E5%BD%92%E4%B8%8E%E7%9B%B8%E5%85%B3.md)",
+      "x": 1188,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "5"
+    },
+    {
+      "key": "note-node-toc-025",
+      "type": "text",
+      "text": "[8.3 列联表与独立性检验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.3%20%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "x": 1524,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-04959",
+      "type": "text",
+      "text": "[8.3.1 分类变量与列联表](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.3.1%20%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "x": 1860,
+      "y": 1674,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-05100",
+      "type": "text",
+      "text": "[8.3.2 独立性检验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/8.3.2%20%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "x": 180,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-semantic-05376",
+      "type": "text",
+      "text": "[习题8.3](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%988.3.md)",
+      "x": 516,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "note-node-toc-026",
+      "type": "text",
+      "text": "[第八章 成对数据的统计分析 小结](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%20%E5%B0%8F%E7%BB%93.md)",
+      "x": 852,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-node-toc-027",
+      "type": "text",
+      "text": "[第八章 成对数据的统计分析 复习参考题8](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E4%B9%A0%E9%A2%98/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%20%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%988.md)",
+      "x": 1188,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "6"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_95_A3_E7_82_B9_E5_9B_BE.md",
+      "type": "text",
+      "text": "[散点图](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%95%A3%E7%82%B9%E5%9B%BE.md)",
+      "x": 1524,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E7_9B_B8_E5_85_B3.md",
+      "type": "text",
+      "text": "[正相关](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AD%A3%E7%9B%B8%E5%85%B3.md)",
+      "x": 1860,
+      "y": 1800,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_9B_B8_E5_85_B3_E5_85_B3_E7_B3_BB.md",
+      "type": "text",
+      "text": "[相关关系](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "x": 180,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9F_E7_9B_B8_E5_85_B3.md",
+      "type": "text",
+      "text": "[负相关](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%B4%9F%E7%9B%B8%E5%85%B3.md)",
+      "x": 516,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_B7_E6_9C_AC_E7_9B_B8_E5_85_B3_E7_B3_BB_E6_95_B0.md",
+      "type": "text",
+      "text": "[样本相关系数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.md)",
+      "x": 852,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E4_B8_80_E5_85_83_E7_BA_BF_E6_80_A7_E5_9B_9E_E5_BD_92_E6_A8_A1_E5_9E_8B.md",
+      "type": "text",
+      "text": "[一元线性回归模型](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "x": 1188,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_93_8D_E5_BA_94_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[响应变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%93%8D%E5%BA%94%E5%8F%98%E9%87%8F.md)",
+      "x": 1524,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_A0_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[因变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%9B%A0%E5%8F%98%E9%87%8F.md)",
+      "x": 1860,
+      "y": 1926,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_88_AA_E8_B7_9D_E5_8F_82_E6_95_B0.md",
+      "type": "text",
+      "text": "[截距参数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%88%AA%E8%B7%9D%E5%8F%82%E6%95%B0.md)",
+      "x": 180,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_96_9C_E7_8E_87_E5_8F_82_E6_95_B0.md",
+      "type": "text",
+      "text": "[斜率参数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%96%9C%E7%8E%87%E5%8F%82%E6%95%B0.md)",
+      "x": 516,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_87_AA_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[自变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%87%AA%E5%8F%98%E9%87%8F.md)",
+      "x": 852,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_A3_E9_87_8A_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[解释变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%A7%A3%E9%87%8A%E5%8F%98%E9%87%8F.md)",
+      "x": 1188,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E5_88_86_E6_9E_90.md",
+      "type": "text",
+      "text": "[回归分析](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90.md)",
+      "x": 1524,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E7_8E_B0_E8_B1_A1.md",
+      "type": "text",
+      "text": "[回归现象](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%9B%9E%E5%BD%92%E7%8E%B0%E8%B1%A1.md)",
+      "x": 1860,
+      "y": 2052,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E4_BC_B0_E8_AE_A1.md",
+      "type": "text",
+      "text": "[最小二乘估计](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "x": 180,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E6_B3_95.md",
+      "type": "text",
+      "text": "[最小二乘法](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95.md)",
+      "x": 516,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE.md",
+      "type": "text",
+      "text": "[残差](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AE%8B%E5%B7%AE.md)",
+      "x": 852,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE_E5_88_86_E6_9E_90.md",
+      "type": "text",
+      "text": "[残差分析](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E6%AE%8B%E5%B7%AE%E5%88%86%E6%9E%90.md)",
+      "x": 1188,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_85_AC_E5_BC_8F.md",
+      "type": "text",
+      "text": "[经验回归公式](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%8F%E9%AA%8C%E5%9B%9E%E5%BD%92%E5%85%AC%E5%BC%8F.md)",
+      "x": 1524,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_87_BD_E6_95_B0.md",
+      "type": "text",
+      "text": "[经验回归函数](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%8F%E9%AA%8C%E5%9B%9E%E5%BD%92%E5%87%BD%E6%95%B0.md)",
+      "x": 1860,
+      "y": 2178,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E6_96_B9_E7_A8_8B.md",
+      "type": "text",
+      "text": "[经验回归方程](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%8F%E9%AA%8C%E5%9B%9E%E5%BD%92%E6%96%B9%E7%A8%8B.md)",
+      "x": 180,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E7_9B_B4_E7_BA_BF.md",
+      "type": "text",
+      "text": "[经验回归直线](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%BB%8F%E9%AA%8C%E5%9B%9E%E5%BD%92%E7%9B%B4%E7%BA%BF.md)",
+      "x": 516,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_82_E6_B5_8B_E5_80_BC.md",
+      "type": "text",
+      "text": "[观测值](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E8%A7%82%E6%B5%8B%E5%80%BC.md)",
+      "x": 852,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E9_A2_84_E6_B5_8B_E5_80_BC.md",
+      "type": "text",
+      "text": "[预测值](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E9%A2%84%E6%B5%8B%E5%80%BC.md)",
+      "x": 1188,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E7_B1_BB_E5_8F_98_E9_87_8F.md",
+      "type": "text",
+      "text": "[分类变量](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F.md)",
+      "x": 1524,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F2_C3_972_20_E5_88_97_E8_81_94_E8_A1_A8.md",
+      "type": "text",
+      "text": "[2×2 列联表](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/2%C3%972%20%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "x": 1860,
+      "y": 2304,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_CF_87_C2_B2_20_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "type": "text",
+      "text": "[χ² 独立性检验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%CF%87%C2%B2%20%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "x": 180,
+      "y": 2430,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "concept-_E6_A6_82_E5_BF_B5_2F_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "type": "text",
+      "text": "[独立性检验](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%A6%82%E5%BF%B5/%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "x": 516,
+      "y": 2430,
+      "width": 300,
+      "height": 92,
+      "color": "2"
+    },
+    {
+      "key": "note-node-toc-028",
+      "type": "text",
+      "text": "[数学建模 建立统计模型进行预测](/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E6%80%9D%E7%BB%B4%E6%88%96%E6%96%B9%E6%B3%95/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%20%E5%BB%BA%E7%AB%8B%E7%BB%9F%E8%AE%A1%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E9%A2%84%E6%B5%8B.md)",
+      "x": 100,
+      "y": 2682,
+      "width": 300,
+      "height": 92,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "key": "book-to-domain-combinatorics",
+      "from": "book-overview",
+      "to": "note-node-toc-001",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "book-to-domain-probability-distributions",
+      "from": "book-overview",
+      "to": "note-node-toc-010",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "book-to-domain-statistical-inference",
+      "from": "book-overview",
+      "to": "note-node-toc-021",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-002",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-002",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-002-to-reviewed-range-00143",
+      "from": "note-node-toc-002",
+      "to": "note-reviewed-range-00143",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-002-to-reviewed-range-00207",
+      "from": "note-node-toc-002",
+      "to": "note-reviewed-range-00207",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-002-to-reviewed-range-00306",
+      "from": "note-node-toc-002",
+      "to": "note-reviewed-range-00306",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-002-to-semantic-00528",
+      "from": "note-node-toc-002",
+      "to": "note-semantic-00528",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-003",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-003",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-004",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-004",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-004-to-semantic-00652",
+      "from": "note-node-toc-004",
+      "to": "note-semantic-00652",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-004-to-semantic-00820",
+      "from": "note-node-toc-004",
+      "to": "note-semantic-00820",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-004-to-semantic-00995",
+      "from": "note-node-toc-004",
+      "to": "note-semantic-00995",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-004-to-semantic-01078",
+      "from": "note-node-toc-004",
+      "to": "note-semantic-01078",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-004-to-semantic-01230",
+      "from": "note-node-toc-004",
+      "to": "note-semantic-01230",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-005",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-005",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-006",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-006",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-006-to-semantic-01385",
+      "from": "note-node-toc-006",
+      "to": "note-semantic-01385",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-006-to-semantic-01517",
+      "from": "note-node-toc-006",
+      "to": "note-semantic-01517",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-006-to-semantic-01684",
+      "from": "note-node-toc-006",
+      "to": "note-semantic-01684",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-007",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-007",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-001-to-node-toc-008",
+      "from": "note-node-toc-001",
+      "to": "note-node-toc-008",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-011",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-011",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-011-to-semantic-02006",
+      "from": "note-node-toc-011",
+      "to": "note-semantic-02006",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-011-to-semantic-02234",
+      "from": "note-node-toc-011",
+      "to": "note-semantic-02234",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-011-to-semantic-02385",
+      "from": "note-node-toc-011",
+      "to": "note-semantic-02385",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-012",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-012",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-013",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-013",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-013-to-reviewed-range-02497",
+      "from": "note-node-toc-013",
+      "to": "note-reviewed-range-02497",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-013-to-reviewed-range-02563",
+      "from": "note-node-toc-013",
+      "to": "note-reviewed-range-02563",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-013-to-semantic-02679",
+      "from": "note-node-toc-013",
+      "to": "note-semantic-02679",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-014",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-014",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-014-to-semantic-02726",
+      "from": "note-node-toc-014",
+      "to": "note-semantic-02726",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-014-to-semantic-02980",
+      "from": "note-node-toc-014",
+      "to": "note-semantic-02980",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-014-to-semantic-03166",
+      "from": "note-node-toc-014",
+      "to": "note-semantic-03166",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-015",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-015",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-015-to-semantic-03208",
+      "from": "note-node-toc-015",
+      "to": "note-semantic-03208",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-015-to-semantic-03449",
+      "from": "note-node-toc-015",
+      "to": "note-semantic-03449",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-015-to-semantic-03588",
+      "from": "note-node-toc-015",
+      "to": "note-semantic-03588",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-016",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-016",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-017",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-017",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-017-to-semantic-03815",
+      "from": "note-node-toc-017",
+      "to": "note-semantic-03815",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-018",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-018",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-019",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-019",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-010-to-node-toc-020",
+      "from": "note-node-toc-010",
+      "to": "note-node-toc-020",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-022",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-022",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-022-to-semantic-03984",
+      "from": "note-node-toc-022",
+      "to": "note-semantic-03984",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-022-to-semantic-04072",
+      "from": "note-node-toc-022",
+      "to": "note-semantic-04072",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-022-to-semantic-04332",
+      "from": "note-node-toc-022",
+      "to": "note-semantic-04332",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-023",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-023",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-023-to-semantic-04383",
+      "from": "note-node-toc-023",
+      "to": "note-semantic-04383",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-023-to-semantic-04438",
+      "from": "note-node-toc-023",
+      "to": "note-semantic-04438",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-023-to-semantic-04874",
+      "from": "note-node-toc-023",
+      "to": "note-semantic-04874",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-024",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-024",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-025",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-025",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-025-to-semantic-04959",
+      "from": "note-node-toc-025",
+      "to": "note-semantic-04959",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-025-to-semantic-05100",
+      "from": "note-node-toc-025",
+      "to": "note-semantic-05100",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-025-to-semantic-05376",
+      "from": "note-node-toc-025",
+      "to": "note-semantic-05376",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-026",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-026",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "hierarchy-node-toc-021-to-node-toc-027",
+      "from": "note-node-toc-021",
+      "to": "note-node-toc-027",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "key": "definition-semantic-04959-concept-_E6_A6_82_E5_BF_B5_2F2_C3_972_20_E5_88_97_E8_81_94_E8_A1_A8.md",
+      "from": "note-semantic-04959",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F2_C3_972_20_E5_88_97_E8_81_94_E8_A1_A8.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-017-concept-_E6_A6_82_E5_BF_B5_2F3_CF_83_20_E5_8E_9F_E5_88_99.md",
+      "from": "note-node-toc-017",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F3_CF_83_20_E5_8E_9F_E5_88_99.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03208-concept-_E6_A6_82_E5_BF_B5_2Fn_20_E9_87_8D_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "from": "note-semantic-03208",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2Fn_20_E9_87_8D_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-05100-concept-_E6_A6_82_E5_BF_B5_2F_CF_87_C2_B2_20_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "from": "note-semantic-05100",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_CF_87_C2_B2_20_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E4_B8_80_E5_85_83_E7_BA_BF_E6_80_A7_E5_9B_9E_E5_BD_92_E6_A8_A1_E5_9E_8B.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_B8_80_E5_85_83_E7_BA_BF_E6_80_A7_E5_9B_9E_E5_BD_92_E6_A8_A1_E5_9E_8B.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03208-concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_88_86_E5_B8_83.md",
+      "from": "note-semantic-03208",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_88_86_E5_B8_83.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01385-concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F.md",
+      "from": "note-semantic-01385",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01385-concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F_E7_9A_84_E9_80_9A_E9_A1_B9.md",
+      "from": "note-semantic-01385",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_B1_95_E5_BC_80_E5_BC_8F_E7_9A_84_E9_80_9A_E9_A1_B9.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01385-concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E5_AE_9A_E7_90_86.md",
+      "from": "note-semantic-01385",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E5_AE_9A_E7_90_86.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01385-concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E7_B3_BB_E6_95_B0.md",
+      "from": "note-semantic-01385",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BA_8C_E9_A1_B9_E5_BC_8F_E7_B3_BB_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03208-concept-_E6_A6_82_E5_BF_B5_2F_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "from": "note-semantic-03208",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E4_BC_AF_E5_8A_AA_E5_88_A9_E8_AF_95_E9_AA_8C.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02234-concept-_E6_A6_82_E5_BF_B5_2F_E5_85_88_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "from": "note-semantic-02234",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_88_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00820-concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_8E_92_E5_88_97.md",
+      "from": "note-semantic-00820",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_8E_92_E5_88_97.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02234-concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_A6_82_E7_8E_87_E5_85_AC_E5_BC_8F.md",
+      "from": "note-semantic-02234",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_85_A8_E6_A6_82_E7_8E_87_E5_85_AC_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-reviewed-range-02563-concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E5_B8_83_E5_88_97.md",
+      "from": "note-reviewed-range-02563",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E5_B8_83_E5_88_97.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-025-concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E7_B1_BB_E5_8F_98_E9_87_8F.md",
+      "from": "note-node-toc-025",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_88_86_E7_B1_BB_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02234-concept-_E6_A6_82_E5_BF_B5_2F_E5_90_8E_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "from": "note-semantic-02234",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_90_8E_E9_AA_8C_E6_A6_82_E7_8E_87.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E5_93_8D_E5_BA_94_E5_8F_98_E9_87_8F.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_93_8D_E5_BA_94_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E5_88_86_E6_9E_90.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E5_88_86_E6_9E_90.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E7_8E_B0_E8_B1_A1.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_9E_E5_BD_92_E7_8E_B0_E8_B1_A1.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_A0_E5_8F_98_E9_87_8F.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9B_A0_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02726-concept-_E6_A6_82_E5_BF_B5_2F_E5_9D_87_E5_80_BC.md",
+      "from": "note-semantic-02726",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E5_9D_87_E5_80_BC.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E6_88_AA_E8_B7_9D_E5_8F_82_E6_95_B0.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_88_AA_E8_B7_9D_E5_8F_82_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00652-concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97.md",
+      "from": "note-semantic-00652",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00820-concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0.md",
+      "from": "note-semantic-00820",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00820-concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "from": "note-semantic-00820",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_8E_92_E5_88_97_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03984-concept-_E6_A6_82_E5_BF_B5_2F_E6_95_A3_E7_82_B9_E5_9B_BE.md",
+      "from": "note-semantic-03984",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_95_A3_E7_82_B9_E5_9B_BE.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02726-concept-_E6_A6_82_E5_BF_B5_2F_E6_95_B0_E5_AD_A6_E6_9C_9F_E6_9C_9B.md",
+      "from": "note-semantic-02726",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_95_B0_E5_AD_A6_E6_9C_9F_E6_9C_9B.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E6_96_9C_E7_8E_87_E5_8F_82_E6_95_B0.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_96_9C_E7_8E_87_E5_8F_82_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02980-concept-_E6_A6_82_E5_BF_B5_2F_E6_96_B9_E5_B7_AE.md",
+      "from": "note-semantic-02980",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_96_B9_E5_B7_AE.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E4_BC_B0_E8_AE_A1.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E4_BC_B0_E8_AE_A1.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E6_B3_95.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_80_E5_B0_8F_E4_BA_8C_E4_B9_98_E6_B3_95.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02726-concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_9F_E6_9C_9B.md",
+      "from": "note-semantic-02726",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9C_9F_E6_9C_9B.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02006-concept-_E6_A6_82_E5_BF_B5_2F_E6_9D_A1_E4_BB_B6_E6_A6_82_E7_8E_87.md",
+      "from": "note-semantic-02006",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_9D_A1_E4_BB_B6_E6_A6_82_E7_8E_87.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02980-concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E5_B7_AE.md",
+      "from": "note-semantic-02980",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E5_B7_AE.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-017-concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "from": "note-node-toc-017",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_87_E5_87_86_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04072-concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_B7_E6_9C_AC_E7_9B_B8_E5_85_B3_E7_B3_BB_E6_95_B0.md",
+      "from": "note-semantic-04072",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A0_B7_E6_9C_AC_E7_9B_B8_E5_85_B3_E7_B3_BB_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-reviewed-range-02563-concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_88_97.md",
+      "from": "note-reviewed-range-02563",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_88_97.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-reviewed-range-02563-concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_9B_BE.md",
+      "from": "note-reviewed-range-02563",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_A6_82_E7_8E_87_E5_88_86_E5_B8_83_E5_9B_BE.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-017-concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "from": "note-node-toc-017",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_88_86_E5_B8_83.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-017-concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E5_87_BD_E6_95_B0.md",
+      "from": "note-node-toc-017",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E5_87_BD_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-017-concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E6_9B_B2_E7_BA_BF.md",
+      "from": "note-node-toc-017",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E6_80_81_E5_AF_86_E5_BA_A6_E6_9B_B2_E7_BA_BF.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03984-concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E7_9B_B8_E5_85_B3.md",
+      "from": "note-semantic-03984",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AD_A3_E7_9B_B8_E5_85_B3.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE_E5_88_86_E6_9E_90.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E6_AE_8B_E5_B7_AE_E5_88_86_E6_9E_90.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-05100-concept-_E6_A6_82_E5_BF_B5_2F_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "from": "note-semantic-05100",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_8B_AC_E7_AB_8B_E6_80_A7_E6_A3_80_E9_AA_8C.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03984-concept-_E6_A6_82_E5_BF_B5_2F_E7_9B_B8_E5_85_B3_E5_85_B3_E7_B3_BB.md",
+      "from": "note-semantic-03984",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_9B_B8_E5_85_B3_E5_85_B3_E7_B3_BB.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-reviewed-range-02497-concept-_E6_A6_82_E5_BF_B5_2F_E7_A6_BB_E6_95_A3_E5_9E_8B_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "from": "note-reviewed-range-02497",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_A6_BB_E6_95_A3_E5_9E_8B_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00995-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88.md",
+      "from": "note-semantic-00995",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01078-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0.md",
+      "from": "note-semantic-01078",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-01078-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "from": "note-semantic-01078",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_84_E5_90_88_E6_95_B0_E5_85_AC_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_85_AC_E5_BC_8F.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_85_AC_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_87_BD_E6_95_B0.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E5_87_BD_E6_95_B0.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E6_96_B9_E7_A8_8B.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E6_96_B9_E7_A8_8B.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E7_9B_B4_E7_BA_BF.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E7_BB_8F_E9_AA_8C_E5_9B_9E_E5_BD_92_E7_9B_B4_E7_BA_BF.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E8_87_AA_E5_8F_98_E9_87_8F.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_87_AA_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_82_E6_B5_8B_E5_80_BC.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_82_E6_B5_8B_E5_80_BC.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04383-concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_A3_E9_87_8A_E5_8F_98_E9_87_8F.md",
+      "from": "note-semantic-04383",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_A7_A3_E9_87_8A_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-02234-concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9D_E5_8F_B6_E6_96_AF_E5_85_AC_E5_BC_8F.md",
+      "from": "note-semantic-02234",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9D_E5_8F_B6_E6_96_AF_E5_85_AC_E5_BC_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03984-concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9F_E7_9B_B8_E5_85_B3.md",
+      "from": "note-semantic-03984",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B4_9F_E7_9B_B8_E5_85_B3.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-03449-concept-_E6_A6_82_E5_BF_B5_2F_E8_B6_85_E5_87_A0_E4_BD_95_E5_88_86_E5_B8_83.md",
+      "from": "note-semantic-03449",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E8_B6_85_E5_87_A0_E4_BD_95_E5_88_86_E5_B8_83.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-00820-concept-_E6_A6_82_E5_BF_B5_2F_E9_98_B6_E4_B9_98.md",
+      "from": "note-semantic-00820",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E9_98_B6_E4_B9_98.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-reviewed-range-02497-concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "from": "note-reviewed-range-02497",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-node-toc-014-concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F_E7_9A_84_E6_95_B0_E5_AD_97_E7_89_B9_E5_BE_81.md",
+      "from": "note-node-toc-014",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E9_9A_8F_E6_9C_BA_E5_8F_98_E9_87_8F_E7_9A_84_E6_95_B0_E5_AD_97_E7_89_B9_E5_BE_81.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "definition-semantic-04438-concept-_E6_A6_82_E5_BF_B5_2F_E9_A2_84_E6_B5_8B_E5_80_BC.md",
+      "from": "note-semantic-04438",
+      "to": "concept-_E6_A6_82_E5_BF_B5_2F_E9_A2_84_E6_B5_8B_E5_80_BC.md",
+      "label": "定义",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "key": "counting-to-permutation-combination",
+      "from": "note-node-toc-002",
+      "to": "note-node-toc-004",
+      "label": "计数原理支持排列组合",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "key": "combination-to-binomial",
+      "from": "note-node-toc-004",
+      "to": "note-node-toc-006",
+      "label": "组合数进入展开",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "key": "binomial-to-yanghui",
+      "from": "note-node-toc-006",
+      "to": "note-node-toc-009",
+      "label": "杨辉三角揭示系数结构",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "key": "binomial-theorem-to-distribution",
+      "from": "note-node-toc-006",
+      "to": "note-node-toc-015",
+      "label": "二项式结构迁移到分布",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "key": "conditional-to-random-variable",
+      "from": "note-node-toc-011",
+      "to": "note-node-toc-013",
+      "label": "概率基础",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "key": "random-variable-to-characteristics",
+      "from": "note-node-toc-013",
+      "to": "note-node-toc-014",
+      "label": "分布刻画数字特征",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "key": "random-variable-to-discrete-distributions",
+      "from": "note-node-toc-013",
+      "to": "note-node-toc-015",
+      "label": "典型离散分布",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "key": "discrete-distribution-to-properties",
+      "from": "note-node-toc-015",
+      "to": "note-node-toc-016",
+      "label": "性质探究",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "key": "correlation-to-regression",
+      "from": "note-node-toc-022",
+      "to": "note-node-toc-023",
+      "label": "相关走向建模",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "key": "regression-to-modeling",
+      "from": "note-node-toc-023",
+      "to": "note-node-toc-028",
+      "label": "回归用于预测",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "key": "independence-test-to-modeling",
+      "from": "note-node-toc-025",
+      "to": "note-node-toc-028",
+      "label": "检验支持模型判断",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "6"
+    }
+  ]
+}

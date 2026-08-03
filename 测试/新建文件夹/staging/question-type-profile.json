@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "title": "2026版 高中必刷题数学必修第一册",
+  "language": "zh-CN",
+  "sources": [
+    {
+      "role": "questions",
+      "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\2026版 高中必刷题数学必修第一册.pdf",
+      "sha256": "6742b8d50285794d344fda0743ec42b29cbac6d22b6dc28082ac811ce9e074c9",
+      "kind": "pdf",
+      "page_count": 158,
+      "size_bytes": 378483352,
+      "markdown_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\raw\\questions.raw.md"
+    },
+    {
+      "role": "answers",
+      "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\2026版 高中必刷题数学必修第一册答案解析.pdf",
+      "sha256": "36ea7c69adb39feb2b5a0b2e95eef452740914e37bb5356ebb97fa13efb3434f",
+      "kind": "pdf",
+      "page_count": 132,
+      "size_bytes": 379473242,
+      "markdown_path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\raw\\answers.raw.md"
+    }
+  ],
+  "paths": {
+    "staging_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging",
+    "vault_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹",
+    "graph_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\graph"
+  },
+  "format": {
+    "inventory": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-inventory.json",
+    "adapter": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-adapter.json",
+    "preset": null,
+    "toc_authority": {
+      "primary": null,
+      "secondary_indexes": []
+    },
+    "label_to_role_mappings": [],
+    "question_numbering": {
+      "patterns": [],
+      "restart_scopes": []
+    },
+    "layout_hints": {
+      "classification": null,
+      "reading_order": null
+    }
+  },
+  "answers": {
+    "mode": "separate",
+    "regions": [],
+    "matching_strategies": [
+      "explicit-reference",
+      "hierarchy-number",
+      "source-page-number",
+      "normalized-stem-exact"
+    ]
+  },
+  "output": {
+    "folder_layout": "adapter-controlled",
+    "question_folder": "questions",
+    "link_mode": "relative"
+  },
+  "canvas": {
+    "enabled": true,
+    "question_type_color": "6"
+  },
+  "knowledge_linking": {
+    "status": "deferred",
+    "enabled": false
+  },
+  "backup_policy": "none"
+}

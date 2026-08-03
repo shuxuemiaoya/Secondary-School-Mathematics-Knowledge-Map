@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "review_status": "agent-reviewed",
+  "review_basis": "教材章节结构、拆分清单、概念定义来源与正文支持的数学关系",
+  "domains": [
+    {
+      "key": "sequences-discrete",
+      "label": "数列与离散结构",
+      "chapters": ["node-toc-001"]
+    },
+    {
+      "key": "calculus-functions",
+      "label": "微积分思想与函数研究",
+      "chapters": ["node-toc-010"]
+    }
+  ],
+  "relations": [
+    {"key": "sequence-to-arithmetic", "from": "node-toc-002", "to": "node-toc-004", "label": "特殊化为等差数列", "color": "reasoning"},
+    {"key": "sequence-to-geometric", "from": "node-toc-002", "to": "node-toc-005", "label": "特殊化为等比数列", "color": "reasoning"},
+    {"key": "induction-to-arithmetic", "from": "node-toc-007", "to": "node-toc-004", "label": "归纳证明", "color": "method_transfer"},
+    {"key": "induction-to-geometric", "from": "node-toc-007", "to": "node-toc-005", "label": "归纳证明", "color": "method_transfer"},
+    {"key": "derivative-meaning-to-rules", "from": "node-toc-011", "to": "node-toc-012", "label": "概念进入运算", "color": "calculation"},
+    {"key": "derivative-rules-to-newton", "from": "node-toc-012", "to": "node-toc-013", "label": "导数求近似解", "color": "application"},
+    {"key": "derivative-rules-to-function-study", "from": "node-toc-012", "to": "node-toc-014", "label": "导数研究函数", "color": "application"},
+    {"key": "function-study-to-technology", "from": "node-toc-014", "to": "node-toc-015", "label": "图形技术验证", "color": "application"}
+  ]
+}

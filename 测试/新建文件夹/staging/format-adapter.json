@@ -1,0 +1,2886 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "reviewer_confirmed": true,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\question-type-profile.json",
+  "hierarchy": {
+    "source_role": "questions",
+    "root_output": "index.md",
+    "primary_authority": {
+      "status": "passed",
+      "reviewer_confirmed": true,
+      "start_line": 244,
+      "end_line": 356,
+      "entries": [
+        {
+          "key": "node-001",
+          "title": "第一章 集合与常用逻辑用语",
+          "level": 1,
+          "source_line": 244,
+          "source_end_line": 244
+        },
+        {
+          "key": "node-002",
+          "title": "1.1 集合的概念",
+          "level": 2,
+          "source_line": 245,
+          "source_end_line": 245
+        },
+        {
+          "key": "node-003",
+          "title": "1.2 集合间的基本关系",
+          "level": 2,
+          "source_line": 246,
+          "source_end_line": 246
+        },
+        {
+          "key": "node-004",
+          "title": "1.3 集合的基本运算",
+          "level": 2,
+          "source_line": 247,
+          "source_end_line": 247
+        },
+        {
+          "key": "node-005",
+          "title": "第 1.1 ~ 1.3 节综合训练",
+          "level": 2,
+          "source_line": 248,
+          "source_end_line": 248
+        },
+        {
+          "key": "node-006",
+          "title": "专题 1 集合的综合问题",
+          "level": 2,
+          "source_line": 249,
+          "source_end_line": 249
+        },
+        {
+          "key": "node-007",
+          "title": "1.4 充分条件与必要条件",
+          "level": 2,
+          "source_line": 250,
+          "source_end_line": 250
+        },
+        {
+          "key": "node-008",
+          "title": "1.4.1 充分条件与必要条件 1.4.2 充要条件",
+          "level": 3,
+          "source_line": 251,
+          "source_end_line": 251
+        },
+        {
+          "key": "node-009",
+          "title": "第 1.4 节综合训练",
+          "level": 2,
+          "source_line": 252,
+          "source_end_line": 252
+        },
+        {
+          "key": "node-010",
+          "title": "1.5 全称量词与存在量词",
+          "level": 2,
+          "source_line": 253,
+          "source_end_line": 253
+        },
+        {
+          "key": "node-011",
+          "title": "1.5.1 全称量词与存在量词",
+          "level": 3,
+          "source_line": 254,
+          "source_end_line": 254
+        },
+        {
+          "key": "node-012",
+          "title": "1.5.2 全称量词命题和存在量词命题的否定",
+          "level": 3,
+          "source_line": 255,
+          "source_end_line": 255
+        },
+        {
+          "key": "node-013",
+          "title": "第 1.5 节综合训练",
+          "level": 2,
+          "source_line": 256,
+          "source_end_line": 256
+        },
+        {
+          "key": "node-014",
+          "title": "第一章素养检测",
+          "level": 2,
+          "source_line": 257,
+          "source_end_line": 257
+        },
+        {
+          "key": "node-015",
+          "title": "第一章高考强化",
+          "level": 2,
+          "source_line": 258,
+          "source_end_line": 258
+        },
+        {
+          "key": "node-016",
+          "title": "第二章 一元二次函数、方程和不等式",
+          "level": 1,
+          "source_line": 260,
+          "source_end_line": 260
+        },
+        {
+          "key": "node-017",
+          "title": "2.1 等式性质与不等式性质",
+          "level": 2,
+          "source_line": 261,
+          "source_end_line": 261
+        },
+        {
+          "key": "node-018",
+          "title": "2.2 基本不等式",
+          "level": 2,
+          "source_line": 262,
+          "source_end_line": 262
+        },
+        {
+          "key": "node-019",
+          "title": "专题 2 利用基本不等式求最值",
+          "level": 2,
+          "source_line": 263,
+          "source_end_line": 263
+        },
+        {
+          "key": "node-020",
+          "title": "2.3 二次函数与一元二次方程、不等式",
+          "level": 2,
+          "source_line": 264,
+          "source_end_line": 264
+        },
+        {
+          "key": "node-021",
+          "title": "第二章素养检测",
+          "level": 2,
+          "source_line": 265,
+          "source_end_line": 265
+        },
+        {
+          "key": "node-022",
+          "title": "第二章高考强化",
+          "level": 2,
+          "source_line": 266,
+          "source_end_line": 266
+        },
+        {
+          "key": "node-023",
+          "title": "第三章 函数的概念与性质",
+          "level": 1,
+          "source_line": 268,
+          "source_end_line": 268
+        },
+        {
+          "key": "node-024",
+          "title": "3.1 函数的概念及其表示",
+          "level": 2,
+          "source_line": 269,
+          "source_end_line": 269
+        },
+        {
+          "key": "node-025",
+          "title": "3.1.1 函数的概念",
+          "level": 3,
+          "source_line": 270,
+          "source_end_line": 270
+        },
+        {
+          "key": "node-026",
+          "title": "3.1.2 函数的表示法",
+          "level": 3,
+          "source_line": 271,
+          "source_end_line": 271
+        },
+        {
+          "key": "node-027",
+          "title": "第 3.1 节综合训练",
+          "level": 2,
+          "source_line": 272,
+          "source_end_line": 272
+        },
+        {
+          "key": "node-028",
+          "title": "3.2 函数的基本性质",
+          "level": 2,
+          "source_line": 273,
+          "source_end_line": 273
+        },
+        {
+          "key": "node-029",
+          "title": "3.2.1 单调性与最大(小)值",
+          "level": 3,
+          "source_line": 274,
+          "source_end_line": 274
+        },
+        {
+          "key": "node-030",
+          "title": "课时 1 函数的单调性",
+          "level": 4,
+          "source_line": 275,
+          "source_end_line": 275
+        },
+        {
+          "key": "node-031",
+          "title": "课时 2 函数的最大(小)值",
+          "level": 4,
+          "source_line": 276,
+          "source_end_line": 276
+        },
+        {
+          "key": "node-032",
+          "title": "3.2.2 奇偶性",
+          "level": 3,
+          "source_line": 277,
+          "source_end_line": 277
+        },
+        {
+          "key": "node-033",
+          "title": "第 3.2 节综合训练",
+          "level": 2,
+          "source_line": 278,
+          "source_end_line": 278
+        },
+        {
+          "key": "node-034",
+          "title": "专题 3 函数的性质及应用",
+          "level": 2,
+          "source_line": 279,
+          "source_end_line": 279
+        },
+        {
+          "key": "node-035",
+          "title": "3.3 幂函数",
+          "level": 2,
+          "source_line": 280,
+          "source_end_line": 280
+        },
+        {
+          "key": "node-036",
+          "title": "3.4 函数的应用(一)",
+          "level": 2,
+          "source_line": 284,
+          "source_end_line": 284
+        },
+        {
+          "key": "node-037",
+          "title": "第三章素养检测",
+          "level": 2,
+          "source_line": 285,
+          "source_end_line": 285
+        },
+        {
+          "key": "node-038",
+          "title": "第三章高考强化",
+          "level": 2,
+          "source_line": 286,
+          "source_end_line": 286
+        },
+        {
+          "key": "node-039",
+          "title": "第四章 指数函数与对数函数",
+          "level": 1,
+          "source_line": 286,
+          "source_end_line": 286
+        },
+        {
+          "key": "node-040",
+          "title": "4.1 指数",
+          "level": 2,
+          "source_line": 288,
+          "source_end_line": 288
+        },
+        {
+          "key": "node-041",
+          "title": "4.1.1 n次方根与分数指数幂 4.1.2 无理数指数幂及其运算",
+          "level": 3,
+          "source_line": 289,
+          "source_end_line": 289
+        },
+        {
+          "key": "node-042",
+          "title": "4.2 指数函数",
+          "level": 2,
+          "source_line": 292,
+          "source_end_line": 292
+        },
+        {
+          "key": "node-043",
+          "title": "4.2.1 指数函数的概念",
+          "level": 3,
+          "source_line": 293,
+          "source_end_line": 293
+        },
+        {
+          "key": "node-044",
+          "title": "4.2.2 指数函数的图象和性质",
+          "level": 3,
+          "source_line": 294,
+          "source_end_line": 294
+        },
+        {
+          "key": "node-045",
+          "title": "第4.1, 4.2节综合训练",
+          "level": 2,
+          "source_line": 296,
+          "source_end_line": 296
+        },
+        {
+          "key": "node-046",
+          "title": "4.3 对数",
+          "level": 2,
+          "source_line": 298,
+          "source_end_line": 298
+        },
+        {
+          "key": "node-047",
+          "title": "4.3.1 对数的概念 4.3.2 对数的运算",
+          "level": 3,
+          "source_line": 299,
+          "source_end_line": 299
+        },
+        {
+          "key": "node-048",
+          "title": "4.4 对数函数",
+          "level": 2,
+          "source_line": 301,
+          "source_end_line": 301
+        },
+        {
+          "key": "node-049",
+          "title": "4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质",
+          "level": 3,
+          "source_line": 302,
+          "source_end_line": 302
+        },
+        {
+          "key": "node-050",
+          "title": "4.4.3 不同函数增长的差异",
+          "level": 3,
+          "source_line": 304,
+          "source_end_line": 304
+        },
+        {
+          "key": "node-051",
+          "title": "第4.3, 4.4节综合训练",
+          "level": 2,
+          "source_line": 306,
+          "source_end_line": 306
+        },
+        {
+          "key": "node-052",
+          "title": "专题4 指数函数、对数函数",
+          "level": 2,
+          "source_line": 308,
+          "source_end_line": 308
+        },
+        {
+          "key": "node-053",
+          "title": "4.5 函数的应用(二)",
+          "level": 2,
+          "source_line": 310,
+          "source_end_line": 310
+        },
+        {
+          "key": "node-054",
+          "title": "4.5.1 函数的零点与方程的解",
+          "level": 3,
+          "source_line": 311,
+          "source_end_line": 311
+        },
+        {
+          "key": "node-055",
+          "title": "4.5.2 用二分法求方程的近似解",
+          "level": 3,
+          "source_line": 312,
+          "source_end_line": 312
+        },
+        {
+          "key": "node-056",
+          "title": "4.5.3 函数模型的应用",
+          "level": 3,
+          "source_line": 313,
+          "source_end_line": 313
+        },
+        {
+          "key": "node-057",
+          "title": "第4.5节综合训练",
+          "level": 2,
+          "source_line": 314,
+          "source_end_line": 314
+        },
+        {
+          "key": "node-058",
+          "title": "第四章素养检测",
+          "level": 2,
+          "source_line": 316,
+          "source_end_line": 316
+        },
+        {
+          "key": "node-059",
+          "title": "第四章高考强化",
+          "level": 2,
+          "source_line": 318,
+          "source_end_line": 318
+        },
+        {
+          "key": "node-060",
+          "title": "第五章 三角函数",
+          "level": 1,
+          "source_line": 318,
+          "source_end_line": 318
+        },
+        {
+          "key": "node-061",
+          "title": "5.1 任意角和弧度制",
+          "level": 2,
+          "source_line": 320,
+          "source_end_line": 320
+        },
+        {
+          "key": "node-062",
+          "title": "5.1.1 任意角",
+          "level": 3,
+          "source_line": 321,
+          "source_end_line": 321
+        },
+        {
+          "key": "node-063",
+          "title": "5.1.2 弧度制",
+          "level": 3,
+          "source_line": 322,
+          "source_end_line": 322
+        },
+        {
+          "key": "node-064",
+          "title": "第5.1节综合训练",
+          "level": 2,
+          "source_line": 323,
+          "source_end_line": 323
+        },
+        {
+          "key": "node-065",
+          "title": "5.2 三角函数的概念",
+          "level": 2,
+          "source_line": 325,
+          "source_end_line": 325
+        },
+        {
+          "key": "node-066",
+          "title": "5.2.1 三角函数的概念",
+          "level": 3,
+          "source_line": 326,
+          "source_end_line": 326
+        },
+        {
+          "key": "node-067",
+          "title": "5.2.2 同角三角函数的基本关系",
+          "level": 3,
+          "source_line": 327,
+          "source_end_line": 327
+        },
+        {
+          "key": "node-068",
+          "title": "第5.2节综合训练",
+          "level": 2,
+          "source_line": 328,
+          "source_end_line": 328
+        },
+        {
+          "key": "node-069",
+          "title": "5.3 诱导公式",
+          "level": 2,
+          "source_line": 332,
+          "source_end_line": 332
+        },
+        {
+          "key": "node-070",
+          "title": "5.4 三角函数的图象与性质",
+          "level": 2,
+          "source_line": 333,
+          "source_end_line": 333
+        },
+        {
+          "key": "node-071",
+          "title": "5.4.1 正弦函数、余弦函数的图象",
+          "level": 3,
+          "source_line": 334,
+          "source_end_line": 334
+        },
+        {
+          "key": "node-072",
+          "title": "5.4.2 正弦函数、余弦函数的性质",
+          "level": 3,
+          "source_line": 335,
+          "source_end_line": 335
+        },
+        {
+          "key": "node-073",
+          "title": "课时1 正弦函数、余弦函数的性质(1)",
+          "level": 4,
+          "source_line": 336,
+          "source_end_line": 336
+        },
+        {
+          "key": "node-074",
+          "title": "课时2 正弦函数、余弦函数的性质(2)",
+          "level": 4,
+          "source_line": 337,
+          "source_end_line": 337
+        },
+        {
+          "key": "node-075",
+          "title": "5.4.3 正切函数的性质与图象",
+          "level": 3,
+          "source_line": 338,
+          "source_end_line": 338
+        },
+        {
+          "key": "node-076",
+          "title": "第5.4节综合训练",
+          "level": 2,
+          "source_line": 339,
+          "source_end_line": 339
+        },
+        {
+          "key": "node-077",
+          "title": "5.5 三角恒等变换",
+          "level": 2,
+          "source_line": 340,
+          "source_end_line": 340
+        },
+        {
+          "key": "node-078",
+          "title": "5.5.1 两角和与差的正弦、余弦和正切公式",
+          "level": 3,
+          "source_line": 341,
+          "source_end_line": 341
+        },
+        {
+          "key": "node-079",
+          "title": "课时1 两角和与差的正弦、余弦和正切公式",
+          "level": 4,
+          "source_line": 342,
+          "source_end_line": 342
+        },
+        {
+          "key": "node-080",
+          "title": "课时2 二倍角的正弦、余弦、正切公式",
+          "level": 4,
+          "source_line": 343,
+          "source_end_line": 343
+        },
+        {
+          "key": "node-081",
+          "title": "5.5.2 简单的三角恒等变换",
+          "level": 3,
+          "source_line": 344,
+          "source_end_line": 344
+        },
+        {
+          "key": "node-082",
+          "title": "第5.5节综合训练",
+          "level": 2,
+          "source_line": 345,
+          "source_end_line": 345
+        },
+        {
+          "key": "node-083",
+          "title": "专题5 三角恒等变换",
+          "level": 2,
+          "source_line": 346,
+          "source_end_line": 346
+        },
+        {
+          "key": "node-084",
+          "title": "5.6 函数 y=Asin(ωx+φ)",
+          "level": 2,
+          "source_line": 347,
+          "source_end_line": 347
+        },
+        {
+          "key": "node-085",
+          "title": "5.6.1 匀速圆周运动的数学模型 5.6.2 函数 y=Asin(ωx+φ) 的图象",
+          "level": 3,
+          "source_line": 348,
+          "source_end_line": 348
+        },
+        {
+          "key": "node-086",
+          "title": "第5.6节综合训练",
+          "level": 2,
+          "source_line": 349,
+          "source_end_line": 349
+        },
+        {
+          "key": "node-087",
+          "title": "5.7 三角函数的应用",
+          "level": 2,
+          "source_line": 350,
+          "source_end_line": 350
+        },
+        {
+          "key": "node-088",
+          "title": "第五章素养检测",
+          "level": 2,
+          "source_line": 351,
+          "source_end_line": 351
+        },
+        {
+          "key": "node-089",
+          "title": "第五章高考强化",
+          "level": 2,
+          "source_line": 352,
+          "source_end_line": 352
+        },
+        {
+          "key": "node-090",
+          "title": "高考新动向·新定义、新情境",
+          "level": 2,
+          "source_line": 352,
+          "source_end_line": 352
+        },
+        {
+          "key": "node-091",
+          "title": "高考新动向·链接高数",
+          "level": 2,
+          "source_line": 352,
+          "source_end_line": 352
+        },
+        {
+          "key": "node-092",
+          "title": "强基计划",
+          "level": 2,
+          "source_line": 352,
+          "source_end_line": 352
+        }
+      ]
+    },
+    "entries": [
+      {
+        "key": "node-001",
+        "title": "第一章 集合与常用逻辑用语",
+        "level": 1,
+        "output": "01-第一章_集合与常用逻辑用语/01-第一章_集合与常用逻辑用语.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 529,
+          "evidence": "Manual boundary for: 第一章 集合与常用逻辑用语",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-001"
+      },
+      {
+        "key": "node-002",
+        "title": "1.1 集合的概念",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/1.1_集合的概念/1.1_集合的概念.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 531,
+          "evidence": "Manual boundary for: 1.1 集合的概念",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-002"
+      },
+      {
+        "key": "node-003",
+        "title": "1.2 集合间的基本关系",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/1.2_集合间的基本关系/1.2_集合间的基本关系.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 628,
+          "evidence": "Manual boundary for: 1.2 集合间的基本关系",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-003"
+      },
+      {
+        "key": "node-004",
+        "title": "1.3 集合的基本运算",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/1.3_集合的基本运算/1.3_集合的基本运算.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 729,
+          "evidence": "Manual boundary for: 1.3 集合的基本运算",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-004"
+      },
+      {
+        "key": "node-005",
+        "title": "第 1.1 ~ 1.3 节综合训练",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/第1.1~1.3节综合训练/第1.1~1.3节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 842,
+          "evidence": "Manual boundary for: 第 1.1 ~ 1.3 节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-005"
+      },
+      {
+        "key": "node-006",
+        "title": "专题 1 集合的综合问题",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/专题1_集合的综合问题/专题1_集合的综合问题.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 880,
+          "evidence": "Manual boundary for: 专题 1 集合的综合问题",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-006"
+      },
+      {
+        "key": "node-007",
+        "title": "1.4 充分条件与必要条件",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/1.4_充分条件与必要条件/1.4_充分条件与必要条件.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 948,
+          "evidence": "Manual boundary for: 1.4 充分条件与必要条件",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-007"
+      },
+      {
+        "key": "node-008",
+        "title": "1.4.1 充分条件与必要条件 1.4.2 充要条件",
+        "level": 3,
+        "output": "01-第一章_集合与常用逻辑用语/1.4.1_充分条件与必要条件_1.4.2_充要条件/1.4.1_充分条件与必要条件_1.4.2_充要条件.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 948,
+          "evidence": "Manual boundary for: 1.4.1 充分条件与必要条件 1.4.2 充要条件",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-008"
+      },
+      {
+        "key": "node-009",
+        "title": "第 1.4 节综合训练",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/第1.4节综合训练/第1.4节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1058,
+          "evidence": "Manual boundary for: 第 1.4 节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-009"
+      },
+      {
+        "key": "node-010",
+        "title": "1.5 全称量词与存在量词",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/1.5_全称量词与存在量词/1.5_全称量词与存在量词.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1109,
+          "evidence": "Manual boundary for: 1.5 全称量词与存在量词",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-010"
+      },
+      {
+        "key": "node-011",
+        "title": "1.5.1 全称量词与存在量词",
+        "level": 3,
+        "output": "01-第一章_集合与常用逻辑用语/1.5.1_全称量词与存在量词/1.5.1_全称量词与存在量词.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1109,
+          "evidence": "Manual boundary for: 1.5.1 全称量词与存在量词",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-011"
+      },
+      {
+        "key": "node-012",
+        "title": "1.5.2 全称量词命题和存在量词命题的否定",
+        "level": 3,
+        "output": "01-第一章_集合与常用逻辑用语/1.5.2_全称量词命题和存在量词命题的否定/1.5.2_全称量词命题和存在量词命题的否定.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1174,
+          "evidence": "Manual boundary for: 1.5.2 全称量词命题和存在量词命题的否定",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-012"
+      },
+      {
+        "key": "node-013",
+        "title": "第 1.5 节综合训练",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/第1.5节综合训练/第1.5节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1236,
+          "evidence": "Manual boundary for: 第 1.5 节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-013"
+      },
+      {
+        "key": "node-014",
+        "title": "第一章素养检测",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/第一章素养检测/第一章素养检测.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1275,
+          "evidence": "Manual boundary for: 第一章素养检测",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-014"
+      },
+      {
+        "key": "node-015",
+        "title": "第一章高考强化",
+        "level": 2,
+        "output": "01-第一章_集合与常用逻辑用语/第一章高考强化/第一章高考强化.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1365,
+          "evidence": "Manual boundary for: 第一章高考强化",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-015"
+      },
+      {
+        "key": "node-016",
+        "title": "第二章 一元二次函数、方程和不等式",
+        "level": 1,
+        "output": "02-第二章_一元二次函数_方程和不等式/02-第二章_一元二次函数_方程和不等式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1472,
+          "evidence": "Manual boundary for: 第二章 一元二次函数、方程和不等式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-016"
+      },
+      {
+        "key": "node-017",
+        "title": "2.1 等式性质与不等式性质",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/2.1_等式性质与不等式性质/2.1_等式性质与不等式性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1472,
+          "evidence": "Manual boundary for: 2.1 等式性质与不等式性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-017"
+      },
+      {
+        "key": "node-018",
+        "title": "2.2 基本不等式",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/2.2_基本不等式/2.2_基本不等式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1564,
+          "evidence": "Manual boundary for: 2.2 基本不等式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-018"
+      },
+      {
+        "key": "node-019",
+        "title": "专题 2 利用基本不等式求最值",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/专题2_利用基本不等式求最值/专题2_利用基本不等式求最值.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1721,
+          "evidence": "Manual boundary for: 专题 2 利用基本不等式求最值",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-019"
+      },
+      {
+        "key": "node-020",
+        "title": "2.3 二次函数与一元二次方程、不等式",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/2.3_二次函数与一元二次方程_不等式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1774,
+          "evidence": "Manual boundary for: 2.3 二次函数与一元二次方程、不等式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-020"
+      },
+      {
+        "key": "node-021",
+        "title": "第二章素养检测",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/第二章素养检测/第二章素养检测.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1905,
+          "evidence": "Manual boundary for: 第二章素养检测",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-021"
+      },
+      {
+        "key": "node-022",
+        "title": "第二章高考强化",
+        "level": 2,
+        "output": "02-第二章_一元二次函数_方程和不等式/第二章高考强化/第二章高考强化.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 1986,
+          "evidence": "Manual boundary for: 第二章高考强化",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-022"
+      },
+      {
+        "key": "node-023",
+        "title": "第三章 函数的概念与性质",
+        "level": 1,
+        "output": "03-第三章_函数的概念与性质/03-第三章_函数的概念与性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2031,
+          "evidence": "Manual boundary for: 第三章 函数的概念与性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-023"
+      },
+      {
+        "key": "node-024",
+        "title": "3.1 函数的概念及其表示",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/3.1_函数的概念及其表示/3.1_函数的概念及其表示.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2033,
+          "evidence": "Manual boundary for: 3.1 函数的概念及其表示",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-024"
+      },
+      {
+        "key": "node-025",
+        "title": "3.1.1 函数的概念",
+        "level": 3,
+        "output": "03-第三章_函数的概念与性质/3.1.1_函数的概念/3.1.1_函数的概念.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2037,
+          "evidence": "Manual boundary for: 3.1.1 函数的概念",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-025"
+      },
+      {
+        "key": "node-026",
+        "title": "3.1.2 函数的表示法",
+        "level": 3,
+        "output": "03-第三章_函数的概念与性质/3.1.2_函数的表示法/3.1.2_函数的表示法.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2200,
+          "evidence": "Manual boundary for: 3.1.2 函数的表示法",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-026"
+      },
+      {
+        "key": "node-027",
+        "title": "第 3.1 节综合训练",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/第3.1节综合训练/第3.1节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2361,
+          "evidence": "Manual boundary for: 第 3.1 节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-027"
+      },
+      {
+        "key": "node-028",
+        "title": "3.2 函数的基本性质",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/3.2_函数的基本性质/3.2_函数的基本性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2400,
+          "evidence": "Manual boundary for: 3.2 函数的基本性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-028"
+      },
+      {
+        "key": "node-029",
+        "title": "3.2.1 单调性与最大(小)值",
+        "level": 3,
+        "output": "03-第三章_函数的概念与性质/3.2.1_单调性与最大(小)值/3.2.1_单调性与最大(小)值.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2402,
+          "evidence": "Manual boundary for: 3.2.1 单调性与最大(小)值",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-029"
+      },
+      {
+        "key": "node-030",
+        "title": "课时 1 函数的单调性",
+        "level": 4,
+        "output": "03-第三章_函数的概念与性质/课时1_函数的单调性/课时1_函数的单调性.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2402,
+          "evidence": "Manual boundary for: 课时 1 函数的单调性",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-030"
+      },
+      {
+        "key": "node-031",
+        "title": "课时 2 函数的最大(小)值",
+        "level": 4,
+        "output": "03-第三章_函数的概念与性质/课时2_函数的最大(小)值/课时2_函数的最大(小)值.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2513,
+          "evidence": "Manual boundary for: 课时 2 函数的最大(小)值",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-031"
+      },
+      {
+        "key": "node-032",
+        "title": "3.2.2 奇偶性",
+        "level": 3,
+        "output": "03-第三章_函数的概念与性质/3.2.2_奇偶性/3.2.2_奇偶性.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2639,
+          "evidence": "Manual boundary for: 3.2.2 奇偶性",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-032"
+      },
+      {
+        "key": "node-033",
+        "title": "第 3.2 节综合训练",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/第3.2节综合训练/第3.2节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2784,
+          "evidence": "Manual boundary for: 第 3.2 节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-033"
+      },
+      {
+        "key": "node-034",
+        "title": "专题 3 函数的性质及应用",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/专题3_函数的性质及应用/专题3_函数的性质及应用.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2831,
+          "evidence": "Manual boundary for: 专题 3 函数的性质及应用",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-034"
+      },
+      {
+        "key": "node-035",
+        "title": "3.3 幂函数",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/3.3_幂函数/3.3_幂函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 2895,
+          "evidence": "Manual boundary for: 3.3 幂函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-035"
+      },
+      {
+        "key": "node-036",
+        "title": "3.4 函数的应用(一)",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/3.4_函数的应用(一)/3.4_函数的应用(一).md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3046,
+          "evidence": "Manual boundary for: 3.4 函数的应用(一)",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-036"
+      },
+      {
+        "key": "node-037",
+        "title": "第三章素养检测",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/第三章素养检测/第三章素养检测.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3166,
+          "evidence": "Manual boundary for: 第三章素养检测",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-037"
+      },
+      {
+        "key": "node-038",
+        "title": "第三章高考强化",
+        "level": 2,
+        "output": "03-第三章_函数的概念与性质/第三章高考强化/第三章高考强化.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3246,
+          "evidence": "Manual boundary for: 第三章高考强化",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-038"
+      },
+      {
+        "key": "node-039",
+        "title": "第四章 指数函数与对数函数",
+        "level": 1,
+        "output": "04-第四章_指数函数与对数函数/04-第四章_指数函数与对数函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3327,
+          "evidence": "Manual boundary for: 第四章 指数函数与对数函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-039"
+      },
+      {
+        "key": "node-040",
+        "title": "4.1 指数",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/4.1_指数/4.1_指数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3331,
+          "evidence": "Manual boundary for: 4.1 指数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-040"
+      },
+      {
+        "key": "node-041",
+        "title": "4.1.1 n次方根与分数指数幂 4.1.2 无理数指数幂及其运算",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.1.1_n次方根与分数指数幂_4.1.2_无理数指数幂及其运算/4.1.1_n次方根与分数指数幂_4.1.2_无理数指数幂及其运算.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3343,
+          "evidence": "Manual boundary for: 4.1.1 n次方根与分数指数幂 4.1.2 无理数指数幂及其运算",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-041"
+      },
+      {
+        "key": "node-042",
+        "title": "4.2 指数函数",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/4.2_指数函数/4.2_指数函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3440,
+          "evidence": "Manual boundary for: 4.2 指数函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-042"
+      },
+      {
+        "key": "node-043",
+        "title": "4.2.1 指数函数的概念",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.2.1_指数函数的概念/4.2.1_指数函数的概念.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3440,
+          "evidence": "Manual boundary for: 4.2.1 指数函数的概念",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-043"
+      },
+      {
+        "key": "node-044",
+        "title": "4.2.2 指数函数的图象和性质",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.2.2_指数函数的图象和性质/4.2.2_指数函数的图象和性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3489,
+          "evidence": "Manual boundary for: 4.2.2 指数函数的图象和性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-044"
+      },
+      {
+        "key": "node-045",
+        "title": "第4.1, 4.2节综合训练",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/第4.1_4.2节综合训练/第4.1_4.2节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3635,
+          "evidence": "Manual boundary for: 第4.1, 4.2节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-045"
+      },
+      {
+        "key": "node-046",
+        "title": "4.3 对数",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/4.3_对数/4.3_对数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3674,
+          "evidence": "Manual boundary for: 4.3 对数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-046"
+      },
+      {
+        "key": "node-047",
+        "title": "4.3.1 对数的概念 4.3.2 对数的运算",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.3.1_对数的概念_4.3.2_对数的运算/4.3.1_对数的概念_4.3.2_对数的运算.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3674,
+          "evidence": "Manual boundary for: 4.3.1 对数的概念 4.3.2 对数的运算",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-047"
+      },
+      {
+        "key": "node-048",
+        "title": "4.4 对数函数",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/4.4_对数函数/4.4_对数函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3781,
+          "evidence": "Manual boundary for: 4.4 对数函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-048"
+      },
+      {
+        "key": "node-049",
+        "title": "4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.4.1_对数函数的概念_4.4.2_对数函数的图象和性质/4.4.1_对数函数的概念_4.4.2_对数函数的图象和性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3781,
+          "evidence": "Manual boundary for: 4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-049"
+      },
+      {
+        "key": "node-050",
+        "title": "4.4.3 不同函数增长的差异",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.4.3_不同函数增长的差异/4.4.3_不同函数增长的差异.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 3968,
+          "evidence": "Manual boundary for: 4.4.3 不同函数增长的差异",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-050"
+      },
+      {
+        "key": "node-051",
+        "title": "第4.3, 4.4节综合训练",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/第4.3_4.4节综合训练/第4.3_4.4节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4040,
+          "evidence": "Manual boundary for: 第4.3, 4.4节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-051"
+      },
+      {
+        "key": "node-052",
+        "title": "专题4 指数函数、对数函数",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/专题4_指数函数_对数函数/专题4_指数函数_对数函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4079,
+          "evidence": "Manual boundary for: 专题4 指数函数、对数函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-052"
+      },
+      {
+        "key": "node-053",
+        "title": "4.5 函数的应用(二)",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/4.5_函数的应用(二)/4.5_函数的应用(二).md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4127,
+          "evidence": "Manual boundary for: 4.5 函数的应用(二)",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-053"
+      },
+      {
+        "key": "node-054",
+        "title": "4.5.1 函数的零点与方程的解",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.5.1_函数的零点与方程的解/4.5.1_函数的零点与方程的解.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4127,
+          "evidence": "Manual boundary for: 4.5.1 函数的零点与方程的解",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-054"
+      },
+      {
+        "key": "node-055",
+        "title": "4.5.2 用二分法求方程的近似解",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.5.2_用二分法求方程的近似解/4.5.2_用二分法求方程的近似解.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4311,
+          "evidence": "Manual boundary for: 4.5.2 用二分法求方程的近似解",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-055"
+      },
+      {
+        "key": "node-056",
+        "title": "4.5.3 函数模型的应用",
+        "level": 3,
+        "output": "04-第四章_指数函数与对数函数/4.5.3_函数模型的应用/4.5.3_函数模型的应用.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4376,
+          "evidence": "Manual boundary for: 4.5.3 函数模型的应用",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-056"
+      },
+      {
+        "key": "node-057",
+        "title": "第4.5节综合训练",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/第4.5节综合训练/第4.5节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4441,
+          "evidence": "Manual boundary for: 第4.5节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-057"
+      },
+      {
+        "key": "node-058",
+        "title": "第四章素养检测",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/第四章素养检测/第四章素养检测.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4564,
+          "evidence": "Manual boundary for: 第四章素养检测",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-058"
+      },
+      {
+        "key": "node-059",
+        "title": "第四章高考强化",
+        "level": 2,
+        "output": "04-第四章_指数函数与对数函数/第四章高考强化/第四章高考强化.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4657,
+          "evidence": "Manual boundary for: 第四章高考强化",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-059"
+      },
+      {
+        "key": "node-060",
+        "title": "第五章 三角函数",
+        "level": 1,
+        "output": "05-第五章_三角函数/05-第五章_三角函数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4797,
+          "evidence": "Manual boundary for: 第五章 三角函数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-060"
+      },
+      {
+        "key": "node-061",
+        "title": "5.1 任意角和弧度制",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.1_任意角和弧度制/5.1_任意角和弧度制.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4799,
+          "evidence": "Manual boundary for: 5.1 任意角和弧度制",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-061"
+      },
+      {
+        "key": "node-062",
+        "title": "5.1.1 任意角",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.1.1_任意角/5.1.1_任意角.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4801,
+          "evidence": "Manual boundary for: 5.1.1 任意角",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-062"
+      },
+      {
+        "key": "node-063",
+        "title": "5.1.2 弧度制",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.1.2_弧度制/5.1.2_弧度制.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4875,
+          "evidence": "Manual boundary for: 5.1.2 弧度制",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-063"
+      },
+      {
+        "key": "node-064",
+        "title": "第5.1节综合训练",
+        "level": 2,
+        "output": "05-第五章_三角函数/第5.1节综合训练/第5.1节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 4979,
+          "evidence": "Manual boundary for: 第5.1节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-064"
+      },
+      {
+        "key": "node-065",
+        "title": "5.2 三角函数的概念",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.2_三角函数的概念/5.2_三角函数的概念.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5025,
+          "evidence": "Manual boundary for: 5.2 三角函数的概念",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-065"
+      },
+      {
+        "key": "node-066",
+        "title": "5.2.1 三角函数的概念",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.2.1_三角函数的概念/5.2.1_三角函数的概念.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5027,
+          "evidence": "Manual boundary for: 5.2.1 三角函数的概念",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-066"
+      },
+      {
+        "key": "node-067",
+        "title": "5.2.2 同角三角函数的基本关系",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.2.2_同角三角函数的基本关系/5.2.2_同角三角函数的基本关系.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5102,
+          "evidence": "Manual boundary for: 5.2.2 同角三角函数的基本关系",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-067"
+      },
+      {
+        "key": "node-068",
+        "title": "第5.2节综合训练",
+        "level": 2,
+        "output": "05-第五章_三角函数/第5.2节综合训练/第5.2节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5193,
+          "evidence": "Manual boundary for: 第5.2节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-068"
+      },
+      {
+        "key": "node-069",
+        "title": "5.3 诱导公式",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.3_诱导公式/5.3_诱导公式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5227,
+          "evidence": "Manual boundary for: 5.3 诱导公式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-069"
+      },
+      {
+        "key": "node-070",
+        "title": "5.4 三角函数的图象与性质",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.4_三角函数的图象与性质/5.4_三角函数的图象与性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5331,
+          "evidence": "Manual boundary for: 5.4 三角函数的图象与性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-070"
+      },
+      {
+        "key": "node-071",
+        "title": "5.4.1 正弦函数、余弦函数的图象",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.4.1_正弦函数_余弦函数的图象/5.4.1_正弦函数_余弦函数的图象.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5333,
+          "evidence": "Manual boundary for: 5.4.1 正弦函数、余弦函数的图象",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-071"
+      },
+      {
+        "key": "node-072",
+        "title": "5.4.2 正弦函数、余弦函数的性质",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.4.2_正弦函数_余弦函数的性质/5.4.2_正弦函数_余弦函数的性质.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5422,
+          "evidence": "Manual boundary for: 5.4.2 正弦函数、余弦函数的性质",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-072"
+      },
+      {
+        "key": "node-073",
+        "title": "课时1 正弦函数、余弦函数的性质(1)",
+        "level": 4,
+        "output": "05-第五章_三角函数/课时1_正弦函数_余弦函数的性质(1)/课时1_正弦函数_余弦函数的性质(1).md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5422,
+          "evidence": "Manual boundary for: 课时1 正弦函数、余弦函数的性质(1)",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-073"
+      },
+      {
+        "key": "node-074",
+        "title": "课时2 正弦函数、余弦函数的性质(2)",
+        "level": 4,
+        "output": "05-第五章_三角函数/课时2_正弦函数_余弦函数的性质(2)/课时2_正弦函数_余弦函数的性质(2).md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5532,
+          "evidence": "Manual boundary for: 课时2 正弦函数、余弦函数的性质(2)",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-074"
+      },
+      {
+        "key": "node-075",
+        "title": "5.4.3 正切函数的性质与图象",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.4.3_正切函数的性质与图象/5.4.3_正切函数的性质与图象.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5657,
+          "evidence": "Manual boundary for: 5.4.3 正切函数的性质与图象",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-075"
+      },
+      {
+        "key": "node-076",
+        "title": "第5.4节综合训练",
+        "level": 2,
+        "output": "05-第五章_三角函数/第5.4节综合训练/第5.4节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5766,
+          "evidence": "Manual boundary for: 第5.4节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-076"
+      },
+      {
+        "key": "node-077",
+        "title": "5.5 三角恒等变换",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.5_三角恒等变换/5.5_三角恒等变换.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5842,
+          "evidence": "Manual boundary for: 5.5 三角恒等变换",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-077"
+      },
+      {
+        "key": "node-078",
+        "title": "5.5.1 两角和与差的正弦、余弦和正切公式",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.5.1_两角和与差的正弦_余弦和正切公式/5.5.1_两角和与差的正弦_余弦和正切公式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5842,
+          "evidence": "Manual boundary for: 5.5.1 两角和与差的正弦、余弦和正切公式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-078"
+      },
+      {
+        "key": "node-079",
+        "title": "课时1 两角和与差的正弦、余弦和正切公式",
+        "level": 4,
+        "output": "05-第五章_三角函数/课时1_两角和与差的正弦_余弦和正切公式/课时1_两角和与差的正弦_余弦和正切公式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5842,
+          "evidence": "Manual boundary for: 课时1 两角和与差的正弦、余弦和正切公式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-079"
+      },
+      {
+        "key": "node-080",
+        "title": "课时2 二倍角的正弦、余弦、正切公式",
+        "level": 4,
+        "output": "05-第五章_三角函数/课时2_二倍角的正弦_余弦_正切公式/课时2_二倍角的正弦_余弦_正切公式.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5879,
+          "evidence": "Manual boundary for: 课时2 二倍角的正弦、余弦、正切公式",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-080"
+      },
+      {
+        "key": "node-081",
+        "title": "5.5.2 简单的三角恒等变换",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.5.2_简单的三角恒等变换/5.5.2_简单的三角恒等变换.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 5963,
+          "evidence": "Manual boundary for: 5.5.2 简单的三角恒等变换",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-081"
+      },
+      {
+        "key": "node-082",
+        "title": "第5.5节综合训练",
+        "level": 2,
+        "output": "05-第五章_三角函数/第5.5节综合训练/第5.5节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6054,
+          "evidence": "Manual boundary for: 第5.5节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-082"
+      },
+      {
+        "key": "node-083",
+        "title": "专题5 三角恒等变换",
+        "level": 2,
+        "output": "05-第五章_三角函数/专题5_三角恒等变换/专题5_三角恒等变换.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6109,
+          "evidence": "Manual boundary for: 专题5 三角恒等变换",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-083"
+      },
+      {
+        "key": "node-084",
+        "title": "5.6 函数 y=Asin(ωx+φ)",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.6_函数_y_A_sin_wx_phi/5.6_函数_y_A_sin_wx_phi.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6216,
+          "evidence": "Manual boundary for: 5.6 函数 y=Asin(ωx+φ)",
+          "reviewer_confirmed": true
+        },
+        "structural_only": true,
+        "emit_title": true,
+        "answer_context": "node-084"
+      },
+      {
+        "key": "node-085",
+        "title": "5.6.1 匀速圆周运动的数学模型 5.6.2 函数 y=Asin(ωx+φ) 的图象",
+        "level": 3,
+        "output": "05-第五章_三角函数/5.6.1_5.6.2_图象/5.6.1_5.6.2_图象.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6216,
+          "evidence": "Manual boundary for: 5.6.1 匀速圆周运动的数学模型 5.6.2 函数 y=Asin(ωx+φ) 的图象",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-085"
+      },
+      {
+        "key": "node-086",
+        "title": "第5.6节综合训练",
+        "level": 2,
+        "output": "05-第五章_三角函数/第5.6节综合训练/第5.6节综合训练.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6314,
+          "evidence": "Manual boundary for: 第5.6节综合训练",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-086"
+      },
+      {
+        "key": "node-087",
+        "title": "5.7 三角函数的应用",
+        "level": 2,
+        "output": "05-第五章_三角函数/5.7_三角函数的应用/5.7_三角函数的应用.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6373,
+          "evidence": "Manual boundary for: 5.7 三角函数的应用",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-087"
+      },
+      {
+        "key": "node-088",
+        "title": "第五章素养检测",
+        "level": 2,
+        "output": "05-第五章_三角函数/第五章素养检测/第五章素养检测.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6531,
+          "evidence": "Manual boundary for: 第五章素养检测",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-088"
+      },
+      {
+        "key": "node-089",
+        "title": "第五章高考强化",
+        "level": 2,
+        "output": "05-第五章_三角函数/第五章高考强化/第五章高考强化.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6627,
+          "evidence": "Manual boundary for: 第五章高考强化",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-089"
+      },
+      {
+        "key": "node-090",
+        "title": "高考新动向·新定义、新情境",
+        "level": 2,
+        "output": "06-高考新动向/高考新动向_新定义_新情境/高考新动向_新定义_新情境.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6748,
+          "evidence": "Manual boundary for: 高考新动向·新定义、新情境",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-090"
+      },
+      {
+        "key": "node-091",
+        "title": "高考新动向·链接高数",
+        "level": 2,
+        "output": "06-高考新动向/高考新动向_链接高数/高考新动向_链接高数.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6840,
+          "evidence": "Manual boundary for: 高考新动向·链接高数",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-091"
+      },
+      {
+        "key": "node-092",
+        "title": "强基计划",
+        "level": 2,
+        "output": "06-高考新动向/强基计划/强基计划.md",
+        "body_anchor": {
+          "kind": "reviewed-boundary",
+          "start_line": 6900,
+          "evidence": "Manual boundary for: 强基计划",
+          "reviewer_confirmed": true
+        },
+        "structural_only": false,
+        "emit_title": true,
+        "answer_context": "node-092"
+      }
+    ]
+  },
+  "content": {
+    "unknown_label_policy": "ignore",
+    "allow_zero_question_number": true,
+    "question_folder": "questions",
+    "question_title_template": "Question {number}",
+    "question_file_template": "Question_{number}_q{ordinal}_L{source_line}.md",
+    "functional_folder_template": "{title}",
+    "functional_file_template": "{title}_b{ordinal}.md",
+    "max_path_component_length": 60,
+    "max_path_length": 300,
+    "question_patterns": [
+      "^(?P<number>\\d+)[.．、]\\s*",
+      "^\\[(?P<number>\\d+)\\]\\s*",
+      "^【(?P<number>\\d+)】\\s*",
+      "^(?P<number>[一二三四五六七八九十]+)[.．、]\\s*"
+    ],
+    "roles": [
+      {
+        "role": "category",
+        "depth": 1,
+        "pattern": "^(刷基础|刷提升|刷易错|刷能力|刷难关|刷真题|刷原创|刷速度|刷素养|刷综合|基础|狂K速览)$",
+        "answer_context_template": "{note_key}:{title}"
+      },
+      {
+        "role": "question-type",
+        "depth": 2,
+        "pattern": "^(?P<title>题型\\s*\\d+.*|易错点\\s*\\d+.*|考点\\s*\\d+.*|专题\\s*\\d+.*|一、[^:：\\.\\s]*|二、[^:：\\.\\s]*|三、[^:：\\.\\s]*|四、[^:：\\.\\s]*|专练\\s*\\d+.*)"
+      }
+    ]
+  },
+  "answers": {
+    "source_role": "answers",
+    "contexts": [
+      {
+        "key": "node-002",
+        "start_line": 15
+      },
+      {
+        "key": "node-002",
+        "start_line": 17
+      },
+      {
+        "key": "node-002:刷基础",
+        "start_line": 19
+      },
+      {
+        "key": "node-002:刷易错",
+        "start_line": 97
+      },
+      {
+        "key": "node-002:刷基础",
+        "start_line": 124
+      },
+      {
+        "key": "node-002:刷素养",
+        "start_line": 142
+      },
+      {
+        "key": "node-003",
+        "start_line": 148
+      },
+      {
+        "key": "node-003:刷易错",
+        "start_line": 185
+      },
+      {
+        "key": "node-003:刷基础",
+        "start_line": 268
+      },
+      {
+        "key": "node-003:刷素养",
+        "start_line": 300
+      },
+      {
+        "key": "node-004",
+        "start_line": 307
+      },
+      {
+        "key": "node-004:刷易错",
+        "start_line": 328
+      },
+      {
+        "key": "node-004:刷提升",
+        "start_line": 348
+      },
+      {
+        "key": "node-004:刷能力",
+        "start_line": 394
+      },
+      {
+        "key": "node-005",
+        "start_line": 424
+      },
+      {
+        "key": "node-005:刷素养",
+        "start_line": 452
+      },
+      {
+        "key": "node-005:刷难关",
+        "start_line": 469
+      },
+      {
+        "key": "node-006",
+        "start_line": 493
+      },
+      {
+        "key": "node-008",
+        "start_line": 558
+      },
+      {
+        "key": "node-008:刷基础",
+        "start_line": 560
+      },
+      {
+        "key": "node-008:刷易错",
+        "start_line": 688
+      },
+      {
+        "key": "node-009",
+        "start_line": 710
+      },
+      {
+        "key": "node-009:刷能力",
+        "start_line": 712
+      },
+      {
+        "key": "node-011",
+        "start_line": 763
+      },
+      {
+        "key": "node-011:刷基础",
+        "start_line": 765
+      },
+      {
+        "key": "node-011",
+        "start_line": 791
+      },
+      {
+        "key": "node-012",
+        "start_line": 805
+      },
+      {
+        "key": "node-012:刷基础",
+        "start_line": 807
+      },
+      {
+        "key": "node-012:刷易错",
+        "start_line": 837
+      },
+      {
+        "key": "node-013",
+        "start_line": 855
+      },
+      {
+        "key": "node-013:刷能力",
+        "start_line": 857
+      },
+      {
+        "key": "node-013:刷速度",
+        "start_line": 868
+      },
+      {
+        "key": "node-014",
+        "start_line": 918
+      },
+      {
+        "key": "node-014:刷素养",
+        "start_line": 944
+      },
+      {
+        "key": "node-014:刷真题",
+        "start_line": 1050
+      },
+      {
+        "key": "node-015",
+        "start_line": 1072
+      },
+      {
+        "key": "node-015:刷原创",
+        "start_line": 1143
+      },
+      {
+        "key": "node-015:刷基础",
+        "start_line": 1159
+      },
+      {
+        "key": "node-017",
+        "start_line": 1185
+      },
+      {
+        "key": "node-017",
+        "start_line": 1187
+      },
+      {
+        "key": "node-017:刷易错",
+        "start_line": 1207
+      },
+      {
+        "key": "node-017:刷能力",
+        "start_line": 1221
+      },
+      {
+        "key": "node-017:刷基础",
+        "start_line": 1250
+      },
+      {
+        "key": "node-018",
+        "start_line": 1269
+      },
+      {
+        "key": "node-018:刷能力",
+        "start_line": 1423
+      },
+      {
+        "key": "node-018:刷难关",
+        "start_line": 1475
+      },
+      {
+        "key": "node-018:刷素养",
+        "start_line": 1493
+      },
+      {
+        "key": "node-018:刷基础",
+        "start_line": 1523
+      },
+      {
+        "key": "node-018:刷易错",
+        "start_line": 1645
+      },
+      {
+        "key": "node-018:刷能力",
+        "start_line": 1664
+      },
+      {
+        "key": "node-018:刷速度",
+        "start_line": 1717
+      },
+      {
+        "key": "node-018:刷素养",
+        "start_line": 1731
+      },
+      {
+        "key": "node-021",
+        "start_line": 1735
+      },
+      {
+        "key": "node-021:刷真题",
+        "start_line": 1824
+      },
+      {
+        "key": "node-022",
+        "start_line": 1852
+      },
+      {
+        "key": "node-022:刷原创",
+        "start_line": 1866
+      },
+      {
+        "key": "node-025",
+        "start_line": 1890
+      },
+      {
+        "key": "node-025:刷基础",
+        "start_line": 1892
+      },
+      {
+        "key": "node-025",
+        "start_line": 1916
+      },
+      {
+        "key": "node-025",
+        "start_line": 1918
+      },
+      {
+        "key": "node-025:刷提升",
+        "start_line": 2037
+      },
+      {
+        "key": "node-025:刷素养",
+        "start_line": 2091
+      },
+      {
+        "key": "node-026",
+        "start_line": 2100
+      },
+      {
+        "key": "node-026:刷基础",
+        "start_line": 2102
+      },
+      {
+        "key": "node-026:刷易错",
+        "start_line": 2209
+      },
+      {
+        "key": "node-026:刷提升",
+        "start_line": 2222
+      },
+      {
+        "key": "node-026:刷素养",
+        "start_line": 2290
+      },
+      {
+        "key": "node-030",
+        "start_line": 2324
+      },
+      {
+        "key": "node-030:刷基础",
+        "start_line": 2326
+      },
+      {
+        "key": "node-030",
+        "start_line": 2349
+      },
+      {
+        "key": "node-030:刷易错",
+        "start_line": 2413
+      },
+      {
+        "key": "node-031",
+        "start_line": 2431
+      },
+      {
+        "key": "node-031:刷基础",
+        "start_line": 2433
+      },
+      {
+        "key": "node-031:刷易错",
+        "start_line": 2515
+      },
+      {
+        "key": "node-031:刷提升",
+        "start_line": 2533
+      },
+      {
+        "key": "node-031:刷素养",
+        "start_line": 2587
+      },
+      {
+        "key": "node-032",
+        "start_line": 2599
+      },
+      {
+        "key": "node-032:刷基础",
+        "start_line": 2601
+      },
+      {
+        "key": "node-032:刷易错",
+        "start_line": 2707
+      },
+      {
+        "key": "node-032:刷提升",
+        "start_line": 2727
+      },
+      {
+        "key": "node-032:刷素养",
+        "start_line": 2779
+      },
+      {
+        "key": "node-032:刷能力",
+        "start_line": 2783
+      },
+      {
+        "key": "node-034",
+        "start_line": 2851
+      },
+      {
+        "key": "node-034:刷难关",
+        "start_line": 2853
+      },
+      {
+        "key": "node-034:刷基础",
+        "start_line": 2985
+      },
+      {
+        "key": "node-035",
+        "start_line": 3007
+      },
+      {
+        "key": "node-035:刷易错",
+        "start_line": 3074
+      },
+      {
+        "key": "node-035:刷能力",
+        "start_line": 3110
+      },
+      {
+        "key": "node-035:刷基础",
+        "start_line": 3147
+      },
+      {
+        "key": "node-036",
+        "start_line": 3166
+      },
+      {
+        "key": "node-036:刷易错",
+        "start_line": 3230
+      },
+      {
+        "key": "node-036:刷能力",
+        "start_line": 3238
+      },
+      {
+        "key": "node-036:刷速度",
+        "start_line": 3262
+      },
+      {
+        "key": "node-037",
+        "start_line": 3285
+      },
+      {
+        "key": "node-037:刷真题",
+        "start_line": 3375
+      },
+      {
+        "key": "node-038",
+        "start_line": 3396
+      },
+      {
+        "key": "node-038:刷原创",
+        "start_line": 3460
+      },
+      {
+        "key": "node-041",
+        "start_line": 3483
+      },
+      {
+        "key": "node-041",
+        "start_line": 3514
+      },
+      {
+        "key": "node-041",
+        "start_line": 3516
+      },
+      {
+        "key": "node-041:刷提升",
+        "start_line": 3553
+      },
+      {
+        "key": "node-043",
+        "start_line": 3563
+      },
+      {
+        "key": "node-043:刷基础",
+        "start_line": 3565
+      },
+      {
+        "key": "node-043",
+        "start_line": 3589
+      },
+      {
+        "key": "node-043:刷基础",
+        "start_line": 3642
+      },
+      {
+        "key": "node-043:刷易错",
+        "start_line": 3704
+      },
+      {
+        "key": "node-043:刷提升",
+        "start_line": 3744
+      },
+      {
+        "key": "node-043:刷能力",
+        "start_line": 3783
+      },
+      {
+        "key": "node-045",
+        "start_line": 3798
+      },
+      {
+        "key": "node-047",
+        "start_line": 3854
+      },
+      {
+        "key": "node-047",
+        "start_line": 3856
+      },
+      {
+        "key": "node-047:刷基础",
+        "start_line": 3858
+      },
+      {
+        "key": "node-047",
+        "start_line": 3877
+      },
+      {
+        "key": "node-047:刷素养",
+        "start_line": 3884
+      },
+      {
+        "key": "node-047:刷易错",
+        "start_line": 3919
+      },
+      {
+        "key": "node-047:刷提升",
+        "start_line": 3929
+      },
+      {
+        "key": "node-049",
+        "start_line": 3962
+      },
+      {
+        "key": "node-049",
+        "start_line": 3964
+      },
+      {
+        "key": "node-049:刷基础",
+        "start_line": 3966
+      },
+      {
+        "key": "node-049",
+        "start_line": 3990
+      },
+      {
+        "key": "node-049:刷素养",
+        "start_line": 4195
+      },
+      {
+        "key": "node-050",
+        "start_line": 4210
+      },
+      {
+        "key": "node-050:刷基础",
+        "start_line": 4212
+      },
+      {
+        "key": "node-050:刷能力",
+        "start_line": 4216
+      },
+      {
+        "key": "node-050:刷易错",
+        "start_line": 4255
+      },
+      {
+        "key": "node-050:刷难关",
+        "start_line": 4282
+      },
+      {
+        "key": "node-054",
+        "start_line": 4401
+      },
+      {
+        "key": "node-054",
+        "start_line": 4427
+      },
+      {
+        "key": "node-054:刷素养",
+        "start_line": 4643
+      },
+      {
+        "key": "node-055",
+        "start_line": 4668
+      },
+      {
+        "key": "node-056",
+        "start_line": 4695
+      },
+      {
+        "key": "node-056:刷易错",
+        "start_line": 4741
+      },
+      {
+        "key": "node-056:刷提升",
+        "start_line": 4753
+      },
+      {
+        "key": "node-056:刷能力",
+        "start_line": 4777
+      },
+      {
+        "key": "node-056:刷速度",
+        "start_line": 4891
+      },
+      {
+        "key": "node-058",
+        "start_line": 4907
+      },
+      {
+        "key": "node-058:刷真题",
+        "start_line": 5053
+      },
+      {
+        "key": "node-059",
+        "start_line": 5057
+      },
+      {
+        "key": "node-059:刷原创",
+        "start_line": 5213
+      },
+      {
+        "key": "node-062",
+        "start_line": 5234
+      },
+      {
+        "key": "node-062",
+        "start_line": 5236
+      },
+      {
+        "key": "node-062",
+        "start_line": 5238
+      },
+      {
+        "key": "node-062:刷基础",
+        "start_line": 5240
+      },
+      {
+        "key": "node-062:刷易错",
+        "start_line": 5296
+      },
+      {
+        "key": "node-063",
+        "start_line": 5304
+      },
+      {
+        "key": "node-063:刷基础",
+        "start_line": 5306
+      },
+      {
+        "key": "node-063:刷易错",
+        "start_line": 5401
+      },
+      {
+        "key": "node-064",
+        "start_line": 5428
+      },
+      {
+        "key": "node-064:刷能力",
+        "start_line": 5430
+      },
+      {
+        "key": "node-066",
+        "start_line": 5466
+      },
+      {
+        "key": "node-066:刷基础",
+        "start_line": 5468
+      },
+      {
+        "key": "node-066",
+        "start_line": 5492
+      },
+      {
+        "key": "node-066:刷易错",
+        "start_line": 5525
+      },
+      {
+        "key": "node-067",
+        "start_line": 5539
+      },
+      {
+        "key": "node-067:刷易错",
+        "start_line": 5623
+      },
+      {
+        "key": "node-068",
+        "start_line": 5637
+      },
+      {
+        "key": "node-068:刷基础",
+        "start_line": 5671
+      },
+      {
+        "key": "node-069",
+        "start_line": 5685
+      },
+      {
+        "key": "node-069:刷易错",
+        "start_line": 5755
+      },
+      {
+        "key": "node-071",
+        "start_line": 5763
+      },
+      {
+        "key": "node-071:刷提升",
+        "start_line": 5831
+      },
+      {
+        "key": "node-071:刷易错",
+        "start_line": 5885
+      },
+      {
+        "key": "node-071:刷易错",
+        "start_line": 5941
+      },
+      {
+        "key": "node-071:刷易错",
+        "start_line": 5996
+      },
+      {
+        "key": "node-075",
+        "start_line": 6108
+      },
+      {
+        "key": "node-075:刷素养",
+        "start_line": 6212
+      },
+      {
+        "key": "node-076",
+        "start_line": 6217
+      },
+      {
+        "key": "node-076:刷能力",
+        "start_line": 6219
+      },
+      {
+        "key": "node-076:刷基础",
+        "start_line": 6310
+      },
+      {
+        "key": "node-079",
+        "start_line": 6326
+      },
+      {
+        "key": "node-079:刷提升",
+        "start_line": 6376
+      },
+      {
+        "key": "node-079:刷易错",
+        "start_line": 6489
+      },
+      {
+        "key": "node-080",
+        "start_line": 6520
+      },
+      {
+        "key": "node-080:刷提升",
+        "start_line": 6584
+      },
+      {
+        "key": "node-080:刷易错",
+        "start_line": 6627
+      },
+      {
+        "key": "node-081",
+        "start_line": 6637
+      },
+      {
+        "key": "node-081:刷基础",
+        "start_line": 6639
+      },
+      {
+        "key": "node-081:刷易错",
+        "start_line": 6687
+      },
+      {
+        "key": "node-082",
+        "start_line": 6694
+      },
+      {
+        "key": "node-082:刷能力",
+        "start_line": 6696
+      },
+      {
+        "key": "node-082:刷素养",
+        "start_line": 6771
+      },
+      {
+        "key": "node-082:刷难关",
+        "start_line": 6794
+      },
+      {
+        "key": "node-083",
+        "start_line": 6811
+      },
+      {
+        "key": "node-085",
+        "start_line": 6844
+      },
+      {
+        "key": "node-085:刷易错",
+        "start_line": 6973
+      },
+      {
+        "key": "node-086",
+        "start_line": 7004
+      },
+      {
+        "key": "node-086:刷能力",
+        "start_line": 7006
+      },
+      {
+        "key": "node-086:刷基础",
+        "start_line": 7060
+      },
+      {
+        "key": "node-087",
+        "start_line": 7069
+      },
+      {
+        "key": "node-087:刷能力",
+        "start_line": 7144
+      },
+      {
+        "key": "node-087:刷易错",
+        "start_line": 7192
+      },
+      {
+        "key": "node-087:刷速度",
+        "start_line": 7206
+      },
+      {
+        "key": "node-088",
+        "start_line": 7230
+      },
+      {
+        "key": "node-088:刷真题",
+        "start_line": 7351
+      },
+      {
+        "key": "node-089",
+        "start_line": 7365
+      },
+      {
+        "key": "node-089:刷原创",
+        "start_line": 7473
+      },
+      {
+        "key": "node-089:刷素养",
+        "start_line": 7498
+      },
+      {
+        "key": "node-089:刷素养",
+        "start_line": 7636
+      },
+      {
+        "key": "node-089:刷综合",
+        "start_line": 7690
+      }
+    ],
+    "ignore_ranges": [
+      {
+        "start_line": 1,
+        "end_line": 14
+      }
+    ],
+    "answer_patterns": [
+      "^(?P<number>\\d+)[.．、]\\s*",
+      "^\\[(?P<number>\\d+)\\]\\s*",
+      "^【(?P<number>\\d+)】\\s*"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "status": "downloaded",
+  "role": "answers",
+  "source_sha256": "36ea7c69adb39feb2b5a0b2e95eef452740914e37bb5356ebb97fa13efb3434f",
+  "batch_id": "b03c0887-d99b-4798-9a28-98107bab8673",
+  "data_ids": [
+    "2026.c897ee3c0292f026.001-of-002",
+    "2026.c897ee3c0292f026.002-of-002"
+  ]
+}

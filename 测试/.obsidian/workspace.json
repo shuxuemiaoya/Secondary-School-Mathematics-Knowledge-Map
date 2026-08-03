@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "eae02117805d46df",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d2ed1d0e1e03139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c311d2c88c9be3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd541198366a7673",
+    "type": "split",
+    "children": [
+      {
+        "id": "6596270b7509a933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8908fbc2fe03d332",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a0a8d8187e26362e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cdb36e88f3af1b85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "5310292bacb22968",
+    "type": "split",
+    "children": [
+      {
+        "id": "446a2570fd8fb433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37a7d73c5f65e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test/课本/【人教版】高中必修 第一册数学电子课本/知识点/1.5.1 全称量词与存在量词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.5.1 全称量词与存在量词 的反向链接列表"
+            }
+          },
+          {
+            "id": "f7e825e78b00f46c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test/课本/【人教版】高中必修 第一册数学电子课本/知识点/1.5.1 全称量词与存在量词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.5.1 全称量词与存在量词 的出链列表"
+            }
+          },
+          {
+            "id": "53a3c359a59c798b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9594524343fe0b06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ade34cb12d5eca4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test/课本/【人教版】高中必修 第一册数学电子课本/知识点/1.5.1 全称量词与存在量词.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.5.1 全称量词与存在量词 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8908fbc2fe03d332",
+  "lastOpenFiles": [
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/刷素养/刷素养_b12.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/刷易错/刷易错_b8.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/基础_b1.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/刷易错/易错点3 认为分式不等式与二次不等式等价致错/易错点3 认为分式不等式与二次不等式等价致错_b11.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/刷易错/易错点 2 随意消项致错/易错点 2 随意消项致错_b10.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/刷易错/易错点 1 忽略二次项系数的讨论而致错/易错点 1 忽略二次项系数的讨论而致错_b9.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/题型6 一元二次不等式的实际应用/题型6 一元二次不等式的实际应用_b7.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/题型5 与一元二次不等式有关的恒成立与有解问题/题型5 与一元二次不等式有关的恒成立与有解问题_b6.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/题型 4 分式不等式及高次不等式的解法/题型 4 分式不等式及高次不等式的解法_b5.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/题型 3 三个“二次”之间的关系/题型 3 三个“二次”之间的关系_b4.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/2.3_二次函数与一元二次方程_不等式/基础/题型 2 含参数的一元二次不等式的解法/题型 2 含参数的一元二次不等式的解法_b3.md",
+    "新建文件夹/graph/05-第五章_三角函数/05-第五章_三角函数.md",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/04-第四章_指数函数与对数函数.md",
+    "新建文件夹/graph/03-第三章_函数的概念与性质/03-第三章_函数的概念与性质.md",
+    "新建文件夹/graph/02-第二章_一元二次函数_方程和不等式/02-第二章_一元二次函数_方程和不等式.md",
+    "新建文件夹/graph/01-第一章_集合与常用逻辑用语/01-第一章_集合与常用逻辑用语.md",
+    "新建文件夹/graph/06-高考新动向/强基计划/强基计划.md",
+    "新建文件夹/graph/06-高考新动向/高考新动向_链接高数/高考新动向_链接高数.md",
+    "新建文件夹/graph/06-高考新动向/高考新动向_新定义_新情境/高考新动向_新定义_新情境.md",
+    "新建文件夹/graph/05-第五章_三角函数/第五章高考强化/第五章高考强化.md",
+    "新建文件夹/graph/05-第五章_三角函数/第五章素养检测/第五章素养检测.md",
+    "新建文件夹/graph/05-第五章_三角函数/5.7_三角函数的应用/5.7_三角函数的应用.md",
+    "新建文件夹/graph/05-第五章_三角函数/第5.6节综合训练/第5.6节综合训练.md",
+    "新建文件夹/graph/05-第五章_三角函数/5.6_函数_y_A_sin_wx_phi/5.6_函数_y_A_sin_wx_phi.md",
+    "新建文件夹/graph/05-第五章_三角函数/5.6_函数_y_A_sin_wx_phi",
+    "新建文件夹/graph/05-第五章_三角函数/专题5_三角恒等变换/专题5_三角恒等变换.md",
+    "新建文件夹/graph/05-第五章_三角函数/第5.5节综合训练/第5.5节综合训练.md",
+    "新建文件夹/graph/05-第五章_三角函数/5.5_三角恒等变换",
+    "新建文件夹/graph/05-第五章_三角函数/5.4_三角函数的图象与性质",
+    "新建文件夹/graph/05-第五章_三角函数/5.2_三角函数的概念",
+    "新建文件夹/graph/05-第五章_三角函数/5.1_任意角和弧度制",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/4.5_函数的应用(二)",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/4.4_对数函数",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/4.3_对数",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/4.2_指数函数",
+    "新建文件夹/graph/04-第四章_指数函数与对数函数/4.1_指数",
+    "新建文件夹/graph/2026版 高中必刷题数学必修第一册.canvas",
+    "新建文件夹/graph/images/answers/part-001/9beba8eddb3eb2e93b13a209188c50c6649a00808d3613b15977482f7e96e8a1.jpg",
+    "新建文件夹/graph/images/answers/part-001/d700256621677e12ce50edc089145e0de99f7e73e9bf9b0c49d3c8d5bd141bc3.jpg",
+    "新建文件夹/graph/images/answers/part-001/d6f9df08358ebd1d7cf6310884aff11e4fc42375de5c004c97976fe35ffa1dbb.jpg",
+    "新建文件夹/graph/images/answers/part-001/9bc6ba5cbe89e84763b03e9d619a6396734af2a6d8e0cc42c172b5b6a6ee3e8b.jpg",
+    "新建文件夹/graph/images/answers/part-001/97fe3264ad2f9a2f1cf308f7a494fcd6edc07deb2a375508287ec040cccf4885.jpg",
+    "新建文件夹/graph/images/answers/part-001/8e415569aaec1fb1a02fdb84808ff24c967d9e813fcd5c1a22981be2f80d22d0.jpg",
+    "新建文件夹/graph/images/answers/part-001/f6824658c804b705b153bdafbf9bccd1c60d5f3355e12aff4fbc1214a0fdad57.jpg",
+    "新建文件夹/graph/images/answers/part-001/d213d6c9901b1968e6343a0ab35affac2f3668d422e65a96ce4bb3ee44213c3d.jpg",
+    "新建文件夹/graph/images/answers/part-001/d15250903bd62a230d5e3e643251162fb6ae89ddb4c79aa9c8a8aa4779f302ab.jpg",
+    "新建文件夹/graph/images/answers/part-001/d10df9e2865cc3213e187e625ce40f628164f33d0434efa80e4d228af20944fd.jpg",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本.canvas",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/【人教版】高中选择性必修 第一册数学电子课本.canvas",
+    "回归测试/课本/【人教版】高中选择性必修 第一册数学电子课本/【人教版】高中选择性必修 第一册数学电子课本.canvas",
+    "test/课本/【人教版】高中必修 第一册数学电子课本/【人教版】高中必修 第一册数学电子课本.canvas"
+  ]
+}

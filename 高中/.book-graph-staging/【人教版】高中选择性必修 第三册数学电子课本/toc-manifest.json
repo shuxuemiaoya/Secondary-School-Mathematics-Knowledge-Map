@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "input_markdown_sha256": "aea8951938622139d1741fb4ff75610ec01ec2cd2c12eca8a5a499af4880c6ce",
+  "toc_source_ranges": [
+    {
+      "start_line": 87,
+      "end_line": 128
+    }
+  ],
+  "entries": [
+    {
+      "key": "toc-001",
+      "title": "第六章 计数原理",
+      "level": 1,
+      "category": "knowledge",
+      "filename": "第六章 计数原理.md",
+      "aliases": [
+        "计数原理"
+      ]
+    },
+    {
+      "key": "toc-002",
+      "title": "6.1 分类加法计数原理与分步乘法计数原理",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "6.1 分类加法计数原理与分步乘法计数原理.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-003",
+      "title": "探究与发现 子集的个数有多少",
+      "level": 2,
+      "category": "method",
+      "filename": "探究与发现 子集的个数有多少.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-004",
+      "title": "6.2 排列与组合",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "6.2 排列与组合.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-005",
+      "title": "探究与发现 组合数的两个性质",
+      "level": 2,
+      "category": "method",
+      "filename": "探究与发现 组合数的两个性质.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-006",
+      "title": "6.3 二项式定理",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "6.3 二项式定理.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-007",
+      "title": "小结",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "第六章 小结.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-008",
+      "title": "复习参考题6",
+      "level": 2,
+      "category": "exercise",
+      "filename": "复习参考题 6.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-009",
+      "title": "数学探究 杨辉三角的性质与应用",
+      "level": 1,
+      "category": "method",
+      "filename": "数学探究 杨辉三角的性质与应用.md",
+      "aliases": [
+        "杨辉三角的性质与应用"
+      ]
+    },
+    {
+      "key": "toc-010",
+      "title": "第七章 随机变量及其分布",
+      "level": 1,
+      "category": "knowledge",
+      "filename": "第七章 随机变量及其分布.md",
+      "aliases": [
+        "随机变量及其分布"
+      ]
+    },
+    {
+      "key": "toc-011",
+      "title": "7.1 条件概率与全概率公式",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "7.1 条件概率与全概率公式.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-012",
+      "title": "阅读与思考 贝叶斯公式与人工智能",
+      "level": 2,
+      "category": "reading",
+      "filename": "阅读与思考 贝叶斯公式与人工智能.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-013",
+      "title": "7.2 离散型随机变量及其分布列",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "7.2 离散型随机变量及其分布列.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-014",
+      "title": "7.3 离散型随机变量的数字特征",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "7.3 离散型随机变量的数字特征.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-015",
+      "title": "7.4 二项分布与超几何分布",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "7.4 二项分布与超几何分布.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-016",
+      "title": "探究与发现 二项分布的性质",
+      "level": 2,
+      "category": "method",
+      "filename": "探究与发现 二项分布的性质.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-017",
+      "title": "7.5 正态分布",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "7.5 正态分布.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-018",
+      "title": "信息技术应用 概率分布图及概率计算",
+      "level": 2,
+      "category": "tool",
+      "filename": "信息技术应用 概率分布图及概率计算.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-019",
+      "title": "小结",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "第七章 小结.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-020",
+      "title": "复习参考题7",
+      "level": 2,
+      "category": "exercise",
+      "filename": "复习参考题 7.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-021",
+      "title": "第八章 成对数据的统计分析",
+      "level": 1,
+      "category": "knowledge",
+      "filename": "第八章 成对数据的统计分析.md",
+      "aliases": [
+        "成对数据的统计分析"
+      ]
+    },
+    {
+      "key": "toc-022",
+      "title": "8.1 成对数据的统计相关性",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "8.1 成对数据的统计相关性.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-023",
+      "title": "8.2 一元线性回归模型及其应用",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "8.2 一元线性回归模型及其应用.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-024",
+      "title": "阅读与思考 回归与相关",
+      "level": 2,
+      "category": "reading",
+      "filename": "阅读与思考 回归与相关.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-025",
+      "title": "8.3 列联表与独立性检验",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "8.3 列联表与独立性检验.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-026",
+      "title": "小结",
+      "level": 2,
+      "category": "knowledge",
+      "filename": "第八章 小结.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-027",
+      "title": "复习参考题8",
+      "level": 2,
+      "category": "exercise",
+      "filename": "复习参考题 8.md",
+      "aliases": []
+    },
+    {
+      "key": "toc-028",
+      "title": "数学建模 建立统计模型进行预测",
+      "level": 1,
+      "category": "method",
+      "filename": "数学建模 建立统计模型进行预测.md",
+      "aliases": [
+        "建立统计模型进行预测"
+      ]
+    },
+    {
+      "key": "toc-029",
+      "title": "部分中英文词汇索引",
+      "level": 1,
+      "category": "root",
+      "filename": "部分中英文词汇索引.md",
+      "aliases": []
+    }
+  ]
+}

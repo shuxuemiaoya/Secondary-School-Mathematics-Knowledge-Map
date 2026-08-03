@@ -1,0 +1,509 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384",
+  "concepts": [
+    {
+      "name": "数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "数列的项",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/数列的项.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "首项",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/首项.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "有穷数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/有穷数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "无穷数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/无穷数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "递增数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/递增数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 50,
+          "end_line": 50
+        }
+      ]
+    },
+    {
+      "name": "递减数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/递减数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 50,
+          "end_line": 50
+        }
+      ]
+    },
+    {
+      "name": "常数列",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/常数列.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 50,
+          "end_line": 50
+        }
+      ]
+    },
+    {
+      "name": "通项公式",
+      "definition_source": "知识点/数列、函数表示与通项公式.md",
+      "definition_unit": "reviewed-range-00147",
+      "target": "概念/通项公式.md",
+      "linked_from": [
+        "知识点/数列、函数表示与通项公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 52,
+          "end_line": 52
+        }
+      ]
+    },
+    {
+      "name": "递推公式",
+      "definition_source": "知识点/数列的递推公式.md",
+      "definition_unit": "reviewed-range-00306",
+      "target": "概念/递推公式.md",
+      "linked_from": [
+        "知识点/数列的递推公式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "数列的前 n 项和",
+      "definition_source": "知识点/数列的前 n 项和.md",
+      "definition_unit": "reviewed-range-00342",
+      "target": "概念/数列的前 n 项和.md",
+      "linked_from": [
+        "知识点/数列的前 n 项和.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        },
+        {
+          "start_line": 7,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "等差数列",
+      "definition_source": "知识点/4.2.1 等差数列的概念.md",
+      "definition_unit": "semantic-00504",
+      "target": "概念/等差数列.md",
+      "linked_from": [
+        "知识点/4.2.1 等差数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 63,
+          "end_line": 63
+        }
+      ]
+    },
+    {
+      "name": "等差数列的公差",
+      "definition_source": "知识点/4.2.1 等差数列的概念.md",
+      "definition_unit": "semantic-00504",
+      "target": "概念/等差数列的公差.md",
+      "linked_from": [
+        "知识点/4.2.1 等差数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 63,
+          "end_line": 63
+        }
+      ]
+    },
+    {
+      "name": "等差中项",
+      "definition_source": "知识点/4.2.1 等差数列的概念.md",
+      "definition_unit": "semantic-00504",
+      "target": "概念/等差中项.md",
+      "linked_from": [
+        "知识点/4.2.1 等差数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 65,
+          "end_line": 65
+        }
+      ]
+    },
+    {
+      "name": "等比数列",
+      "definition_source": "知识点/4.3.1 等比数列的概念.md",
+      "definition_unit": "semantic-01267",
+      "target": "概念/等比数列.md",
+      "linked_from": [
+        "知识点/4.3.1 等比数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 67,
+          "end_line": 67
+        }
+      ]
+    },
+    {
+      "name": "等比数列的公比",
+      "definition_source": "知识点/4.3.1 等比数列的概念.md",
+      "definition_unit": "semantic-01267",
+      "target": "概念/等比数列的公比.md",
+      "linked_from": [
+        "知识点/4.3.1 等比数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 67,
+          "end_line": 67
+        }
+      ]
+    },
+    {
+      "name": "等比中项",
+      "definition_source": "知识点/4.3.1 等比数列的概念.md",
+      "definition_unit": "semantic-01267",
+      "target": "概念/等比中项.md",
+      "linked_from": [
+        "知识点/4.3.1 等比数列的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 69,
+          "end_line": 69
+        }
+      ]
+    },
+    {
+      "name": "数学归纳法",
+      "definition_source": "知识点/4.4 数学归纳法.md",
+      "definition_unit": "node-toc-007",
+      "target": "概念/数学归纳法.md",
+      "linked_from": [
+        "知识点/4.4 数学归纳法.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 81,
+          "end_line": 87
+        }
+      ]
+    },
+    {
+      "name": "瞬时速度",
+      "definition_source": "知识点/5.1.1 变化率问题.md",
+      "definition_unit": "semantic-02774",
+      "target": "概念/瞬时速度.md",
+      "linked_from": [
+        "知识点/5.1.1 变化率问题.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 39,
+          "end_line": 39
+        }
+      ]
+    },
+    {
+      "name": "平均变化率",
+      "definition_source": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "definition_unit": "semantic-02936",
+      "target": "概念/平均变化率.md",
+      "linked_from": [
+        "知识点/5.1.2 导数的概念及其几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 11,
+          "end_line": 17
+        }
+      ]
+    },
+    {
+      "name": "函数在一点处可导",
+      "definition_source": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "definition_unit": "semantic-02936",
+      "target": "概念/函数在一点处可导.md",
+      "linked_from": [
+        "知识点/5.1.2 导数的概念及其几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "导数",
+      "definition_source": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "definition_unit": "semantic-02936",
+      "target": "概念/导数.md",
+      "linked_from": [
+        "知识点/5.1.2 导数的概念及其几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "瞬时变化率",
+      "definition_source": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "definition_unit": "semantic-02936",
+      "target": "概念/瞬时变化率.md",
+      "linked_from": [
+        "知识点/5.1.2 导数的概念及其几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "曲线的切线",
+      "definition_source": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "definition_unit": "semantic-02936",
+      "target": "概念/曲线的切线.md",
+      "linked_from": [
+        "知识点/5.1.2 导数的概念及其几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 135,
+          "end_line": 135
+        }
+      ]
+    },
+    {
+      "name": "极小值点",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极小值点.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "极小值",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极小值.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "极大值点",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极大值点.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "极大值",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极大值.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "极值点",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极值点.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "极值",
+      "definition_source": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "definition_unit": "semantic-04024",
+      "target": "概念/极值.md",
+      "linked_from": [
+        "知识点/5.3.2 函数的极值与最大（小）值.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "name": "前 n 项和公式",
+      "reason": "Reviewed naming sentence contains no complete defining equation in a compact source range."
+    },
+    {
+      "name": "极限",
+      "reason": "The located occurrences define only the limit in two concrete examples, not the general concept."
+    },
+    {
+      "name": "第二数学归纳法",
+      "reason": "The only defining occurrence is embedded in a review exercise rather than the lesson definition flow."
+    },
+    {
+      "name": "斐波那契数列",
+      "reason": "The located occurrence is a reading/example label and does not provide a complete formal definition in the same compact range."
+    }
+  ]
+}

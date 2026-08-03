@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\question-type-profile.json",
+  "status": "active",
+  "created_at": "2026-08-03T09:16:45.636605+00:00",
+  "updated_at": "2026-08-03T09:58:59.540211+00:00",
+  "stages": {
+    "intake": {
+      "status": "completed",
+      "attempts": 1,
+      "completed_at": "2026-08-03T09:16:45.636635+00:00"
+    },
+    "pdf-conversion": {
+      "status": "completed",
+      "attempts": 11,
+      "started_at": "2026-08-03T09:58:35.690323+00:00",
+      "artifacts": [
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\raw\\questions.raw.md",
+          "sha256": "3dd80ded34d534dc084da540b199c69d8c0ebf5d31ca2e947fe403bb63ac0886"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\raw\\answers.raw.md",
+          "sha256": "1c2af98936eee7e953bf232e8b23fda9ed904dce690cb69257aeebe7fb3ba525"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\questions-conversion-report.json",
+          "sha256": "9f734aca734cf71ff8bc44d8d5c23824af2edc4e4d3936b73800f850cc00d91c"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\answers-conversion-report.json",
+          "sha256": "857949de5a5a5914040f61d966cfb94690d47fc4b097c6ec041d5d176b9b9920"
+        }
+      ],
+      "completed_at": "2026-08-03T09:58:36.120554+00:00"
+    },
+    "format-inventory": {
+      "status": "completed",
+      "attempts": 11,
+      "message": "Create and review format-adapter.json",
+      "artifacts": [
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-inventory.json",
+          "sha256": "224aab54a8c4850d7413357fb47f288d0e5785c23b7f88d5d1b39640ac703500"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-adapter.json",
+          "sha256": "3225b36575bd2946f91a4642df3831dbeaa50f3929eee89827fd237c8601cfb0"
+        }
+      ],
+      "started_at": "2026-08-03T09:58:36.554453+00:00",
+      "completed_at": "2026-08-03T09:58:37.486674+00:00"
+    },
+    "hierarchy-segmentation": {
+      "status": "completed",
+      "attempts": 9,
+      "artifacts": [
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-adapter.json",
+          "sha256": "3225b36575bd2946f91a4642df3831dbeaa50f3929eee89827fd237c8601cfb0"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\hierarchy-manifest.json",
+          "sha256": "0273334145c689cc22dafe2d45cf79893e9e7025b4416dd37737b4c8bd2a34f3"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\hierarchy-coverage-manifest.json",
+          "sha256": "ee6253b9c88cd55fe806dba9d0f39c84f9c5c19d6bcee5d670aad154771a19af"
+        }
+      ],
+      "started_at": "2026-08-03T09:58:37.927856+00:00",
+      "message": "ConfigurationError: Invalid primary authority entry: {'key': 'node-001', 'title': '第一章 集合与常用逻辑用语', 'level': 1, 'source_line': 529, 'source_end_line': 529}",
+      "completed_at": "2026-08-03T09:58:40.000115+00:00"
+    },
+    "content-segmentation": {
+      "status": "completed",
+      "attempts": 8,
+      "artifacts": [
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\format-adapter.json",
+          "sha256": "3225b36575bd2946f91a4642df3831dbeaa50f3929eee89827fd237c8601cfb0"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\question-type-manifest.json",
+          "sha256": "e4786d28698758f8a36f969dc225ad3358906f14a02775844a26aafc67507e6b"
+        },
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\content-application-report.json",
+          "sha256": "3752407832635d410e1d6eeb5bce135ca824983cc802ad2e5e868907d189adeb"
+        }
+      ],
+      "started_at": "2026-08-03T09:58:40.446078+00:00",
+      "message": "FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'C:\\\\Mathematics-Knowledge\\\\Secondary-School-Mathematics-Knowledge-Map\\\\测试\\\\新建文件夹\\\\graph\\\\06-高考新动向\\\\强基计划\\\\刷综合\\\\二、多项选择题_ 本大题共 3 小题, 每小题 6 分, 共 18 分. 在每小题给出的选项中, 有多项符合题目要求. \\\\questions'",
+      "completed_at": "2026-08-03T09:58:50.318560+00:00"
+    },
+    "answer-matching": {
+      "status": "review_required",
+      "attempts": 6,
+      "artifacts": [
+        {
+          "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\测试\\新建文件夹\\staging\\answer-match-manifest.json",
+          "sha256": "3f3a3897a48fe87634719ceed989bdb857bd74997721fd77d14cededd440a552"
+        }
+      ],
+      "started_at": "2026-08-03T09:58:50.767118+00:00",
+      "completed_at": "2026-08-03T09:58:59.518557+00:00"
+    },
+    "markdown-standardization": {
+      "status": "pending",
+      "attempts": 0
+    },
+    "canvas": {
+      "status": "pending",
+      "attempts": 0
+    },
+    "final-audit": {
+      "status": "pending",
+      "attempts": 0
+    }
+  }
+}

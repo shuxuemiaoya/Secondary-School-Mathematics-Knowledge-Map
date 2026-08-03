@@ -1,0 +1,1817 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+  "concepts": [
+    {
+      "name": "三角形的元素",
+      "definition_source": "知识点/6.4.3 余弦定理、正弦定理.md",
+      "definition_unit": "semantic-02100",
+      "target": "概念/三角形的元素.md",
+      "linked_from": [
+        "知识点/6.4.3 余弦定理、正弦定理.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 105,
+          "end_line": 105
+        }
+      ]
+    },
+    {
+      "name": "不确定性现象",
+      "definition_source": "知识点/第十章 概率 小结.md",
+      "definition_unit": "node-toc-047",
+      "target": "概念/不确定性现象.md",
+      "linked_from": [
+        "知识点/第十章 概率 小结.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "个体",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/个体.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "事件的概率",
+      "definition_source": "知识点/10.1.3 古典概型.md",
+      "definition_unit": "semantic-09112",
+      "target": "概念/事件的概率.md",
+      "linked_from": [
+        "知识点/10.1.3 古典概型.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "二手数据",
+      "definition_source": "知识点/9.1.3 获取数据的途径.md",
+      "definition_unit": "semantic-07657",
+      "target": "概念/二手数据.md",
+      "linked_from": [
+        "知识点/9.1.3 获取数据的途径.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 29,
+          "end_line": 29
+        }
+      ]
+    },
+    {
+      "name": "二面角",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/二面角.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "二面角的平面角",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/二面角的平面角.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 24,
+          "end_line": 24
+        }
+      ]
+    },
+    {
+      "name": "二面角的棱",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/二面角的棱.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "二面角的面",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/二面角的面.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "互为共轭复数",
+      "definition_source": "知识点/7.1.2 复数的几何意义.md",
+      "definition_unit": "semantic-03142",
+      "target": "概念/互为共轭复数.md",
+      "linked_from": [
+        "知识点/7.1.2 复数的几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 81,
+          "end_line": 81
+        }
+      ]
+    },
+    {
+      "name": "全面调查",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/全面调查.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "共线向量",
+      "definition_source": "知识点/6.1.3 相等向量与共线向量.md",
+      "definition_unit": "semantic-00212",
+      "target": "概念/共线向量.md",
+      "linked_from": [
+        "知识点/6.1.3 相等向量与共线向量.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 20,
+          "end_line": 20
+        }
+      ]
+    },
+    {
+      "name": "共轭虚数",
+      "definition_source": "知识点/7.1.2 复数的几何意义.md",
+      "definition_unit": "semantic-03142",
+      "target": "概念/共轭虚数.md",
+      "linked_from": [
+        "知识点/7.1.2 复数的几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 81,
+          "end_line": 81
+        }
+      ]
+    },
+    {
+      "name": "分层随机抽样",
+      "definition_source": "知识点/9.1.2 分层随机抽样.md",
+      "definition_unit": "semantic-07484",
+      "target": "概念/分层随机抽样.md",
+      "linked_from": [
+        "知识点/9.1.2 分层随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 56,
+          "end_line": 56
+        }
+      ]
+    },
+    {
+      "name": "半平面",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/半平面.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 16,
+          "end_line": 16
+        }
+      ]
+    },
+    {
+      "name": "单位向量",
+      "definition_source": "知识点/6.1.2 向量的几何表示.md",
+      "definition_unit": "semantic-00179",
+      "target": "概念/单位向量.md",
+      "linked_from": [
+        "知识点/6.1.2 向量的几何表示.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 19
+        }
+      ]
+    },
+    {
+      "name": "变量",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/变量.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "古典概型试验",
+      "definition_source": "知识点/10.1.3 古典概型.md",
+      "definition_unit": "semantic-09112",
+      "target": "概念/古典概型试验.md",
+      "linked_from": [
+        "知识点/10.1.3 古典概型.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 18,
+          "end_line": 18
+        }
+      ]
+    },
+    {
+      "name": "古典概率模型",
+      "definition_source": "知识点/10.1.3 古典概型.md",
+      "definition_unit": "semantic-09112",
+      "target": "概念/古典概率模型.md",
+      "linked_from": [
+        "知识点/10.1.3 古典概型.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 18,
+          "end_line": 18
+        }
+      ]
+    },
+    {
+      "name": "台体",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/台体.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 10,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "name": "向量",
+      "definition_source": "知识点/6.1.1 向量的实际背景与概念.md",
+      "definition_unit": "semantic-00161",
+      "target": "概念/向量.md",
+      "linked_from": [
+        "知识点/6.1.1 向量的实际背景与概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 13,
+          "end_line": 13
+        }
+      ]
+    },
+    {
+      "name": "向量加法的三角形法则",
+      "definition_source": "知识点/6.2.1 向量的加法运算.md",
+      "definition_unit": "semantic-00338",
+      "target": "概念/向量加法的三角形法则.md",
+      "linked_from": [
+        "知识点/6.2.1 向量的加法运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 18,
+          "end_line": 18
+        }
+      ]
+    },
+    {
+      "name": "向量加法的平行四边形法则",
+      "definition_source": "知识点/6.2.1 向量的加法运算.md",
+      "definition_unit": "semantic-00338",
+      "target": "概念/向量加法的平行四边形法则.md",
+      "linked_from": [
+        "知识点/6.2.1 向量的加法运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 30,
+          "end_line": 30
+        }
+      ]
+    },
+    {
+      "name": "向量的减法",
+      "definition_source": "知识点/6.2.2 向量的减法运算.md",
+      "definition_unit": "semantic-00510",
+      "target": "概念/向量的减法.md",
+      "linked_from": [
+        "知识点/6.2.2 向量的减法运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 32,
+          "end_line": 32
+        }
+      ]
+    },
+    {
+      "name": "向量的加法",
+      "definition_source": "知识点/6.2.1 向量的加法运算.md",
+      "definition_unit": "semantic-00338",
+      "target": "概念/向量的加法.md",
+      "linked_from": [
+        "知识点/6.2.1 向量的加法运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 18,
+          "end_line": 18
+        }
+      ]
+    },
+    {
+      "name": "向量的数乘",
+      "definition_source": "知识点/6.2.3 向量的数乘运算.md",
+      "definition_unit": "semantic-00640",
+      "target": "概念/向量的数乘.md",
+      "linked_from": [
+        "知识点/6.2.3 向量的数乘运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 16
+        }
+      ]
+    },
+    {
+      "name": "向量的线性运算",
+      "definition_source": "知识点/6.2.3 向量的数乘运算.md",
+      "definition_unit": "semantic-00640",
+      "target": "概念/向量的线性运算.md",
+      "linked_from": [
+        "知识点/6.2.3 向量的数乘运算.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 51,
+          "end_line": 51
+        }
+      ]
+    },
+    {
+      "name": "四分位数",
+      "definition_source": "知识点/9.2.2 总体百分位数的估计.md",
+      "definition_unit": "semantic-08094",
+      "target": "概念/四分位数.md",
+      "linked_from": [
+        "知识点/9.2.2 总体百分位数的估计.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 40,
+          "end_line": 40
+        }
+      ]
+    },
+    {
+      "name": "圆台",
+      "definition_source": "知识点/6. 圆台.md",
+      "definition_unit": "reviewed-heading-04406",
+      "target": "概念/圆台.md",
+      "linked_from": [
+        "知识点/6. 圆台.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆柱",
+      "definition_source": "知识点/4. 圆柱.md",
+      "definition_unit": "reviewed-heading-04384",
+      "target": "概念/圆柱.md",
+      "linked_from": [
+        "知识点/4. 圆柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆柱侧面的母线",
+      "definition_source": "知识点/4. 圆柱.md",
+      "definition_unit": "reviewed-heading-04384",
+      "target": "概念/圆柱侧面的母线.md",
+      "linked_from": [
+        "知识点/4. 圆柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆柱的侧面",
+      "definition_source": "知识点/4. 圆柱.md",
+      "definition_unit": "reviewed-heading-04384",
+      "target": "概念/圆柱的侧面.md",
+      "linked_from": [
+        "知识点/4. 圆柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆柱的底面",
+      "definition_source": "知识点/4. 圆柱.md",
+      "definition_unit": "reviewed-heading-04384",
+      "target": "概念/圆柱的底面.md",
+      "linked_from": [
+        "知识点/4. 圆柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆柱的轴",
+      "definition_source": "知识点/4. 圆柱.md",
+      "definition_unit": "reviewed-heading-04384",
+      "target": "概念/圆柱的轴.md",
+      "linked_from": [
+        "知识点/4. 圆柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "圆锥",
+      "definition_source": "知识点/5. 圆锥.md",
+      "definition_unit": "reviewed-heading-04395",
+      "target": "概念/圆锥.md",
+      "linked_from": [
+        "知识点/5. 圆锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "垂足",
+      "definition_source": "知识点/8.6.2 直线与平面垂直.md",
+      "definition_unit": "semantic-06285",
+      "target": "概念/垂足.md",
+      "linked_from": [
+        "知识点/8.6.2 直线与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 16,
+          "end_line": 16
+        }
+      ]
+    },
+    {
+      "name": "基底",
+      "definition_source": "知识点/6.3.1 平面向量基本定理.md",
+      "definition_unit": "semantic-01292",
+      "target": "概念/基底.md",
+      "linked_from": [
+        "知识点/6.3.1 平面向量基本定理.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 41,
+          "end_line": 41
+        }
+      ]
+    },
+    {
+      "name": "基本事件",
+      "definition_source": "知识点/10.1.1 有限样本空间与随机事件.md",
+      "definition_unit": "semantic-08833",
+      "target": "概念/基本事件.md",
+      "linked_from": [
+        "知识点/10.1.1 有限样本空间与随机事件.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 54,
+          "end_line": 54
+        }
+      ]
+    },
+    {
+      "name": "基线",
+      "definition_source": "知识点/6.4.3 余弦定理、正弦定理.md",
+      "definition_unit": "semantic-02100",
+      "target": "概念/基线.md",
+      "linked_from": [
+        "知识点/6.4.3 余弦定理、正弦定理.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 399,
+          "end_line": 399
+        }
+      ]
+    },
+    {
+      "name": "复平面",
+      "definition_source": "知识点/7.1.2 复数的几何意义.md",
+      "definition_unit": "semantic-03142",
+      "target": "概念/复平面.md",
+      "linked_from": [
+        "知识点/7.1.2 复数的几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "复数",
+      "definition_source": "知识点/7.1.1 数系的扩充和复数的概念.md",
+      "definition_unit": "semantic-03060",
+      "target": "概念/复数.md",
+      "linked_from": [
+        "知识点/7.1.1 数系的扩充和复数的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 23,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "复数的三角表示式",
+      "definition_source": "知识点/7.3.1 复数的三角表示式.md",
+      "definition_unit": "semantic-03720",
+      "target": "概念/复数的三角表示式.md",
+      "linked_from": [
+        "知识点/7.3.1 复数的三角表示式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 54,
+          "end_line": 54
+        }
+      ]
+    },
+    {
+      "name": "复数的代数表示式",
+      "definition_source": "知识点/7.3.1 复数的三角表示式.md",
+      "definition_unit": "semantic-03720",
+      "target": "概念/复数的代数表示式.md",
+      "linked_from": [
+        "知识点/7.3.1 复数的三角表示式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 54,
+          "end_line": 54
+        }
+      ]
+    },
+    {
+      "name": "复数的辐角",
+      "definition_source": "知识点/7.3.1 复数的三角表示式.md",
+      "definition_unit": "semantic-03720",
+      "target": "概念/复数的辐角.md",
+      "linked_from": [
+        "知识点/7.3.1 复数的三角表示式.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 54,
+          "end_line": 54
+        }
+      ]
+    },
+    {
+      "name": "复数集",
+      "definition_source": "知识点/7.1.1 数系的扩充和复数的概念.md",
+      "definition_unit": "semantic-03060",
+      "target": "概念/复数集.md",
+      "linked_from": [
+        "知识点/7.1.1 数系的扩充和复数的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 23,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "多面体",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/多面体.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 16,
+          "end_line": 16
+        }
+      ]
+    },
+    {
+      "name": "多面体的面",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/多面体的面.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 16,
+          "end_line": 16
+        }
+      ]
+    },
+    {
+      "name": "多面体的顶点",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/多面体的顶点.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 20,
+          "end_line": 20
+        }
+      ]
+    },
+    {
+      "name": "实轴",
+      "definition_source": "知识点/7.1.2 复数的几何意义.md",
+      "definition_unit": "semantic-03142",
+      "target": "概念/实轴.md",
+      "linked_from": [
+        "知识点/7.1.2 复数的几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "平行六面体",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/平行六面体.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 25,
+          "end_line": 25
+        }
+      ]
+    },
+    {
+      "name": "平行向量",
+      "definition_source": "知识点/6.1.3 相等向量与共线向量.md",
+      "definition_unit": "semantic-00212",
+      "target": "概念/平行向量.md",
+      "linked_from": [
+        "知识点/6.1.3 相等向量与共线向量.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "平行线的传递性",
+      "definition_source": "知识点/8.5.1 直线与直线平行.md",
+      "definition_unit": "semantic-05592",
+      "target": "概念/平行线的传递性.md",
+      "linked_from": [
+        "知识点/8.5.1 直线与直线平行.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 17,
+          "end_line": 17
+        }
+      ]
+    },
+    {
+      "name": "平面向量基本定理",
+      "definition_source": "知识点/6.3.1 平面向量基本定理.md",
+      "definition_unit": "semantic-01292",
+      "target": "概念/平面向量基本定理.md",
+      "linked_from": [
+        "知识点/6.3.1 平面向量基本定理.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 35,
+          "end_line": 39
+        }
+      ]
+    },
+    {
+      "name": "异面直线",
+      "definition_source": "知识点/8.4.2 空间点、直线、平面之间的位置关系.md",
+      "definition_unit": "semantic-05374",
+      "target": "概念/异面直线.md",
+      "linked_from": [
+        "知识点/8.4.2 空间点、直线、平面之间的位置关系.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 24,
+          "end_line": 24
+        }
+      ]
+    },
+    {
+      "name": "总体",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/总体.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "抽样调查",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/抽样调查.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "放回简单随机抽样",
+      "definition_source": "知识点/9.1.1 简单随机抽样.md",
+      "definition_unit": "semantic-07244",
+      "target": "概念/放回简单随机抽样.md",
+      "linked_from": [
+        "知识点/9.1.1 简单随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "数量",
+      "definition_source": "知识点/6.1.1 向量的实际背景与概念.md",
+      "definition_unit": "semantic-00161",
+      "target": "概念/数量.md",
+      "linked_from": [
+        "知识点/6.1.1 向量的实际背景与概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 13,
+          "end_line": 13
+        }
+      ]
+    },
+    {
+      "name": "斜棱柱",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/斜棱柱.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 25,
+          "end_line": 25
+        }
+      ]
+    },
+    {
+      "name": "斜线在这个平面上的射影",
+      "definition_source": "知识点/8.6.2 直线与平面垂直.md",
+      "definition_unit": "semantic-06285",
+      "target": "概念/斜线在这个平面上的射影.md",
+      "linked_from": [
+        "知识点/8.6.2 直线与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 110,
+          "end_line": 110
+        }
+      ]
+    },
+    {
+      "name": "斜足",
+      "definition_source": "知识点/8.6.2 直线与平面垂直.md",
+      "definition_unit": "semantic-06285",
+      "target": "概念/斜足.md",
+      "linked_from": [
+        "知识点/8.6.2 直线与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 110,
+          "end_line": 110
+        }
+      ]
+    },
+    {
+      "name": "旋转体",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/旋转体.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 28,
+          "end_line": 28
+        }
+      ]
+    },
+    {
+      "name": "旋转体的轴",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/旋转体的轴.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 28,
+          "end_line": 28
+        }
+      ]
+    },
+    {
+      "name": "旋转面",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/旋转面.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 28,
+          "end_line": 28
+        }
+      ]
+    },
+    {
+      "name": "有向线段",
+      "definition_source": "知识点/6.1.2 向量的几何表示.md",
+      "definition_unit": "semantic-00179",
+      "target": "概念/有向线段.md",
+      "linked_from": [
+        "知识点/6.1.2 向量的几何表示.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "柱体",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/柱体.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 10,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "name": "样本",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/样本.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "样本容量",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/样本容量.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "样本点",
+      "definition_source": "知识点/10.1.1 有限样本空间与随机事件.md",
+      "definition_unit": "semantic-08833",
+      "target": "概念/样本点.md",
+      "linked_from": [
+        "知识点/10.1.1 有限样本空间与随机事件.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 18,
+          "end_line": 18
+        }
+      ]
+    },
+    {
+      "name": "样本的观测数据",
+      "definition_source": "知识点/9.1 随机抽样.md",
+      "definition_unit": "node-toc-033",
+      "target": "概念/样本的观测数据.md",
+      "linked_from": [
+        "知识点/9.1 随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "棣莫弗定理",
+      "definition_source": "思维或方法/探究与发现 1 的 n 次方根.md",
+      "definition_unit": "node-toc-016",
+      "target": "概念/棣莫弗定理.md",
+      "linked_from": [
+        "思维或方法/探究与发现 1 的 n 次方根.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 19
+        }
+      ]
+    },
+    {
+      "name": "棱台",
+      "definition_source": "知识点/3. 棱台.md",
+      "definition_unit": "reviewed-heading-04331",
+      "target": "概念/棱台.md",
+      "linked_from": [
+        "知识点/3. 棱台.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "棱台的下底面和上底面",
+      "definition_source": "知识点/3. 棱台.md",
+      "definition_unit": "reviewed-heading-04331",
+      "target": "概念/棱台的下底面和上底面.md",
+      "linked_from": [
+        "知识点/3. 棱台.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "棱柱",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/棱柱.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 14
+        }
+      ]
+    },
+    {
+      "name": "棱柱的侧棱",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/棱柱的侧棱.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 14
+        }
+      ]
+    },
+    {
+      "name": "棱柱的侧面",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/棱柱的侧面.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 14
+        }
+      ]
+    },
+    {
+      "name": "棱柱的底面",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/棱柱的底面.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 14
+        }
+      ]
+    },
+    {
+      "name": "棱柱的顶点",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/棱柱的顶点.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 14,
+          "end_line": 14
+        }
+      ]
+    },
+    {
+      "name": "棱锥",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/棱锥.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "棱锥的侧棱",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/棱锥的侧棱.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "棱锥的侧面",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/棱锥的侧面.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "棱锥的底面",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/棱锥的底面.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "棱锥的顶点",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/棱锥的顶点.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "正交分解",
+      "definition_source": "知识点/6.3.2 平面向量的正交分解及坐标表示.md",
+      "definition_unit": "semantic-01407",
+      "target": "概念/正交分解.md",
+      "linked_from": [
+        "知识点/6.3.2 平面向量的正交分解及坐标表示.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 7,
+          "end_line": 7
+        }
+      ]
+    },
+    {
+      "name": "正棱柱",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/正棱柱.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 25,
+          "end_line": 25
+        }
+      ]
+    },
+    {
+      "name": "正棱锥",
+      "definition_source": "知识点/2. 棱锥.md",
+      "definition_unit": "reviewed-heading-04318",
+      "target": "概念/正棱锥.md",
+      "linked_from": [
+        "知识点/2. 棱锥.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "独立",
+      "definition_source": "知识点/10.2 事件的相互独立性.md",
+      "definition_unit": "node-toc-044",
+      "target": "概念/独立.md",
+      "linked_from": [
+        "知识点/10.2 事件的相互独立性.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 60,
+          "end_line": 60
+        }
+      ]
+    },
+    {
+      "name": "球体",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/球体.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "球的半径",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/球的半径.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "球的球心",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/球的球心.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "球的直径",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/球的直径.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "球面",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/球面.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "直二面角",
+      "definition_source": "知识点/8.6.3 平面与平面垂直.md",
+      "definition_unit": "semantic-06608",
+      "target": "概念/直二面角.md",
+      "linked_from": [
+        "知识点/8.6.3 平面与平面垂直.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 33,
+          "end_line": 33
+        }
+      ]
+    },
+    {
+      "name": "直棱柱",
+      "definition_source": "知识点/1. 棱柱.md",
+      "definition_unit": "reviewed-heading-04279",
+      "target": "概念/直棱柱.md",
+      "linked_from": [
+        "知识点/1. 棱柱.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 25,
+          "end_line": 25
+        }
+      ]
+    },
+    {
+      "name": "直线在平面外",
+      "definition_source": "知识点/8.4.2 空间点、直线、平面之间的位置关系.md",
+      "definition_unit": "semantic-05374",
+      "target": "概念/直线在平面外.md",
+      "linked_from": [
+        "知识点/8.4.2 空间点、直线、平面之间的位置关系.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 47,
+          "end_line": 47
+        }
+      ]
+    },
+    {
+      "name": "相等向量",
+      "definition_source": "知识点/6.1.3 相等向量与共线向量.md",
+      "definition_unit": "semantic-00212",
+      "target": "概念/相等向量.md",
+      "linked_from": [
+        "知识点/6.1.3 相等向量与共线向量.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "确定性现象",
+      "definition_source": "知识点/第十章 概率 小结.md",
+      "definition_unit": "node-toc-047",
+      "target": "概念/确定性现象.md",
+      "linked_from": [
+        "知识点/第十章 概率 小结.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "空间几何体",
+      "definition_source": "知识点/8.1 基本立体图形.md",
+      "definition_unit": "node-toc-020",
+      "target": "概念/空间几何体.md",
+      "linked_from": [
+        "知识点/8.1 基本立体图形.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 3,
+          "end_line": 3
+        }
+      ]
+    },
+    {
+      "name": "简单随机抽样",
+      "definition_source": "知识点/9.1.1 简单随机抽样.md",
+      "definition_unit": "semantic-07244",
+      "target": "概念/简单随机抽样.md",
+      "linked_from": [
+        "知识点/9.1.1 简单随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 20,
+          "end_line": 20
+        }
+      ]
+    },
+    {
+      "name": "简单随机样本",
+      "definition_source": "知识点/9.1.1 简单随机抽样.md",
+      "definition_unit": "semantic-07244",
+      "target": "概念/简单随机样本.md",
+      "linked_from": [
+        "知识点/9.1.1 简单随机抽样.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 20,
+          "end_line": 20
+        }
+      ]
+    },
+    {
+      "name": "纯虚数",
+      "definition_source": "知识点/7.1.1 数系的扩充和复数的概念.md",
+      "definition_unit": "semantic-03060",
+      "target": "概念/纯虚数.md",
+      "linked_from": [
+        "知识点/7.1.1 数系的扩充和复数的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 31,
+          "end_line": 31
+        }
+      ]
+    },
+    {
+      "name": "虚数",
+      "definition_source": "知识点/7.1.1 数系的扩充和复数的概念.md",
+      "definition_unit": "semantic-03060",
+      "target": "概念/虚数.md",
+      "linked_from": [
+        "知识点/7.1.1 数系的扩充和复数的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 31,
+          "end_line": 31
+        }
+      ]
+    },
+    {
+      "name": "虚数单位",
+      "definition_source": "知识点/7.1.1 数系的扩充和复数的概念.md",
+      "definition_unit": "semantic-03060",
+      "target": "概念/虚数单位.md",
+      "linked_from": [
+        "知识点/7.1.1 数系的扩充和复数的概念.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 23,
+          "end_line": 23
+        }
+      ]
+    },
+    {
+      "name": "虚轴",
+      "definition_source": "知识点/7.1.2 复数的几何意义.md",
+      "definition_unit": "semantic-03142",
+      "target": "概念/虚轴.md",
+      "linked_from": [
+        "知识点/7.1.2 复数的几何意义.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 12,
+          "end_line": 12
+        }
+      ]
+    },
+    {
+      "name": "解三角形",
+      "definition_source": "知识点/6.4.3 余弦定理、正弦定理.md",
+      "definition_unit": "semantic-02100",
+      "target": "概念/解三角形.md",
+      "linked_from": [
+        "知识点/6.4.3 余弦定理、正弦定理.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 105,
+          "end_line": 105
+        }
+      ]
+    },
+    {
+      "name": "锥体",
+      "definition_source": "知识点/7. 球.md",
+      "definition_unit": "reviewed-heading-04419",
+      "target": "概念/锥体.md",
+      "linked_from": [
+        "知识点/7. 球.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 10,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "name": "随机事件",
+      "definition_source": "知识点/10.1.1 有限样本空间与随机事件.md",
+      "definition_unit": "semantic-08833",
+      "target": "概念/随机事件.md",
+      "linked_from": [
+        "知识点/10.1.1 有限样本空间与随机事件.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 54,
+          "end_line": 54
+        }
+      ]
+    },
+    {
+      "name": "随机数",
+      "definition_source": "知识点/10.3.2 随机模拟.md",
+      "definition_unit": "semantic-10083",
+      "target": "概念/随机数.md",
+      "linked_from": [
+        "知识点/10.3.2 随机模拟.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 17,
+          "end_line": 17
+        }
+      ]
+    },
+    {
+      "name": "随机现象",
+      "definition_source": "知识点/第十章 概率 小结.md",
+      "definition_unit": "node-toc-047",
+      "target": "概念/随机现象.md",
+      "linked_from": [
+        "知识点/第十章 概率 小结.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    {
+      "name": "随机试验",
+      "definition_source": "知识点/10.1.1 有限样本空间与随机事件.md",
+      "definition_unit": "semantic-08833",
+      "target": "概念/随机试验.md",
+      "linked_from": [
+        "知识点/10.1.1 有限样本空间与随机事件.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 5,
+          "end_line": 5
+        }
+      ]
+    },
+    {
+      "name": "零向量",
+      "definition_source": "知识点/6.1.2 向量的几何表示.md",
+      "definition_unit": "semantic-00179",
+      "target": "概念/零向量.md",
+      "linked_from": [
+        "知识点/6.1.2 向量的几何表示.md"
+      ],
+      "confidence": "high",
+      "definition_segments": [
+        {
+          "start_line": 19,
+          "end_line": 19
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "name": "平行平面间的距离",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "平面的斜线",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "异面直线所成的角",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "点到该平面的垂线段",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "点到该平面的距离",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "直线与平面所成的角",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "直线到平面的距离",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    },
+    {
+      "name": "第三四分位数",
+      "reason": "No current definition cue links this reviewed term to a complete, linkable occurrence."
+    }
+  ]
+}

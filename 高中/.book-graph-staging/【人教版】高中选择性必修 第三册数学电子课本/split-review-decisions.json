@@ -1,0 +1,10 @@
+{
+  "promote_headings": [],
+  "add_ranges": [
+    {"key": "reviewed-range-00143", "title": "分类加法计数原理", "parent_key": "node-toc-002", "filename": "分类加法计数原理.md", "start_line": 143, "end_line": 206, "reason": "The motivating classification problem, formal addition principle, extensions, and examples form a complete independent teaching arc."},
+    {"key": "reviewed-range-00207", "title": "分步乘法计数原理", "parent_key": "node-toc-002", "filename": "分步乘法计数原理.md", "start_line": 207, "end_line": 283, "reason": "The motivating staged-choice problem, formal multiplication principle, extensions, examples, and comparison form a complete independent teaching arc."},
+    {"key": "reviewed-range-00306", "title": "两个计数原理的综合应用", "parent_key": "node-toc-002", "filename": "两个计数原理的综合应用.md", "start_line": 306, "end_line": 527, "reason": "The source-ordered application examples culminate in a complete method summary for choosing and combining the two counting principles."},
+    {"key": "reviewed-range-02497", "title": "离散型随机变量", "parent_key": "node-toc-013", "filename": "离散型随机变量.md", "start_line": 2497, "end_line": 2561, "reason": "The experiments, mapping viewpoint, and formal discrete-random-variable definition form a complete independent teaching arc."},
+    {"key": "reviewed-range-02563", "title": "离散型随机变量的分布列", "parent_key": "node-toc-013", "filename": "离散型随机变量的分布列.md", "start_line": 2563, "end_line": 2662, "reason": "The definition, table and graph representations, properties, two-point distribution, and worked examples form a complete independent teaching arc."}
+  ]
+}

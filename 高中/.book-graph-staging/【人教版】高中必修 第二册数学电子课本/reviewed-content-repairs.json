@@ -1,0 +1,23 @@
+{
+  "reviewer_confirmed": true,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+  "repairs": [
+    {
+      "path": "知识点/7.3.1 复数的三角表示式.md",
+      "operation": "insert-after",
+      "anchor": "> (1) $\\frac{1}{2} + \\frac{\\sqrt{3}}{2}\\mathrm{i};$\n",
+      "text": "> (2) 1-i.\n",
+      "reason": "Restore the second source subpart omitted by OCR.",
+      "evidence": "Frozen PDF example and same-edition reviewed transcription both show (2) 1-i."
+    },
+    {
+      "path": "知识点/第十章 概率 小结.md",
+      "operation": "replace-line",
+      "contains": "<table><tr><td>函数 $y=f(x)$ 的性质</td>",
+      "new": "<table><tr><td>函数 $y=f(x)$ 的性质</td><td>概率 $P(A)$ 的性质</td></tr><tr><td>1. 定义域：$x$ 的取值范围 $D$。</td><td>1. 事件 $A$ 的“取值范围”：$A$ 是样本空间 $\\Omega$ 的子集，$A$ 中元素取自 $\\Omega$。</td></tr><tr><td>2. 值域：$f(x)$ 的取值范围。</td><td>2. $P(A)$ 的取值范围：$0\\leqslant P(A)\\leqslant 1$。</td></tr><tr><td>3. 特殊点的取值：如对于 $y=a^x$（$a>0$，$a\\neq 1$），$a^0=1$。</td><td>3. 特殊事件的概率：（1）$P(\\emptyset)=0$；（2）$P(\\Omega)=1$；（3）设 $\\{\\omega_1\\},\\cdots,\\{\\omega_n\\}$ 为基本事件，那么 $\\sum_{i=1}^{n}P(\\{\\omega_i\\})=1$。</td></tr><tr><td>4. 单调性：任意 $x_1,x_2\\in D$，当 $x_1<x_2$ 时，有 $f(x_1)<f(x_2)$（或 $f(x_1)>f(x_2)$）。</td><td>4. 单调性：如果 $A\\subseteq B$，那么 $P(A)\\leqslant P(B)$。</td></tr><tr><td>……</td><td>……</td></tr></table>",
+      "reason": "Replace the OCR-merged fourth-row cell and restore balanced TeX in the complete table.",
+      "evidence": "Frozen PDF page 272 (printed page 265)."
+    }
+  ]
+}

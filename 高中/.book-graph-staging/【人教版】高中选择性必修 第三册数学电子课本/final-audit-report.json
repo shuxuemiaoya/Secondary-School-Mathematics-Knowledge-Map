@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "stage": "final",
+  "status": "passed",
+  "book_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本",
+  "vault_root": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中",
+  "source": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本.pdf",
+    "sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+    "unchanged": true
+  },
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\book-profile.json",
+  "source_sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+  "coverage": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\coverage-manifest.json",
+    "units": 64,
+    "assigned": 64,
+    "retained": 0,
+    "unresolved": 0
+  },
+  "concept_manifest": {
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\concept-manifest.json",
+    "concepts": 65,
+    "unique_targets": 65
+  },
+  "lesson_flow": {
+    "status": "passed",
+    "lesson_count": 29,
+    "logical_block_count": 228,
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第三册数学电子课本\\lesson-flow-manifest.json"
+  },
+  "counts": {
+    "markdown_files": 129,
+    "category_files": {
+      "<root>": 2,
+      "习题": 14,
+      "工具": 1,
+      "思维或方法": 5,
+      "概念": 65,
+      "知识点": 40,
+      "趣味阅读": 2
+    },
+    "concept_files": 65,
+    "images": 161,
+    "standard_links": 193,
+    "wikilinks": 0,
+    "image_references": 161,
+    "missing_markdown_links": 0,
+    "missing_images": 0,
+    "empty_notes": 0,
+    "empty_concepts": 0,
+    "invalid_entry_headings": 0,
+    "malformed_concept_notes": 0,
+    "concept_definition_boundary_violations": 0,
+    "non_vault_root_note_links": 0,
+    "residual_artifact_headings": 0,
+    "plain_running_headers": 0,
+    "suspicious_ocr_math_fragments": 0,
+    "malformed_table_blocks": 0,
+    "content_consistency_violations": 0,
+    "malformed_callouts": 0,
+    "callouts_without_blank": 0,
+    "callout_body_violations": 0,
+    "callout_semantic_scope_violations": 0,
+    "callouts": 97,
+    "unstandardized_functional_blocks": 0,
+    "unreferenced_images": 0
+  },
+  "transitions": {
+    "<root>-><root>": 1,
+    "<root>->思维或方法": 2,
+    "<root>->知识点": 3,
+    "概念->知识点": 65,
+    "知识点->习题": 14,
+    "知识点->工具": 1,
+    "知识点->思维或方法": 3,
+    "知识点->概念": 65,
+    "知识点->知识点": 37,
+    "知识点->趣味阅读": 2
+  },
+  "canvases": [
+    {
+      "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第三册数学电子课本\\【人教版】高中选择性必修 第三册数学电子课本.canvas",
+      "parsed": true,
+      "nodes": 134,
+      "groups": 6,
+      "edges": 136,
+      "duplicate_node_ids": 0,
+      "duplicate_edge_ids": 0,
+      "bad_edge_endpoints": 0,
+      "missing_links": 0,
+      "wikilinks": 0,
+      "node_colors": {
+        "#c800ff": 1,
+        "1": 4,
+        "2": 102,
+        "4": 5,
+        "5": 2,
+        "6": 14,
+        "<none>": 6
+      },
+      "edge_colors": {
+        "2": 3,
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "<none>": 125
+      }
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "source": {
+    "kind": "pdf",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本.pdf",
+    "size_bytes": 19564853,
+    "sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384",
+    "pages": 114,
+    "encrypted": false,
+    "first_page_points": { "width": 595.275, "height": 841.89 }
+  },
+  "target": {
+    "kind": "target",
+    "path": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\课本\\【人教版】高中选择性必修 第二册数学电子课本",
+    "exists": false
+  }
+}

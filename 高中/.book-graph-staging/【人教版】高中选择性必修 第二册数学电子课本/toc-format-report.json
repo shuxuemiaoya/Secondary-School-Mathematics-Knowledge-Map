@@ -1,0 +1,1172 @@
+{
+  "schema_version": 1,
+  "stage": "book-toc-formatting",
+  "status": "passed",
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384",
+  "input_markdown": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.raw.md",
+  "input_markdown_sha256": "3a312673836c4c187836497dd25a646e3f0b6e8820400bc40e056d117d0c9d4f",
+  "candidate_markdown": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\【人教版】高中选择性必修 第二册数学电子课本.toc-formatted.md",
+  "candidate_markdown_sha256": "47cdf78989845158b0e811550b6ea8bc33ea3c2f894661be1d2c3dc75f14d23b",
+  "toc_entries": 19,
+  "matched_toc_headings": 19,
+  "composite_toc_headings": 7,
+  "demoted_non_toc_headings": 161,
+  "matched": [
+    {
+      "key": "toc-001",
+      "title": "第四章 数列",
+      "line": 104,
+      "source_lines": [
+        104,
+        106
+      ],
+      "old_level": 2,
+      "new_level": 1,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-002",
+      "title": "4.1 数列的概念",
+      "source_title": "4.1 数列的概念",
+      "line": 114,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-003",
+      "title": "阅读与思考 斐波那契数列",
+      "line": 462,
+      "source_lines": [
+        462,
+        464
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-004",
+      "title": "4.2 等差数列",
+      "source_title": "4.2 等差数列",
+      "line": 504,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-005",
+      "title": "4.3 等比数列",
+      "source_title": "4.3 等比数列",
+      "line": 1267,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-006",
+      "title": "阅读与思考 中国古代数学家求数列和的方法",
+      "line": 2134,
+      "source_lines": [
+        2134,
+        2136
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-007",
+      "title": "4.4* 数学归纳法",
+      "source_title": "4.4\\* 数学归纳法",
+      "line": 2170,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-008",
+      "title": "小结",
+      "source_title": "小结",
+      "line": 2643,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-009",
+      "title": "复习参考题4",
+      "source_title": "复习参考题4",
+      "line": 2673,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-010",
+      "title": "第五章 一元函数的导数及其应用",
+      "line": 2764,
+      "source_lines": [
+        2764,
+        2766
+      ],
+      "old_level": 2,
+      "new_level": 1,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-011",
+      "title": "5.1 导数的概念及其意义",
+      "source_title": "5.1 导数的概念及其意义",
+      "line": 2778,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-012",
+      "title": "5.2 导数的运算",
+      "source_title": "5.2 导数的运算",
+      "line": 3259,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-013",
+      "title": "探究与发现 牛顿法——用导数方法求方程的近似解",
+      "line": 3741,
+      "source_lines": [
+        3741,
+        3743
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-014",
+      "title": "5.3 导数在研究函数中的应用",
+      "source_title": "5.3 导数在研究函数中的应用",
+      "line": 3792,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-015",
+      "title": "信息技术应用 图形技术与函数性质",
+      "line": 4452,
+      "source_lines": [
+        4452,
+        4454
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-016",
+      "title": "文献阅读与数学写作* 微积分的创立与发展",
+      "line": 4482,
+      "source_lines": [
+        4482,
+        4484
+      ],
+      "old_level": 2,
+      "new_level": 2,
+      "composite": true,
+      "second_fragment_was_heading": true
+    },
+    {
+      "key": "toc-017",
+      "title": "小结",
+      "source_title": "小结",
+      "line": 4522,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-018",
+      "title": "复习参考题5",
+      "source_title": "复习参考题5",
+      "line": 4550,
+      "old_level": 2,
+      "new_level": 2
+    },
+    {
+      "key": "toc-019",
+      "title": "部分中英文词汇索引",
+      "source_title": "部分中英文词汇索引",
+      "line": 4666,
+      "old_level": 2,
+      "new_level": 1
+    }
+  ],
+  "demoted": [
+    {
+      "title": "选择性必修",
+      "line": 19,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "本册导引",
+      "line": 66,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 145,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "归纳",
+      "line": 149,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 153,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 175,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 241,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 308,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 346,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 362,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 376,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题4.1",
+      "line": 402,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 406,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 416,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 435,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 452,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 460,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "4.2.1 等差数列的概念",
+      "line": 508,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 533,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 541,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 543,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 553,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 577,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 587,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 621,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 706,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 833,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 840,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "4.2.2 等差数列的前 $n$ 项和公式",
+      "line": 862,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 890,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 940,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 974,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 998,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1018,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1098,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1106,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1110,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1180,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1184,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题4.2",
+      "line": 1196,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 1200,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 1224,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 1246,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "4.3.1 等比数列的概念",
+      "line": 1271,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1297,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1315,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1319,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1335,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 1343,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1383,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 1472,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1506,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 1620,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1680,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "4.3.2 等比数列的前 $n$ 项和公式",
+      "line": 1700,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 1902,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2030,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2044,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题4.3",
+      "line": 2056,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 2060,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 2090,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2106,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 2116,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 2132,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 2153,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2174,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2188,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2200,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2208,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2212,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2224,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2242,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2258,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2316,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2324,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2566,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题4.4",
+      "line": 2582,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 2586,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 2613,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 2623,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、本章知识结构",
+      "line": 2645,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、回顾与思考",
+      "line": 2649,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 2677,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 2725,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 2735,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.1.1 变化率问题",
+      "line": 2782,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2786,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2816,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2824,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2830,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 2840,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2854,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2860,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "问题 2 抛物线的切线的斜率",
+      "line": 2872,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2876,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 2882,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 2893,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 2911,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 2925,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 2938,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.1.2 导数的概念及其几何意义",
+      "line": 2944,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 2968,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3034,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3052,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "?",
+      "line": 3081,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3088,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3115,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3124,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3171,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题5.1",
+      "line": 3186,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3190,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3225,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 3252,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.2.1 基本初等函数的导数",
+      "line": 3263,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3364,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "6. 函数 $y=f(x)=\\sqrt{x}$ 的导数",
+      "line": 3368,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3432,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.2.2 导数的四则运算法则",
+      "line": 3452,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3456,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3500,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3560,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.2.3 简单复合函数的导数",
+      "line": 3570,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3572,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3650,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题5.2",
+      "line": 3664,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 3668,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 3702,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 3724,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "● ●",
+      "line": 3788,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.3.1 函数的单调性",
+      "line": 3796,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3800,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3821,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "观察",
+      "line": 3833,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 3929,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 3933,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 3983,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4021,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "5.3.2 函数的极值与最大（小）值",
+      "line": 4034,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "1. 函数的极值",
+      "line": 4038,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 4050,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "思考",
+      "line": 4104,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4118,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "2. 函数的最大（小）值",
+      "line": 4128,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "人民教育出版社",
+      "line": 4141,
+      "old_level": 1,
+      "new_level": 4
+    },
+    {
+      "title": "探究",
+      "line": 4143,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4227,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "问题 饮料瓶大小对饮料公司利润的影响",
+      "line": 4309,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "练习",
+      "line": 4355,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "习题5.3",
+      "line": 4368,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 4372,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 4414,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 4435,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、主题",
+      "line": 4492,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、实施建议",
+      "line": 4498,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "三、参考选题",
+      "line": 4512,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "一、本章知识结构",
+      "line": 4524,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "二、回顾与思考",
+      "line": 4528,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "复习巩固",
+      "line": 4554,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "综合运用",
+      "line": 4622,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "拓广探索",
+      "line": 4652,
+      "old_level": 2,
+      "new_level": 4
+    },
+    {
+      "title": "后记",
+      "line": 4670,
+      "old_level": 2,
+      "new_level": 4
+    }
+  ]
+}

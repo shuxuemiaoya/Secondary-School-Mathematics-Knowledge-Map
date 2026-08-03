@@ -1,0 +1,5128 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "ddd24e4d4b6d9d9d42050fb006e51a2b1024689cdf90d6fcd60705aaadcb513d",
+  "input_markdown_sha256": "263ab4e0f4c62651697934cadf2bcd4afde11ca0fb8a05c10d02bf6f1ad6fb99",
+  "semantic_review": {
+    "headings": [
+      {
+        "line": 1,
+        "title": "数学",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 56,
+        "title": "本册导引",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 161,
+        "title": "6.1.1 向量的实际背景与概念",
+        "decision": "split",
+        "node_key": "semantic-00161",
+        "confidence": 0.99
+      },
+      {
+        "line": 179,
+        "title": "6.1.2 向量的几何表示",
+        "decision": "split",
+        "node_key": "semantic-00179",
+        "confidence": 0.99
+      },
+      {
+        "line": 201,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 212,
+        "title": "6.1.3 相等向量与共线向量",
+        "decision": "split",
+        "node_key": "semantic-00212",
+        "confidence": 0.99
+      },
+      {
+        "line": 249,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 269,
+        "title": "习题6.1",
+        "decision": "split",
+        "node_key": "semantic-00269",
+        "confidence": 0.99
+      },
+      {
+        "line": 273,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 293,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 311,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 338,
+        "title": "6.2.1 向量的加法运算",
+        "decision": "split",
+        "node_key": "semantic-00338",
+        "confidence": 0.99
+      },
+      {
+        "line": 342,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 360,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 374,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 400,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 416,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 462,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 510,
+        "title": "6.2.2 向量的减法运算",
+        "decision": "split",
+        "node_key": "semantic-00510",
+        "confidence": 0.99
+      },
+      {
+        "line": 512,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 546,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 574,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 612,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 640,
+        "title": "6.2.3 向量的数乘运算",
+        "decision": "split",
+        "node_key": "semantic-00640",
+        "confidence": 0.99
+      },
+      {
+        "line": 642,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 660,
+        "title": "?",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 668,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 744,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 758,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 821,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 835,
+        "title": "6.2.4 向量的数量积",
+        "decision": "split",
+        "node_key": "semantic-00835",
+        "confidence": 0.99
+      },
+      {
+        "line": 900,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 965,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 987,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 997,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1074,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1126,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1134,
+        "title": "习题6.2",
+        "decision": "split",
+        "node_key": "semantic-01134",
+        "confidence": 0.99
+      },
+      {
+        "line": 1138,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1221,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1266,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1292,
+        "title": "6.3.1 平面向量基本定理",
+        "decision": "split",
+        "node_key": "semantic-01292",
+        "confidence": 0.99
+      },
+      {
+        "line": 1301,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1319,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1381,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1407,
+        "title": "6.3.2 平面向量的正交分解及坐标表示",
+        "decision": "split",
+        "node_key": "semantic-01407",
+        "confidence": 0.99
+      },
+      {
+        "line": 1418,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1424,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1477,
+        "title": "6.3.3 平面向量加、减运算的坐标表示",
+        "decision": "split",
+        "node_key": "semantic-01477",
+        "confidence": 0.99
+      },
+      {
+        "line": 1479,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1509,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1559,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1571,
+        "title": "6.3.4 平面向量数乘运算的坐标表示",
+        "decision": "split",
+        "node_key": "semantic-01571",
+        "confidence": 0.99
+      },
+      {
+        "line": 1573,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1593,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1694,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1701,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1717,
+        "title": "6.3.5 平面向量数量积的坐标表示",
+        "decision": "split",
+        "node_key": "semantic-01717",
+        "confidence": 0.99
+      },
+      {
+        "line": 1719,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1842,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1850,
+        "title": "习题6.3",
+        "decision": "split",
+        "node_key": "semantic-01850",
+        "confidence": 0.99
+      },
+      {
+        "line": 1854,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1893,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1912,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 1930,
+        "title": "6.4.1 平面几何中的向量方法",
+        "decision": "split",
+        "node_key": "semantic-01930",
+        "confidence": 0.99
+      },
+      {
+        "line": 1934,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2008,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2022,
+        "title": "6.4.2 向量在物理中的应用举例",
+        "decision": "split",
+        "node_key": "semantic-02022",
+        "confidence": 0.99
+      },
+      {
+        "line": 2050,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2085,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2100,
+        "title": "6.4.3 余弦定理、正弦定理",
+        "decision": "split",
+        "node_key": "semantic-02100",
+        "confidence": 0.99
+      },
+      {
+        "line": 2106,
+        "title": "1. 余弦定理",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2110,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2175,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2193,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2201,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2256,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2270,
+        "title": "2. 正弦定理",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2272,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2314,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2445,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2459,
+        "title": "3. 余弦定理、正弦定理应用举例",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2500,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2568,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2588,
+        "title": "习题6.4",
+        "decision": "split",
+        "node_key": "semantic-02588",
+        "confidence": 0.99
+      },
+      {
+        "line": 2592,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2626,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2666,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2736,
+        "title": "一、本章知识结构",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2740,
+        "title": "二、回顾与思考",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2784,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2861,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2863,
+        "title": "13. 选择题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2898,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2934,
+        "title": "一、探究的内容：用向量法研究三角形的性质",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 2972,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3016,
+        "title": "二、对探究活动的要求",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3030,
+        "title": "三、研究报告的参考形式",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3060,
+        "title": "7.1.1 数系的扩充和复数的概念",
+        "decision": "split",
+        "node_key": "semantic-03060",
+        "confidence": 0.99
+      },
+      {
+        "line": 3066,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3074,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3078,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3096,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3124,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3142,
+        "title": "7.1.2 复数的几何意义",
+        "decision": "split",
+        "node_key": "semantic-03142",
+        "confidence": 0.99
+      },
+      {
+        "line": 3146,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3168,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3183,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3226,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3243,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3260,
+        "title": "习题7.1",
+        "decision": "split",
+        "node_key": "semantic-03260",
+        "confidence": 0.99
+      },
+      {
+        "line": 3264,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3292,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3314,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3324,
+        "title": "7.2.1 复数的加、减运算及其几何意义",
+        "decision": "split",
+        "node_key": "semantic-03324",
+        "confidence": 0.99
+      },
+      {
+        "line": 3338,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3352,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3367,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3405,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3413,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3425,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3444,
+        "title": "7.2.2 复数的乘、除运算",
+        "decision": "split",
+        "node_key": "semantic-03444",
+        "confidence": 0.99
+      },
+      {
+        "line": 3458,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3490,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3498,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3560,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3562,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3566,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3600,
+        "title": "习题7.2",
+        "decision": "split",
+        "node_key": "semantic-03600",
+        "confidence": 0.99
+      },
+      {
+        "line": 3604,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3633,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3644,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3720,
+        "title": "7.3.1 复数的三角表示式",
+        "decision": "split",
+        "node_key": "semantic-03720",
+        "confidence": 0.99
+      },
+      {
+        "line": 3724,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3733,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3834,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3840,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3855,
+        "title": "7.3.2 复数乘、除运算的三角表示及其几何意义",
+        "decision": "split",
+        "node_key": "semantic-03855",
+        "confidence": 0.99
+      },
+      {
+        "line": 3859,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3877,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3894,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3916,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3934,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3946,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 3972,
+        "title": "习题7.3",
+        "decision": "split",
+        "node_key": "semantic-03972",
+        "confidence": 0.99
+      },
+      {
+        "line": 3976,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4022,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4052,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4068,
+        "title": "探究与发现",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4139,
+        "title": "一、本章知识结构",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4152,
+        "title": "二、回顾与思考",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4188,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4199,
+        "title": "2. 填空题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4218,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4230,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4250,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4279,
+        "title": "1. 棱柱",
+        "decision": "split",
+        "reason": "The complete prism definition, classification, notation, and examples form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04279",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4281,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4318,
+        "title": "2. 棱锥",
+        "decision": "split",
+        "reason": "The complete pyramid definition, elements, notation, and classification form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04318",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4331,
+        "title": "3. 棱台",
+        "decision": "split",
+        "reason": "The complete frustum definition, notation, comparison, example, and local practice form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04331",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4335,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4353,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4376,
+        "title": "3. 填空题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4384,
+        "title": "4. 圆柱",
+        "decision": "split",
+        "reason": "The complete cylinder construction and element definitions form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04384",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4395,
+        "title": "5. 圆锥",
+        "decision": "split",
+        "reason": "The complete cone construction and element definitions form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04395",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4406,
+        "title": "6. 圆台",
+        "decision": "split",
+        "reason": "The complete circular-frustum construction and comparison form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04406",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4415,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4419,
+        "title": "7. 球",
+        "decision": "split",
+        "reason": "The complete sphere construction, named elements, and solid classification form an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04419",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4430,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4434,
+        "title": "8. 简单组合体",
+        "decision": "split",
+        "reason": "The complete composition and decomposition treatment with worked examples and practice forms an independently reusable teaching arc.",
+        "confidence": 0.97,
+        "node_key": "reviewed-heading-04434",
+        "independent_teaching_arc": true,
+        "reviewed": true
+      },
+      {
+        "line": 4454,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4472,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4505,
+        "title": "习题8.1",
+        "decision": "split",
+        "node_key": "semantic-04505",
+        "confidence": 0.99
+      },
+      {
+        "line": 4509,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4581,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4619,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4635,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4687,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4718,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4758,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4766,
+        "title": "习题8.2",
+        "decision": "split",
+        "node_key": "semantic-04766",
+        "confidence": 0.99
+      },
+      {
+        "line": 4770,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4794,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4813,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4838,
+        "title": "8.3.1 棱柱、棱锥、棱台的表面积和体积",
+        "decision": "split",
+        "node_key": "semantic-04838",
+        "confidence": 0.99
+      },
+      {
+        "line": 4840,
+        "title": "1. 棱柱、棱锥、棱台的表面积",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4857,
+        "title": "2. 棱柱、棱锥、棱台的体积",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4877,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4881,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4897,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4901,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4936,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4964,
+        "title": "8.3.2 圆柱、圆锥、圆台、球的表面积和体积",
+        "decision": "split",
+        "node_key": "semantic-04964",
+        "confidence": 0.99
+      },
+      {
+        "line": 4966,
+        "title": "1. 圆柱、圆锥、圆台的表面积和体积",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 4983,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5001,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5005,
+        "title": "归纳",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5017,
+        "title": "2. 球的表面积和体积",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5045,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5089,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5099,
+        "title": "习题8.3",
+        "decision": "split",
+        "node_key": "semantic-05099",
+        "confidence": 0.99
+      },
+      {
+        "line": 5103,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5129,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5145,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5156,
+        "title": "一、祖暅原理",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5174,
+        "title": "二、柱体、锥体的体积",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5195,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5215,
+        "title": "8.4.1 平面",
+        "decision": "split",
+        "node_key": "semantic-05215",
+        "confidence": 0.99
+      },
+      {
+        "line": 5228,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5251,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5278,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5282,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5296,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5342,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5346,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5374,
+        "title": "8.4.2 空间点、直线、平面之间的位置关系",
+        "decision": "split",
+        "node_key": "semantic-05374",
+        "confidence": 0.99
+      },
+      {
+        "line": 5380,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5394,
+        "title": "1. 空间中直线与直线的位置关系",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5411,
+        "title": "2. 空间中直线与平面的位置关系",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5428,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5434,
+        "title": "3. 空间中平面与平面的位置关系",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5450,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5483,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5487,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5489,
+        "title": "1. 选择题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5517,
+        "title": "习题8.4",
+        "decision": "split",
+        "node_key": "semantic-05517",
+        "confidence": 0.99
+      },
+      {
+        "line": 5521,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5529,
+        "title": "2. 选择题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5563,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5579,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5592,
+        "title": "8.5.1 直线与直线平行",
+        "decision": "split",
+        "node_key": "semantic-05592",
+        "confidence": 0.99
+      },
+      {
+        "line": 5596,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5637,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5697,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5719,
+        "title": "8.5.2 直线与平面平行",
+        "decision": "split",
+        "node_key": "semantic-05719",
+        "confidence": 0.99
+      },
+      {
+        "line": 5723,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5729,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5756,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5816,
+        "title": "定理 一条直线与一个平面平行，如果过该直线的平面与此平面相交，那么该直线与交线平行.",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5841,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 5875,
+        "title": "8.5.3 平面与平面平行",
+        "decision": "split",
+        "node_key": "semantic-05875",
+        "confidence": 0.99
+      },
+      {
+        "line": 5883,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6006,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6040,
+        "title": "习题8.5",
+        "decision": "split",
+        "node_key": "semantic-06040",
+        "confidence": 0.99
+      },
+      {
+        "line": 6044,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6094,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6120,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6149,
+        "title": "8.6.1 直线与直线垂直",
+        "decision": "split",
+        "node_key": "semantic-06149",
+        "confidence": 0.99
+      },
+      {
+        "line": 6153,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6167,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6175,
+        "title": "?",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6249,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6285,
+        "title": "8.6.2 直线与平面垂直",
+        "decision": "split",
+        "node_key": "semantic-06285",
+        "confidence": 0.99
+      },
+      {
+        "line": 6292,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6308,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6320,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6324,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6352,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6356,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6445,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6477,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6494,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6543,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6594,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6608,
+        "title": "8.6.3 平面与平面垂直",
+        "decision": "split",
+        "node_key": "semantic-06608",
+        "confidence": 0.99
+      },
+      {
+        "line": 6621,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6625,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6647,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6649,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6664,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6735,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6760,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6782,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6854,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6881,
+        "title": "习题8.6",
+        "decision": "split",
+        "node_key": "semantic-06881",
+        "confidence": 0.99
+      },
+      {
+        "line": 6885,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6887,
+        "title": "1. 选择题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6953,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 6990,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7051,
+        "title": "一、本章知识结构",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7089,
+        "title": "二、回顾与思考",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7121,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7166,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7213,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7244,
+        "title": "9.1.1 简单随机抽样",
+        "decision": "split",
+        "node_key": "semantic-07244",
+        "confidence": 0.99
+      },
+      {
+        "line": 7248,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7258,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7272,
+        "title": "1. 抽签法",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7278,
+        "title": "2. 随机数法",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7294,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7300,
+        "title": "(2) 用信息技术生成随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7302,
+        "title": "①用计算器生成随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7306,
+        "title": "②用电子表格软件生成随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7314,
+        "title": "③用 R 统计软件生成随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7321,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7325,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7329,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7335,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7339,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7404,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7412,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7416,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7475,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7484,
+        "title": "9.1.2 分层随机抽样",
+        "decision": "split",
+        "node_key": "semantic-07484",
+        "confidence": 0.99
+      },
+      {
+        "line": 7494,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7588,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7607,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7611,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7657,
+        "title": "9.1.3 获取数据的途径",
+        "decision": "split",
+        "node_key": "semantic-07657",
+        "confidence": 0.99
+      },
+      {
+        "line": 7663,
+        "title": "1. 通过调查获取数据",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7669,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7671,
+        "title": "2. 通过试验获取数据",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7677,
+        "title": "3. 通过观察获取数据",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7683,
+        "title": "4. 通过查询获得数据",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7697,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7703,
+        "title": "习题9.1",
+        "decision": "split",
+        "node_key": "semantic-07703",
+        "confidence": 0.99
+      },
+      {
+        "line": 7707,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7749,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7777,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7793,
+        "title": "一、电子表格软件的简单统计功能",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7805,
+        "title": "（二）随机抽样",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7811,
+        "title": "（三）统计量的计算",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7819,
+        "title": "二、R软件的简单统计功能",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7823,
+        "title": "（一）产生随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7836,
+        "title": "（二）用 sample （）函数实现随机抽样",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7846,
+        "title": "（三）统计量的计算",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7864,
+        "title": "9.2.1 总体取值规律的估计",
+        "decision": "split",
+        "node_key": "semantic-07864",
+        "confidence": 0.99
+      },
+      {
+        "line": 7892,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7896,
+        "title": "1. 求极差",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7906,
+        "title": "2. 决定组距与组数",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7910,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7928,
+        "title": "3. 将数据分组",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7934,
+        "title": "4. 列频率分布表",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7948,
+        "title": "5. 画频率分布直方图",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7962,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7969,
+        "title": "观察",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7979,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 7992,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8000,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8084,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8094,
+        "title": "9.2.2 总体百分位数的估计",
+        "decision": "split",
+        "node_key": "semantic-08094",
+        "confidence": 0.99
+      },
+      {
+        "line": 8129,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8147,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8183,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8195,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8197,
+        "title": "9.2.3 总体集中趋势的估计",
+        "decision": "split",
+        "node_key": "semantic-08197",
+        "confidence": 0.99
+      },
+      {
+        "line": 8219,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8225,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8227,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8264,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8309,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8356,
+        "title": "9.2.4 总体离散程度的估计",
+        "decision": "split",
+        "node_key": "semantic-08356",
+        "confidence": 0.99
+      },
+      {
+        "line": 8391,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8437,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8540,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8571,
+        "title": "习题9.2",
+        "decision": "split",
+        "node_key": "semantic-08571",
+        "confidence": 0.99
+      },
+      {
+        "line": 8575,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8606,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8655,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8681,
+        "title": "一、背景与数据",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8695,
+        "title": "二、任务与要求",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8707,
+        "title": "三、统计分析报告的主要组成部分",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8709,
+        "title": "1. 标题",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8715,
+        "title": "3. 主体",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8719,
+        "title": "4. 结尾",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8725,
+        "title": "一、本章知识结构",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8729,
+        "title": "二、回顾与思考",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8761,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8795,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8817,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8833,
+        "title": "10.1.1 有限样本空间与随机事件",
+        "decision": "split",
+        "node_key": "semantic-08833",
+        "confidence": 0.99
+      },
+      {
+        "line": 8845,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8853,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8882,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8930,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 8965,
+        "title": "10.1.2 事件的关系和运算",
+        "decision": "split",
+        "node_key": "semantic-08965",
+        "confidence": 0.99
+      },
+      {
+        "line": 8969,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9098,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9112,
+        "title": "10.1.3 古典概型",
+        "decision": "split",
+        "node_key": "semantic-09112",
+        "confidence": 0.99
+      },
+      {
+        "line": 9118,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9134,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9168,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9172,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9182,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9234,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9242,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9248,
+        "title": "归纳",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9300,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9318,
+        "title": "（1）根据相应的抽样方法可知：",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9370,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9385,
+        "title": "10.1.4 概率的基本性质",
+        "decision": "split",
+        "node_key": "semantic-09385",
+        "confidence": 0.99
+      },
+      {
+        "line": 9389,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9419,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9451,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9473,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9554,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9582,
+        "title": "习题 10.1",
+        "decision": "split",
+        "node_key": "semantic-09582",
+        "confidence": 0.99
+      },
+      {
+        "line": 9586,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9629,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9674,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9715,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9771,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9787,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9881,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9907,
+        "title": "习题 10.2",
+        "decision": "split",
+        "node_key": "semantic-09907",
+        "confidence": 0.99
+      },
+      {
+        "line": 9911,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9923,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9938,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9958,
+        "title": "10.3.1 频率的稳定性",
+        "decision": "split",
+        "node_key": "semantic-09958",
+        "confidence": 0.99
+      },
+      {
+        "line": 9962,
+        "title": "探究",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 9982,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10031,
+        "title": "2015年男婴出生的频率为",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10041,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10047,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10053,
+        "title": "思考",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10061,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10083,
+        "title": "10.3.2 随机模拟",
+        "decision": "split",
+        "node_key": "semantic-10083",
+        "confidence": 0.99
+      },
+      {
+        "line": 10095,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10097,
+        "title": "随机数与伪随机数",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10116,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10130,
+        "title": "人民教育出版社",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10144,
+        "title": "● ●",
+        "decision": "retain",
+        "reason": "OCR or page-layout marker is not an independent teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10148,
+        "title": "练习",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10172,
+        "title": "习题 10.3",
+        "decision": "split",
+        "node_key": "semantic-10172",
+        "confidence": 0.99
+      },
+      {
+        "line": 10176,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10206,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10253,
+        "title": "一、本章知识结构",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10257,
+        "title": "二、回顾与思考",
+        "decision": "retain",
+        "reason": "Local exposition step remains inside its containing teaching unit.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10295,
+        "title": "复习巩固",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10337,
+        "title": "综合运用",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10369,
+        "title": "拓广探索",
+        "decision": "retain",
+        "reason": "Presentation block belongs to the surrounding lesson or exercise.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10383,
+        "title": "(第8题)",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      },
+      {
+        "line": 10397,
+        "title": "后记",
+        "decision": "retain",
+        "reason": "Unnumbered non-TOC heading remains in the nearest TOC note by default.",
+        "confidence": 0.99
+      }
+    ],
+    "sections": [
+      {
+        "node_key": "node-toc-002",
+        "title": "6.1 平面向量的概念",
+        "start_line": 157,
+        "end_line": 317,
+        "nonblank_lines": 85,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-00161",
+          "semantic-00179",
+          "semantic-00212",
+          "semantic-00269"
+        ]
+      },
+      {
+        "node_key": "semantic-00212",
+        "title": "6.1.3 相等向量与共线向量",
+        "start_line": 212,
+        "end_line": 268,
+        "nonblank_lines": 30,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-004",
+        "title": "6.2 平面向量的运算",
+        "start_line": 332,
+        "end_line": 1287,
+        "nonblank_lines": 551,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-00338",
+          "semantic-00510",
+          "semantic-00640",
+          "semantic-00835",
+          "semantic-01134"
+        ]
+      },
+      {
+        "node_key": "semantic-00338",
+        "title": "6.2.1 向量的加法运算",
+        "start_line": 338,
+        "end_line": 509,
+        "nonblank_lines": 99,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-00510",
+        "title": "6.2.2 向量的减法运算",
+        "start_line": 510,
+        "end_line": 639,
+        "nonblank_lines": 76,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-00640",
+        "title": "6.2.3 向量的数乘运算",
+        "start_line": 640,
+        "end_line": 834,
+        "nonblank_lines": 110,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-00835",
+        "title": "6.2.4 向量的数量积",
+        "start_line": 835,
+        "end_line": 1133,
+        "nonblank_lines": 179,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-005",
+        "title": "6.3 平面向量基本定理及坐标表示",
+        "start_line": 1288,
+        "end_line": 1925,
+        "nonblank_lines": 371,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-01292",
+          "semantic-01407",
+          "semantic-01477",
+          "semantic-01571",
+          "semantic-01717",
+          "semantic-01850"
+        ]
+      },
+      {
+        "node_key": "semantic-01292",
+        "title": "6.3.1 平面向量基本定理",
+        "start_line": 1292,
+        "end_line": 1406,
+        "nonblank_lines": 64,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-01407",
+        "title": "6.3.2 平面向量的正交分解及坐标表示",
+        "start_line": 1407,
+        "end_line": 1476,
+        "nonblank_lines": 42,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-01477",
+        "title": "6.3.3 平面向量加、减运算的坐标表示",
+        "start_line": 1477,
+        "end_line": 1570,
+        "nonblank_lines": 56,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-01571",
+        "title": "6.3.4 平面向量数乘运算的坐标表示",
+        "start_line": 1571,
+        "end_line": 1716,
+        "nonblank_lines": 85,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-01717",
+        "title": "6.3.5 平面向量数量积的坐标表示",
+        "start_line": 1717,
+        "end_line": 1849,
+        "nonblank_lines": 81,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-006",
+        "title": "6.4 平面向量的应用",
+        "start_line": 1926,
+        "end_line": 2707,
+        "nonblank_lines": 468,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-01930",
+          "semantic-02022",
+          "semantic-02100",
+          "semantic-02588"
+        ]
+      },
+      {
+        "node_key": "semantic-01930",
+        "title": "6.4.1 平面几何中的向量方法",
+        "start_line": 1930,
+        "end_line": 2021,
+        "nonblank_lines": 54,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-02022",
+        "title": "6.4.2 向量在物理中的应用举例",
+        "start_line": 2022,
+        "end_line": 2099,
+        "nonblank_lines": 43,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-02100",
+        "title": "6.4.3 余弦定理、正弦定理",
+        "start_line": 2100,
+        "end_line": 2587,
+        "nonblank_lines": 296,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-012",
+        "title": "7.1 复数的概念",
+        "start_line": 3056,
+        "end_line": 3319,
+        "nonblank_lines": 142,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-03060",
+          "semantic-03142",
+          "semantic-03260"
+        ]
+      },
+      {
+        "node_key": "semantic-03060",
+        "title": "7.1.1 数系的扩充和复数的概念",
+        "start_line": 3060,
+        "end_line": 3141,
+        "nonblank_lines": 43,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-03142",
+        "title": "7.1.2 复数的几何意义",
+        "start_line": 3142,
+        "end_line": 3259,
+        "nonblank_lines": 66,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-013",
+        "title": "7.2 复数的四则运算",
+        "start_line": 3320,
+        "end_line": 3653,
+        "nonblank_lines": 191,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-03324",
+          "semantic-03444",
+          "semantic-03600"
+        ]
+      },
+      {
+        "node_key": "semantic-03324",
+        "title": "7.2.1 复数的加、减运算及其几何意义",
+        "start_line": 3324,
+        "end_line": 3443,
+        "nonblank_lines": 73,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-03444",
+        "title": "7.2.2 复数的乘、除运算",
+        "start_line": 3444,
+        "end_line": 3599,
+        "nonblank_lines": 88,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-015",
+        "title": "7.3* 复数的三角表示",
+        "start_line": 3716,
+        "end_line": 4069,
+        "nonblank_lines": 206,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-03720",
+          "semantic-03855",
+          "semantic-03972"
+        ]
+      },
+      {
+        "node_key": "semantic-03720",
+        "title": "7.3.1 复数的三角表示式",
+        "start_line": 3720,
+        "end_line": 3854,
+        "nonblank_lines": 81,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-03855",
+        "title": "7.3.2 复数乘、除运算的三角表示及其几何意义",
+        "start_line": 3855,
+        "end_line": 3971,
+        "nonblank_lines": 68,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-017",
+        "title": "第七章 复数 小结",
+        "start_line": 4137,
+        "end_line": 4183,
+        "nonblank_lines": 26,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-020",
+        "title": "8.1 基本立体图形",
+        "start_line": 4246,
+        "end_line": 4626,
+        "nonblank_lines": 222,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "reviewed-heading-04279",
+          "reviewed-heading-04318",
+          "reviewed-heading-04331",
+          "reviewed-heading-04384",
+          "reviewed-heading-04395",
+          "reviewed-heading-04406",
+          "reviewed-heading-04419",
+          "reviewed-heading-04434",
+          "semantic-04505"
+        ]
+      },
+      {
+        "node_key": "reviewed-heading-04331",
+        "title": "3. 棱台",
+        "start_line": 4331,
+        "end_line": 4383,
+        "nonblank_lines": 30,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "reviewed-heading-04434",
+        "title": "8. 简单组合体",
+        "start_line": 4434,
+        "end_line": 4504,
+        "nonblank_lines": 43,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-021",
+        "title": "8.2 立体图形的直观图",
+        "start_line": 4627,
+        "end_line": 4820,
+        "nonblank_lines": 105,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-04766"
+        ]
+      },
+      {
+        "node_key": "node-toc-023",
+        "title": "8.3 简单几何体的表面积与体积",
+        "start_line": 4834,
+        "end_line": 5153,
+        "nonblank_lines": 186,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-04838",
+          "semantic-04964",
+          "semantic-05099"
+        ]
+      },
+      {
+        "node_key": "semantic-04838",
+        "title": "8.3.1 棱柱、棱锥、棱台的表面积和体积",
+        "start_line": 4838,
+        "end_line": 4963,
+        "nonblank_lines": 73,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-04964",
+        "title": "8.3.2 圆柱、圆锥、圆台、球的表面积和体积",
+        "start_line": 4964,
+        "end_line": 5098,
+        "nonblank_lines": 80,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-025",
+        "title": "8.4 空间点、直线、平面之间的位置关系",
+        "start_line": 5211,
+        "end_line": 5587,
+        "nonblank_lines": 202,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-05215",
+          "semantic-05374",
+          "semantic-05517"
+        ]
+      },
+      {
+        "node_key": "semantic-05215",
+        "title": "8.4.1 平面",
+        "start_line": 5215,
+        "end_line": 5373,
+        "nonblank_lines": 86,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-05374",
+        "title": "8.4.2 空间点、直线、平面之间的位置关系",
+        "start_line": 5374,
+        "end_line": 5516,
+        "nonblank_lines": 77,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-026",
+        "title": "8.5 空间直线、平面的平行",
+        "start_line": 5588,
+        "end_line": 6144,
+        "nonblank_lines": 321,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-05592",
+          "semantic-05719",
+          "semantic-05875",
+          "semantic-06040"
+        ]
+      },
+      {
+        "node_key": "semantic-05592",
+        "title": "8.5.1 直线与直线平行",
+        "start_line": 5592,
+        "end_line": 5718,
+        "nonblank_lines": 76,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-05719",
+        "title": "8.5.2 直线与平面平行",
+        "start_line": 5719,
+        "end_line": 5874,
+        "nonblank_lines": 84,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-05875",
+        "title": "8.5.3 平面与平面平行",
+        "start_line": 5875,
+        "end_line": 6039,
+        "nonblank_lines": 94,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-027",
+        "title": "8.6 空间直线、平面的垂直",
+        "start_line": 6145,
+        "end_line": 7008,
+        "nonblank_lines": 488,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-06149",
+          "semantic-06285",
+          "semantic-06608",
+          "semantic-06881"
+        ]
+      },
+      {
+        "node_key": "semantic-06149",
+        "title": "8.6.1 直线与直线垂直",
+        "start_line": 6149,
+        "end_line": 6284,
+        "nonblank_lines": 75,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-06285",
+        "title": "8.6.2 直线与平面垂直",
+        "start_line": 6285,
+        "end_line": 6607,
+        "nonblank_lines": 190,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-06608",
+        "title": "8.6.3 平面与平面垂直",
+        "start_line": 6608,
+        "end_line": 6880,
+        "nonblank_lines": 150,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-030",
+        "title": "第八章 立体几何初步 小结",
+        "start_line": 7049,
+        "end_line": 7116,
+        "nonblank_lines": 34,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-033",
+        "title": "9.1 随机抽样",
+        "start_line": 7230,
+        "end_line": 7634,
+        "nonblank_lines": 229,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-07244",
+          "semantic-07484"
+        ]
+      },
+      {
+        "node_key": "semantic-07244",
+        "title": "9.1.1 简单随机抽样",
+        "start_line": 7244,
+        "end_line": 7483,
+        "nonblank_lines": 132,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-07484",
+        "title": "9.1.2 分层随机抽样",
+        "start_line": 7484,
+        "end_line": 7634,
+        "nonblank_lines": 90,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-036",
+        "title": "9.2 用样本估计总体",
+        "start_line": 7858,
+        "end_line": 8322,
+        "nonblank_lines": 257,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-07864",
+          "semantic-08094",
+          "semantic-08197"
+        ]
+      },
+      {
+        "node_key": "semantic-07864",
+        "title": "9.2.1 总体取值规律的估计",
+        "start_line": 7864,
+        "end_line": 8093,
+        "nonblank_lines": 126,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-08094",
+        "title": "9.2.2 总体百分位数的估计",
+        "start_line": 8094,
+        "end_line": 8196,
+        "nonblank_lines": 57,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-08197",
+        "title": "9.2.3 总体集中趋势的估计",
+        "start_line": 8197,
+        "end_line": 8322,
+        "nonblank_lines": 71,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-08356",
+        "title": "9.2.4 总体离散程度的估计",
+        "start_line": 8356,
+        "end_line": 8570,
+        "nonblank_lines": 132,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-043",
+        "title": "10.1 随机事件与概率",
+        "start_line": 8829,
+        "end_line": 9706,
+        "nonblank_lines": 497,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-08833",
+          "semantic-08965",
+          "semantic-09112",
+          "semantic-09385",
+          "semantic-09582"
+        ]
+      },
+      {
+        "node_key": "semantic-08833",
+        "title": "10.1.1 有限样本空间与随机事件",
+        "start_line": 8833,
+        "end_line": 8964,
+        "nonblank_lines": 71,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-08965",
+        "title": "10.1.2 事件的关系和运算",
+        "start_line": 8965,
+        "end_line": 9111,
+        "nonblank_lines": 81,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-09112",
+        "title": "10.1.3 古典概型",
+        "start_line": 9112,
+        "end_line": 9384,
+        "nonblank_lines": 159,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-09385",
+        "title": "10.1.4 概率的基本性质",
+        "start_line": 9385,
+        "end_line": 9581,
+        "nonblank_lines": 117,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "node-toc-044",
+        "title": "10.2 事件的相互独立性",
+        "start_line": 9707,
+        "end_line": 9953,
+        "nonblank_lines": 142,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-09907"
+        ]
+      },
+      {
+        "node_key": "node-toc-045",
+        "title": "10.3 频率与概率",
+        "start_line": 9954,
+        "end_line": 10220,
+        "nonblank_lines": 137,
+        "decision": "split",
+        "reason": "Reviewed the complete source range; its independently reusable, source-ordered teaching arcs are represented by the direct child nodes, while introductions, transitions, and ordinary practice remain.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true,
+        "child_node_keys": [
+          "semantic-09958",
+          "semantic-10083",
+          "semantic-10172"
+        ]
+      },
+      {
+        "node_key": "semantic-09958",
+        "title": "10.3.1 频率的稳定性",
+        "start_line": 9958,
+        "end_line": 10082,
+        "nonblank_lines": 65,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      },
+      {
+        "node_key": "semantic-10083",
+        "title": "10.3.2 随机模拟",
+        "start_line": 10083,
+        "end_line": 10171,
+        "nonblank_lines": 45,
+        "decision": "retain",
+        "reason": "Reviewed the complete source range; its definitions, reasoning, examples, and practice support one coherent teaching arc and contain no further complete independent subtopic.",
+        "confidence": 0.96,
+        "reviewed": true,
+        "reviewed_entire_section": true
+      }
+    ],
+    "ranges": []
+  },
+  "nodes": [
+    {
+      "key": "book-root",
+      "title": "高中数学必修第二册",
+      "parent_key": null,
+      "category": "root",
+      "filename": "高中数学必修第二册.md",
+      "start_line": 1,
+      "end_line": 10431,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-001",
+      "title": "第六章 平面向量及其应用",
+      "parent_key": "book-root",
+      "category": "knowledge",
+      "filename": "第六章 平面向量及其应用.md",
+      "start_line": 147,
+      "end_line": 2906,
+      "toc_key": "toc-001"
+    },
+    {
+      "key": "node-toc-002",
+      "title": "6.1 平面向量的概念",
+      "parent_key": "node-toc-001",
+      "category": "knowledge",
+      "filename": "6.1 平面向量的概念.md",
+      "start_line": 157,
+      "end_line": 317,
+      "toc_key": "toc-002"
+    },
+    {
+      "key": "semantic-00161",
+      "title": "6.1.1 向量的实际背景与概念",
+      "parent_key": "node-toc-002",
+      "category": "knowledge",
+      "filename": "6.1.1 向量的实际背景与概念.md",
+      "start_line": 161,
+      "end_line": 178,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00179",
+      "title": "6.1.2 向量的几何表示",
+      "parent_key": "node-toc-002",
+      "category": "knowledge",
+      "filename": "6.1.2 向量的几何表示.md",
+      "start_line": 179,
+      "end_line": 211,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00212",
+      "title": "6.1.3 相等向量与共线向量",
+      "parent_key": "node-toc-002",
+      "category": "knowledge",
+      "filename": "6.1.3 相等向量与共线向量.md",
+      "start_line": 212,
+      "end_line": 268,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00269",
+      "title": "习题6.1",
+      "parent_key": "node-toc-002",
+      "category": "exercise",
+      "filename": "习题6.1.md",
+      "start_line": 269,
+      "end_line": 317,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-003",
+      "title": "阅读与思考 向量及向量符号的由来",
+      "parent_key": "node-toc-001",
+      "category": "reading",
+      "filename": "阅读与思考 向量及向量符号的由来.md",
+      "start_line": 318,
+      "end_line": 331,
+      "toc_key": "toc-003"
+    },
+    {
+      "key": "node-toc-004",
+      "title": "6.2 平面向量的运算",
+      "parent_key": "node-toc-001",
+      "category": "knowledge",
+      "filename": "6.2 平面向量的运算.md",
+      "start_line": 332,
+      "end_line": 1287,
+      "toc_key": "toc-004"
+    },
+    {
+      "key": "semantic-00338",
+      "title": "6.2.1 向量的加法运算",
+      "parent_key": "node-toc-004",
+      "category": "knowledge",
+      "filename": "6.2.1 向量的加法运算.md",
+      "start_line": 338,
+      "end_line": 509,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00510",
+      "title": "6.2.2 向量的减法运算",
+      "parent_key": "node-toc-004",
+      "category": "knowledge",
+      "filename": "6.2.2 向量的减法运算.md",
+      "start_line": 510,
+      "end_line": 639,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00640",
+      "title": "6.2.3 向量的数乘运算",
+      "parent_key": "node-toc-004",
+      "category": "knowledge",
+      "filename": "6.2.3 向量的数乘运算.md",
+      "start_line": 640,
+      "end_line": 834,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-00835",
+      "title": "6.2.4 向量的数量积",
+      "parent_key": "node-toc-004",
+      "category": "knowledge",
+      "filename": "6.2.4 向量的数量积.md",
+      "start_line": 835,
+      "end_line": 1133,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01134",
+      "title": "习题6.2",
+      "parent_key": "node-toc-004",
+      "category": "exercise",
+      "filename": "习题6.2.md",
+      "start_line": 1134,
+      "end_line": 1287,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-005",
+      "title": "6.3 平面向量基本定理及坐标表示",
+      "parent_key": "node-toc-001",
+      "category": "knowledge",
+      "filename": "6.3 平面向量基本定理及坐标表示.md",
+      "start_line": 1288,
+      "end_line": 1925,
+      "toc_key": "toc-005"
+    },
+    {
+      "key": "semantic-01292",
+      "title": "6.3.1 平面向量基本定理",
+      "parent_key": "node-toc-005",
+      "category": "knowledge",
+      "filename": "6.3.1 平面向量基本定理.md",
+      "start_line": 1292,
+      "end_line": 1406,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01407",
+      "title": "6.3.2 平面向量的正交分解及坐标表示",
+      "parent_key": "node-toc-005",
+      "category": "knowledge",
+      "filename": "6.3.2 平面向量的正交分解及坐标表示.md",
+      "start_line": 1407,
+      "end_line": 1476,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01477",
+      "title": "6.3.3 平面向量加、减运算的坐标表示",
+      "parent_key": "node-toc-005",
+      "category": "knowledge",
+      "filename": "6.3.3 平面向量加、减运算的坐标表示.md",
+      "start_line": 1477,
+      "end_line": 1570,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01571",
+      "title": "6.3.4 平面向量数乘运算的坐标表示",
+      "parent_key": "node-toc-005",
+      "category": "knowledge",
+      "filename": "6.3.4 平面向量数乘运算的坐标表示.md",
+      "start_line": 1571,
+      "end_line": 1716,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01717",
+      "title": "6.3.5 平面向量数量积的坐标表示",
+      "parent_key": "node-toc-005",
+      "category": "knowledge",
+      "filename": "6.3.5 平面向量数量积的坐标表示.md",
+      "start_line": 1717,
+      "end_line": 1849,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-01850",
+      "title": "习题6.3",
+      "parent_key": "node-toc-005",
+      "category": "exercise",
+      "filename": "习题6.3.md",
+      "start_line": 1850,
+      "end_line": 1925,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-006",
+      "title": "6.4 平面向量的应用",
+      "parent_key": "node-toc-001",
+      "category": "knowledge",
+      "filename": "6.4 平面向量的应用.md",
+      "start_line": 1926,
+      "end_line": 2707,
+      "toc_key": "toc-006"
+    },
+    {
+      "key": "semantic-01930",
+      "title": "6.4.1 平面几何中的向量方法",
+      "parent_key": "node-toc-006",
+      "category": "knowledge",
+      "filename": "6.4.1 平面几何中的向量方法.md",
+      "start_line": 1930,
+      "end_line": 2021,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-02022",
+      "title": "6.4.2 向量在物理中的应用举例",
+      "parent_key": "node-toc-006",
+      "category": "knowledge",
+      "filename": "6.4.2 向量在物理中的应用举例.md",
+      "start_line": 2022,
+      "end_line": 2099,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-02100",
+      "title": "6.4.3 余弦定理、正弦定理",
+      "parent_key": "node-toc-006",
+      "category": "knowledge",
+      "filename": "6.4.3 余弦定理、正弦定理.md",
+      "start_line": 2100,
+      "end_line": 2587,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-02588",
+      "title": "习题6.4",
+      "parent_key": "node-toc-006",
+      "category": "exercise",
+      "filename": "习题6.4.md",
+      "start_line": 2588,
+      "end_line": 2707,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-007",
+      "title": "阅读与思考 海伦和秦九韶",
+      "parent_key": "node-toc-001",
+      "category": "reading",
+      "filename": "阅读与思考 海伦和秦九韶.md",
+      "start_line": 2708,
+      "end_line": 2733,
+      "toc_key": "toc-007"
+    },
+    {
+      "key": "node-toc-008",
+      "title": "第六章 平面向量及其应用 小结",
+      "parent_key": "node-toc-001",
+      "category": "knowledge",
+      "filename": "第六章 平面向量及其应用 小结.md",
+      "start_line": 2734,
+      "end_line": 2779,
+      "toc_key": "toc-008"
+    },
+    {
+      "key": "node-toc-009",
+      "title": "第六章 平面向量及其应用 复习参考题6",
+      "parent_key": "node-toc-001",
+      "category": "exercise",
+      "filename": "第六章 平面向量及其应用 复习参考题6.md",
+      "start_line": 2780,
+      "end_line": 2906,
+      "toc_key": "toc-009"
+    },
+    {
+      "key": "node-toc-010",
+      "title": "数学探究 用向量法研究三角形的性质",
+      "parent_key": "book-root",
+      "category": "method",
+      "filename": "数学探究 用向量法研究三角形的性质.md",
+      "start_line": 2907,
+      "end_line": 3047,
+      "toc_key": "toc-010"
+    },
+    {
+      "key": "node-toc-011",
+      "title": "第七章 复数",
+      "parent_key": "book-root",
+      "category": "knowledge",
+      "filename": "第七章 复数.md",
+      "start_line": 3048,
+      "end_line": 4235,
+      "toc_key": "toc-011"
+    },
+    {
+      "key": "node-toc-012",
+      "title": "7.1 复数的概念",
+      "parent_key": "node-toc-011",
+      "category": "knowledge",
+      "filename": "7.1 复数的概念.md",
+      "start_line": 3056,
+      "end_line": 3319,
+      "toc_key": "toc-012"
+    },
+    {
+      "key": "semantic-03060",
+      "title": "7.1.1 数系的扩充和复数的概念",
+      "parent_key": "node-toc-012",
+      "category": "knowledge",
+      "filename": "7.1.1 数系的扩充和复数的概念.md",
+      "start_line": 3060,
+      "end_line": 3141,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03142",
+      "title": "7.1.2 复数的几何意义",
+      "parent_key": "node-toc-012",
+      "category": "knowledge",
+      "filename": "7.1.2 复数的几何意义.md",
+      "start_line": 3142,
+      "end_line": 3259,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03260",
+      "title": "习题7.1",
+      "parent_key": "node-toc-012",
+      "category": "exercise",
+      "filename": "习题7.1.md",
+      "start_line": 3260,
+      "end_line": 3319,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-013",
+      "title": "7.2 复数的四则运算",
+      "parent_key": "node-toc-011",
+      "category": "knowledge",
+      "filename": "7.2 复数的四则运算.md",
+      "start_line": 3320,
+      "end_line": 3653,
+      "toc_key": "toc-013"
+    },
+    {
+      "key": "semantic-03324",
+      "title": "7.2.1 复数的加、减运算及其几何意义",
+      "parent_key": "node-toc-013",
+      "category": "knowledge",
+      "filename": "7.2.1 复数的加、减运算及其几何意义.md",
+      "start_line": 3324,
+      "end_line": 3443,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03444",
+      "title": "7.2.2 复数的乘、除运算",
+      "parent_key": "node-toc-013",
+      "category": "knowledge",
+      "filename": "7.2.2 复数的乘、除运算.md",
+      "start_line": 3444,
+      "end_line": 3599,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03600",
+      "title": "习题7.2",
+      "parent_key": "node-toc-013",
+      "category": "exercise",
+      "filename": "习题7.2.md",
+      "start_line": 3600,
+      "end_line": 3653,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-014",
+      "title": "阅读与思考 代数基本定理",
+      "parent_key": "node-toc-011",
+      "category": "reading",
+      "filename": "阅读与思考 代数基本定理.md",
+      "start_line": 3654,
+      "end_line": 3715,
+      "toc_key": "toc-014"
+    },
+    {
+      "key": "node-toc-015",
+      "title": "7.3* 复数的三角表示",
+      "parent_key": "node-toc-011",
+      "category": "knowledge",
+      "filename": "7.3 复数的三角表示.md",
+      "start_line": 3716,
+      "end_line": 4069,
+      "toc_key": "toc-015"
+    },
+    {
+      "key": "semantic-03720",
+      "title": "7.3.1 复数的三角表示式",
+      "parent_key": "node-toc-015",
+      "category": "knowledge",
+      "filename": "7.3.1 复数的三角表示式.md",
+      "start_line": 3720,
+      "end_line": 3854,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03855",
+      "title": "7.3.2 复数乘、除运算的三角表示及其几何意义",
+      "parent_key": "node-toc-015",
+      "category": "knowledge",
+      "filename": "7.3.2 复数乘、除运算的三角表示及其几何意义.md",
+      "start_line": 3855,
+      "end_line": 3971,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-03972",
+      "title": "习题7.3",
+      "parent_key": "node-toc-015",
+      "category": "exercise",
+      "filename": "习题7.3.md",
+      "start_line": 3972,
+      "end_line": 4069,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-016",
+      "title": "探究与发现 1 的 n 次方根",
+      "parent_key": "node-toc-011",
+      "category": "method",
+      "filename": "探究与发现 1 的 n 次方根.md",
+      "start_line": 4070,
+      "end_line": 4136,
+      "toc_key": "toc-016"
+    },
+    {
+      "key": "node-toc-017",
+      "title": "第七章 复数 小结",
+      "parent_key": "node-toc-011",
+      "category": "knowledge",
+      "filename": "第七章 复数 小结.md",
+      "start_line": 4137,
+      "end_line": 4183,
+      "toc_key": "toc-017"
+    },
+    {
+      "key": "node-toc-018",
+      "title": "第七章 复数 复习参考题7",
+      "parent_key": "node-toc-011",
+      "category": "exercise",
+      "filename": "第七章 复数 复习参考题7.md",
+      "start_line": 4184,
+      "end_line": 4235,
+      "toc_key": "toc-018"
+    },
+    {
+      "key": "node-toc-019",
+      "title": "第八章 立体几何初步",
+      "parent_key": "book-root",
+      "category": "knowledge",
+      "filename": "第八章 立体几何初步.md",
+      "start_line": 4236,
+      "end_line": 7219,
+      "toc_key": "toc-019"
+    },
+    {
+      "key": "node-toc-020",
+      "title": "8.1 基本立体图形",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.1 基本立体图形.md",
+      "start_line": 4246,
+      "end_line": 4626,
+      "toc_key": "toc-020"
+    },
+    {
+      "key": "reviewed-heading-04279",
+      "title": "1. 棱柱",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "1. 棱柱.md",
+      "start_line": 4279,
+      "end_line": 4317,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04318",
+      "title": "2. 棱锥",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "2. 棱锥.md",
+      "start_line": 4318,
+      "end_line": 4330,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04331",
+      "title": "3. 棱台",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "3. 棱台.md",
+      "start_line": 4331,
+      "end_line": 4383,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04384",
+      "title": "4. 圆柱",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "4. 圆柱.md",
+      "start_line": 4384,
+      "end_line": 4394,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04395",
+      "title": "5. 圆锥",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "5. 圆锥.md",
+      "start_line": 4395,
+      "end_line": 4405,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04406",
+      "title": "6. 圆台",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "6. 圆台.md",
+      "start_line": 4406,
+      "end_line": 4418,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04419",
+      "title": "7. 球",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "7. 球.md",
+      "start_line": 4419,
+      "end_line": 4433,
+      "toc_key": null
+    },
+    {
+      "key": "reviewed-heading-04434",
+      "title": "8. 简单组合体",
+      "parent_key": "node-toc-020",
+      "category": "knowledge",
+      "filename": "8. 简单组合体.md",
+      "start_line": 4434,
+      "end_line": 4504,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-04505",
+      "title": "习题8.1",
+      "parent_key": "node-toc-020",
+      "category": "exercise",
+      "filename": "习题8.1.md",
+      "start_line": 4505,
+      "end_line": 4626,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-021",
+      "title": "8.2 立体图形的直观图",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.2 立体图形的直观图.md",
+      "start_line": 4627,
+      "end_line": 4820,
+      "toc_key": "toc-021"
+    },
+    {
+      "key": "semantic-04766",
+      "title": "习题8.2",
+      "parent_key": "node-toc-021",
+      "category": "exercise",
+      "filename": "习题8.2.md",
+      "start_line": 4766,
+      "end_line": 4820,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-022",
+      "title": "阅读与思考 画法几何与蒙日",
+      "parent_key": "node-toc-019",
+      "category": "reading",
+      "filename": "阅读与思考 画法几何与蒙日.md",
+      "start_line": 4821,
+      "end_line": 4833,
+      "toc_key": "toc-022"
+    },
+    {
+      "key": "node-toc-023",
+      "title": "8.3 简单几何体的表面积与体积",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.3 简单几何体的表面积与体积.md",
+      "start_line": 4834,
+      "end_line": 5153,
+      "toc_key": "toc-023"
+    },
+    {
+      "key": "semantic-04838",
+      "title": "8.3.1 棱柱、棱锥、棱台的表面积和体积",
+      "parent_key": "node-toc-023",
+      "category": "knowledge",
+      "filename": "8.3.1 棱柱、棱锥、棱台的表面积和体积.md",
+      "start_line": 4838,
+      "end_line": 4963,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-04964",
+      "title": "8.3.2 圆柱、圆锥、圆台、球的表面积和体积",
+      "parent_key": "node-toc-023",
+      "category": "knowledge",
+      "filename": "8.3.2 圆柱、圆锥、圆台、球的表面积和体积.md",
+      "start_line": 4964,
+      "end_line": 5098,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-05099",
+      "title": "习题8.3",
+      "parent_key": "node-toc-023",
+      "category": "exercise",
+      "filename": "习题8.3.md",
+      "start_line": 5099,
+      "end_line": 5153,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-024",
+      "title": "探究与发现 祖暅原理与柱体、锥体的体积",
+      "parent_key": "node-toc-019",
+      "category": "method",
+      "filename": "探究与发现 祖暅原理与柱体、锥体的体积.md",
+      "start_line": 5154,
+      "end_line": 5210,
+      "toc_key": "toc-024"
+    },
+    {
+      "key": "node-toc-025",
+      "title": "8.4 空间点、直线、平面之间的位置关系",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.4 空间点、直线、平面之间的位置关系.md",
+      "start_line": 5211,
+      "end_line": 5587,
+      "toc_key": "toc-025"
+    },
+    {
+      "key": "semantic-05215",
+      "title": "8.4.1 平面",
+      "parent_key": "node-toc-025",
+      "category": "knowledge",
+      "filename": "8.4.1 平面.md",
+      "start_line": 5215,
+      "end_line": 5373,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-05374",
+      "title": "8.4.2 空间点、直线、平面之间的位置关系",
+      "parent_key": "node-toc-025",
+      "category": "knowledge",
+      "filename": "8.4.2 空间点、直线、平面之间的位置关系.md",
+      "start_line": 5374,
+      "end_line": 5516,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-05517",
+      "title": "习题8.4",
+      "parent_key": "node-toc-025",
+      "category": "exercise",
+      "filename": "习题8.4.md",
+      "start_line": 5517,
+      "end_line": 5587,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-026",
+      "title": "8.5 空间直线、平面的平行",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.5 空间直线、平面的平行.md",
+      "start_line": 5588,
+      "end_line": 6144,
+      "toc_key": "toc-026"
+    },
+    {
+      "key": "semantic-05592",
+      "title": "8.5.1 直线与直线平行",
+      "parent_key": "node-toc-026",
+      "category": "knowledge",
+      "filename": "8.5.1 直线与直线平行.md",
+      "start_line": 5592,
+      "end_line": 5718,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-05719",
+      "title": "8.5.2 直线与平面平行",
+      "parent_key": "node-toc-026",
+      "category": "knowledge",
+      "filename": "8.5.2 直线与平面平行.md",
+      "start_line": 5719,
+      "end_line": 5874,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-05875",
+      "title": "8.5.3 平面与平面平行",
+      "parent_key": "node-toc-026",
+      "category": "knowledge",
+      "filename": "8.5.3 平面与平面平行.md",
+      "start_line": 5875,
+      "end_line": 6039,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-06040",
+      "title": "习题8.5",
+      "parent_key": "node-toc-026",
+      "category": "exercise",
+      "filename": "习题8.5.md",
+      "start_line": 6040,
+      "end_line": 6144,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-027",
+      "title": "8.6 空间直线、平面的垂直",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "8.6 空间直线、平面的垂直.md",
+      "start_line": 6145,
+      "end_line": 7008,
+      "toc_key": "toc-027"
+    },
+    {
+      "key": "semantic-06149",
+      "title": "8.6.1 直线与直线垂直",
+      "parent_key": "node-toc-027",
+      "category": "knowledge",
+      "filename": "8.6.1 直线与直线垂直.md",
+      "start_line": 6149,
+      "end_line": 6284,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-06285",
+      "title": "8.6.2 直线与平面垂直",
+      "parent_key": "node-toc-027",
+      "category": "knowledge",
+      "filename": "8.6.2 直线与平面垂直.md",
+      "start_line": 6285,
+      "end_line": 6607,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-06608",
+      "title": "8.6.3 平面与平面垂直",
+      "parent_key": "node-toc-027",
+      "category": "knowledge",
+      "filename": "8.6.3 平面与平面垂直.md",
+      "start_line": 6608,
+      "end_line": 6880,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-06881",
+      "title": "习题8.6",
+      "parent_key": "node-toc-027",
+      "category": "exercise",
+      "filename": "习题8.6.md",
+      "start_line": 6881,
+      "end_line": 7008,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-028",
+      "title": "阅读与思考 欧几里得《原本》与公理化方法",
+      "parent_key": "node-toc-019",
+      "category": "reading",
+      "filename": "阅读与思考 欧几里得《原本》与公理化方法.md",
+      "start_line": 7009,
+      "end_line": 7038,
+      "toc_key": "toc-028"
+    },
+    {
+      "key": "node-toc-029",
+      "title": "文献阅读与数学写作* 几何学的发展",
+      "parent_key": "node-toc-019",
+      "category": "reading",
+      "filename": "文献阅读与数学写作 几何学的发展.md",
+      "start_line": 7039,
+      "end_line": 7048,
+      "toc_key": "toc-029"
+    },
+    {
+      "key": "node-toc-030",
+      "title": "第八章 立体几何初步 小结",
+      "parent_key": "node-toc-019",
+      "category": "knowledge",
+      "filename": "第八章 立体几何初步 小结.md",
+      "start_line": 7049,
+      "end_line": 7116,
+      "toc_key": "toc-030"
+    },
+    {
+      "key": "node-toc-031",
+      "title": "第八章 立体几何初步 复习参考题8",
+      "parent_key": "node-toc-019",
+      "category": "exercise",
+      "filename": "第八章 立体几何初步 复习参考题8.md",
+      "start_line": 7117,
+      "end_line": 7219,
+      "toc_key": "toc-031"
+    },
+    {
+      "key": "node-toc-032",
+      "title": "第九章 统计",
+      "parent_key": "book-root",
+      "category": "knowledge",
+      "filename": "第九章 统计.md",
+      "start_line": 7220,
+      "end_line": 8820,
+      "toc_key": "toc-032"
+    },
+    {
+      "key": "node-toc-033",
+      "title": "9.1 随机抽样",
+      "parent_key": "node-toc-032",
+      "category": "knowledge",
+      "filename": "9.1 随机抽样.md",
+      "start_line": 7230,
+      "end_line": 7634,
+      "toc_key": "toc-033"
+    },
+    {
+      "key": "semantic-07244",
+      "title": "9.1.1 简单随机抽样",
+      "parent_key": "node-toc-033",
+      "category": "knowledge",
+      "filename": "9.1.1 简单随机抽样.md",
+      "start_line": 7244,
+      "end_line": 7483,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-07484",
+      "title": "9.1.2 分层随机抽样",
+      "parent_key": "node-toc-033",
+      "category": "knowledge",
+      "filename": "9.1.2 分层随机抽样.md",
+      "start_line": 7484,
+      "end_line": 7634,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-034",
+      "title": "阅读与思考 如何得到敏感性问题的诚实反应",
+      "parent_key": "node-toc-032",
+      "category": "reading",
+      "filename": "阅读与思考 如何得到敏感性问题的诚实反应.md",
+      "start_line": 7635,
+      "end_line": 7784,
+      "toc_key": "toc-034"
+    },
+    {
+      "key": "semantic-07657",
+      "title": "9.1.3 获取数据的途径",
+      "parent_key": "node-toc-034",
+      "category": "knowledge",
+      "filename": "9.1.3 获取数据的途径.md",
+      "start_line": 7657,
+      "end_line": 7702,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-07703",
+      "title": "习题9.1",
+      "parent_key": "node-toc-034",
+      "category": "exercise",
+      "filename": "习题9.1.md",
+      "start_line": 7703,
+      "end_line": 7784,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-035",
+      "title": "信息技术应用 统计软件的应用",
+      "parent_key": "node-toc-032",
+      "category": "tool",
+      "filename": "信息技术应用 统计软件的应用.md",
+      "start_line": 7785,
+      "end_line": 7857,
+      "toc_key": "toc-035"
+    },
+    {
+      "key": "node-toc-036",
+      "title": "9.2 用样本估计总体",
+      "parent_key": "node-toc-032",
+      "category": "knowledge",
+      "filename": "9.2 用样本估计总体.md",
+      "start_line": 7858,
+      "end_line": 8322,
+      "toc_key": "toc-036"
+    },
+    {
+      "key": "semantic-07864",
+      "title": "9.2.1 总体取值规律的估计",
+      "parent_key": "node-toc-036",
+      "category": "knowledge",
+      "filename": "9.2.1 总体取值规律的估计.md",
+      "start_line": 7864,
+      "end_line": 8093,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-08094",
+      "title": "9.2.2 总体百分位数的估计",
+      "parent_key": "node-toc-036",
+      "category": "knowledge",
+      "filename": "9.2.2 总体百分位数的估计.md",
+      "start_line": 8094,
+      "end_line": 8196,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-08197",
+      "title": "9.2.3 总体集中趋势的估计",
+      "parent_key": "node-toc-036",
+      "category": "knowledge",
+      "filename": "9.2.3 总体集中趋势的估计.md",
+      "start_line": 8197,
+      "end_line": 8322,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-037",
+      "title": "阅读与思考 统计学在军事中的应用——二战时德国坦克总量的估计问题",
+      "parent_key": "node-toc-032",
+      "category": "reading",
+      "filename": "阅读与思考 统计学在军事中的应用——二战时德国坦克总量的估计问题.md",
+      "start_line": 8323,
+      "end_line": 8668,
+      "toc_key": "toc-037"
+    },
+    {
+      "key": "semantic-08356",
+      "title": "9.2.4 总体离散程度的估计",
+      "parent_key": "node-toc-037",
+      "category": "knowledge",
+      "filename": "9.2.4 总体离散程度的估计.md",
+      "start_line": 8356,
+      "end_line": 8570,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-08571",
+      "title": "习题9.2",
+      "parent_key": "node-toc-037",
+      "category": "exercise",
+      "filename": "习题9.2.md",
+      "start_line": 8571,
+      "end_line": 8668,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-038",
+      "title": "阅读与思考 大数据",
+      "parent_key": "node-toc-032",
+      "category": "reading",
+      "filename": "阅读与思考 大数据.md",
+      "start_line": 8669,
+      "end_line": 8678,
+      "toc_key": "toc-038"
+    },
+    {
+      "key": "node-toc-039",
+      "title": "9.3 统计案例 公司员工的肥胖情况调查分析",
+      "parent_key": "node-toc-032",
+      "category": "knowledge",
+      "filename": "9.3 统计案例 公司员工的肥胖情况调查分析.md",
+      "start_line": 8679,
+      "end_line": 8722,
+      "toc_key": "toc-039"
+    },
+    {
+      "key": "node-toc-040",
+      "title": "第九章 统计 小结",
+      "parent_key": "node-toc-032",
+      "category": "knowledge",
+      "filename": "第九章 统计 小结.md",
+      "start_line": 8723,
+      "end_line": 8756,
+      "toc_key": "toc-040"
+    },
+    {
+      "key": "node-toc-041",
+      "title": "第九章 统计 复习参考题9",
+      "parent_key": "node-toc-032",
+      "category": "exercise",
+      "filename": "第九章 统计 复习参考题9.md",
+      "start_line": 8757,
+      "end_line": 8820,
+      "toc_key": "toc-041"
+    },
+    {
+      "key": "node-toc-042",
+      "title": "第十章 概率",
+      "parent_key": "book-root",
+      "category": "knowledge",
+      "filename": "第十章 概率.md",
+      "start_line": 8821,
+      "end_line": 10392,
+      "toc_key": "toc-042"
+    },
+    {
+      "key": "node-toc-043",
+      "title": "10.1 随机事件与概率",
+      "parent_key": "node-toc-042",
+      "category": "knowledge",
+      "filename": "10.1 随机事件与概率.md",
+      "start_line": 8829,
+      "end_line": 9706,
+      "toc_key": "toc-043"
+    },
+    {
+      "key": "semantic-08833",
+      "title": "10.1.1 有限样本空间与随机事件",
+      "parent_key": "node-toc-043",
+      "category": "knowledge",
+      "filename": "10.1.1 有限样本空间与随机事件.md",
+      "start_line": 8833,
+      "end_line": 8964,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-08965",
+      "title": "10.1.2 事件的关系和运算",
+      "parent_key": "node-toc-043",
+      "category": "knowledge",
+      "filename": "10.1.2 事件的关系和运算.md",
+      "start_line": 8965,
+      "end_line": 9111,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-09112",
+      "title": "10.1.3 古典概型",
+      "parent_key": "node-toc-043",
+      "category": "knowledge",
+      "filename": "10.1.3 古典概型.md",
+      "start_line": 9112,
+      "end_line": 9384,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-09385",
+      "title": "10.1.4 概率的基本性质",
+      "parent_key": "node-toc-043",
+      "category": "knowledge",
+      "filename": "10.1.4 概率的基本性质.md",
+      "start_line": 9385,
+      "end_line": 9581,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-09582",
+      "title": "习题 10.1",
+      "parent_key": "node-toc-043",
+      "category": "exercise",
+      "filename": "习题 10.1.md",
+      "start_line": 9582,
+      "end_line": 9706,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-044",
+      "title": "10.2 事件的相互独立性",
+      "parent_key": "node-toc-042",
+      "category": "knowledge",
+      "filename": "10.2 事件的相互独立性.md",
+      "start_line": 9707,
+      "end_line": 9953,
+      "toc_key": "toc-044"
+    },
+    {
+      "key": "semantic-09907",
+      "title": "习题 10.2",
+      "parent_key": "node-toc-044",
+      "category": "exercise",
+      "filename": "习题 10.2.md",
+      "start_line": 9907,
+      "end_line": 9953,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-045",
+      "title": "10.3 频率与概率",
+      "parent_key": "node-toc-042",
+      "category": "knowledge",
+      "filename": "10.3 频率与概率.md",
+      "start_line": 9954,
+      "end_line": 10220,
+      "toc_key": "toc-045"
+    },
+    {
+      "key": "semantic-09958",
+      "title": "10.3.1 频率的稳定性",
+      "parent_key": "node-toc-045",
+      "category": "knowledge",
+      "filename": "10.3.1 频率的稳定性.md",
+      "start_line": 9958,
+      "end_line": 10082,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-10083",
+      "title": "10.3.2 随机模拟",
+      "parent_key": "node-toc-045",
+      "category": "knowledge",
+      "filename": "10.3.2 随机模拟.md",
+      "start_line": 10083,
+      "end_line": 10171,
+      "toc_key": null
+    },
+    {
+      "key": "semantic-10172",
+      "title": "习题 10.3",
+      "parent_key": "node-toc-045",
+      "category": "exercise",
+      "filename": "习题 10.3.md",
+      "start_line": 10172,
+      "end_line": 10220,
+      "toc_key": null
+    },
+    {
+      "key": "node-toc-046",
+      "title": "阅读与思考 孟德尔遗传规律",
+      "parent_key": "node-toc-042",
+      "category": "reading",
+      "filename": "阅读与思考 孟德尔遗传规律.md",
+      "start_line": 10221,
+      "end_line": 10250,
+      "toc_key": "toc-046"
+    },
+    {
+      "key": "node-toc-047",
+      "title": "第十章 概率 小结",
+      "parent_key": "node-toc-042",
+      "category": "knowledge",
+      "filename": "第十章 概率 小结.md",
+      "start_line": 10251,
+      "end_line": 10290,
+      "toc_key": "toc-047"
+    },
+    {
+      "key": "node-toc-048",
+      "title": "第十章 概率 复习参考题10",
+      "parent_key": "node-toc-042",
+      "category": "exercise",
+      "filename": "第十章 概率 复习参考题10.md",
+      "start_line": 10291,
+      "end_line": 10392,
+      "toc_key": "toc-048"
+    },
+    {
+      "key": "node-toc-049",
+      "title": "部分中英文词汇索引",
+      "parent_key": "book-root",
+      "category": "root",
+      "filename": "部分中英文词汇索引.md",
+      "start_line": 10393,
+      "end_line": 10431,
+      "toc_key": "toc-049"
+    }
+  ]
+}

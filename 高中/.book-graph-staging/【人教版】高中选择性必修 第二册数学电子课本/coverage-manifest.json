@@ -1,0 +1,458 @@
+{
+  "schema_version": 1,
+  "profile": "C:\\Mathematics-Knowledge\\Secondary-School-Mathematics-Knowledge-Map\\高中\\.book-graph-staging\\【人教版】高中选择性必修 第二册数学电子课本\\book-profile.json",
+  "source_sha256": "338ddaaea837cc3ad14aca973f1df80685d0e889899c1e9244da24b3c6263384",
+  "units": [
+    {
+      "source_key": "book-root",
+      "source_order": 1,
+      "role": "root",
+      "target": "高中数学选择性必修第二册.md",
+      "status": "assigned",
+      "line_range": [
+        1,
+        4686
+      ]
+    },
+    {
+      "source_key": "node-toc-001",
+      "source_order": 2,
+      "role": "knowledge",
+      "target": "知识点/第四章 数列.md",
+      "status": "assigned",
+      "line_range": [
+        104,
+        2757
+      ]
+    },
+    {
+      "source_key": "node-toc-002",
+      "source_order": 3,
+      "role": "knowledge",
+      "target": "知识点/4.1 数列的概念.md",
+      "status": "assigned",
+      "line_range": [
+        112,
+        459
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00147",
+      "source_order": 4,
+      "role": "knowledge",
+      "target": "知识点/数列、函数表示与通项公式.md",
+      "status": "assigned",
+      "line_range": [
+        147,
+        238
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00306",
+      "source_order": 5,
+      "role": "knowledge",
+      "target": "知识点/数列的递推公式.md",
+      "status": "assigned",
+      "line_range": [
+        306,
+        341
+      ]
+    },
+    {
+      "source_key": "reviewed-range-00342",
+      "source_order": 6,
+      "role": "knowledge",
+      "target": "知识点/数列的前 n 项和.md",
+      "status": "assigned",
+      "line_range": [
+        342,
+        373
+      ]
+    },
+    {
+      "source_key": "semantic-00400",
+      "source_order": 7,
+      "role": "exercise",
+      "target": "习题/习题4.1.md",
+      "status": "assigned",
+      "line_range": [
+        400,
+        459
+      ]
+    },
+    {
+      "source_key": "node-toc-003",
+      "source_order": 8,
+      "role": "reading",
+      "target": "趣味阅读/阅读与思考 斐波那契数列.md",
+      "status": "assigned",
+      "line_range": [
+        460,
+        499
+      ]
+    },
+    {
+      "source_key": "node-toc-004",
+      "source_order": 9,
+      "role": "knowledge",
+      "target": "知识点/4.2 等差数列.md",
+      "status": "assigned",
+      "line_range": [
+        500,
+        1262
+      ]
+    },
+    {
+      "source_key": "semantic-00504",
+      "source_order": 10,
+      "role": "knowledge",
+      "target": "知识点/4.2.1 等差数列的概念.md",
+      "status": "assigned",
+      "line_range": [
+        504,
+        857
+      ]
+    },
+    {
+      "source_key": "semantic-00858",
+      "source_order": 11,
+      "role": "knowledge",
+      "target": "知识点/4.2.2 等差数列的前 n 项和公式.md",
+      "status": "assigned",
+      "line_range": [
+        858,
+        1191
+      ]
+    },
+    {
+      "source_key": "semantic-01192",
+      "source_order": 12,
+      "role": "exercise",
+      "target": "习题/习题4.2.md",
+      "status": "assigned",
+      "line_range": [
+        1192,
+        1262
+      ]
+    },
+    {
+      "source_key": "node-toc-005",
+      "source_order": 13,
+      "role": "knowledge",
+      "target": "知识点/4.3 等比数列.md",
+      "status": "assigned",
+      "line_range": [
+        1263,
+        2129
+      ]
+    },
+    {
+      "source_key": "semantic-01267",
+      "source_order": 14,
+      "role": "knowledge",
+      "target": "知识点/4.3.1 等比数列的概念.md",
+      "status": "assigned",
+      "line_range": [
+        1267,
+        1695
+      ]
+    },
+    {
+      "source_key": "semantic-01696",
+      "source_order": 15,
+      "role": "knowledge",
+      "target": "知识点/4.3.2 等比数列的前 n 项和公式.md",
+      "status": "assigned",
+      "line_range": [
+        1696,
+        2051
+      ]
+    },
+    {
+      "source_key": "semantic-02052",
+      "source_order": 16,
+      "role": "exercise",
+      "target": "习题/习题4.3.md",
+      "status": "assigned",
+      "line_range": [
+        2052,
+        2129
+      ]
+    },
+    {
+      "source_key": "node-toc-006",
+      "source_order": 17,
+      "role": "reading",
+      "target": "趣味阅读/阅读与思考 中国古代数学家求数列和的方法.md",
+      "status": "assigned",
+      "line_range": [
+        2130,
+        2163
+      ]
+    },
+    {
+      "source_key": "node-toc-007",
+      "source_order": 18,
+      "role": "knowledge",
+      "target": "知识点/4.4 数学归纳法.md",
+      "status": "assigned",
+      "line_range": [
+        2164,
+        2636
+      ]
+    },
+    {
+      "source_key": "semantic-02576",
+      "source_order": 19,
+      "role": "exercise",
+      "target": "习题/习题4.4.md",
+      "status": "assigned",
+      "line_range": [
+        2576,
+        2636
+      ]
+    },
+    {
+      "source_key": "node-toc-008",
+      "source_order": 20,
+      "role": "knowledge",
+      "target": "知识点/第四章 数列 小结.md",
+      "status": "assigned",
+      "line_range": [
+        2637,
+        2666
+      ]
+    },
+    {
+      "source_key": "node-toc-009",
+      "source_order": 21,
+      "role": "exercise",
+      "target": "习题/第四章 数列 复习参考题4.md",
+      "status": "assigned",
+      "line_range": [
+        2667,
+        2757
+      ]
+    },
+    {
+      "source_key": "node-toc-010",
+      "source_order": 22,
+      "role": "knowledge",
+      "target": "知识点/第五章 一元函数的导数及其应用.md",
+      "status": "assigned",
+      "line_range": [
+        2758,
+        4651
+      ]
+    },
+    {
+      "source_key": "node-toc-011",
+      "source_order": 23,
+      "role": "knowledge",
+      "target": "知识点/5.1 导数的概念及其意义.md",
+      "status": "assigned",
+      "line_range": [
+        2770,
+        3250
+      ]
+    },
+    {
+      "source_key": "semantic-02774",
+      "source_order": 24,
+      "role": "knowledge",
+      "target": "知识点/5.1.1 变化率问题.md",
+      "status": "assigned",
+      "line_range": [
+        2774,
+        2935
+      ]
+    },
+    {
+      "source_key": "semantic-02936",
+      "source_order": 25,
+      "role": "knowledge",
+      "target": "知识点/5.1.2 导数的概念及其几何意义.md",
+      "status": "assigned",
+      "line_range": [
+        2936,
+        3177
+      ]
+    },
+    {
+      "source_key": "semantic-03178",
+      "source_order": 26,
+      "role": "exercise",
+      "target": "习题/习题5.1.md",
+      "status": "assigned",
+      "line_range": [
+        3178,
+        3250
+      ]
+    },
+    {
+      "source_key": "node-toc-012",
+      "source_order": 27,
+      "role": "knowledge",
+      "target": "知识点/5.2 导数的运算.md",
+      "status": "assigned",
+      "line_range": [
+        3251,
+        3732
+      ]
+    },
+    {
+      "source_key": "semantic-03255",
+      "source_order": 28,
+      "role": "knowledge",
+      "target": "知识点/5.2.1 基本初等函数的导数.md",
+      "status": "assigned",
+      "line_range": [
+        3255,
+        3443
+      ]
+    },
+    {
+      "source_key": "semantic-03444",
+      "source_order": 29,
+      "role": "knowledge",
+      "target": "知识点/5.2.2 导数的四则运算法则.md",
+      "status": "assigned",
+      "line_range": [
+        3444,
+        3561
+      ]
+    },
+    {
+      "source_key": "semantic-03562",
+      "source_order": 30,
+      "role": "knowledge",
+      "target": "知识点/5.2.3 简单复合函数的导数.md",
+      "status": "assigned",
+      "line_range": [
+        3562,
+        3655
+      ]
+    },
+    {
+      "source_key": "semantic-03656",
+      "source_order": 31,
+      "role": "exercise",
+      "target": "习题/习题5.2.md",
+      "status": "assigned",
+      "line_range": [
+        3656,
+        3732
+      ]
+    },
+    {
+      "source_key": "node-toc-013",
+      "source_order": 32,
+      "role": "method",
+      "target": "思维或方法/探究与发现 牛顿法——用导数方法求方程的近似解.md",
+      "status": "assigned",
+      "line_range": [
+        3733,
+        3781
+      ]
+    },
+    {
+      "source_key": "node-toc-014",
+      "source_order": 33,
+      "role": "knowledge",
+      "target": "知识点/5.3 导数在研究函数中的应用.md",
+      "status": "assigned",
+      "line_range": [
+        3782,
+        4441
+      ]
+    },
+    {
+      "source_key": "semantic-03786",
+      "source_order": 34,
+      "role": "knowledge",
+      "target": "知识点/5.3.1 函数的单调性.md",
+      "status": "assigned",
+      "line_range": [
+        3786,
+        4023
+      ]
+    },
+    {
+      "source_key": "semantic-04024",
+      "source_order": 35,
+      "role": "knowledge",
+      "target": "知识点/5.3.2 函数的极值与最大（小）值.md",
+      "status": "assigned",
+      "line_range": [
+        4024,
+        4357
+      ]
+    },
+    {
+      "source_key": "semantic-04358",
+      "source_order": 36,
+      "role": "exercise",
+      "target": "习题/习题5.3.md",
+      "status": "assigned",
+      "line_range": [
+        4358,
+        4441
+      ]
+    },
+    {
+      "source_key": "node-toc-015",
+      "source_order": 37,
+      "role": "tool",
+      "target": "工具/信息技术应用 图形技术与函数性质.md",
+      "status": "assigned",
+      "line_range": [
+        4442,
+        4469
+      ]
+    },
+    {
+      "source_key": "node-toc-016",
+      "source_order": 38,
+      "role": "reading",
+      "target": "趣味阅读/文献阅读与数学写作 微积分的创立与发展.md",
+      "status": "assigned",
+      "line_range": [
+        4470,
+        4507
+      ]
+    },
+    {
+      "source_key": "node-toc-017",
+      "source_order": 39,
+      "role": "knowledge",
+      "target": "知识点/第五章 一元函数的导数及其应用 小结.md",
+      "status": "assigned",
+      "line_range": [
+        4508,
+        4535
+      ]
+    },
+    {
+      "source_key": "node-toc-018",
+      "source_order": 40,
+      "role": "exercise",
+      "target": "习题/第五章 一元函数的导数及其应用 复习参考题5.md",
+      "status": "assigned",
+      "line_range": [
+        4536,
+        4651
+      ]
+    },
+    {
+      "source_key": "node-toc-019",
+      "source_order": 41,
+      "role": "root",
+      "target": "部分中英文词汇索引.md",
+      "status": "assigned",
+      "line_range": [
+        4652,
+        4686
+      ]
+    }
+  ]
+}

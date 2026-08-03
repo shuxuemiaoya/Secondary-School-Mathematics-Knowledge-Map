@@ -8,38 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f376645c1cafcbc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第五章/第二节 解三角形大题篇.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第二节 解三角形大题篇"
-            }
-          },
-          {
-            "id": "2b166a328f3bf989",
+            "id": "039b0424194b2bcd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
+                "file": "课本/【人教版】高中选择性必修 第一册数学电子课本/【人教版】高中选择性必修 第一册数学电子课本.canvas",
                 "viewState": {
-                  "x": -415.79812325085373,
-                  "y": 436.7873520725832,
-                  "zoom": 3.3306690738754696e-16
+                  "x": -181.95276340949988,
+                  "y": -1613.0264454856351,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "高中数学逻辑结构图"
+              "title": "【人教版】高中选择性必修 第一册数学电子课本"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -96,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 442.3000183105469
   },
   "right": {
     "id": "410ead777252e27f",
@@ -201,18 +188,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2b166a328f3bf989",
+  "active": "0aad88ae991a157e",
   "lastOpenFiles": [
-    "高一下期末复习.md",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/【人教版】高中选择性必修 第一册数学电子课本.md",
+    "课堂同步/教辅/必刷题/2026版 高中必刷题数学必修第一册.md",
+    "课堂同步/教辅/必刷题/2026版 高中必刷题数学必修第一册答案解析.md",
+    "课堂同步/教辅/必刷题/2026版 高中必刷题数学 选择性必修第一册 RJA .md",
+    "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点/用弧度制表示角的集合.md",
+    "高中数学知识点/圆的一般方程.md",
+    "高中数学知识点/圆的标准方程.md",
+    "高中数学知识点/如何唯一确定一个圆.md",
+    "高中数学知识点/求圆的方程.md",
+    "Mathematics Knowledge Graph/高中数学逻辑结构图.canvas",
+    "Mathematics Knowledge Graph/高中数学逻辑结构习题图.canvas",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/扇形的弧长和面积公式.md",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/题/终边相同的角.md",
+    "初中/Mathematics Knowledge Graph/初中数学逻辑结构/知识点",
+    "初中/Mathematics Knowledge Graph/初中数学逻辑结构",
+    "初中/Mathematics Knowledge Graph",
+    "初中",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/【人教版】高中选择性必修 第二册数学电子课本.canvas",
+    "课本/【人教版】高中选择性必修 第一册数学电子课本/【人教版】高中选择性必修 第一册数学电子课本.canvas",
     "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第五章/第二节 解三角形大题篇.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第三节 图像性质.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第三节 跟踪训练.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第二节 恒等变换.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第一节 基本公式.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第四章/第一节 跟踪训练.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第七章/第一节 立体几何小题篇.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第七章/第二节 立体几何大题篇.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第六章/第二节 数量积.md",
-    "总复习/一轮/2026年高考《MST高考》一轮复习系列（数学）/第六章/第一节 线性运算.md"
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/images/f303739bc6bd78dc5118c16eefb94b7d1f71b8acaae3b8242329ff46fce2cffe 1.jpg",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/images/e2386081778b59091eecca66b0f1e9787e71a38abb068412a4e0f5ed12f2fc4f 1.jpg",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/images",
+    "Mathematics Knowledge Graph/高中数学逻辑结构/知识点/用线段比值度量圆心角的大小.md",
+    "Mathematics Knowledge Graph/images/Pasted image 20260721140955.png",
+    "Mathematics Knowledge Graph/images/Pasted image 20260721140929.png",
+    "Mathematics Knowledge Graph/images/Pasted image 20260716221013.jpg",
+    "Mathematics Knowledge Graph/images",
+    "Mathematics Knowledge Graph/未命名.md",
+    "课本/【人教版】高中必修 第二册数学电子课本.pdf",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/知识点/6.2.1 排列.md",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/知识点/6.2 排列与组合.md",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/知识点/第六章 计数原理.md",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/知识点/6.1 分类加法计数原理与分步乘法计数原理.md",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/高中数学选择性必修第三册.md",
+    "课本/【人教版】高中选择性必修 第三册数学电子课本/【人教版】高中选择性必修 第三册数学电子课本.canvas",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/知识点/4.1 数列的概念.md",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/知识点/第四章 数列.md",
+    "课本/【人教版】高中选择性必修 第二册数学电子课本/高中数学选择性必修第二册.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/6.2 平面向量的运算.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/6.2.2 向量的减法运算.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/6.2.1 向量的加法运算.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/知识点/第六章 平面向量及其应用.md",
+    "课本/【人教版】高中必修 第二册数学电子课本/【人教版】高中必修 第二册数学电子课本.canvas",
+    "高中数学知识点"
   ]
 }
